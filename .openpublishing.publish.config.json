@@ -17,6 +17,22 @@
       "template_folder": "_themes"
     },
     {
+      "docset_name": "OfficeDocs-Support-MicrosoftTeams",
+      "build_source_folder": "Teams",
+      "build_output_subfolder": "OfficeDocs-Support-MicrosoftTeams",
+      "locale": "en-us",
+      "monikers": [],
+      "moniker_ranges": [],
+      "open_to_public_contributors": true,
+      "type_mapping": {
+        "Conceptual": "Content",
+        "ManagedReference": "Content",
+        "RestApi": "Content"
+      },
+      "build_entry_point": "docs",
+      "template_folder": "_themes"
+    },
+    {
       "docset_name": "OfficeDocs-Support-SharePoint",
       "build_source_folder": "SharePoint",
       "build_output_subfolder": "OfficeDocs-Support-SharePoint",
