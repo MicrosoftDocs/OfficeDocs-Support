@@ -81,6 +81,22 @@
       "template_folder": "_themes"
     },
     {
+      "docset_name": "OfficeDocs-Support-Skype",
+      "build_source_folder": "SkypeforBusiness",
+      "build_output_subfolder": "OfficeDocs-Support-Skype",
+      "locale": "en-us",
+      "monikers": [],
+      "moniker_ranges": [],
+      "open_to_public_contributors": true,
+      "type_mapping": {
+        "Conceptual": "Content",
+        "ManagedReference": "Content",
+        "RestApi": "Content"
+      },
+      "build_entry_point": "docs",
+      "template_folder": "_themes"
+    },
+    {
       "docset_name": "OfficeDocs-Support-SkypeForBusiness",
       "build_source_folder": "SkypeForBusiness",
       "build_output_subfolder": "OfficeDocs-Support-SkypeForBusiness",
