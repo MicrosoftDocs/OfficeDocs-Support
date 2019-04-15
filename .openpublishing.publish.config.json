@@ -1,0 +1,152 @@
+{
+  "docsets_to_publish": [
+    {
+      "docset_name": "OfficeDocs-Support-Exchange",
+      "build_source_folder": "Exchange",
+      "build_output_subfolder": "OfficeDocs-Support-Exchange",
+      "locale": "en-us",
+      "monikers": [],
+      "moniker_ranges": [],
+      "open_to_public_contributors": true,
+      "type_mapping": {
+        "Conceptual": "Content",
+        "ManagedReference": "Content",
+        "RestApi": "Content"
+      },
+      "build_entry_point": "docs",
+      "template_folder": "_themes"
+    },
+    {
+      "docset_name": "OfficeDocs-Support-M365",
+      "build_source_folder": "Microsoft365",
+      "build_output_subfolder": "OfficeDocs-Support-M365",
+      "locale": "en-us",
+      "monikers": [],
+      "moniker_ranges": [],
+      "open_to_public_contributors": false,
+      "type_mapping": {
+        "Conceptual": "Content",
+        "ManagedReference": "Content",
+        "RestApi": "Content"
+      },
+      "build_entry_point": "docs",
+      "template_folder": "_themes"
+    },
+    {
+      "docset_name": "OfficeDocs-Support-MicrosoftTeams",
+      "build_source_folder": "Teams",
+      "build_output_subfolder": "OfficeDocs-Support-MicrosoftTeams",
+      "locale": "en-us",
+      "monikers": [],
+      "moniker_ranges": [],
+      "open_to_public_contributors": true,
+      "type_mapping": {
+        "Conceptual": "Content",
+        "ManagedReference": "Content",
+        "RestApi": "Content"
+      },
+      "build_entry_point": "docs",
+      "template_folder": "_themes"
+    },
+    {
+      "docset_name": "OfficeDocs-Support-Office",
+      "build_source_folder": "Office",
+      "build_output_subfolder": "OfficeDocs-Support-Office",
+      "locale": "en-us",
+      "monikers": [],
+      "moniker_ranges": [],
+      "open_to_public_contributors": false,
+      "type_mapping": {
+        "Conceptual": "Content",
+        "ManagedReference": "Content",
+        "RestApi": "Content"
+      },
+      "build_entry_point": "docs",
+      "template_folder": "_themes"
+    },
+    {
+      "docset_name": "OfficeDocs-Support-SharePoint",
+      "build_source_folder": "SharePoint",
+      "build_output_subfolder": "OfficeDocs-Support-SharePoint",
+      "locale": "en-us",
+      "monikers": [],
+      "moniker_ranges": [],
+      "open_to_public_contributors": true,
+      "type_mapping": {
+        "Conceptual": "Content",
+        "ManagedReference": "Content",
+        "RestApi": "Content"
+      },
+      "build_entry_point": "docs",
+      "template_folder": "_themes"
+    },
+    {
+      "docset_name": "OfficeDocs-Support-Skype",
+      "build_source_folder": "SkypeforBusiness",
+      "build_output_subfolder": "OfficeDocs-Support-Skype",
+      "locale": "en-us",
+      "monikers": [],
+      "moniker_ranges": [],
+      "open_to_public_contributors": true,
+      "type_mapping": {
+        "Conceptual": "Content",
+        "ManagedReference": "Content",
+        "RestApi": "Content"
+      },
+      "build_entry_point": "docs",
+      "template_folder": "_themes"
+    },
+    {
+      "docset_name": "OfficeDocs-Support-SkypeForBusiness",
+      "build_source_folder": "SkypeForBusiness",
+      "build_output_subfolder": "OfficeDocs-Support-SkypeForBusiness",
+      "locale": "en-us",
+      "monikers": [],
+      "moniker_ranges": [],
+      "open_to_public_contributors": false,
+      "type_mapping": {
+        "Conceptual": "Content",
+        "ManagedReference": "Content",
+        "RestApi": "Content"
+      },
+      "build_entry_point": "docs",
+      "template_folder": "_themes"
+    }
+  ],
+  "notification_subscribers": [],
+  "sync_notification_subscribers": [],
+  "branches_to_filter": [],
+  "git_repository_url_open_to_public_contributors": "https://github.com/MicrosoftDocs/OfficeDocs-SharePoint",
+  "git_repository_branch_open_to_public_contributors": "public",
+  "skip_source_output_uploading": false,
+  "need_preview_pull_request": true,
+  "contribution_branch_mappings": {},
+  "dependent_repositories": [
+    {
+      "path_to_root": "_themes",
+      "url": "https://github.com/Microsoft/templates.docs.msft",
+      "branch": "master",
+      "branch_mapping": {}
+    },
+    {
+      "path_to_root": "common",
+      "url": "https://github.com/MicrosoftDocs/OfficeDocs-pr",
+      "branch": "live",
+      "branch_mapping": {}
+    },
+    {
+      "path_to_root": "_themes.pdf",
+      "url": "https://github.com/Microsoft/templates.docs.msft.pdf",
+      "branch": "master",
+      "branch_mapping": {}
+    }
+  ],
+  "branch_target_mapping": {
+    "live": [
+      "Publish",
+      "Pdf"
+    ]
+  },
+  "need_generate_pdf_url_template": true,
+  "targets": {}
+}
