@@ -131,7 +131,7 @@
     {
       "path_to_root": "common",
       "url": "https://github.com/MicrosoftDocs/OfficeDocs-pr",
-      "branch": "samanro-prototyping-donotpush",
+      "branch": "live",
       "branch_mapping": {}
     },
     {
