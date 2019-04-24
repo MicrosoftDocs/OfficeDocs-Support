@@ -1,1 +1,2 @@
 /SharePoint/ @jlriesco
+/Microsoft365/ @jlriesco
