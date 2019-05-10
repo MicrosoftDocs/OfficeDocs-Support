@@ -55,7 +55,7 @@
       "locale": "en-us",
       "monikers": [],
       "moniker_ranges": [],
-      "open_to_public_contributors": false,
+      "open_to_public_contributors": true,
       "type_mapping": {
         "Conceptual": "Content",
         "ManagedReference": "Content",
@@ -119,7 +119,6 @@
       "branch_mapping": {
         "master": "samanro-working",
         "migration": "samanro-prototyping-donotpush"
-
       }
     },
     {
@@ -136,9 +135,9 @@
     ]
   },
   "need_generate_pdf_url_template": true,
-  "targets": {      
-    "Pdf": {  
-    "template_folder": "_themes.pdf"  
-    }  
+  "targets": {
+    "Pdf": {
+      "template_folder": "_themes.pdf"
+    }
   }
 }
