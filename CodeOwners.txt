@@ -1,6 +1,0 @@
-/SharePoint/ @jlriesco @Cloud-Writer @spowriter
-/Microsoft365/ @jlriesco @Cloud-Writer @spowriter
-/Exchange/ @jlriesco @Cloud-Writer @spowriter
-/Office/ @jlriesco @Cloud-Writer @spowriter
-/SkypeforBusiness/ @jlriesco @Cloud-Writer @spowriter
-/Teams/ @jlriesco @Cloud-Writer @spowriter
