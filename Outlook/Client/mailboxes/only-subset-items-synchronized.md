@@ -56,7 +56,7 @@ If you click the **More** link, additional items that meet your search criteria 
 
 ## Cause
 
-This behavior occurs because the Cached Exchange mode **Mail to keep offline** setting is configured to a value other than **All**. For example, the following screen shot shows a profile that's configured to use Cached Exchange Mode and the **Mail to keep offline** setting is set to a default value of **12 months**.
+This behavior occurs because the Cached Exchange mode **Mail to keep offline** setting is configured to a value rather than **All**. For example, the following screen shot shows a profile that's configured to use Cached Exchange Mode and the **Mail to keep offline** setting is set to a default value of **12 months**.
 
 ![Mail to keep offline](https://msegceporticoprodassets.blob.core.windows.net/asset-blobs/4052177_en_1)
 
