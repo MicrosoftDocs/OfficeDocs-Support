@@ -16,7 +16,7 @@ appliesto:
 - Office Professional 2013
 ---
 
-# You receive a "0x80041015" error message when you try to start an Office program
+# You receive a "0x80041015" error message when you try to start an Office program for test
 
 ## Symptoms
 
