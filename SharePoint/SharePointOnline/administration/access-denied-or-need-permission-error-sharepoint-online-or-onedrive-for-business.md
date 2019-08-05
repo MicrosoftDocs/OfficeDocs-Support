@@ -12,7 +12,7 @@ search.appverid:
 - SPO160
 - MET150
 ms.assetid: 
-description: "Outlines resolutions to error messages received when using SharePointOnline or OneDrive for Business."
+description: Outlines resolutions to error messages received when using SharePointOnline or OneDrive for Business.
 appliesto:
 - SharePoint Online
 
