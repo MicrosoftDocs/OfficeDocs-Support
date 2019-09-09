@@ -24,6 +24,11 @@
          "source_path": "Office/Client/excel/open-excel-for-mac-stop-responding.md",
          "redirect_url": "https://support.office.com/article/6c6425b1-6559-4bbf-8f80-4f038402ff02",
          "redirect_document_id": true
+      },
+      {
+         "source_path": "SharePoint/SharePointOnline/administration/troubleshooting-sharepoint-site-issues.md",
+         "redirect_url": "https://support.office.com/article/dc656f67-fec3-4948-9ec2-5e1b51886964",
+         "redirect_document_id": true
       }
     ] 
     }
