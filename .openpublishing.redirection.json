@@ -24,6 +24,21 @@
          "source_path": "Office/Client/excel/open-excel-for-mac-stop-responding.md",
          "redirect_url": "https://support.office.com/article/6c6425b1-6559-4bbf-8f80-4f038402ff02",
          "redirect_document_id": true
+      },
+      {
+         "source_path": "SharePoint/SharePointOnline/administration/troubleshooting-sharepoint-site-issues.md",
+         "redirect_url": "https://support.office.com/article/dc656f67-fec3-4948-9ec2-5e1b51886964",
+         "redirect_document_id": true
+      },
+      {
+         "source_path": "Microsoft365/admin/troubleshooting/fix-outlook-and-office-365-issues.md",
+         "redirect_url": "https://support.office.com/article/e90bb691-c2a7-4697-a94f-88836856c72f",
+         "redirect_document_id": true
+      },
+      {
+         "source_path": "Microsoft365/admin/troubleshooting/troubleshoot-office-installation-issues.md",
+         "redirect_url": "https://support.office.com/article/fbbf663b-1e76-46d2-a417-0aa78ed2fb9a",
+         "redirect_document_id": true
       }
     ] 
     }
