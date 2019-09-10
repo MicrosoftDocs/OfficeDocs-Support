@@ -39,6 +39,11 @@
          "source_path": "Microsoft365/admin/troubleshooting/troubleshoot-office-installation-issues.md",
          "redirect_url": "https://support.office.com/article/fbbf663b-1e76-46d2-a417-0aa78ed2fb9a",
          "redirect_document_id": true
+      },
+      {
+         "source_path": "Microsoft365/admin/troubleshooting/registry-override-default-behavior.md",
+         "redirect_url": "https://support.office.com/article/5fdb9208-ff33-45b6-9e08-1f5cdb3a6c73",
+         "redirect_document_id": true
       }
     ] 
     }
