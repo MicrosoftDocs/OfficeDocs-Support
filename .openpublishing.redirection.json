@@ -44,6 +44,11 @@
          "source_path": "Microsoft365/admin/troubleshooting/registry-override-default-behavior.md",
          "redirect_url": "https://support.office.com/article/5fdb9208-ff33-45b6-9e08-1f5cdb3a6c73",
          "redirect_document_id": true
+      },
+      {
+         "source_path": "SharePoint/OneDrive/administration/expect-after-name-change.md",
+         "redirect_url": "https://docs.microsoft.com/onedrive/upn-changes",
+         "redirect_document_id": true
       }
     ] 
     }
