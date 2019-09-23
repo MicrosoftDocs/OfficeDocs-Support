@@ -1,6 +1,6 @@
 ---
-title: Office 365 Student and service accounts can't sign in to Microsoft Teams
-description: TeamsDisabledForTenantForbidden when trying to sign in to Microsoft Teams by using an Office 365 Education Student or Office 365 F1 license.
+title: Office 365 user and service accounts can't sign in to Microsoft Teams
+description: TeamsDisabledForTenantForbidden (or AdminTeamsDisabledForTenantForbidden if an admin account) when trying to sign in to Microsoft Teams by using an Office 365 Education, Business, Enterprise or F1 license.
 author: simonxjx
 manager: dcscontentpm
 localization_priority: Normal
@@ -18,7 +18,7 @@ appliesto:
 
 ## Symptoms
 
-A Microsoft Teams user who is assigned an Office 365 Education Student or Office 365 F1 license can't sign in to Teams on any platform. Additionally, they receive the following error message from the site:
+A Microsoft Teams user who is assigned an Office 365 Education, Business, Enterprise or F1 licensee can't sign in to Microsoft Teams on any platform (ie. web, desktop, or mobile). Additionally, they receive the following error message from the site:
 
 **https://teams.microsoft.com/_#/licenseError?errorCode=TeamsDisabledForTenantForbidden**
 
@@ -31,4 +31,6 @@ This issue occurs if the license type is not enabled.
 To resolve this issue, follow these steps:  
  
 1. In the Microsoft 365 admin center, locate **Settings** -> **Services & add-ins** -> **Microsoft Teams**.     
-2. Select **Settings by user/license type**, and then configure the relevant license type to enable the user.    
+2. Select **Settings by user/license type**, and then configure the relevant license type to enable the user.  
+
+NOTE: It may take up to 24 hours after enabling the licence for the user to be able to access their Microsoft Teams tenant.
