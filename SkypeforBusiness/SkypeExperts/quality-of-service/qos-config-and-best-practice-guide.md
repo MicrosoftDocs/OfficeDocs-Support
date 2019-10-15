@@ -160,7 +160,7 @@ Microsoft outline complete steps  https://technet.microsoft.com/enus/library/jj2
 </li>
 <li>In the policy-based QoS page, give the policy a name such as "Lync2013-Audio". Then set <b>Specify DSCP Value</b>: at 46 and select <b>Next</b>.<br/>
 <img alt="Edit an existing QoS policy screen." src="media/103849-4.jpg"></li>
-<li>On next page, enter lync.exe in the fied <b>Only applications with this executable name</b> and select <b>OK</b>.<br/><br/>
+<li>On next page, enter lync.exe in the field <b>Only applications with this executable name</b> and select <b>OK</b>.<br/><br/>
 <b>NOTE</b><br/>
 This option ensures that the Lync.exe application will match packets from the specified port range with the specified DSCP code. <br/>
 <img alt="Only applications with this executable name" src="media/103849-5.jpg"></li>
