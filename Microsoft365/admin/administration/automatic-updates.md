@@ -62,7 +62,7 @@ We recommend that you keep automatic updating enabled for Office 2013 and Office
 
      Office 2013
 
-     **HKEY_LOCAL_MACHINE\software\policies\microsoft\office\15.0\common\OfficeUpdate**
+     **HKEY_LOCAL_MACHINE\software\Wow6432Node\microsoft\office\15.0\common\MicrosoftUpdate**
 
      Office 2016
 
