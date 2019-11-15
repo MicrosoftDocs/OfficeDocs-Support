@@ -84,6 +84,11 @@
          "source_path": "SharePoint/SharePointOnline/sites/fails-changing-locale-setting.md",
          "redirect_url": "https://docs.microsoft.com/sharepoint/support/online",
          "redirect_document_id": false
+      },
+      {
+         "source_path": "Office/Client/office/msvbvm50-installs-vb-5-0-run-time.md",
+         "redirect_url": "https://www.microsoft.com/download/details.aspx?id=57699",
+         "redirect_document_id": false
       }
     ] 
     }
