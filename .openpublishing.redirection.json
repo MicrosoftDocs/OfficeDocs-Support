@@ -89,6 +89,11 @@
          "source_path": "Office/Client/office/msvbvm50-installs-vb-5-0-run-time.md",
          "redirect_url": "https://www.microsoft.com/download/details.aspx?id=24417",
          "redirect_document_id": false
+      },
+      {
+         "source_path": "SharePoint/SharePointOnline/lists-and-libraries/list-library-not-use-new-experience.md",
+         "redirect_url": "https://docs.microsoft.com/sharepoint/support/lists-and-libraries/modern-view-compatibility-checklist",
+         "redirect_document_id": false
       }
     ] 
     }
