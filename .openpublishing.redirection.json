@@ -54,6 +54,46 @@
          "source_path": "SharePoint/SharePointOnline/sites/sites-do-not-automatically-update-to-the-25-terabyte-limit.md",
          "redirect_url": "https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits",
          "redirect_document_id": true
+      },
+      {
+         "source_path": "Teams/teams-mobile/teams-for-windows-phone-is-retiring.md",
+         "redirect_url": "https://docs.microsoft.com/MicrosoftTeams/troubleshoot/",
+         "redirect_document_id": true
+      },
+      {
+         "source_path": "SharePoint/SharePointOnline/sites/site-collection-uses-enterprise-wiki-template.md",
+         "redirect_url": "https://docs.microsoft.com/sharepoint/support/online",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "SharePoint/SharePointOnline/sites/site-theme-not-displayed.md",
+         "redirect_url": "https://docs.microsoft.com/sharepoint/support/online",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "SharePoint/SharePointOnline/sites/cannot-create-records-center-as-subsite.md",
+         "redirect_url": "https://docs.microsoft.com/sharepoint/support/online",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "SharePoint/SharePointOnline/sites/server-error-application.md",
+         "redirect_url": "https://docs.microsoft.com/sharepoint/support/online",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "SharePoint/SharePointOnline/sites/fails-changing-locale-setting.md",
+         "redirect_url": "https://docs.microsoft.com/sharepoint/support/online",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Office/Client/office/msvbvm50-installs-vb-5-0-run-time.md",
+         "redirect_url": "https://www.microsoft.com/download/details.aspx?id=24417",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "SharePoint/SharePointOnline/lists-and-libraries/list-library-not-use-new-experience.md",
+         "redirect_url": "https://docs.microsoft.com/sharepoint/support/lists-and-libraries/modern-view-compatibility-checklist",
+         "redirect_document_id": false
       }
     ] 
     }
