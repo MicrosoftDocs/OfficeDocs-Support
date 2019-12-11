@@ -94,6 +94,11 @@
          "source_path": "SharePoint/SharePointOnline/lists-and-libraries/list-library-not-use-new-experience.md",
          "redirect_url": "https://docs.microsoft.com/sharepoint/support/lists-and-libraries/modern-view-compatibility-checklist",
          "redirect_document_id": false
+      },
+      {
+         "source_path": "SharePoint/SharePointOnline/administration/using-relative-urls-not-supported.md",
+         "redirect_url": "https://docs.microsoft.com/sharepoint/support/lists-and-libraries/relative-url-across-site-collection-not-supported",
+         "redirect_document_id": false
       }
     ] 
     }
