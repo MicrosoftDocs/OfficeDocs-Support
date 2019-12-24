@@ -644,6 +644,16 @@
          "source_path": "Microsoft365/admin/administration/cant-access-newly-purchased-project-online.md",
          "redirect_url": "https://docs.microsoft.com/office365/troubleshoot/cant-access-newly-purchased-project-online",
          "redirect_document_id": false
+      },
+      {
+         "source_path": "Microsoft365/admin/administration/office-365-administration-and-feature.md",
+         "redirect_url": "https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-setup-and-administration",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Microsoft365/admin/security/specify-trusted-sources.md",
+         "redirect_url": "https://support.office.com/article/A1AC6AE9-5C4A-4EB3-B3F8-143336039BBE",
+         "redirect_document_id": false
       }
     ] 
     }
