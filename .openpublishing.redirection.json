@@ -654,11 +654,7 @@
          "source_path": "Microsoft365/admin/security/specify-trusted-sources.md",
          "redirect_url": "https://support.office.com/article/A1AC6AE9-5C4A-4EB3-B3F8-143336039BBE",
          "redirect_document_id": false
-      },
-      {
-         "source_path": "Microsoft365/enterprise/invalid-provider-specified-error.md",
-         "redirect_url": "https://docs.microsoft.com/office365/troubleshoot/authentication/invalid-provider-specified-error",
-         "redirect_document_id": false
       }
+
     ] 
-    }
+}
