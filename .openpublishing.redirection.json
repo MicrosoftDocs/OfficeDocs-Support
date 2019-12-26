@@ -581,11 +581,6 @@
          "redirect_document_id": false
       },
       {
-         "source_path": "Microsoft365/admin/administration/insert-scriptable-activex-control.md",
-         "redirect_url": "https://docs.microsoft.com/office365/troubleshoot/administration/insert-scriptable-activex-control",
-         "redirect_document_id": false
-      },
-      {
          "source_path": "Microsoft365/admin/administration/how-to-use-office-365-powershell-to-manage-microsoft-planner-licenses.md",
          "redirect_url": "https://docs.microsoft.com/office365/troubleshoot/licensing/how-to-use-office-365-powershell-to-manage-microsoft-planner-licenses",
          "redirect_document_id": false
