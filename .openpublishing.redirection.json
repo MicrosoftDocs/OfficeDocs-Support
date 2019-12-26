@@ -749,11 +749,6 @@
          "source_path": "Office/OfficeExperts/troubleshoot/infopath-2013-crashes-when-connecting-to-access-database.md",
          "redirect_url": "https://docs.microsoft.com/office/troubleshoot/infopath/infopath-2013-crashes-when-connecting-to-access-database",
          "redirect_document_id": false
-      },
-      {
-         "source_path": "Office/OfficeExperts/office-developer/set-up-vb-project-using-class.md",
-         "redirect_url": "https://docs.microsoft.com/office/troubleshoot/office-developer/set-up-vb-project-using-class",
-         "redirect_document_id": false
       }
     ] 
     }
