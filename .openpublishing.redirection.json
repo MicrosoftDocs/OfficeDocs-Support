@@ -651,10 +651,104 @@
          "redirect_document_id": false
       },
       {
-            "source_path": "Microsoft365/admin/administration/insert-scriptable-activex-control.md",
-            "redirect_url": "https://docs.microsoft.com/office365/troubleshoot/insert-scriptable-activex-control",
-            "redirect_document_id": false
-      }
-
+         "source_path": "Microsoft365/enterprise/excel-online-pivottable-operation-failed.md",
+         "redirect_url": "https://docs.microsoft.com/office/troubleshoot/excel/excel-online-pivottable-operation-failed",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Microsoft365/enterprise/request-too-long-opening-excel-workbook.md",
+         "redirect_url": "https://docs.microsoft.com/office/troubleshoot/excel/request-too-long-opening-excel-workbook",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Microsoft365/enterprise/cant-connect-project-online-odata-from-ssis.md",
+         "redirect_url": "https://docs.microsoft.com/office365/troubleshoot/project-online/cant-connect-project-online-odata-from-ssis",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Microsoft365/enterprise/cant-open-files-most-recently-used-list.md",
+         "redirect_url": "https://docs.microsoft.com/office/troubleshoot/administration/cant-open-files-most-recently-used-list",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Microsoft365/enterprise/excel-online-external-users-cannot-refresh-data-connections.md",
+         "redirect_url": "https://docs.microsoft.com/office/troubleshoot/excel/excel-online-external-users-cannot-refresh-data-connections",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Microsoft365/enterprise/cant-save-project-client-to-web-app.md",
+         "redirect_url": "https://docs.microsoft.com/office365/troubleshoot/project-online/cant-save-project-client-to-web-app",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Microsoft365/enterprise/cant-sign-in-office-365-multiple-domain-federation.md",
+         "redirect_url": "https://docs.microsoft.com/office365/troubleshoot/authentication/cant-sign-in-office-365-multiple-domain-federation",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Microsoft365/enterprise/excel-online-cross-forest-kcd-data-refresh-is-not-supported.md",
+         "redirect_url": "https://docs.microsoft.com/office/troubleshoot/excel/excel-online-cross-forest-kcd-data-refresh-is-not-supported",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Microsoft365/enterprise/sway-file-size-limit-error.md",
+         "redirect_url": "https://docs.microsoft.com/office/troubleshoot/sway/sway-file-size-limit-error",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Microsoft365/enterprise/forms-response-columns-out-of-order.md",
+         "redirect_url": "https://docs.microsoft.com/office/troubleshoot/microsoft-forms/forms-response-columns-out-of-order",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Microsoft365/enterprise/issues-on-devices-with-app-v-enabled.md",
+         "redirect_url": "https://docs.microsoft.com/office365/troubleshoot/administration/issues-on-devices-with-app-v-enabled",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Microsoft365/enterprise/excel-online-refresh-fails-project-online-using-timebyday.md",
+         "redirect_url": "https://docs.microsoft.com/office/troubleshoot/excel/excel-online-refresh-fails-project-online-using-timebyday",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Microsoft365/enterprise/sharepoint-properties-backstage-file-info.md",
+         "redirect_url": "https://docs.microsoft.com/office/troubleshoot/administration/sharepoint-properties-backstage-file-info",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Microsoft365/enterprise/no-email-notifications-for-responses-to-group-forms.md",
+         "redirect_url": "https://docs.microsoft.com/office/troubleshoot/microsoft-forms/no-email-notifications-for-responses-to-group-forms",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Microsoft365/enterprise/office-crash-or-cannot-start.md",
+         "redirect_url": "https://docs.microsoft.com/office365/troubleshoot/administration/office-crash-or-cannot-start",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Microsoft365/enterprise/compile-error-editing-vba-macro.md",
+         "redirect_url": "https://docs.microsoft.com/office/troubleshoot/office-developer/compile-error-editing-vba-macro",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Microsoft365/enterprise/excel-online-refreshing-data-to-a-sql-azure-database.md",
+         "redirect_url": "https://docs.microsoft.com/office/troubleshoot/excel/excel-online-refreshing-data-to-a-sql-azure-database",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Office/OfficeExperts/troubleshoot/custom-html-login-page-not-render-correctly.md",
+         "redirect_url": "https://docs.microsoft.com/office/troubleshoot/authentication/custom-html-login-page-not-render-correctly",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Office/OfficeExperts/troubleshoot/include-exclude-teams-from-antivirus-dlp.md",
+         "redirect_url": "https://docs.microsoft.com/microsoftteams/troubleshoot/teams-administration/include-exclude-teams-from-antivirus-dlp",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Office/OfficeExperts/troubleshoot/infopath-2013-crashes-when-connecting-to-access-database.md",
+         "redirect_url": "https://docs.microsoft.com/office/troubleshoot/infopath/infopath-2013-crashes-when-connecting-to-access-database",
+         "redirect_document_id": false
+      }
     ] 
-}
+    }
