@@ -107,7 +107,7 @@
       },
       {
          "source_path": "Microsoft365/admin/administration/invalid-provider-specified-error.md",
-         "redirect_url": "https://docs.microsoft.com/office365/troubleshoot/invalid-provider-specified-error",
+         "redirect_url": "https://docs.microsoft.com/office365/troubleshoot/authentication/invalid-provider-specified-error",
          "redirect_document_id": false
       },
       {
@@ -247,7 +247,7 @@
       },
       {
          "source_path": "Microsoft365/admin/administration/cannot-find-any-clipart.md",
-         "redirect_url": "https://docs.microsoft.com/office365/troubleshoot/cannot-find-any-clipart",
+         "redirect_url": "https://docs.microsoft.com/office365/troubleshoot/miscellaneous/cannot-find-any-clipart",
          "redirect_document_id": false
       },
       {
@@ -637,7 +637,7 @@
       },
       {
          "source_path": "Microsoft365/admin/administration/cant-access-newly-purchased-project-online.md",
-         "redirect_url": "https://docs.microsoft.com/office365/troubleshoot/cant-access-newly-purchased-project-online",
+         "redirect_url": "https://docs.microsoft.com/office365/troubleshoot/project-online/cant-access-newly-purchased-project-online",
          "redirect_document_id": false
       },
       {
