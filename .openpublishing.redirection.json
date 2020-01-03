@@ -825,5 +825,10 @@
          "redirect_url": "https://docs.microsoft.com/office/troubleshoot/activation/something-configured-fails-activating-office",
          "redirect_document_id": false
       },
+      {
+         "source_path": "Office/Client/reference/enable-co-authoring-for-onedrive-synced-file.md",
+         "redirect_url": "https://docs.microsoft.com/sharepoint/support/sync/enable-co-authoring-for-onedrive-synced-file",
+         "redirect_document_id": false
+      },
     ] 
     }
