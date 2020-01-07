@@ -749,6 +749,86 @@
          "source_path": "Office/OfficeExperts/troubleshoot/infopath-2013-crashes-when-connecting-to-access-database.md",
          "redirect_url": "https://docs.microsoft.com/office/troubleshoot/infopath/infopath-2013-crashes-when-connecting-to-access-database",
          "redirect_document_id": false
-      }
+      },
+      {
+         "source_path": "Office/Client/reference/office-activation-process-issues.md",
+         "redirect_url": "https://docs.microsoft.com/office/troubleshoot/activation/office-activation-process-issues",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Office/Client/activation-installation/license-issue-when-start-office-application.md",
+         "redirect_url": "https://docs.microsoft.com/office/troubleshoot/activation/license-issue-when-start-office-application",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Office/Client/activation-installation/cant-activate-on-new-computer.md",
+         "redirect_url": "https://docs.microsoft.com/office/troubleshoot/activation/cant-activate-on-new-computer",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Office/Client/activation-installation/office-for-mac-welcome-screen.md",
+         "redirect_url": "https://docs.microsoft.com/office/troubleshoot/office-for-mac/office-for-mac-welcome-screen",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Office/Client/activation-installation/office-pro-plus-2010-terminal-server.md",
+         "redirect_url": "https://docs.microsoft.com/office/troubleshoot/miscellaneous/office-pro-plus-2010-terminal-server",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Office/Client/activation-installation/error-1935-when-install-office-2010.md",
+         "redirect_url": "https://docs.microsoft.com/office/troubleshoot/installation/error-1935-when-install-office-2010",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Office/Client/activation-installation/install-and-activate-office-2013.md",
+         "redirect_url": "https://docs.microsoft.com/office/troubleshoot/installation/install-and-activate-office-2013",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Office/Client/activation-installation/issue-when-activate-office-365-proplus.md",
+         "redirect_url": "https://docs.microsoft.com/office/troubleshoot/activation/issue-when-activate-office-365-proplus",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Office/Client/activation-installation/issue-when-activate-office-from-office-365.md",
+         "redirect_url": "https://docs.microsoft.com/office/troubleshoot/activation/issue-when-activate-office-from-office-365",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Office/Client/activation-installation/office-2010-product-key-change-error.md",
+         "redirect_url": "https://docs.microsoft.com/office/troubleshoot/activation/office-2010-product-key-change-error",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Office/Client/activation-installation/office-for-mac-issues-macos-10-7.md",
+         "redirect_url": "https://docs.microsoft.com/office/troubleshoot/office-for-mac/office-for-mac-issues-macos-10-7",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Office/Client/activation-installation/office-setup-issues.md",
+         "redirect_url": "https://docs.microsoft.com/office/troubleshoot/installation/office-setup-issues",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Office/Client/activation-installation/powerpoint-mac-closes-unexpectedly.md",
+         "redirect_url": "https://docs.microsoft.com/office/troubleshoot/office-for-mac/powerpoint-mac-closes-unexpectedly",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Office/Client/activation-installation/something-went-wrong-30016-4-error.md",
+         "redirect_url": "https://docs.microsoft.com/office/troubleshoot/installation/something-went-wrong-30016-4-error",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Office/Client/activation-installation/something-configured-fails-activating-office.md",
+         "redirect_url": "https://docs.microsoft.com/office/troubleshoot/activation/something-configured-fails-activating-office",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Office/Client/reference/enable-co-authoring-for-onedrive-synced-file.md",
+         "redirect_url": "https://docs.microsoft.com/sharepoint/support/sync/enable-co-authoring-for-onedrive-synced-file",
+         "redirect_document_id": false
+      },
     ] 
     }
