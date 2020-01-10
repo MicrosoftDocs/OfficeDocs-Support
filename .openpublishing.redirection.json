@@ -1,0 +1,834 @@
+{ 
+    "redirections": [ 
+      {
+         "source_path": "SharePoint/SharePointServer/sharepoint-server.md",
+         "redirect_url": "/sharepoint/support/server",
+         "redirect_document_id": true
+      },
+      {
+        "source_path": "SharePoint/SharePointOnline/sharepoint-online.md",
+        "redirect_url": "/sharepoint/support/online",
+        "redirect_document_id": true
+     },
+     {
+        "source_path": "SharePoint/SharePointHybrid/sharepoint-hybrid.md",
+        "redirect_url": "/sharepoint/support/hybrid",
+        "redirect_document_id": true
+     },
+     {
+        "source_path": "SharePoint/SharePointExperts/sharepoint-experts.md",
+        "redirect_url": "/sharepoint/support/experts",
+        "redirect_document_id": true
+      },    
+      {
+         "source_path": "Office/Client/excel/open-excel-for-mac-stop-responding.md",
+         "redirect_url": "https://support.office.com/article/6c6425b1-6559-4bbf-8f80-4f038402ff02",
+         "redirect_document_id": true
+      },
+      {
+         "source_path": "SharePoint/SharePointOnline/administration/troubleshooting-sharepoint-site-issues.md",
+         "redirect_url": "https://support.office.com/article/dc656f67-fec3-4948-9ec2-5e1b51886964",
+         "redirect_document_id": true
+      },
+      {
+         "source_path": "Microsoft365/admin/troubleshooting/fix-outlook-and-office-365-issues.md",
+         "redirect_url": "https://support.office.com/article/e90bb691-c2a7-4697-a94f-88836856c72f",
+         "redirect_document_id": true
+      },
+      {
+         "source_path": "Microsoft365/admin/troubleshooting/troubleshoot-office-installation-issues.md",
+         "redirect_url": "https://support.office.com/article/fbbf663b-1e76-46d2-a417-0aa78ed2fb9a",
+         "redirect_document_id": true
+      },
+      {
+         "source_path": "Microsoft365/admin/troubleshooting/registry-override-default-behavior.md",
+         "redirect_url": "https://support.office.com/article/5fdb9208-ff33-45b6-9e08-1f5cdb3a6c73",
+         "redirect_document_id": true
+      },
+      {
+         "source_path": "SharePoint/OneDrive/administration/expect-after-name-change.md",
+         "redirect_url": "https://docs.microsoft.com/onedrive/upn-changes",
+         "redirect_document_id": true
+      },
+      {
+         "source_path": "SharePoint/SharePointOnline/sites/sites-do-not-automatically-update-to-the-25-terabyte-limit.md",
+         "redirect_url": "https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits",
+         "redirect_document_id": true
+      },
+      {
+         "source_path": "Teams/teams-mobile/teams-for-windows-phone-is-retiring.md",
+         "redirect_url": "https://docs.microsoft.com/MicrosoftTeams/troubleshoot/",
+         "redirect_document_id": true
+      },
+      {
+         "source_path": "SharePoint/SharePointOnline/sites/site-collection-uses-enterprise-wiki-template.md",
+         "redirect_url": "https://docs.microsoft.com/sharepoint/support/online",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "SharePoint/SharePointOnline/sites/site-theme-not-displayed.md",
+         "redirect_url": "https://docs.microsoft.com/sharepoint/support/online",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "SharePoint/SharePointOnline/sites/cannot-create-records-center-as-subsite.md",
+         "redirect_url": "https://docs.microsoft.com/sharepoint/support/online",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "SharePoint/SharePointOnline/sites/server-error-application.md",
+         "redirect_url": "https://docs.microsoft.com/sharepoint/support/online",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "SharePoint/SharePointOnline/sites/fails-changing-locale-setting.md",
+         "redirect_url": "https://docs.microsoft.com/sharepoint/support/online",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Office/Client/office/msvbvm50-installs-vb-5-0-run-time.md",
+         "redirect_url": "https://www.microsoft.com/download/details.aspx?id=24417",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "SharePoint/SharePointOnline/lists-and-libraries/list-library-not-use-new-experience.md",
+         "redirect_url": "https://docs.microsoft.com/sharepoint/support/lists-and-libraries/modern-view-compatibility-checklist",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "SharePoint/SharePointOnline/administration/using-relative-urls-not-supported.md",
+         "redirect_url": "https://docs.microsoft.com/sharepoint/support/lists-and-libraries/relative-url-across-site-collection-not-supported",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Microsoft365/admin/administration/0xc004f038-computer-not-activate.md",
+         "redirect_url": "https://docs.microsoft.com/office/troubleshoot/administration/0xc004f038-computer-not-activate",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Microsoft365/admin/administration/invalid-provider-specified-error.md",
+         "redirect_url": "https://docs.microsoft.com/office365/troubleshoot/authentication/invalid-provider-specified-error",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Microsoft365/admin/activation/cant-activate-sign-in-after-update.md",
+         "redirect_url": "https://docs.microsoft.com/office365/troubleshoot/updates/cant-activate-sign-in-after-update",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Microsoft365/admin/activation/control-block-ole-com.md",
+         "redirect_url": "https://docs.microsoft.com/office365/troubleshoot/updates/control-block-ole-com",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Microsoft365/admin/activation/permission-error-activating-office-mobile.md",
+         "redirect_url": "https://docs.microsoft.com/office365/troubleshoot/sign-in/permission-error-activating-office-mobile",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Microsoft365/admin/activation/reset-office-365-proplus-activation-state.md",
+         "redirect_url": "https://docs.microsoft.com/office/troubleshoot/activation/reset-office-365-proplus-activation-state",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Microsoft365/admin/activation/sign-in-assistant-error.md",
+         "redirect_url": "https://docs.microsoft.com/office365/troubleshoot/sign-in/sign-in-assistant-error",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Microsoft365/admin/activation/subscription-automatic-license-renew-fails.md",
+         "redirect_url": "https://docs.microsoft.com/office365/troubleshoot/licensing/subscription-automatic-license-renew-fails",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Microsoft365/admin/active-directory/account-issues-for-federated-users.md",
+         "redirect_url": "https://docs.microsoft.com/office365/troubleshoot/authentication/account-issues-for-federated-users",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Microsoft365/admin/active-directory/ad-fs-sign-in-page-not-display.md",
+         "redirect_url": "https://docs.microsoft.com/office365/troubleshoot/sign-in/ad-fs-sign-in-page-not-display",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Microsoft365/admin/active-directory/attributes-synced-by-azure-ad-sync.md",
+         "redirect_url": "https://docs.microsoft.com/office365/troubleshoot/active-directory/directory-sync-tool-not-sync-object",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Microsoft365/admin/active-directory/cannot-edit-video-or-audio.md",
+         "redirect_url": "https://docs.microsoft.com/office/troubleshoot/powerpoint/cannot-edit-video-or-audio",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Microsoft365/admin/active-directory/cannot-sign-in-to-office-365.md",
+         "redirect_url": "https://docs.microsoft.com/office365/troubleshoot/sign-in/cannot-sign-in-to-office-365",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Microsoft365/admin/active-directory/cannot-sign-out-cloud-service.md",
+         "redirect_url": "https://docs.microsoft.com/office365/troubleshoot/sign-in/cannot-sign-out-cloud-service",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Microsoft365/admin/active-directory/cant-connect-azure-information-protection.md",
+         "redirect_url": "https://docs.microsoft.com/office365/troubleshoot/miscellaneous/cant-connect-azure-information-protection",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Microsoft365/admin/active-directory/certificate-based-authentication-fails-on-ios.md",
+         "redirect_url": "https://docs.microsoft.com/office365/troubleshoot/authentication/certificate-based-authentication-fails-on-ios",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Microsoft365/admin/active-directory/certificate-warning-from-ad-fs.md",
+         "redirect_url": "https://docs.microsoft.com/office365/troubleshoot/authentication/certificate-warning-from-ad-fs",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Microsoft365/admin/active-directory/domain-removal-fails.md",
+         "redirect_url": "https://docs.microsoft.com/office365/troubleshoot/domain-management/domain-removal-fails",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Microsoft365/admin/active-directory/federated-users-sign-in-error-ad-fs.md",
+         "redirect_url": "https://docs.microsoft.com/office365/troubleshoot/sign-in/federated-users-sign-in-error-ad-fs",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Microsoft365/admin/active-directory/fiddler-trace-logs-for-mfa.md",
+         "redirect_url": "https://docs.microsoft.com/office365/troubleshoot/diagnostic-logs/fiddler-trace-logs-for-mfa",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Microsoft365/admin/active-directory/grant-everyone-claim-to-external-users.md",
+         "redirect_url": "https://docs.microsoft.com/office365/troubleshoot/access-management/grant-everyone-claim-to-external-users",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Microsoft365/admin/active-directory/office-365-azure-intune-sign-in-issue.md",
+         "redirect_url": "https://docs.microsoft.com/office365/troubleshoot/sign-in/office-365-azure-intune-sign-in-issue",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Microsoft365/admin/active-directory/office-365-users-not-signed-in-office.md",
+         "redirect_url": "https://docs.microsoft.com/office365/troubleshoot/sign-in/office-365-users-not-signed-in-office",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Microsoft365/admin/active-directory/there-was-problem-that-caused-error.md",
+         "redirect_url": "https://docs.microsoft.com/office365/troubleshoot/sign-In/there-was-problem-that-caused-error",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Microsoft365/admin/active-directory/workbook-not-activated.md",
+         "redirect_url": "https://docs.microsoft.com/office/troubleshoot/excel/workbook-not-activated",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Microsoft365/admin/administration/access-project-online-tenant.md",
+         "redirect_url": "https://docs.microsoft.com/office365/troubleshoot/access-project-online-tenant",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Microsoft365/admin/administration/automatic-updates.md",
+         "redirect_url": "https://docs.microsoft.com/office365/troubleshoot/updates/automatic-updates",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Microsoft365/admin/administration/block-onedrive-use-from-office.md",
+         "redirect_url": "https://docs.microsoft.com/office365/troubleshoot/group-policy/block-onedrive-use-from-office",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Microsoft365/admin/administration/cannot-assign-federated-domain-to-user.md",
+         "redirect_url": "https://docs.microsoft.com/office365/troubleshoot/domain-management/cannot-assign-federated-domain-to-user",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Microsoft365/admin/administration/cannot-find-any-clipart.md",
+         "redirect_url": "https://docs.microsoft.com/office365/troubleshoot/miscellaneous/cannot-find-any-clipart",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Microsoft365/admin/administration/cannot-install-office-add-in.md",
+         "redirect_url": "https://docs.microsoft.com/office365/troubleshoot/installation/cannot-install-office-add-in",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Microsoft365/admin/administration/cannot-remove-domain-from-o365.md",
+         "redirect_url": "https://docs.microsoft.com/office365/troubleshoot/domain-management/cannot-remove-domain-from-o365",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Microsoft365/admin/visio/cannot-load-visio-web-drawing.md",
+         "redirect_url": "https://docs.microsoft.com/office/troubleshoot/visio/cannot-load-visio-web-drawing",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Microsoft365/admin/support/run-fiddler-trace.md",
+         "redirect_url": "https://docs.microsoft.com/office365/troubleshoot/diagnostic-logs/run-fiddler-trace",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Microsoft365/admin/support/multiple-office-versions-rds.md",
+         "redirect_url": "https://docs.microsoft.com/office365/troubleshoot/installation/multiple-office-versions-rds",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Microsoft365/admin/support/collect-network-monitor-trace.md",
+         "redirect_url": "https://docs.microsoft.com/office365/troubleshoot/diagnostic-logs/collect-network-monitor-trace",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Microsoft365/admin/support/build-number-five-digit.md",
+         "redirect_url": "https://docs.microsoft.com/office365/troubleshoot/miscellaneous/build-number-five-digit",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Microsoft365/admin/security/update-federated-domain-office-365.md",
+         "redirect_url": "https://docs.microsoft.com/office365/troubleshoot/active-directory/update-federated-domain-office-365",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Microsoft365/admin/security/problem-with-websites-security-error.md",
+         "redirect_url": "https://docs.microsoft.com/office365/troubleshoot/authentication/problem-with-websites-security-error",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Microsoft365/admin/security/federation-service-certificate-expire.md",
+         "redirect_url": "https://docs.microsoft.com/office365/troubleshoot/authentication/federation-service-certificate-expire",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Microsoft365/admin/security/determine-account-is-compromised.md",
+         "redirect_url": "https://docs.microsoft.com/office365/troubleshoot/sign-In/determine-account-is-compromised",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Microsoft365/admin/security/deleted-authentication-passwords-still-work.md",
+         "redirect_url": "https://docs.microsoft.com/office365/troubleshoot/authentication/deleted-authentication-passwords-still-work",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Microsoft365/admin/security/access-denied-when-connect-to-office-365.md",
+         "redirect_url": "https://docs.microsoft.com/office365/troubleshoot/authentication/access-denied-when-connect-to-office-365",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Microsoft365/admin/project/project-publish-jobs-not-complete.md",
+         "redirect_url": "https://docs.microsoft.com/office/troubleshoot/project/project-publish-jobs-not-complete",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Microsoft365/admin/project/create-report-template.md",
+         "redirect_url": "https://docs.microsoft.com/office/troubleshoot/project/create-report-template",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Microsoft365/admin/project/cannot-enter-user-logon-account.md",
+         "redirect_url": "https://docs.microsoft.com/office/troubleshoot/project/cannot-enter-user-logon-account",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Microsoft365/admin/office-for-mac/office-for-mac-prompted-for-authentication.md",
+         "redirect_url": "https://docs.microsoft.com/office/troubleshoot/office-for-mac/office-for-mac-prompted-for-authentication",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Microsoft365/admin/office-for-mac/o365-e3-setup-incomplete.md",
+         "redirect_url": "https://docs.microsoft.com/office/troubleshoot/office-for-mac/o365-e3-setup-incomplete",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Microsoft365/admin/office/office-lens-icons-incorrectly-display.md",
+         "redirect_url": "https://docs.microsoft.com/office/troubleshoot/diagnostic-logs/office-lens-icons-incorrectly-display",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Microsoft365/admin/licensing/office-feature-updates-task-faq.md",
+         "redirect_url": "https://docs.microsoft.com/office365/troubleshoot/updates/office-feature-updates-task-faq",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Microsoft365/admin/licensing/office-click-to-run-perpetual.md",
+         "redirect_url": "https://docs.microsoft.com/office365/troubleshoot/installation/office-click-to-run-perpetual",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Microsoft365/admin/licensing/office-365-user-with-name-already-exists.md",
+         "redirect_url": "https://docs.microsoft.com/office365/troubleshoot/authentication/office-365-user-with-name-already-exists",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Microsoft365/admin/excel/excel-2016-for-mac-crashes.md",
+         "redirect_url": "https://docs.microsoft.com/office/troubleshoot/excel/excel-2016-for-mac-crashes",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Microsoft365/admin/excel/data-collected-by-excel-support-diagnostic.md",
+         "redirect_url": "https://docs.microsoft.com/office/troubleshoot/excel/data-collected-by-excel-support-diagnostic",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Microsoft365/admin/excel/crash-when-work-on-multiple-workbooks.md",
+         "redirect_url": "https://docs.microsoft.com/office/troubleshoot/excel/crash-when-work-on-multiple-workbooks",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Microsoft365/admin/enterprise/web-sites-lose-ssl-certificate-bindings.md",
+         "redirect_url": "https://docs.microsoft.com/office365/troubleshoot/miscellaneous/web-sites-lose-ssl-certificate-bindings",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Microsoft365/admin/enterprise/blank-app-launcher-and-menu-bar.md",
+         "redirect_url": "https://docs.microsoft.com/office365/troubleshoot/installation/blank-app-launcher-and-menu-bar",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Microsoft365/admin/authentication/we-are-having-trouble-signing-you-in-error.md",
+         "redirect_url": "https://docs.microsoft.com/office365/troubleshoot/sign-In/we-are-having-trouble-signing-you-in-error",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Microsoft365/admin/authentication/sign-in-to-office-365-azure-intune.md",
+         "redirect_url": "https://docs.microsoft.com/office365/troubleshoot/sign-In/sign-in-to-office-365-azure-intune",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Microsoft365/admin/authentication/sign-in-to-office-2016-for-mac-fail.md",
+         "redirect_url": "https://docs.microsoft.com/office365/troubleshoot/sign-In/sign-in-to-office-2016-for-mac-fail",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Microsoft365/admin/authentication/sign-in-issue-with-modern-auth.md",
+         "redirect_url": "https://docs.microsoft.com/office365/troubleshoot/sign-In/sign-in-issue-with-modern-auth",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Microsoft365/admin/authentication/office-sign-in-and-auth-diagnostic.md",
+         "redirect_url": "https://docs.microsoft.com/office365/troubleshoot/diagnostic-logs/office-sign-in-and-auth-diagnostic",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Microsoft365/admin/authentication/office-prompt-for-credentials.md",
+         "redirect_url": "https://docs.microsoft.com/office365/troubleshoot/access-management/office-prompt-for-credentials",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Microsoft365/admin/authentication/issue-with-reset-admin-password.md",
+         "redirect_url": "https://docs.microsoft.com/office365/troubleshoot/access-management/issue-with-reset-admin-password",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Microsoft365/admin/authentication/how-to-enable-office-365-proplus-uls-logging.md",
+         "redirect_url": "https://docs.microsoft.com/office/troubleshoot/diagnostic-logs/how-to-enable-office-365-proplus-uls-logging",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Microsoft365/admin/authentication/federated-user-repeatedly-prompted-for-credentials.md",
+         "redirect_url": "https://docs.microsoft.com/office365/troubleshoot/sign-In/federated-user-repeatedly-prompted-for-credentials",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Microsoft365/admin/authentication/exchange-online-application-service-principal-disabled.md",
+         "redirect_url": "https://docs.microsoft.com/office365/troubleshoot/sign-In/exchange-online-application-service-principal-disabled",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Microsoft365/admin/authentication/error-run-remote-connectivity-analyze.md",
+         "redirect_url": "https://docs.microsoft.com/office365/troubleshoot/access-management/error-run-remote-connectivity-analyze",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Microsoft365/admin/authentication/error-run-office-365-desktop-setup-tool.md",
+         "redirect_url": "https://docs.microsoft.com/office365/troubleshoot/access-management/error-run-office-365-desktop-setup-tool",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Microsoft365/admin/authentication/connect-msolservice-office-365-azure.md",
+         "redirect_url": "https://docs.microsoft.com/office365/troubleshoot/access-management/connect-msolservice-office-365-azure",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Microsoft365/admin/authentication/cannot-open-irm-protected-document.md",
+         "redirect_url": "https://docs.microsoft.com/office365/troubleshoot/access-management/cannot-open-irm-protected-document",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Microsoft365/admin/authentication/account-blocked-error-when-sign-in.md",
+         "redirect_url": "https://docs.microsoft.com/office365/troubleshoot/access-management/account-blocked-error-when-sign-in",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Microsoft365/admin/administration/your-session-has-expired-error.md",
+         "redirect_url": "https://docs.microsoft.com/office365/troubleshoot/access-management/your-session-has-expired-error",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Microsoft365/admin/administration/user-not-seeing-add-ins.md",
+         "redirect_url": "https://docs.microsoft.com/office365/troubleshoot/access-management/user-not-seeing-add-ins",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Microsoft365/admin/administration/unexpected-autodiscover-behavior.md",
+         "redirect_url": "https://docs.microsoft.com/outlook/troubleshoot/domain-management/unexpected-autodiscover-behavior",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Microsoft365/admin/administration/unable-reset-user-password-sso.md",
+         "redirect_url": "https://docs.microsoft.com/office365/troubleshoot/sign-in/unable-reset-user-password-sso",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Microsoft365/admin/administration/switch-channel-for-office-365.md",
+         "redirect_url": "https://docs.microsoft.com/office365/troubleshoot/updates/switch-channel-for-office-365",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Microsoft365/admin/administration/support-cases-for-gcc-high-dod.md",
+         "redirect_url": "https://docs.microsoft.com/office365/troubleshoot/miscellaneous/support-cases-for-gcc-high-dod",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Microsoft365/admin/administration/subscription-issue-in-office-mobile.md",
+         "redirect_url": "https://docs.microsoft.com/office365/troubleshoot/licensing/subscription-issue-in-office-mobile",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Microsoft365/admin/administration/sorry-we-cant-process-your-request-error.md",
+         "redirect_url": "https://docs.microsoft.com/office365/troubleshoot/active-directory/sorry-we-cant-process-your-request-error",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Microsoft365/admin/administration/set-language-and-region.md",
+         "redirect_url": "https://docs.microsoft.com/office365/troubleshoot/access-management/set-language-and-region",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Microsoft365/admin/administration/send-on-behalf-for-shared-mailbox.md",
+         "redirect_url": "https://docs.microsoft.com/exchange/troubleshoot/administration/send-on-behalf-for-shared-mailbox",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Microsoft365/admin/administration/run-office-365-proplus-2013.md",
+         "redirect_url": "https://docs.microsoft.com/office365/troubleshoot/updates/run-office-365-proplus-2013",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Microsoft365/admin/administration/reports-show-anonymous-user-name.md",
+         "redirect_url": "https://docs.microsoft.com/office365/troubleshoot/miscellaneous/reports-show-anonymous-user-name",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Microsoft365/admin/administration/remove-automapping-for-shared-mailbox.md",
+         "redirect_url": "https://docs.microsoft.com/outlook/troubleshoot/domain-management/remove-automapping-for-shared-mailbox",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Microsoft365/admin/administration/properties-revert-to-original-values.md",
+         "redirect_url": "https://docs.microsoft.com/office365/troubleshoot/access-management/properties-revert-to-original-values",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Microsoft365/admin/administration/product-ids-supported-office-deployment-click-to-run.md",
+         "redirect_url": "https://docs.microsoft.com/office365/troubleshoot/installation/product-ids-supported-office-deployment-click-to-run",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Microsoft365/admin/administration/prioritize-bits-for-office-2016-updates.md",
+         "redirect_url": "https://docs.microsoft.com/office365/troubleshoot/updates/prioritize-bits-for-office-2016-updates",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Microsoft365/admin/administration/office-perpetual-volume-license-products.md",
+         "redirect_url": "https://docs.microsoft.com/office365/troubleshoot/installation/office-perpetual-volume-license-products",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Microsoft365/admin/administration/office-feature-disabled.md",
+         "redirect_url": "https://docs.microsoft.com/office365/troubleshoot/access-management/office-feature-disabled",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Microsoft365/admin/administration/office-add-in-not-loaded.md",
+         "redirect_url": "https://docs.microsoft.com/office365/troubleshoot/group-policy/office-add-in-not-loaded",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Microsoft365/admin/administration/office-365-third-party-network-devices.md",
+         "redirect_url": "https://docs.microsoft.com/office365/troubleshoot/miscellaneous/office-365-third-party-network-devices",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Microsoft365/admin/administration/office-365-dedicated-itar-vnext.md",
+         "redirect_url": "https://docs.microsoft.com/office365/troubleshoot/access-management/office-365-dedicated-itar-vnext",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Microsoft365/admin/administration/office-2016-for-mac-64-bit-upgrade.md",
+         "redirect_url": "https://docs.microsoft.com/office/troubleshoot/office-for-mac/office-2016-for-mac-64-bit-upgrade",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Microsoft365/admin/administration/manage-fluid-framework-preview-access.md",
+         "redirect_url": "https://docs.microsoft.com/office365/troubleshoot/access-management/manage-fluid-framework-preview-access",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Microsoft365/admin/administration/issues-in-cortana.md",
+         "redirect_url": "https://docs.microsoft.com/office365/troubleshoot/miscellaneous/issues-in-cortana",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Microsoft365/admin/administration/how-to-use-office-365-powershell-to-manage-microsoft-planner-licenses.md",
+         "redirect_url": "https://docs.microsoft.com/office365/troubleshoot/licensing/how-to-use-office-365-powershell-to-manage-microsoft-planner-licenses",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Microsoft365/admin/administration/forgot-sign-in-password.md",
+         "redirect_url": "https://docs.microsoft.com/office365/troubleshoot/sign-in/forgot-sign-in-password",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Microsoft365/admin/administration/error-add-address-cname-record.md",
+         "redirect_url": "https://docs.microsoft.com/office365/troubleshoot/authentication/error-add-address-cname-record",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Microsoft365/admin/administration/duplicate-attributes-prevent-dirsync.md",
+         "redirect_url": "https://docs.microsoft.com/office365/troubleshoot/active-directory/duplicate-attributes-prevent-dirsync",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Microsoft365/admin/administration/distribution-list-issues.md",
+         "redirect_url": "https://docs.microsoft.com/office365/troubleshoot/groups/distribution-list-issues",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Microsoft365/admin/administration/disabled-sway-tile-appear.md",
+         "redirect_url": "https://docs.microsoft.com/office365/troubleshoot/licensing/disabled-sway-tile-appear",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Microsoft365/admin/administration/diagnostic-log-collection-in-support-and-recovery-assistant.md",
+         "redirect_url": "https://docs.microsoft.com/office365/troubleshoot/diagnostic-logs/diagnostic-log-collection-in-support-and-recovery-assistant",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Microsoft365/admin/administration/desktop-setup-tool-cant-download-updates.md",
+         "redirect_url": "https://docs.microsoft.com/office365/troubleshoot/updates/desktop-setup-tool-cant-download-updates",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Microsoft365/admin/administration/connection-issue-when-sign-in-office-2016.md",
+         "redirect_url": "https://docs.microsoft.com/office365/troubleshoot/authentication/connection-issue-when-sign-in-office-2016",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Microsoft365/admin/administration/configure-email-client-using-policy.md",
+         "redirect_url": "https://docs.microsoft.com/office365/troubleshoot/group-policy/configure-email-client-using-policy",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Microsoft365/admin/administration/collect-office-diagnostic-logs.md",
+         "redirect_url": "https://docs.microsoft.com/office365/troubleshoot/diagnostic-logs/collect-office-diagnostic-logs",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Microsoft365/admin/administration/cant-access-newly-purchased-project-online.md",
+         "redirect_url": "https://docs.microsoft.com/office365/troubleshoot/project-online/cant-access-newly-purchased-project-online",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Microsoft365/admin/administration/office-365-administration-and-feature.md",
+         "redirect_url": "https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-setup-and-administration",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Microsoft365/admin/security/specify-trusted-sources.md",
+         "redirect_url": "https://support.office.com/article/A1AC6AE9-5C4A-4EB3-B3F8-143336039BBE",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Microsoft365/enterprise/excel-online-pivottable-operation-failed.md",
+         "redirect_url": "https://docs.microsoft.com/office/troubleshoot/excel/excel-online-pivottable-operation-failed",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Microsoft365/enterprise/request-too-long-opening-excel-workbook.md",
+         "redirect_url": "https://docs.microsoft.com/office/troubleshoot/excel/request-too-long-opening-excel-workbook",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Microsoft365/enterprise/cant-connect-project-online-odata-from-ssis.md",
+         "redirect_url": "https://docs.microsoft.com/office365/troubleshoot/project-online/cant-connect-project-online-odata-from-ssis",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Microsoft365/enterprise/cant-open-files-most-recently-used-list.md",
+         "redirect_url": "https://docs.microsoft.com/office/troubleshoot/administration/cant-open-files-most-recently-used-list",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Microsoft365/enterprise/excel-online-external-users-cannot-refresh-data-connections.md",
+         "redirect_url": "https://docs.microsoft.com/office/troubleshoot/excel/excel-online-external-users-cannot-refresh-data-connections",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Microsoft365/enterprise/cant-save-project-client-to-web-app.md",
+         "redirect_url": "https://docs.microsoft.com/office365/troubleshoot/project-online/cant-save-project-client-to-web-app",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Microsoft365/enterprise/cant-sign-in-office-365-multiple-domain-federation.md",
+         "redirect_url": "https://docs.microsoft.com/office365/troubleshoot/authentication/cant-sign-in-office-365-multiple-domain-federation",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Microsoft365/enterprise/excel-online-cross-forest-kcd-data-refresh-is-not-supported.md",
+         "redirect_url": "https://docs.microsoft.com/office/troubleshoot/excel/excel-online-cross-forest-kcd-data-refresh-is-not-supported",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Microsoft365/enterprise/sway-file-size-limit-error.md",
+         "redirect_url": "https://docs.microsoft.com/office/troubleshoot/sway/sway-file-size-limit-error",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Microsoft365/enterprise/forms-response-columns-out-of-order.md",
+         "redirect_url": "https://docs.microsoft.com/office/troubleshoot/microsoft-forms/forms-response-columns-out-of-order",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Microsoft365/enterprise/issues-on-devices-with-app-v-enabled.md",
+         "redirect_url": "https://docs.microsoft.com/office365/troubleshoot/administration/issues-on-devices-with-app-v-enabled",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Microsoft365/enterprise/excel-online-refresh-fails-project-online-using-timebyday.md",
+         "redirect_url": "https://docs.microsoft.com/office/troubleshoot/excel/excel-online-refresh-fails-project-online-using-timebyday",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Microsoft365/enterprise/sharepoint-properties-backstage-file-info.md",
+         "redirect_url": "https://docs.microsoft.com/office/troubleshoot/administration/sharepoint-properties-backstage-file-info",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Microsoft365/enterprise/no-email-notifications-for-responses-to-group-forms.md",
+         "redirect_url": "https://docs.microsoft.com/office/troubleshoot/microsoft-forms/no-email-notifications-for-responses-to-group-forms",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Microsoft365/enterprise/office-crash-or-cannot-start.md",
+         "redirect_url": "https://docs.microsoft.com/office365/troubleshoot/administration/office-crash-or-cannot-start",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Microsoft365/enterprise/compile-error-editing-vba-macro.md",
+         "redirect_url": "https://docs.microsoft.com/office/troubleshoot/office-developer/compile-error-editing-vba-macro",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Microsoft365/enterprise/excel-online-refreshing-data-to-a-sql-azure-database.md",
+         "redirect_url": "https://docs.microsoft.com/office/troubleshoot/excel/excel-online-refreshing-data-to-a-sql-azure-database",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Office/OfficeExperts/troubleshoot/custom-html-login-page-not-render-correctly.md",
+         "redirect_url": "https://docs.microsoft.com/office/troubleshoot/authentication/custom-html-login-page-not-render-correctly",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Office/OfficeExperts/troubleshoot/include-exclude-teams-from-antivirus-dlp.md",
+         "redirect_url": "https://docs.microsoft.com/microsoftteams/troubleshoot/teams-administration/include-exclude-teams-from-antivirus-dlp",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Office/OfficeExperts/troubleshoot/infopath-2013-crashes-when-connecting-to-access-database.md",
+         "redirect_url": "https://docs.microsoft.com/office/troubleshoot/infopath/infopath-2013-crashes-when-connecting-to-access-database",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Office/Client/reference/office-activation-process-issues.md",
+         "redirect_url": "https://docs.microsoft.com/office/troubleshoot/activation/office-activation-process-issues",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Office/Client/activation-installation/license-issue-when-start-office-application.md",
+         "redirect_url": "https://docs.microsoft.com/office/troubleshoot/activation/license-issue-when-start-office-application",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Office/Client/activation-installation/cant-activate-on-new-computer.md",
+         "redirect_url": "https://docs.microsoft.com/office/troubleshoot/activation/cant-activate-on-new-computer",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Office/Client/activation-installation/office-for-mac-welcome-screen.md",
+         "redirect_url": "https://docs.microsoft.com/office/troubleshoot/office-for-mac/office-for-mac-welcome-screen",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Office/Client/activation-installation/office-pro-plus-2010-terminal-server.md",
+         "redirect_url": "https://docs.microsoft.com/office/troubleshoot/miscellaneous/office-pro-plus-2010-terminal-server",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Office/Client/activation-installation/error-1935-when-install-office-2010.md",
+         "redirect_url": "https://docs.microsoft.com/office/troubleshoot/installation/error-1935-when-install-office-2010",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Office/Client/activation-installation/install-and-activate-office-2013.md",
+         "redirect_url": "https://docs.microsoft.com/office/troubleshoot/installation/install-and-activate-office-2013",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Office/Client/activation-installation/issue-when-activate-office-365-proplus.md",
+         "redirect_url": "https://docs.microsoft.com/office/troubleshoot/activation/issue-when-activate-office-365-proplus",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Office/Client/activation-installation/issue-when-activate-office-from-office-365.md",
+         "redirect_url": "https://docs.microsoft.com/office/troubleshoot/activation/issue-when-activate-office-from-office-365",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Office/Client/activation-installation/office-2010-product-key-change-error.md",
+         "redirect_url": "https://docs.microsoft.com/office/troubleshoot/activation/office-2010-product-key-change-error",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Office/Client/activation-installation/office-for-mac-issues-macos-10-7.md",
+         "redirect_url": "https://docs.microsoft.com/office/troubleshoot/office-for-mac/office-for-mac-issues-macos-10-7",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Office/Client/activation-installation/office-setup-issues.md",
+         "redirect_url": "https://docs.microsoft.com/office/troubleshoot/installation/office-setup-issues",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Office/Client/activation-installation/powerpoint-mac-closes-unexpectedly.md",
+         "redirect_url": "https://docs.microsoft.com/office/troubleshoot/office-for-mac/powerpoint-mac-closes-unexpectedly",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Office/Client/activation-installation/something-went-wrong-30016-4-error.md",
+         "redirect_url": "https://docs.microsoft.com/office/troubleshoot/installation/something-went-wrong-30016-4-error",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Office/Client/activation-installation/something-configured-fails-activating-office.md",
+         "redirect_url": "https://docs.microsoft.com/office/troubleshoot/activation/something-configured-fails-activating-office",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Office/Client/reference/enable-co-authoring-for-onedrive-synced-file.md",
+         "redirect_url": "https://docs.microsoft.com/sharepoint/support/sync/enable-co-authoring-for-onedrive-synced-file",
+         "redirect_document_id": false
+      },
+    ] 
+    }
