@@ -830,5 +830,10 @@
          "redirect_url": "https://docs.microsoft.com/sharepoint/support/sync/enable-co-authoring-for-onedrive-synced-file",
          "redirect_document_id": false
       },
+      {
+         "source_path": "Microsoft365/admin/updates/switch-channel-for-office-365.md",
+         "redirect_url": "http://docs.microsoft.com/deployoffice/change-update-channels",
+         "redirect_document_id": false
+         }
     ] 
     }
