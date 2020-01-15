@@ -834,6 +834,26 @@
          "source_path": "Microsoft365/admin/updates/switch-channel-for-office-365.md",
          "redirect_url": "http://docs.microsoft.com/deployoffice/change-update-channels",
          "redirect_document_id": false
-         }
+      },
+      {
+         "source_path": "Office/client/troubleshooting/wkresources-files-moved-to-trash.md",
+         "redirect_url": "https://docs.microsoft.com/office/troubleshoot/office-for-mac/wkresources-files-moved-to-trash",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Office/client/troubleshooting/fails-embedding-adobe-opentype-font.md",
+         "redirect_url": "https://docs.microsoft.com/office/troubleshoot/office/fails-embedding-adobe-opentype-font",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Office/client/troubleshooting/office-display-issues.md",
+         "redirect_url": "https://docs.microsoft.com/office/troubleshoot/settings/office-display-issues",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Office/client/troubleshooting/office-slow-or-stop-responding.md",
+         "redirect_url": "https://docs.microsoft.com/office/troubleshoot/performance/office-slow-or-stop-responding",
+         "redirect_document_id": false
+      }
     ] 
     }
