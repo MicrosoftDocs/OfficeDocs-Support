@@ -1,5 +1,275 @@
 { 
     "redirections": [ 
+    {
+      "source_path": "Office/Client/office-developer/add-button-in-word.md",
+      "redirect_url": "/previous-versions/office/troubleshoot/office-developer/add-button-in-word",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/office-developer/asynchronous-programming-to-object-model.md",
+      "redirect_url": "/previous-versions/office/troubleshoot/office-developer/asynchronous-programming-to-object-model",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/office-developer/automate-access-using-visual-c.md",
+      "redirect_url": "/previous-versions/office/troubleshoot/office-developer/automate-access-using-visual-c",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/office-developer/automate-create-presentation-using-visual-basic-net.md",
+      "redirect_url": "/previous-versions/office/troubleshoot/office-developer/automate-create-presentation-using-visual-basic-net",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/office-developer/automate-excel-from-c.md",
+      "redirect_url": "/previous-versions/office/troubleshoot/office-developer/automate-excel-from-c",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/office-developer/automate-excel-from-client-side-vbscript.md",
+      "redirect_url": "/previous-versions/office/troubleshoot/office-developer/automate-excel-from-client-side-vbscript",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/office-developer/automate-excel-from-mfc-fill-data.md",
+      "redirect_url": "/previous-versions/office/troubleshoot/office-developer/automate-excel-from-mfc-fill-data",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/office-developer/automate-excel-from-visual-basic-net.md",
+      "redirect_url": "/previous-versions/office/troubleshoot/office-developer/automate-excel-from-visual-basic-net",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/office-developer/automate-excel-from-visual-basic.md",
+      "redirect_url": "/previous-versions/office/troubleshoot/office-developer/automate-excel-from-visual-basic",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/office-developer/automate-excel-from-visual-c.md",
+      "redirect_url": "/previous-versions/office/troubleshoot/office-developer/automate-excel-from-visual-c",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/office-developer/automate-excel-using-jscript.md",
+      "redirect_url": "/previous-versions/office/troubleshoot/office-developer/automate-excel-using-jscript",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/office-developer/automate-excel-using-visual-c-fill-data.md",
+      "redirect_url": "/previous-versions/office/troubleshoot/office-developer/automate-excel-using-visual-c-fill-data",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/office-developer/automate-outlook-2010-using-c-with-mfc.md",
+      "redirect_url": "/previous-versions/office/troubleshoot/office-developer/automate-outlook-2010-using-c-with-mfc",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/office-developer/automate-word-create-file-using-visual-basic.md",
+      "redirect_url": "/previous-versions/office/troubleshoot/office-developer/automate-word-create-file-using-visual-basic",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/office-developer/automate-word-create-file-using-visual-c.md",
+      "redirect_url": "/previous-versions/office/troubleshoot/office-developer/automate-word-create-file-using-visual-c",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/office-developer/automate-word-create-mail-merge-for-mailing-labels.md",
+      "redirect_url": "/previous-versions/office/troubleshoot/office-developer/automate-word-create-mail-merge-for-mailing-labels",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/office-developer/automate-word-create-mail-merge.md",
+      "redirect_url": "/previous-versions/office/troubleshoot/office-developer/automate-word-create-mail-merge",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/office-developer/automate-word-mail-merge-using-visual-c-mfc.md",
+      "redirect_url": "/previous-versions/office/troubleshoot/office-developer/automate-word-mail-merge-using-visual-c-mfc",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/office-developer/automate-word-mail-merge-using-visual-c.md",
+      "redirect_url": "/previous-versions/office/troubleshoot/office-developer/automate-word-mail-merge-using-visual-c",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/office-developer/automate-word-mail-merge-using-xml.md",
+      "redirect_url": "/previous-versions/office/troubleshoot/office-developer/automate-word-mail-merge-using-xml",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/office-developer/automate-word-perform-mail-merge-from-vb-net.md",
+      "redirect_url": "/previous-versions/office/troubleshoot/office-developer/automate-word-perform-mail-merge-from-vb-net",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/office-developer/binding-type-available-to-automation-clients.md",
+      "redirect_url": "/previous-versions/office/troubleshoot/office-developer/binding-type-available-to-automation-clients",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/office-developer/call-excel-macros.md",
+      "redirect_url": "/previous-versions/office/troubleshoot/office-developer/call-excel-macros",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/office-developer/compile-error-editing-vba-macro.md",
+      "redirect_url": "/previous-versions/office/troubleshoot/office-developer/compile-error-editing-vba-macro",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/office-developer/count-cells-number-with-color-using-vba.md",
+      "redirect_url": "/previous-versions/office/troubleshoot/office-developer/count-cells-number-with-color-using-vba",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/office-developer/create-realtimedata-server-in-excel.md",
+      "redirect_url": "/previous-versions/office/troubleshoot/office-developer/create-realtimedata-server-in-excel",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/office-developer/create-script-for-rule-wizard-in-outlook.md",
+      "redirect_url": "/previous-versions/office/troubleshoot/office-developer/create-script-for-rule-wizard-in-outlook",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/office-developer/declare-return-type-in-64-bit-vba.md",
+      "redirect_url": "/previous-versions/office/troubleshoot/office-developer/declare-return-type-in-64-bit-vba",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/office-developer/display-progress-bar-with-user-form-in-excel.md",
+      "redirect_url": "/previous-versions/office/troubleshoot/office-developer/display-progress-bar-with-user-form-in-excel",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/office-developer/embed-automate-document-using-vb.md",
+      "redirect_url": "/previous-versions/office/troubleshoot/office-developer/embed-automate-document-using-vb",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/office-developer/encode-and-decode-attachment-using-visual-c-in-infopath-2003.md",
+      "redirect_url": "/previous-versions/office/troubleshoot/office-developer/encode-and-decode-attachment-using-visual-c-in-infopath-2003",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/office-developer/encode-and-decode-attachment-using-visual-c-in-infopath-2010.md",
+      "redirect_url": "/previous-versions/office/troubleshoot/office-developer/encode-and-decode-attachment-using-visual-c-in-infopath-2010",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/office-developer/export-data-in-datagrid-on-asp.net-webform-to-excel.md",
+      "redirect_url": "/previous-versions/office/troubleshoot/office-developer/export-data-in-datagrid-on-asp.net-webform-to-excel",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/office-developer/find-office-installation-path.md",
+      "redirect_url": "/previous-versions/office/troubleshoot/office-developer/find-office-installation-path",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/office-developer/handle-excel-event-using-vb-net.md",
+      "redirect_url": "/previous-versions/office/troubleshoot/office-developer/handle-excel-event-using-vb-net",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/office-developer/how-to-automate-visio-with-visual-basic-.net.md",
+      "redirect_url": "/previous-versions/office/troubleshoot/office-developer/how-to-automate-visio-with-visual-basic-.net",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/office-developer/macro-delete-duplicate-items-in-excel.md",
+      "redirect_url": "/previous-versions/office/troubleshoot/office-developer/macro-delete-duplicate-items-in-excel",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/office-developer/office-com-add-in-using-visual-c.md",
+      "redirect_url": "/previous-versions/office/troubleshoot/office-developer/office-com-add-in-using-visual-c",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/office-developer/print-comment-in-visio.md",
+      "redirect_url": "/previous-versions/office/troubleshoot/office-developer/print-comment-in-visio",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/office-developer/retrieve-macro-name-in-excel-using-vb.md",
+      "redirect_url": "/previous-versions/office/troubleshoot/office-developer/retrieve-macro-name-in-excel-using-vb",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/office-developer/select-cells-rangs-with-visual-basic.md",
+      "redirect_url": "/previous-versions/office/troubleshoot/office-developer/select-cells-rangs-with-visual-basic",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/office-developer/set-up-vb-project-using-class.md",
+      "redirect_url": "/previous-versions/office/troubleshoot/office-developer/set-up-vb-project-using-class",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/office-developer/transfer-data-to-excel-using-visual-c.md",
+      "redirect_url": "/previous-versions/office/troubleshoot/office-developer/transfer-data-to-excel-using-visual-c",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/office-developer/transfer-excel-data-from-ado-recordset.md",
+      "redirect_url": "/previous-versions/office/troubleshoot/office-developer/transfer-excel-data-from-ado-recordset",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/office-developer/turn-off-visual-basic-for-application.md",
+      "redirect_url": "/previous-versions/office/troubleshoot/office-developer/turn-off-visual-basic-for-application",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/office-developer/use-office-web-components-using-aps-net.md",
+      "redirect_url": "/previous-versions/office/troubleshoot/office-developer/use-office-web-components-using-aps-net",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/office-developer/use-type-library-for-office-from-visual-c-net.md",
+      "redirect_url": "/previous-versions/office/troubleshoot/office-developer/use-type-library-for-office-from-visual-c-net",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/office-developer/use-vb-activex-for-word-automation.md",
+      "redirect_url": "/previous-versions/office/troubleshoot/office-developer/use-vb-activex-for-word-automation",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/office-developer/use-vb-count-occurrences-in-excel.md",
+      "redirect_url": "/previous-versions/office/troubleshoot/office-developer/use-vb-count-occurrences-in-excel",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/office-developer/use-visual-c-automate-run-program-instance.md",
+      "redirect_url": "/previous-versions/office/troubleshoot/office-developer/use-visual-c-automate-run-program-instance",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/office-developer/use-word-automation-count-page-number.md",
+      "redirect_url": "/previous-versions/office/troubleshoot/office-developer/use-word-automation-count-page-number",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/office-developer/use-xml-web-service-in-word-or-excel.md",
+      "redirect_url": "/previous-versions/office/troubleshoot/office-developer/use-xml-web-service-in-word-or-excel",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/office-developer/webbrowser-open-office-document-in-visual-basic.md",
+      "redirect_url": "/previous-versions/office/troubleshoot/office-developer/webbrowser-open-office-document-in-visual-basic",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/office-developer/webbrowser-open-office-document-in-visual-c.md",
+      "redirect_url": "/previous-versions/office/troubleshoot/office-developer/webbrowser-open-office-document-in-visual-c",
+      "redirect_document_id": false
+    },
       {
          "source_path": "SharePoint/SharePointServer/sharepoint-server.md",
          "redirect_url": "/sharepoint/support/server",
