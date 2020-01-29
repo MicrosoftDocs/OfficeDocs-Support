@@ -66,7 +66,6 @@ You must test your applications for all the following scenarios, and determine t
 If enterprise customers learn that most of their apps are affected, or if they have enough time to test their apps before the Chrome Stable version release date, they're encouraged to disable the **SameSite** behavior in computers they govern. They can do this by using Group Policy, System Center Configuration Manager, or Microsoft Intune (or any Mobile Device Management software) until they can verify that the new behavior doesn't break basic scenarios in their apps.
 
 Google has released the following [enterprise controls](https://www.chromium.org/updates/same-site) that can be set to disable the **SameSite** enforcement behavior in Chrome:
-
 - LegacySameSiteCookieBehaviorEnabled
 - LegacySameSiteCookieBehaviorEnabledForDomainList
 
@@ -92,12 +91,10 @@ Google has published [this guidance](https://blog.chromium.org/2019/10/developer
 Use Chrome Beta version 80 to test the scenarios:
 
 1. Download Chrome Beta version 80:
-
    - For Windows 64-bit: [Beta channel for Windows (64-bit)](https://www.google.com/chrome/browser/beta.html?platform=win64)
    - For Windows 32-bit: [Beta channel for Windows (32-bit)](https://www.google.com/chrome/browser/beta.html?platform=win)
 
 2. Start Chrome by using the following additional command line flag:
-
    `--enable-features=SameSiteDefaultChecksMethodRigorously`
 
 3. Enable the **SameSite** flags. To do this, type **Chrome://flags** in the **Address** bar, search for **SameSite**, and then select **Enabled** for the following options.
