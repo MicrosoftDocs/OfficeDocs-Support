@@ -1129,6 +1129,11 @@
          "source_path": "SharePoint/online-admin/error-when-external-user-accepts-an-invitation-by-using-another-account.md",
          "redirect_url": "https://docs.microsoft.com/sharepoint/troubleshoot/sharing-and-permissions/error-when-external-user-accepts-an-invitation-by-using-another-account",
          "redirect_document_id": false
+      },
+      {
+         "source_path": "Outlook/Client/diagnostics/install-sara-from-network-share.md",
+         "redirect_url": "https://docs.microsoft.com/office365/troubleshoot/installation/install-sara-from-network-share",
+         "redirect_document_id": false
       }
     ] 
     }
