@@ -1134,6 +1134,16 @@
          "source_path": "Outlook/Client/diagnostics/install-sara-from-network-share.md",
          "redirect_url": "https://docs.microsoft.com/office365/troubleshoot/installation/install-sara-from-network-share",
          "redirect_document_id": false
+      },
+      {
+         "source_path": "SkypeforBusiness/SkypeOnline/online-exchange-integration/integrate-exchange-online-skype-for-business.md",
+         "redirect_url": "https://docs.microsoft.com/lyncserver/lync-server-2013-configuring-hybrid-deployments",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "SkypeforBusiness/SkypeOnline/online-exchange-integration/exchange-server-lync-server-hybrid.md",
+         "redirect_url": "https://docs.microsoft.com/lyncserver/lync-server-2013-configuring-hybrid-deployments",
+         "redirect_document_id": false
       }
     ] 
     }
