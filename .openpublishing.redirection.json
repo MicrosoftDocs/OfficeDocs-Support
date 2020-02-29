@@ -1144,6 +1144,11 @@
          "source_path": "SkypeforBusiness/SkypeOnline/online-exchange-integration/exchange-server-lync-server-hybrid.md",
          "redirect_url": "https://docs.microsoft.com/lyncserver/lync-server-2013-configuring-hybrid-deployments",
          "redirect_document_id": false
+      },
+      {
+         "source_path": "Outlook/Client/search-folders/personmetadata-items.md",
+         "redirect_url": "https://docs.microsoft.com/outlook/troubleshoot/search/personmetadata-items",
+         "redirect_document_id": false
       }
     ] 
     }
