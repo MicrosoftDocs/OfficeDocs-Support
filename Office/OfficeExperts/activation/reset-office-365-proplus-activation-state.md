@@ -16,7 +16,7 @@ appliesto:
 - Office 365 ProPlus
 ---
 
-# Reset Office 365 ProPlus activation state
+# Reset Office 365 ProPlus activation state [Re-work Needed]
 
 This article was written by [Matt Philipenko](https://social.technet.microsoft.com/profile/MattPhil+-+MSFT), Premier Field Engineer.
 
