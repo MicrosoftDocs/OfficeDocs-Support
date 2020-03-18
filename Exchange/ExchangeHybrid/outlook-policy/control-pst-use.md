@@ -31,22 +31,22 @@ When you use the Microsoft Office 365 Import service, you may want to control wh
 
 ### Prevent users from adding new data or content to an existing .pst file
 
-To prevent users from adding new data or content to an existing .pst file, add the PSTDisableGrow registry entry, and then set the value to 1. To do this, follow these steps: 
+To prevent users from adding new data or content to an existing .pst file, add the **PSTDisableGrow** registry entry, and then set the value to **1**. To do this, follow these steps: 
 
 1. Open Registry Editor.   
-2. Locate, and then click the following registry subkey:
+2. Locate and select the following registry subkey:
 
-    **HKEY_CURRENT_USER\Software\Policies\Microsoft\Office\<**x**>.0\Outlook\PST**
+    **HKEY_CURRENT_USER\Software\Policies\Microsoft\Office\<*x*>.0\Outlook\PST**
 
     > [!NOTE]
-    > The <**x**>.0 placeholder represents the version of Outlook: for example, 15.0 is Outlook 2013, 14.0 is Outlook 2010, and 12.0 is Outlook 2007.
-1. On the **Edit** menu, point to **New**, and then click **DWORD Value**.    
-1. Type PSTDisableGrow, and then press Enter.   
-1. Right-click the **PSTDisableGrow** registry entry that you created, and then click **Modify**.  
-1. In the **Value data** box, type 1, and then click **OK**.    
+    > The **<*x*>.0** placeholder represents the version of Outlook. For example, 15.0 is Outlook 2013, 14.0 is Outlook 2010, and 12.0 is Outlook 2007.
+1. On the **Edit** menu, point to **New**, and then select **DWORD Value**.
+1. Type **PSTDisableGrow**, and then press Enter.   
+1. Right-click the **PSTDisableGrow** registry entry that you created, and then select **Modify**.
+1. In the **Value data** box, type **1**, and then select **OK**.
 
 > [!NOTE]
-> The PSTDisableGrow registry entry can be set to the following values:
+> The **PSTDisableGrow** registry entry can be set to the following values.
 > 
 > |Value|Description|
 >  |-|-|
@@ -55,28 +55,28 @@ To prevent users from adding new data or content to an existing .pst file, add t
 
 ### Prevent users from adding new .pst files
 
-To prevent users from connecting a .pst file to Outlook, add the DisablePST registry entry, and then set the value to 1. To do this, follow these steps:
+To prevent users from connecting a .pst file to Outlook, add the **DisablePST** registry entry, and then set the value to **1**. To do this, follow these steps:
 
 1. Open Registry Editor.   
-2. Locate, and then click the following registry subkey:
+2. Locate and select the following registry subkey:
 
-    **HKEY_CURRENT_USER\Software\Policies\Microsoft\Office\<**x**>.0\Outlook**
+    **HKEY_CURRENT_USER\Software\Policies\Microsoft\Office\<*x*>.0\Outlook**
 
     > [!NOTE]
-    > The \<**x**>.0 placeholder represents the version of Outlook: for example, 15.0 is Outlook 2013, 14.0 is Outlook 2010, and 12.0 is Outlook 2007.
-1. On the **Edit **menu, point to **New**, and then click **DWORD Value**.    
-1. Type DisablePST, and then press Enter.   
-1. Right-click the DisablePST registry entry that you created, and then click **Modify**.    
-1. In the **Value data** box, type 1, and then click **OK**.    
+    > The **<*x*>.0** placeholder represents the version of Outlook. For example, 15.0 is Outlook 2013, 14.0 is Outlook 2010, and 12.0 is Outlook 2007.
+1. On the **Edit** menu, point to **New**, and then select **DWORD Value**.    
+1. Type **DisablePST**, and then press Enter.
+1. Right-click the **DisablePST** registry entry that you created, and then select **Modify**.
+1. In the **Value data** box, type **1**, and then select **OK**.
 
 > [!NOTE]
-> The DisablePST registry entry can be set to the following values: 
+> The **DisablePST** registry entry can be set to the following values.
 >
 > |Value|Description|
 > |-|-|
 > |0|Users can add .pst files. This is the default value.|
-> |1|Users cannot add .pst files. However, in scenarios where a .pst file was connected to Outlook before this registry value was added, the existing .pst file will still be connected. No new.pst files can be added. |
-> |2|Users can only add exclusive sharing .pst files, such as SharePoint .pst files. |
+> |1|Users cannot add .pst files. However, in scenarios in which a .pst file was connected to Outlook before this registry value was added, the existing .pst file will still be connected. No new.pst files can be added.|
+> |2|Users can add only exclusive sharing .pst files, such as SharePoint .pst files.|
 
 ## More information
 
