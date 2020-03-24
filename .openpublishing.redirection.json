@@ -1149,6 +1149,31 @@
          "source_path": "Outlook/Client/search-folders/personmetadata-items.md",
          "redirect_url": "https://docs.microsoft.com/outlook/troubleshoot/search/personmetadata-items",
          "redirect_document_id": false
+      },
+      {
+         "source_path": "Microsoft365/admin/security/troubleshooting-data-loss-protection-policy-tips.md",
+         "redirect_url": "https://docs.microsoft.com/office365/troubleshoot/data-loss-protection/data-loss-protection-policy-tips",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Microsoft365/admin/security/boxserviceaccount-is-added-to-role.md",
+         "redirect_url": "https://docs.microsoft.com/office365/troubleshoot/audit-logs/boxserviceaccount-is-added-to-role",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Microsoft365/admin/security/can't-run-ediscovery-search-cloud-mailbox.md",
+         "redirect_url": "https://docs.microsoft.com/office365/troubleshoot/ediscovery/cannot-run-ediscovery-search-cloud-mailbox",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Exchange/ExchangeHybrid/email-delivery/wrong-office-365-region-exo.md",
+         "redirect_url": "https://docs.microsoft.com/exchange/troubleshoot/connectors/wrong-office-365-region-exo",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Exchange/ExchangeOnline/archive-mailboxes/message-not-moved-to-archive.md",
+         "redirect_url": "https://docs.microsoft.com/office365/troubleshoot/archive-mailboxes/message-not-moved-to-archive",
+         "redirect_document_id": false
       }
     ] 
     }
