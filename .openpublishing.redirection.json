@@ -1174,6 +1174,31 @@
          "source_path": "Exchange/ExchangeOnline/archive-mailboxes/message-not-moved-to-archive.md",
          "redirect_url": "https://docs.microsoft.com/office365/troubleshoot/archive-mailboxes/message-not-moved-to-archive",
          "redirect_document_id": false
+      },
+      {
+         "source_path": "Microsoft365/admin/security/prepare-tls-1.2-in-office-365.md",
+         "redirect_url": "https://docs.microsoft.com/office365/troubleshoot/o365-security/prepare-tls-1.2-in-office-365",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Microsoft365/admin/security/account-security-alert-email.md",
+         "redirect_url": "https://docs.microsoft.com/office365/troubleshoot/o365-security/account-security-alert-email",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Microsoft365/admin/security/tls-1-2-in-office-365-gcc.md",
+         "redirect_url": "https://docs.microsoft.com/office365/troubleshoot/o365-security/tls-1-2-in-office-365-gcc",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Microsoft365/admin/security/access-denied-office-365-azure.md",
+         "redirect_url": "https://docs.microsoft.com/office365/troubleshoot/o365-security/access-denied-office-365-azure",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Microsoft365/admin/security/invalid-security-code-office-365-azure.md",
+         "redirect_url": "https://docs.microsoft.com/office365/troubleshoot/o365-security/invalid-security-code-office-365-azure",
+         "redirect_document_id": false
       }
     ] 
     }
