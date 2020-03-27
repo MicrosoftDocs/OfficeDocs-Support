@@ -1152,7 +1152,7 @@
       },
       {
          "source_path": "Microsoft365/admin/security/troubleshooting-data-loss-protection-policy-tips.md",
-         "redirect_url": "https://docs.microsoft.com/office365/troubleshoot/data-loss-protection/data-loss-protection-policy-tips",
+         "redirect_url": "https://docs.microsoft.com/office365/troubleshoot/data-loss-prevention/data-loss-prevention-policy-tips",
          "redirect_document_id": false
       },
       {
@@ -1161,7 +1161,7 @@
          "redirect_document_id": false
       },
       {
-         "source_path": "Microsoft365/admin/security/can't-run-ediscovery-search-cloud-mailbox.md",
+         "source_path": "Microsoft365/admin/security/can’t-run-ediscovery-search-cloud-mailbox.md",
          "redirect_url": "https://docs.microsoft.com/office365/troubleshoot/ediscovery/cannot-run-ediscovery-search-cloud-mailbox",
          "redirect_document_id": false
       },
