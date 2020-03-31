@@ -1219,6 +1219,11 @@
          "source_path": "Exchange/ExchangeServer/mailbox-configuration/hop-count-exceeded-possible-mail-loop.md",
          "redirect_url": "https://docs.microsoft.com/exchange/troubleshoot/mailflow/hop-count-exceeded-possible-mail-loop",
          "redirect_document_id": false
+      },
+      {
+         "source_path": "Microsoft365/admin/security/security-settings.md",
+         "redirect_url": "https://docs.microsoft.com/office/troubleshoot/excel/security-settings",
+         "redirect_document_id": false
       }
     ] 
     }
