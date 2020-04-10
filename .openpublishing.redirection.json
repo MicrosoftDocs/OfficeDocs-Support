@@ -1224,6 +1224,21 @@
          "source_path": "Microsoft365/admin/security/security-settings.md",
          "redirect_url": "https://docs.microsoft.com/office/troubleshoot/excel/security-settings",
          "redirect_document_id": false
+      },
+      {
+         "source_path": "Exchange/ExchangeOnline/distribution-groups/cannot-determine-group-type-error.md",
+         "redirect_url": "https://docs.microsoft.com/exchange/troubleshoot/groups/cannot-determine-group-type-error",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Exchange/ExchangeOnline/distribution-groups/prevent-users-create-manage-dg.md",
+         "redirect_url": "https://docs.microsoft.com/exchange/troubleshoot/groups/prevent-users-create-manage-dg",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Exchange/ExchangeOnline/distribution-groups/no-sufficient-permissions-moving-dg.md",
+         "redirect_url": "https://docs.microsoft.com/exchange/troubleshoot/groups/no-sufficient-permissions-moving-dg",
+         "redirect_document_id": false
       }
     ] 
     }
