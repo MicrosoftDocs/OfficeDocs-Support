@@ -1239,6 +1239,11 @@
          "source_path": "Exchange/ExchangeOnline/distribution-groups/no-sufficient-permissions-moving-dg.md",
          "redirect_url": "https://docs.microsoft.com/exchange/troubleshoot/groups/no-sufficient-permissions-moving-dg",
          "redirect_document_id": false
+      },
+      {
+         "source_path": "Microsoft365/enterprise/access-project-online-tenant.md",
+         "redirect_url": "https://docs.microsoft.com/ProjectOnline/get-started-with-project-online",
+         "redirect_document_id": false
       }
     ] 
     }
