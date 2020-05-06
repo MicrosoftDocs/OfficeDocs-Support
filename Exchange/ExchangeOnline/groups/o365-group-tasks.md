@@ -43,6 +43,9 @@ search.appverid: MET150
   - [Office 365 group migration](#office-365-group-migration)
   - [Office 365 group deletion](#office-365-group-deletion)
   - [Export Office 365 Groups information](#export-office-365-groups-information)
+- [Office 365 Group mailbox size](#group-mailbox-size)
+  - [View Office 365 Group mailbox size](#mailbox-size)
+  - [Increase Office 365 group mailbox quota](#mailbox-quota)
 - Useful scripts for Office 365 Groups management
   - [Sample 1: See all the groups together with created date, owner, and membership count](#sample-one)
   - [Sample 2: Create a report for users in a group](#sample-two)
@@ -423,6 +426,46 @@ To list all Office 365 groups together with tracking information about the group
 ![Search for added group](./media/o365-group-tasks/search.png)
 
 [Back to top](#top)
+
+## Office 365 Group mailbox size
+
+Office 365 Group mailbox is limited to 50 GB by default. The following section explains steps to view the current size of Office 365 group mailbox and how to increase the mailbox quota
+
+### <a id="mailbox-size" />Office 365 group mailbox size
+
+1)	Connect to EXO PowerShell
+
+2)	Use following command to view the current size of Microsoft 365 Group mailbox
+
+To view specific group mailbox:
+
+```powershell
+Get-Mailbox -GroupMailbox <name of the group> | Get-MailboxStatistics | fl TotalDeletedItemSize,TotalItemSize
+```
+
+To current size of group mailboxes:
+
+```powershell
+Get-Mailbox -GroupMailbox  -ResultSize unlimited | Get-MailboxStatistics | ft DisplayName,TotalDeletedItemSize,TotalItemSize
+```
+
+### <a id="mailbox-quota" />Increase Office 365 group mailbox quota
+
+1)	Connect to EXO PowerShell
+
+2)	Use following command to change quota of Office 365 Group mailbox to 100 GB
+
+```powershell
+Set-Mailbox <group mailbox name> -GroupMailbox -ProhibitSendReceiveQuota 100GB -ProhibitSendQuota 95GB
+````
+
+Example:
+
+
+```powershell
+Set-Mailbox Marketing -GroupMailbox -ProhibitSendReceiveQuota 100GB -ProhibitSendQuota 95GB
+````
+
 
 ## Useful scripts for Office 365 Groups management
 
