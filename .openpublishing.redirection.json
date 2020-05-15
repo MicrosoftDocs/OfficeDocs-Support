@@ -1244,6 +1244,21 @@
          "source_path": "Microsoft365/enterprise/access-project-online-tenant.md",
          "redirect_url": "https://docs.microsoft.com/ProjectOnline/get-started-with-project-online",
          "redirect_document_id": false
+      },
+      {
+         "source_path": "Office/Client/reference/use-multiple-versions-of-office.md",
+         "redirect_url": "https://docs.microsoft.com/office/troubleshoot/miscellaneous/use-multiple-versions-of-office",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Office/Client/reference/enable-collaboration.md",
+         "redirect_url": "https://docs.microsoft.com/office/troubleshoot/miscellaneous/enable-collaboration",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Office/Client/reference/numbering-scheme-product-code-guids.md",
+         "redirect_url": "https://docs.microsoft.com/office/troubleshoot/miscellaneous/numbering-scheme-product-code-guids",
+         "redirect_document_id": false
       }
     ] 
     }
