@@ -1261,13 +1261,13 @@
          "redirect_document_id": false
       },
       {
-        "source_path": "SharePoint/SharePointOnline/lists-and-libraries/list-library-not-use-new-experience.md",
-        "redirect_url": "https://docs.microsoft.com/sharepoint/support/lists-and-libraries/modern-view-compatibility-checklist",
+        "source_path": "Teams/teams-administration/teams-rooms-app-wont-start-after-update.md",
+        "redirect_url": "https://support.microsoft.com/help/4565998",
         "redirect_document_id": false
       },
       {
-        "source_path": "Teams/teams-administration/teams-rooms-app-wont-start-after-update.md",
-        "redirect_url": "https://support.microsoft.com/help/4565998",
+        "source_path": "SharePoint/SharePointOnline/lists-and-libraries/list-library-not-use-new-experience.md",
+        "redirect_url": "https://docs.microsoft.com/sharepoint/support/lists-and-libraries/modern-view-compatibility-checklist",
         "redirect_document_id": false
       }
     ] 
