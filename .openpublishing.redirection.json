@@ -1354,6 +1354,16 @@
         "source_path": "Exchange/ExchangeServer/migration/public-folder-migration-fails.md",
         "redirect_url": "https://docs.microsoft.com/exchange/troubleshoot/public-folders/public-folder-migration-fails",
         "redirect_document_id": false
+      },
+      {
+        "source_path": "Exchange/ExchangeServer/client-access/imap-clients-logon-fail-coexist-exchange.md",
+        "redirect_url": "https://docs.microsoft.com/exchange/troubleshoot/client-connectivity/imap-clients-logon-fail-coexist-exchange",
+        "redirect_document_id": false
+      },
+      {
+        "source_path": "Exchange/ExchangeServer/owa/can't-connect-error-searching-people-owa.md",
+        "redirect_url": "https://docs.microsoft.com/exchange/troubleshoot/client-connectivity/can't-connect-error-searching-people-owa",
+        "redirect_document_id": false
       }
     ] 
     }
