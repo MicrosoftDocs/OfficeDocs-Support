@@ -1264,6 +1264,106 @@
         "source_path": "Teams/teams-administration/teams-rooms-app-wont-start-after-update.md",
         "redirect_url": "https://support.microsoft.com/help/4565998",
         "redirect_document_id": false
+      },
+      {
+        "source_path": "Exchange/ExchangeServer/active-sync/url-invalid-format.md",
+        "redirect_url": "https://docs.microsoft.com/exchange/troubleshoot/administration/url-invalid-format",
+        "redirect_document_id": false
+      },
+      {
+        "source_path": "Exchange/ExchangeServer/management-console/mcdb-status-is-offline-ssds-aren’t-formatted.md",
+        "redirect_url": "https://docs.microsoft.com/exchange/troubleshoot/administration/mcdb-status-is-offline-ssds-aren’t-formatted",
+        "redirect_document_id": false
+      },
+      {
+        "source_path": "Exchange/ExchangeServer/management-console/restore-database-backup-mcdb-enable.md",
+        "redirect_url": "https://docs.microsoft.com/exchange/troubleshoot/administration/restore-database-backup-mcdb-enable",
+        "redirect_document_id": false
+      },
+      {
+        "source_path": "Exchange/ExchangeServer/management-console/connecting-remote-server-failed.md",
+        "redirect_url": "https://docs.microsoft.com/exchange/troubleshoot/administration/connecting-remote-server-failed",
+        "redirect_document_id": false
+      },
+      {
+        "source_path": "Exchange/ExchangeServer/management-console/unable-open-ems-launchems.md",
+        "redirect_url": "https://docs.microsoft.com/exchange/troubleshoot/administration/unable-open-ems-launchems",
+        "redirect_document_id": false
+      },
+      {
+        "source_path": "Exchange/ExchangeServer/management-console/fail-to-start-ems-canot-find-path.md",
+        "redirect_url": "https://docs.microsoft.com/exchange/troubleshoot/administration/fail-to-start-ems-canot-find-path",
+        "redirect_document_id": false
+      },
+      {
+        "source_path": "Exchange/ExchangeServer/microsoft-diagnostics-services/self-help-portal.md",
+        "redirect_url": "https://docs.microsoft.com/exchange/troubleshoot/administration/self-help-portal",
+        "redirect_document_id": false
+      },
+      {
+        "source_path": "Exchange/ExchangeServer/calendars/calendar-shows-organizer-name.md",
+        "redirect_url": "https://docs.microsoft.com/exchange/troubleshoot/client-connectivity/calendar-shows-organizer-name",
+        "redirect_document_id": false
+      },
+      {
+        "source_path": "Exchange/ExchangeServer/shared-mailboxes/cannot-create-appointment.md",
+        "redirect_url": "https://docs.microsoft.com/exchange/troubleshoot/client-connectivity/cannot-create-appointment",
+        "redirect_document_id": false
+      },
+      {
+        "source_path": "Exchange/ExchangeServer/client-access/kerberos-authentication-for-mapi-client.md",
+        "redirect_url": "https://docs.microsoft.com/exchange/troubleshoot/client-connectivity/kerberos-authentication-for-mapi-client",
+        "redirect_document_id": false
+      },
+      {
+        "source_path": "Exchange/ExchangeServer/http-proxy/400-bad-request.md",
+        "redirect_url": "https://docs.microsoft.com/exchange/troubleshoot/client-connectivity/400-bad-request",
+        "redirect_document_id": false
+      },
+      {
+        "source_path": "Exchange/ExchangeServer/out-of-office-assistant/one-reply-sent-sender.md",
+        "redirect_url": "https://docs.microsoft.com/exchange/troubleshoot/client-connectivity/one-reply-sent-sender",
+        "redirect_document_id": false
+      },
+      {
+        "source_path": "Exchange/ExchangeServer/owa/incorrect-sent-time-stamp.md",
+        "redirect_url": "https://docs.microsoft.com/exchange/troubleshoot/client-connectivity/incorrect-sent-time-stamp",
+        "redirect_document_id": false
+      },
+      {
+        "source_path": "Exchange/ExchangeServer/owa/set-up-web-access.md",
+        "redirect_url": "https://docs.microsoft.com/exchange/troubleshoot/client-connectivity/set-up-web-access",
+        "redirect_document_id": false
+      },
+      {
+        "source_path": "Exchange/ExchangeServer/shared-mailboxes/accessing-shared-mailboxes-fails.md",
+        "redirect_url": "https://docs.microsoft.com/exchange/troubleshoot/client-connectivity/accessing-shared-mailboxes-fails",
+        "redirect_document_id": false
+      },
+      {
+        "source_path": "Exchange/ExchangeServer/administration/mailbox-audit-log-searches-fail-errorinvalidserverversion.md",
+        "redirect_url": "https://docs.microsoft.com/exchange/troubleshoot/compliance/mailbox-audit-log-searches-fail-errorinvalidserverversion",
+        "redirect_document_id": false
+      },
+      {
+        "source_path": "Exchange/ExchangeServer/migration/migrationbatch-fails-no-public-folder-mailboxes.md",
+        "redirect_url": "https://docs.microsoft.com/exchange/troubleshoot/public-folders/migrationbatch-fails-no-public-folder-mailboxes",
+        "redirect_document_id": false
+      },
+      {
+        "source_path": "Exchange/ExchangeServer/migration/public-folder-migration-fails.md",
+        "redirect_url": "https://docs.microsoft.com/exchange/troubleshoot/public-folders/public-folder-migration-fails",
+        "redirect_document_id": false
+      },
+      {
+        "source_path": "Exchange/ExchangeServer/client-access/imap-clients-logon-fail-coexist-exchange.md",
+        "redirect_url": "https://docs.microsoft.com/exchange/troubleshoot/client-connectivity/imap-clients-logon-fail-coexist-exchange",
+        "redirect_document_id": false
+      },
+      {
+        "source_path": "Exchange/ExchangeServer/owa/can't-connect-error-searching-people-owa.md",
+        "redirect_url": "https://docs.microsoft.com/exchange/troubleshoot/client-connectivity/can't-connect-error-searching-people-owa",
+        "redirect_document_id": false
       }
     ] 
     }
