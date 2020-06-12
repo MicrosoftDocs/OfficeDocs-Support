@@ -1644,6 +1644,176 @@
         "source_path": "Office/Client/office/windows-installer-service-not-be-accesse.md",
         "redirect_url": "https://docs.microsoft.com/office/troubleshoot/installation/windows-installer-service-not-be-accesse",
         "redirect_document_id": false
+      },
+      {
+        "source_path": "Office/Client/office/cannot-install-64-bit-office-with-32-bit.md",
+        "redirect_url": "https://docs.microsoft.com/office/troubleshoot/office-suite-issues/cannot-install-64-bit-office-with-32-bit",
+        "redirect_document_id": false
+      },
+      {
+        "source_path": "Office/Client/office/cant-create-dsn-for-office-system-driver.md",
+        "redirect_url": "https://docs.microsoft.com/office/troubleshoot/office-suite-issues/cant-create-dsn-for-office-system-driver",
+        "redirect_document_id": false
+      },
+      {
+        "source_path": "Office/Client/office/cant-install-office-on-windows-8.md",
+        "redirect_url": "https://docs.microsoft.com/office/troubleshoot/office-suite-issues/cant-install-office-on-windows-8",
+        "redirect_document_id": false
+      },
+      {
+        "source_path": "Office/Client/office/change-number-of-recent-places.md",
+        "redirect_url": "https://docs.microsoft.com/office/troubleshoot/office-suite-issues/change-number-of-recent-places",
+        "redirect_document_id": false
+      },
+      {
+        "source_path": "Office/Client/office/click-hyperlink-to-sso-website.md",
+        "redirect_url": "https://docs.microsoft.com/office/troubleshoot/office-suite-issues/click-hyperlink-to-sso-website",
+        "redirect_document_id": false
+      },
+      {
+        "source_path": "Office/Client/office/compile-error-procedure-too-large.md",
+        "redirect_url": "https://docs.microsoft.com/office/troubleshoot/office-suite-issues/compile-error-procedure-too-large",
+        "redirect_document_id": false
+      },
+      {
+        "source_path": "Office/Client/office/connect-to-network-document-lost.md",
+        "redirect_url": "https://docs.microsoft.com/office/troubleshoot/office-suite-issues/connect-to-network-document-lost",
+        "redirect_document_id": false
+      },
+      {
+        "source_path": "Office/Client/office/convert-bibliography-to-static-text.md",
+        "redirect_url": "https://docs.microsoft.com/office/troubleshoot/office-suite-issues/convert-bibliography-to-static-text",
+        "redirect_document_id": false
+      },
+      {
+        "source_path": "Office/Client/office/dsofile.dll-allow-edit-document-property.md",
+        "redirect_url": "https://docs.microsoft.com/office/troubleshoot/office-suite-issues/dsofile.dll-allow-edit-document-property",
+        "redirect_document_id": false
+      },
+      {
+        "source_path": "Office/Client/office/duplicate-service-listed.md",
+        "redirect_url": "https://docs.microsoft.com/office/troubleshoot/office-suite-issues/duplicate-service-listed",
+        "redirect_document_id": false
+      },
+      {
+        "source_path": "Office/Client/office/fails-embedding-adobe-opentype-font.md",
+        "redirect_url": "https://docs.microsoft.com/office/troubleshoot/office-suite-issues/fails-embedding-adobe-opentype-font",
+        "redirect_document_id": false
+      },
+      {
+        "source_path": "Office/Client/office/faq-about-office-activation-wizard.md",
+        "redirect_url": "https://docs.microsoft.com/office/troubleshoot/office-suite-issues/faq-about-office-activation-wizard",
+        "redirect_document_id": false
+      },
+      {
+        "source_path": "Office/Client/office/getobject-createobject-behavior.md",
+        "redirect_url": "https://docs.microsoft.com/office/troubleshoot/office-suite-issues/getobject-createobject-behavior",
+        "redirect_document_id": false
+      },
+      {
+        "source_path": "Office/Client/office/manage-office-program-templates.md",
+        "redirect_url": "https://docs.microsoft.com/office/troubleshoot/office-suite-issues/manage-office-program-templates",
+        "redirect_document_id": false
+      },
+      {
+        "source_path": "Office/Client/office/missing-fonts-opening-documents.md",
+        "redirect_url": "https://docs.microsoft.com/office/troubleshoot/office-suite-issues/missing-fonts-opening-documents",
+        "redirect_document_id": false
+      },
+      {
+        "source_path": "Office/Client/office/no-default-mail-client-error.md",
+        "redirect_url": "https://docs.microsoft.com/office/troubleshoot/office-suite-issues/no-default-mail-client-error",
+        "redirect_document_id": false
+      },
+      {
+        "source_path": "Office/Client/office/office-applications-crash-when-open-irm-doc.md",
+        "redirect_url": "https://docs.microsoft.com/office/troubleshoot/office-suite-issues/office-applications-crash-when-open-irm-doc",
+        "redirect_document_id": false
+      },
+      {
+        "source_path": "Office/Client/office/office-click-to-run-faq.md",
+        "redirect_url": "https://docs.microsoft.com/office/troubleshoot/office-suite-issues/office-click-to-run-faq",
+        "redirect_document_id": false
+      },
+      {
+        "source_path": "Office/Client/office/office-click-to-run-installation.md",
+        "redirect_url": "https://docs.microsoft.com/office/troubleshoot/office-suite-issues/office-click-to-run-installation",
+        "redirect_document_id": false
+      },
+      {
+        "source_path": "Office/Client/office/office-docuemnt-image-quality-loss.md",
+        "redirect_url": "https://docs.microsoft.com/office/troubleshoot/office-suite-issues/office-docuemnt-image-quality-loss",
+        "redirect_document_id": false
+      },
+      {
+        "source_path": "Office/Client/office/office-end-user-license-agreement.md",
+        "redirect_url": "https://docs.microsoft.com/office/troubleshoot/office-suite-issues/office-end-user-license-agreement",
+        "redirect_document_id": false
+      },
+      {
+        "source_path": "Office/Client/office/your-system-is-low-on-virtual-memory.md",
+        "redirect_url": "https://docs.microsoft.com/office/troubleshoot/office-suite-issues/your-system-is-low-on-virtual-memory",
+        "redirect_document_id": false
+      },
+      {
+        "source_path": "Office/Client/office/office-install-error-1401-1402-1406.md",
+        "redirect_url": "https://docs.microsoft.com/office/troubleshoot/office-suite-issues/office-install-error-1401-1402-1406",
+        "redirect_document_id": false
+      },
+      {
+        "source_path": "Office/Client/office/office-not-entitled-on-device.md",
+        "redirect_url": "https://docs.microsoft.com/office/troubleshoot/office-suite-issues/office-not-entitled-on-device",
+        "redirect_document_id": false
+      },
+      {
+        "source_path": "Office/Client/office/office-stops-responding.md",
+        "redirect_url": "https://docs.microsoft.com/office/troubleshoot/office-suite-issues/office-stops-responding",
+        "redirect_document_id": false
+      },
+      {
+        "source_path": "Office/Client/office/office-suite-setup-not-restart.md",
+        "redirect_url": "https://docs.microsoft.com/office/troubleshoot/office-suite-issues/office-suite-setup-not-restart",
+        "redirect_document_id": false
+      },
+      {
+        "source_path": "Office/Client/office/win32api_ptrsafe-with-64-bit-support.md",
+        "redirect_url": "https://docs.microsoft.com/office/troubleshoot/office-suite-issues/win32api_ptrsafe-with-64-bit-support",
+        "redirect_document_id": false
+      },
+      {
+        "source_path": "Office/Client/office/office-temporary-files-not-delete.md",
+        "redirect_url": "https://docs.microsoft.com/office/troubleshoot/office-suite-issues/office-temporary-files-not-delete",
+        "redirect_document_id": false
+      },
+      {
+        "source_path": "Office/Client/office/prevent-office-from-disabling-printers.md",
+        "redirect_url": "https://docs.microsoft.com/office/troubleshoot/office-suite-issues/prevent-office-from-disabling-printers",
+        "redirect_document_id": false
+      },
+      {
+        "source_path": "Office/Client/office/rms-protected-files-crash.md",
+        "redirect_url": "https://docs.microsoft.com/office/troubleshoot/office-suite-issues/rms-protected-files-crash",
+        "redirect_document_id": false
+      },
+      {
+        "source_path": "Office/Client/office/saving-file-to-network-server-slow.md",
+        "redirect_url": "https://docs.microsoft.com/office/troubleshoot/office-suite-issues/saving-file-to-network-server-slow",
+        "redirect_document_id": false
+      },
+      {
+        "source_path": "Office/Client/office/set-default-font.md",
+        "redirect_url": "https://docs.microsoft.com/office/troubleshoot/office-suite-issues/set-default-font",
+        "redirect_document_id": false
+      },
+      {
+        "source_path": "Office/Client/office/slow-open-adfs-sites.md",
+        "redirect_url": "https://docs.microsoft.com/office/troubleshoot/office-suite-issues/slow-open-adfs-sites",
+        "redirect_document_id": false
+      },
+      {
+        "source_path": "Office/Client/office/vb-editor-settings-disabled.md",
+        "redirect_url": "https://docs.microsoft.com/office/troubleshoot/office-suite-issues/vb-editor-settings-disabled",
+        "redirect_document_id": false
       }
     ] 
     }
