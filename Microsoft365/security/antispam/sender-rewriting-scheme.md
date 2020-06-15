@@ -21,6 +21,9 @@ search.appverid: MET150
 
 _Original KB number:_&nbsp;4490129
 
+> [!NOTE]
+> We have been wokring on refining the behaviour of our SRS implementation. In June 2020, we rolled out a change to refine which messages are rewritten using SRS. The aim of SRS to is preserve the passing of SPF for a message sent to our service and forwarded. As such, we will no longer rewrite messages that did not pass SPF in the first place, when they entered our service.   
+
 ## Summary
 
 Sender Rewriting Scheme (SRS) functionality was added to Office 365 to resolve a problem in which autoforwarding is incompatible with SPF. The SRS feature rewrites the **P1 From** address (also known as the Envelope From address) for all applicable messages that are sent externally from Office 365. It is important to note that the **From** header (also known as the Display From address or P2 From address) that is displayed by email clients remains unchanged.
