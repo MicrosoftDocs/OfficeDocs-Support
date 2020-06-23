@@ -1814,6 +1814,11 @@
         "source_path": "Office/Client/office/vb-editor-settings-disabled.md",
         "redirect_url": "https://docs.microsoft.com/office/troubleshoot/office-suite-issues/vb-editor-settings-disabled",
         "redirect_document_id": false
+      },
+      {
+        "source_path": "Exchange/ExchangeServer/shared-mailboxes/cannot-send-email-with-full-access.md",
+        "redirect_url": "https://docs.microsoft.com/exchange/troubleshoot/mailflow/cannot-send-email-with-full-access",
+        "redirect_document_id": false
       }
     ] 
     }
