@@ -1819,6 +1819,11 @@
         "source_path": "Exchange/ExchangeServer/shared-mailboxes/cannot-send-email-with-full-access.md",
         "redirect_url": "https://docs.microsoft.com/exchange/troubleshoot/mailflow/cannot-send-email-with-full-access",
         "redirect_document_id": false
-      }
+      },
+      {
+        "source_path": "Teams/teams-conferencing/ev-user-have-no-dial-pad.md",
+        "redirect_url": "https://docs.microsoft.com/microsoftteams/troubleshoot/teams-conferencing/no-dial-pad",
+        "redirect_document_id": false
+      }
     ] 
     }
