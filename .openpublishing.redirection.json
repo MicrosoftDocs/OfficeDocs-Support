@@ -1824,6 +1824,11 @@
         "source_path": "Teams/teams-conferencing/ev-user-have-no-dial-pad.md",
         "redirect_url": "https://docs.microsoft.com/microsoftteams/troubleshoot/teams-conferencing/no-dial-pad",
         "redirect_document_id": false
+      },
+      {
+        "source_path": "SharePoint/SharePointOnline/administration/tls-1.0-and-1.1-deprecation-for-office-365.md",
+        "redirect_url": "https://docs.microsoft.com/microsoft-365/compliance/tls-1.0-and-1.1-deprecation-for-office-365",
+        "redirect_document_id": false
       }
     ] 
     }
