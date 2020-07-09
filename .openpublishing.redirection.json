@@ -1852,7 +1852,12 @@
       },
       {
         "source_path": "Office/Client/word/third-party-installed-font-fails-appearing.md",
-        "redirect_url": "https://docs.microsoft.com/office/troubleshoot/third-party-add-ins/third-party-installed-font-fails-appearing.cnv",
+        "redirect_url": "https://docs.microsoft.com/office/troubleshoot/third-party-add-ins/third-party-installed-font-fails-appearing",
+        "redirect_document_id": false
+      },
+      {
+        "source_path": "Office/Client/access/query-filter-unique-data.md",
+        "redirect_url": "https://support.microsoft.com/en-us/office/introduction-to-queries-a9739a09-d3ff-4f36-8ac3-5760249fb65c#__toc355883439",
         "redirect_document_id": false
       }
     ] 
