@@ -1829,6 +1829,31 @@
         "source_path": "SharePoint/SharePointOnline/administration/tls-1.0-and-1.1-deprecation-for-office-365.md",
         "redirect_url": "https://docs.microsoft.com/microsoft-365/compliance/tls-1.0-and-1.1-deprecation-for-office-365",
         "redirect_document_id": false
+      },
+      {
+        "source_path": "Microsoft365/security/o365-security/prepare-tls-1.2-in-office-365.md",
+        "redirect_url": "https://docs.microsoft.com/microsoft-365/compliance/prepare-tls-1.2-in-office-365",
+        "redirect_document_id": false
+      },
+      {
+        "source_path": "Microsoft365/security/o365-security/tls-1-2-in-office-365-gcc.md",
+        "redirect_url": "https://docs.microsoft.com/microsoft-365/compliance/tls-1-2-in-office-365-gcc",
+        "redirect_document_id": false
+      },
+      {
+        "source_path": "Office/Client/word/cannot-modify-odata-connection.md",
+        "redirect_url": "https://docs.microsoft.com/office/troubleshoot/excel/cannot-modify-odata-connection",
+        "redirect_document_id": false
+      },
+      {
+        "source_path": "Office/Client/word/converter-sspdfcg-x64.cnv.md",
+        "redirect_url": "https://docs.microsoft.com/office/troubleshoot/third-party-add-ins/converter-sspdfcg-x64.cnv",
+        "redirect_document_id": false
+      },
+      {
+        "source_path": "Office/Client/word/third-party-installed-font-fails-appearing.md",
+        "redirect_url": "https://docs.microsoft.com/office/troubleshoot/third-party-add-ins/third-party-installed-font-fails-appearing.cnv",
+        "redirect_document_id": false
       }
     ] 
     }
