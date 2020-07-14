@@ -1857,7 +1857,12 @@
       },
       {
         "source_path": "Office/Client/access/query-filter-unique-data.md",
-        "redirect_url": "https://support.microsoft.com/en-us/office/introduction-to-queries-a9739a09-d3ff-4f36-8ac3-5760249fb65c#__toc355883439",
+        "redirect_url": "https://support.microsoft.com/office/introduction-to-queries-a9739a09-d3ff-4f36-8ac3-5760249fb65c#__toc355883439",
+        "redirect_document_id": false
+      },
+      {
+        "source_path": "Office/Client/word/merge-word-documents.md",
+        "redirect_url": "https://support.microsoft.com/office/274128e5-4da7-4cb8-b65f-3d8b585e03f1",
         "redirect_document_id": false
       }
     ] 
