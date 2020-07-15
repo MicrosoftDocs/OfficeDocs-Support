@@ -1979,6 +1979,11 @@
         "source_path": "SharePoint/OneDrive/onedrive.md",
         "redirect_url": "https://docs.microsoft.com/sharepoint/support/onedrive-welcome",
         "redirect_document_id": false
+      },
+      {
+        "source_path": "Office/Client/access/exclusive-lock-saving-design-changes.md",
+        "redirect_url": "https://docs.microsoft.com/office/troubleshoot/access/saving-changes-require-exclusive-lock",
+        "redirect_document_id": false
       }
     ] 
     }
