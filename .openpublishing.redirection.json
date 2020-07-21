@@ -2001,8 +2001,8 @@
         "redirect_document_id": false
       },
       {
-        "source_path": "Exchange/ExchangeOnline/owa-mailbox/owa-attachments.md",
-        "redirect_url": "https://docs.microsoft.com/exchange/troubleshoot/owa-issues/owa-attachments",
+        "source_path": "Exchange/ExchangeOnline/owa-attachments/cannot-open-attachments.md",
+        "redirect_url": "https://docs.microsoft.com/exchange/troubleshoot/owa-issues/cannot-open-attachments",
         "redirect_document_id": false
       },
       {
