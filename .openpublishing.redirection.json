@@ -1864,6 +1864,181 @@
         "source_path": "Office/Client/word/merge-word-documents.md",
         "redirect_url": "https://support.microsoft.com/office/274128e5-4da7-4cb8-b65f-3d8b585e03f1",
         "redirect_document_id": false
+      },
+      {
+        "source_path": "Exchange/ExchangeHybrid/exchange-hybrid.md",
+        "redirect_url": "https://docs.microsoft.com/exchange/troubleshoot/exchange-hybrid-welcome",
+        "redirect_document_id": false
+      },
+      {
+        "source_path": "Exchange/ExchangeOnline/exchange-online.md",
+        "redirect_url": "https://docs.microsoft.com/exchange/troubleshoot/exchange-online-welcome",
+        "redirect_document_id": false
+      },
+      {
+        "source_path": "Exchange/ExchangeServer/exchange-server.md",
+        "redirect_url": "https://docs.microsoft.com/exchange/troubleshoot/exchange-server-welcome",
+        "redirect_document_id": false
+      },
+      {
+        "source_path": "Microsoft365/admin/admin.md",
+        "redirect_url": "https://docs.microsoft.com/office365/troubleshoot/o365-admin-welcome",
+        "redirect_document_id": false
+      },
+      {
+        "source_path": "Microsoft365/compliance/compliance.md",
+        "redirect_url": "https://docs.microsoft.com/office365/troubleshoot/microsoft-365-compliance-welcome",
+        "redirect_document_id": false
+      },
+      {
+        "source_path": "Microsoft365/enterprise/enterprise.md",
+        "redirect_url": "https://docs.microsoft.com/office365/troubleshoot/o365-enterprise-welcome",
+        "redirect_document_id": false
+      },
+      {
+        "source_path": "Microsoft365/security/security.md",
+        "redirect_url": "https://docs.microsoft.com/office365/troubleshoot/microsoft-365-security-welcome",
+        "redirect_document_id": false
+      },
+      {
+        "source_path": "Office/Client/client.md",
+        "redirect_url": "https://docs.microsoft.com/office/troubleshoot/office-client-welcome",
+        "redirect_document_id": false
+      },
+      {
+        "source_path": "Office/OfficeExperts/office-experts.md",
+        "redirect_url": "https://docs.microsoft.com/office/troubleshoot/office-experts-welcome",
+        "redirect_document_id": false
+      },
+      {
+        "source_path": "Outlook/Client/client.md",
+        "redirect_url": "https://docs.microsoft.com/outlook/troubleshoot/outlook-client-welcome",
+        "redirect_document_id": false
+      },
+      {
+        "source_path": "Outlook/Mac/mac.md",
+        "redirect_url": "https://docs.microsoft.com/outlook/troubleshoot/outlook-mac-welcome",
+        "redirect_document_id": false
+      },
+      {
+        "source_path": "Outlook/Mobile/mobile.md",
+        "redirect_url": "https://docs.microsoft.com/outlook/troubleshoot/outlook-mobile-welcome",
+        "redirect_document_id": false
+      },
+      {
+        "source_path": "Outlook/OutlookExperts/outlook-experts.md",
+        "redirect_url": "https://docs.microsoft.com/outlook/troubleshoot/outlook-experts-welcome",
+        "redirect_document_id": false
+      },
+      {
+        "source_path": "SharePoint/SharePointExperts/experts.md",
+        "redirect_url": "https://docs.microsoft.com/sharepoint/support/sharepoint-experts-welcome",
+        "redirect_document_id": false
+      },
+      {
+        "source_path": "SharePoint/SharePointHybrid/hybrid.md",
+        "redirect_url": "https://docs.microsoft.com/sharepoint/support/sharepoint-hybrid-welcome",
+        "redirect_document_id": false
+      },
+      {
+        "source_path": "SharePoint/SharePointOnline/online.md",
+        "redirect_url": "https://docs.microsoft.com/sharepoint/support/sharepoint-online-welcome",
+        "redirect_document_id": false
+      },
+      {
+        "source_path": "SharePoint/SharePointServer/server.md",
+        "redirect_url": "https://docs.microsoft.com/sharepoint/support/sharepoint-server-welcome",
+        "redirect_document_id": false
+      },
+      {
+        "source_path": "SkypeforBusiness/SkypeExperts/skype-experts.md",
+        "redirect_url": "https://docs.microsoft.com/SkypeForBusiness/troubleshoot/skype-experts-welcome",
+        "redirect_document_id": false
+      },
+      {
+        "source_path": "SkypeforBusiness/SkypeHybrid/hybrid.md",
+        "redirect_url": "https://docs.microsoft.com/SkypeForBusiness/troubleshoot/skype-hybrid-welcome",
+        "redirect_document_id": false
+      },
+      {
+        "source_path": "SkypeforBusiness/SkypeOnline/online.md",
+        "redirect_url": "https://docs.microsoft.com/SkypeForBusiness/troubleshoot/skype-online-welcome",
+        "redirect_document_id": false
+      },
+      {
+        "source_path": "SkypeforBusiness/SkypeServer/server.md",
+        "redirect_url": "https://docs.microsoft.com/SkypeForBusiness/troubleshoot/skype-server-welcome",
+        "redirect_document_id": false
+      },
+      {
+        "source_path": "Teams/teams.md",
+        "redirect_url": "https://docs.microsoft.com/MicrosoftTeams/troubleshoot/teams-welcome",
+        "redirect_document_id": false
+      },
+      {
+        "source_path": "SharePoint/OneDrive/onedrive.md",
+        "redirect_url": "https://docs.microsoft.com/sharepoint/support/onedrive-welcome",
+        "redirect_document_id": false
+      },
+      {
+        "source_path": "Office/Client/access/exclusive-lock-saving-design-changes.md",
+        "redirect_url": "https://docs.microsoft.com/office/troubleshoot/access/saving-changes-require-exclusive-lock",
+        "redirect_document_id": false
+      },
+      {
+        "source_path": "Outlook/Client/ribbons/default-office-addin-icon-displayed-outlook-ribbon.md",
+        "redirect_url": "https://docs.microsoft.com/outlook/troubleshoot/ribbon/default-office-addin-icon-displayed-outlook-ribbon",
+        "redirect_document_id": false
+      },
+      {
+        "source_path": "Outlook/Client/ribbons/lync-meeting-control-not-displayed.md",
+        "redirect_url": "https://docs.microsoft.com/outlook/troubleshoot/ribbon/lync-meeting-control-not-displayed",
+        "redirect_document_id": false
+      },
+      {
+        "source_path": "Microsoft365/compliance/owa-mailbox/items-missing-search-results.md",
+        "redirect_url": "https://docs.microsoft.com/exchange/troubleshoot/owa-issues/items-missing-search-results",
+        "redirect_document_id": false
+      },
+      {
+        "source_path": "Exchange/ExchangeOnline/owa-attachments/cannot-open-attachments.md",
+        "redirect_url": "https://docs.microsoft.com/exchange/troubleshoot/owa-issues/cannot-open-attachments",
+        "redirect_document_id": false
+      },
+      {
+        "source_path": "Exchange/ExchangeOnline/owa-time-zones/incorrect-setting.md",
+        "redirect_url": "https://docs.microsoft.com/exchange/troubleshoot/owa-issues/incorrect-setting",
+        "redirect_document_id": false
+      },
+      {
+        "source_path": "Exchange/ExchangeOnline/owa-time-zones/read-receipt-incorrect-timezone.md",
+        "redirect_url": "https://docs.microsoft.com/exchange/troubleshoot/owa-issues/read-receipt-incorrect-timezone",
+        "redirect_document_id": false
+      },
+      {
+        "source_path": "Exchange/ExchangeOnline/outlook-connectivity/office-365-troubleshooting-resources.md",
+        "redirect_url": "https://docs.microsoft.com/exchange/troubleshoot/outlook-issues/office-365-troubleshooting-resources",
+        "redirect_document_id": false
+      },
+      {
+        "source_path": "Exchange/ExchangeOnline/outlook-connectivity/outlook-connection-issues.md",
+        "redirect_url": "https://docs.microsoft.com/exchange/troubleshoot/outlook-issues/outlook-connection-issues",
+        "redirect_document_id": false
+      },
+      {
+        "source_path": "Exchange/ExchangeOnline/outlook-crashes/crash-issues.md",
+        "redirect_url": "https://docs.microsoft.com/exchange/troubleshoot/outlook-issues/crash-issues",
+        "redirect_document_id": false
+      },
+      {
+        "source_path": "Exchange/ExchangeOnline/outlook-profiles/cannot-set-up-profile-autodiscover.md",
+        "redirect_url": "https://docs.microsoft.com/exchange/troubleshoot/outlook-issues/cannot-set-up-profile-autodiscover",
+        "redirect_document_id": false
+      },
+      {
+        "source_path": "Exchange/ExchangeOnline/outlook-profiles/encrypted-connection-unavailable.md",
+        "redirect_url": "https://docs.microsoft.com/exchange/troubleshoot/outlook-issues/encrypted-connection-unavailable",
+        "redirect_document_id": false
       }
     ] 
     }
