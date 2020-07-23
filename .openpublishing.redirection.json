@@ -1984,6 +1984,61 @@
         "source_path": "Office/Client/access/exclusive-lock-saving-design-changes.md",
         "redirect_url": "https://docs.microsoft.com/office/troubleshoot/access/saving-changes-require-exclusive-lock",
         "redirect_document_id": false
+      },
+      {
+        "source_path": "Outlook/Client/ribbons/default-office-addin-icon-displayed-outlook-ribbon.md",
+        "redirect_url": "https://docs.microsoft.com/outlook/troubleshoot/ribbon/default-office-addin-icon-displayed-outlook-ribbon",
+        "redirect_document_id": false
+      },
+      {
+        "source_path": "Outlook/Client/ribbons/lync-meeting-control-not-displayed.md",
+        "redirect_url": "https://docs.microsoft.com/outlook/troubleshoot/ribbon/lync-meeting-control-not-displayed",
+        "redirect_document_id": false
+      },
+      {
+        "source_path": "Microsoft365/compliance/owa-mailbox/items-missing-search-results.md",
+        "redirect_url": "https://docs.microsoft.com/exchange/troubleshoot/owa-issues/items-missing-search-results",
+        "redirect_document_id": false
+      },
+      {
+        "source_path": "Exchange/ExchangeOnline/owa-attachments/cannot-open-attachments.md",
+        "redirect_url": "https://docs.microsoft.com/exchange/troubleshoot/owa-issues/cannot-open-attachments",
+        "redirect_document_id": false
+      },
+      {
+        "source_path": "Exchange/ExchangeOnline/owa-time-zones/incorrect-setting.md",
+        "redirect_url": "https://docs.microsoft.com/exchange/troubleshoot/owa-issues/incorrect-setting",
+        "redirect_document_id": false
+      },
+      {
+        "source_path": "Exchange/ExchangeOnline/owa-time-zones/read-receipt-incorrect-timezone.md",
+        "redirect_url": "https://docs.microsoft.com/exchange/troubleshoot/owa-issues/read-receipt-incorrect-timezone",
+        "redirect_document_id": false
+      },
+      {
+        "source_path": "Exchange/ExchangeOnline/outlook-connectivity/office-365-troubleshooting-resources.md",
+        "redirect_url": "https://docs.microsoft.com/exchange/troubleshoot/outlook-issues/office-365-troubleshooting-resources",
+        "redirect_document_id": false
+      },
+      {
+        "source_path": "Exchange/ExchangeOnline/outlook-connectivity/outlook-connection-issues.md",
+        "redirect_url": "https://docs.microsoft.com/exchange/troubleshoot/outlook-issues/outlook-connection-issues",
+        "redirect_document_id": false
+      },
+      {
+        "source_path": "Exchange/ExchangeOnline/outlook-crashes/crash-issues.md",
+        "redirect_url": "https://docs.microsoft.com/exchange/troubleshoot/outlook-issues/crash-issues",
+        "redirect_document_id": false
+      },
+      {
+        "source_path": "Exchange/ExchangeOnline/outlook-profiles/cannot-set-up-profile-autodiscover.md",
+        "redirect_url": "https://docs.microsoft.com/exchange/troubleshoot/outlook-issues/cannot-set-up-profile-autodiscover",
+        "redirect_document_id": false
+      },
+      {
+        "source_path": "Exchange/ExchangeOnline/outlook-profiles/encrypted-connection-unavailable.md",
+        "redirect_url": "https://docs.microsoft.com/exchange/troubleshoot/outlook-issues/encrypted-connection-unavailable",
+        "redirect_document_id": false
       }
     ] 
     }
