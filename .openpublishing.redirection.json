@@ -2039,7 +2039,7 @@
         "source_path": "Exchange/ExchangeOnline/outlook-profiles/encrypted-connection-unavailable.md",
         "redirect_url": "https://docs.microsoft.com/exchange/troubleshoot/outlook-issues/encrypted-connection-unavailable",
         "redirect_document_id": false
-      }
+      },
       {
         "source_path": "SharePoint/troubleshoot/administration/organization-policies-do-not-allow-you-to-share-with-users-error.md",
         "redirect_url": "https://docs.microsoft.com/sharepoint/troubleshoot/sharing-and-permissions/organization-policies-do-not-allow-you-to-share-with-users-error",
@@ -2047,5 +2047,3 @@
       }
     ] 
     }
-
-    
