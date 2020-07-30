@@ -2041,8 +2041,13 @@
         "redirect_document_id": false
       },
       {
-        "source_path": "SharePoint/troubleshoot/administration/organization-policies-do-not-allow-you-to-share-with-users-error.md",
+        "source_path": "SharePoint/SharePointOnline/administration/organization-policies-do-not-allow-you-to-share-with-users-error.md",
         "redirect_url": "https://docs.microsoft.com/sharepoint/troubleshoot/sharing-and-permissions/organization-policies-do-not-allow-you-to-share-with-users-error",
+        "redirect_document_id": false
+      },
+      {
+        "source_path": "Office/Client/support/office-2007-not-support.md",
+        "redirect_url": "https://docs.microsoft.com/lifecycle/announcements/office-2007-end-of-support",
         "redirect_document_id": false
       }
     ] 
