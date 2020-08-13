@@ -2049,6 +2049,11 @@
         "source_path": "Office/Client/support/office-2007-not-support.md",
         "redirect_url": "https://docs.microsoft.com/lifecycle/announcements/office-2007-end-of-support",
         "redirect_document_id": false
+      },
+      {
+        "source_path": "Office/Client/support/2013-versions-of-office-365.md",
+        "redirect_url": "https://docs.microsoft.com/lifecycle/announcements/office-365-2013-versions-ended-support",
+        "redirect_document_id": false
       }
     ] 
     }
