@@ -2054,6 +2054,16 @@
         "source_path": "Office/Client/support/2013-versions-of-office-365.md",
         "redirect_url": "https://docs.microsoft.com/lifecycle/announcements/office-365-2013-versions-ended-support",
         "redirect_document_id": false
+      },
+      {
+        "source_path": "SharePoint/SharePointOnline/search/private-onedrive-results-not-included.md",
+        "redirect_url": "https://docs.microsoft.com/sharepoint/troubleshoot/search/search-results-missing",
+        "redirect_document_id": false
+      },
+      {
+        "source_path": "Teams/teams-rooms/known-issues.md",
+        "redirect_url": "https://docs.microsoft.com/en-us/microsoftteams/troubleshoot/known-issues/rooms-known-issues",
+        "redirect_document_id": false
       }
     ] 
     }
