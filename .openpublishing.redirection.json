@@ -2062,7 +2062,7 @@
       },
       {
         "source_path": "Teams/teams-rooms/known-issues.md",
-        "redirect_url": "Teams/known-issues/rooms-known-issues",
+        "redirect_url": "../known-issues/rooms-known-issues",
         "redirect_document_id": false
       }
     ] 
