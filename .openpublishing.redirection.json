@@ -2064,6 +2064,11 @@
         "source_path": "Teams/teams-rooms/known-issues.md",
         "redirect_url": "https://docs.microsoft.com/en-us/microsoftteams/troubleshoot/known-issues/rooms-known-issues",
         "redirect_document_id": false
+      },
+      {
+        "source_path": "SharePoint/SharePointOnline/sharing-and-permissions/access-requests-list-error-access-denied.md",
+        "redirect_url": "https://review.docs.microsoft.com/en-us/sharepoint/troubleshoot/sharing-and-permissions/access-denied-sharepoint-error",
+        "redirect_document_id": false
       }
     ] 
     }
