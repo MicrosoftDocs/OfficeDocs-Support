@@ -273,7 +273,7 @@
      {
         "source_path": "Teams/teams-mobile/teams-for-windows-phone-is-retiring.md",
         "redirect_url": "https://docs.microsoft.com/MicrosoftTeams/troubleshoot/",
-        "redirect_document_id": true
+        "redirect_document_id": false
      },
      {
         "source_path": "SharePoint/SharePointOnline/sites/site-collection-uses-enterprise-wiki-template.md",
@@ -2023,37 +2023,57 @@
      {
         "source_path": "Office/Client/excel/open-excel-for-mac-stop-responding.md",
         "redirect_url": "https://support.office.com/article/6c6425b1-6559-4bbf-8f80-4f038402ff02",
-        "redirect_document_id": true
+        "redirect_document_id": false
      },
      {
         "source_path": "SharePoint/SharePointOnline/administration/troubleshooting-sharepoint-site-issues.md",
         "redirect_url": "https://support.office.com/article/dc656f67-fec3-4948-9ec2-5e1b51886964",
-        "redirect_document_id": true
+        "redirect_document_id": false
      },
      {
         "source_path": "Microsoft365/admin/troubleshooting/fix-outlook-and-office-365-issues.md",
         "redirect_url": "https://support.office.com/article/e90bb691-c2a7-4697-a94f-88836856c72f",
-        "redirect_document_id": true
+        "redirect_document_id": false
      },
      {
         "source_path": "Microsoft365/admin/troubleshooting/troubleshoot-office-installation-issues.md",
         "redirect_url": "https://support.office.com/article/fbbf663b-1e76-46d2-a417-0aa78ed2fb9a",
-        "redirect_document_id": true
+        "redirect_document_id": false
      },
      {
         "source_path": "Microsoft365/admin/troubleshooting/registry-override-default-behavior.md",
         "redirect_url": "https://support.office.com/article/5fdb9208-ff33-45b6-9e08-1f5cdb3a6c73",
-        "redirect_document_id": true
+        "redirect_document_id": false
      },
      {
         "source_path": "SharePoint/OneDrive/administration/expect-after-name-change.md",
         "redirect_url": "https://docs.microsoft.com/onedrive/upn-changes",
-        "redirect_document_id": true
+        "redirect_document_id": false
      },
      {
         "source_path": "SharePoint/SharePointOnline/sites/sites-do-not-automatically-update-to-the-25-terabyte-limit.md",
         "redirect_url": "https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits",
-        "redirect_document_id": true
+        "redirect_document_id": false
+     },
+     {
+        "source_path": "SharePoint/SharePointServer/sharepoint-server.md",
+        "redirect_url": "/sharepoint/support/server",
+        "redirect_document_id": false
+     },
+     {
+        "source_path": "SharePoint/SharePointOnline/sharepoint-online.md",
+        "redirect_url": "/sharepoint/support/online",
+        "redirect_document_id": false
+     },
+     {
+        "source_path": "SharePoint/SharePointHybrid/sharepoint-hybrid.md",
+        "redirect_url": "/sharepoint/support/hybrid",
+        "redirect_document_id": false
+     },
+     {
+        "source_path": "SharePoint/SharePointExperts/sharepoint-experts.md",
+        "redirect_url": "/sharepoint/support/experts",
+        "redirect_document_id": false
      }
   ]
 }
