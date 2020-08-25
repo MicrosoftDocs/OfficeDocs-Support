@@ -2069,6 +2069,11 @@
         "source_path": "SharePoint/SharePointOnline/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business.md",
         "redirect_url": "https://docs.microsoft.com/en-us/sharepoint/troubleshoot/sharing-and-permissions/access-denied-sharepoint-error",
         "redirect_document_id": false
+      },
+      {
+        "source_path": "SharePoint/SharePointOnline/administration/access-denied-sharepoint-error.md",
+        "redirect_url": "https://docs.microsoft.com/sharepoint/troubleshoot/sharing-and-permissions/access-denied-sharepoint-error",
+        "redirect_document_id": false
       }
     ] 
     }
