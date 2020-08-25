@@ -2021,26 +2021,6 @@
         "redirect_document_id": false
      },
      {
-        "source_path": "SharePoint/SharePointServer/sharepoint-server.md",
-        "redirect_url": "/sharepoint/support/server",
-        "redirect_document_id": true
-     },
-     {
-        "source_path": "SharePoint/SharePointOnline/sharepoint-online.md",
-        "redirect_url": "/sharepoint/support/online",
-        "redirect_document_id": true
-     },
-     {
-        "source_path": "SharePoint/SharePointHybrid/sharepoint-hybrid.md",
-        "redirect_url": "/sharepoint/support/hybrid",
-        "redirect_document_id": true
-     },
-     {
-        "source_path": "SharePoint/SharePointExperts/sharepoint-experts.md",
-        "redirect_url": "/sharepoint/support/experts",
-        "redirect_document_id": true
-     },
-     {
         "source_path": "Office/Client/excel/open-excel-for-mac-stop-responding.md",
         "redirect_url": "https://support.office.com/article/6c6425b1-6559-4bbf-8f80-4f038402ff02",
         "redirect_document_id": true
