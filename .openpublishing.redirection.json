@@ -2074,6 +2074,11 @@
         "source_path": "SharePoint/SharePointExperts/sharepoint-experts.md",
         "redirect_url": "/sharepoint/support/experts",
         "redirect_document_id": false
+     },
+     {
+        "source_path": "Office/Client/installation/something-went-wrong-30016-4-error.md",
+        "redirect_url": "https://docs.microsoft.com/office365/troubleshoot/installation/something-went-wrong-30016-4-error",
+        "redirect_document_id": false
      }
   ]
 }
