@@ -2079,6 +2079,26 @@
         "source_path": "Office/Client/installation/something-went-wrong-30016-4-error.md",
         "redirect_url": "https://docs.microsoft.com/office365/troubleshoot/installation/something-went-wrong-30016-4-error",
         "redirect_document_id": false
+     },
+     {
+        "source_path": "Outlook/Client/calendars/calendar-items-display-incorrect-time.md",
+        "redirect_url": "https://docs.microsoft.com/outlook/troubleshoot/calendaring/calendar-items-display-incorrect-time",
+        "redirect_document_id": false
+     },
+     {
+        "source_path": "Outlook/Client/calendars/operation-cannot-be-performed-error.md",
+        "redirect_url": "https://docs.microsoft.com/outlook/troubleshoot/calendaring/operation-cannot-be-performed-error",
+        "redirect_document_id": false
+     },
+     {
+        "source_path": "Exchange/ExchangeHybrid/calendar-reminders/cannot-dismiss-outlook-calendar-reminders.md",
+        "redirect_url": "https://docs.microsoft.com/exchange/troubleshoot/calendaring/cannot-dismiss-outlook-calendar-reminders",
+        "redirect_document_id": false
+     },
+     {
+        "source_path": "Exchange/ExchangeHybrid/calendar-sharing/policy-permissions-issue.md",
+        "redirect_url": "https://docs.microsoft.com/exchange/troubleshoot/calendaring/policy-permissions-issue",
+        "redirect_document_id": false
      }
   ]
 }
