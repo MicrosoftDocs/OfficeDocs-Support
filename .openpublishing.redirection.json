@@ -2119,6 +2119,11 @@
         "source_path": "Exchange/ExchangeServer/mailflow/email-stuck-in-outbox-outlook-2016-mac.md",
         "redirect_url": "https://docs.microsoft.com/outlook/troubleshoot/send-receive-emails/email-stuck-in-outbox-outlook-2016-mac",
         "redirect_document_id": false
+     },
+     {
+        "source_path": "Exchange/ExchangeServer/migration/error-move-items-from-outlook-to-eas-store.md",
+        "redirect_url": "https://docs.microsoft.com/exchange/troubleshoot/client-connectivity/outlook-cannot-use-activesync-connect-exchange",
+        "redirect_document_id": false
      }
   ]
 }
