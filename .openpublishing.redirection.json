@@ -2444,6 +2444,151 @@
          "source_path": "Office/Client/powerpoint/videos-listed-as-unsupported.md",
          "redirect_url": "https://support.microsoft.com/office/a45c956a-f4a6-4d47-99ef-b408ac5a9a6b",
          "redirect_document_id": false
+      },        
+      {
+         "source_path": "Office/Client/word/background-is-not-printed-in-word.md",
+         "redirect_url": "https://support.microsoft.com/office/9aa93bd0-4279-4f0b-9432-152f8549ef15",
+         "redirect_document_id": false     
+      },
+      {
+         "source_path": "Office/Client/word/cannot-edit-text-print-preview.md",
+         "redirect_url": "https://support.microsoft.com/Word",
+         "redirect_document_id": false     
+      },
+      {
+         "source_path": "Office/Client/word/cannot-insert-quicktime-media.md",
+         "redirect_url": "https://support.microsoft.com/office/d8b12450-26db-4c7b-a5c1-593d3418fb59",
+         "redirect_document_id": false     
+      },
+      {
+         "source_path": "Office/Client/word/change-default-view-to-draft-view.md",
+         "redirect_url": "https://support.microsoft.com/Word",
+         "redirect_document_id": false     
+      },
+      {
+         "source_path": "Office/Client/word/changes-in-content-layout.md",
+         "redirect_url": "https://support.microsoft.com/Word",
+         "redirect_document_id": false     
+      },
+      {
+         "source_path": "Office/Client/word/default-font-changes-not-retained.md",
+         "redirect_url": "https://support.microsoft.com/office/2f50603b-9886-47e4-a483-48ac5ab80163",
+         "redirect_document_id": false     
+      },
+      {
+         "source_path": "Office/Client/word/change-to-print-setting-not-update.md",
+         "redirect_url": "https://support.microsoft.com/Word",
+         "redirect_document_id": false     
+      },
+      {
+         "source_path": "Office/Client/word/custom-xml-markup-is-removed.md",
+         "redirect_url": "https://support.microsoft.com/Word",
+         "redirect_document_id": false     
+      },
+      {
+         "source_path": "Office/Client/word/faq-about-hyperlinks-in-word.md",
+         "redirect_url": "https://support.microsoft.com/Word",
+         "redirect_document_id": false     
+      },
+      {
+         "source_path": "Office/Client/word/faq-about-comments-feature-in-word.md",
+         "redirect_url": "https://support.microsoft.com/office/8d3f868a-867e-4df2-8c68-bf96671641e2",
+         "redirect_document_id": false     
+      },
+      {
+         "source_path": "Office/Client/word/troubleshoot-font-problems.md",
+         "redirect_url": "https://support.microsoft.com/Word",
+         "redirect_document_id": false     
+      },
+      {
+         "source_path": "Office/Client/word/graphics-images-display-incorrectly-32-bit.md",
+         "redirect_url": "https://support.microsoft.com/Word",
+         "redirect_document_id": false     
+      },
+      {
+         "source_path": "Office/Client/word/open-wps-file-word.md",
+         "redirect_url": "https://support.microsoft.com/Word",
+         "redirect_document_id": false     
+      },
+      {
+         "source_path": "Office/Client/word/on-screen-keyboard-open-repeatedly.md",
+         "redirect_url": "https://support.microsoft.com/Word",
+         "redirect_document_id": false     
+      },
+      {
+         "source_path": "Office/Client/word/overtype-mode-is-disabled.md",
+         "redirect_url": "https://support.microsoft.com/office/62c15c48-0936-4902-affe-4cadd71b7038",
+         "redirect_document_id": false     
+      },
+      {
+         "source_path": "Office/Client/word/print-general-field.md",
+         "redirect_url": "https://support.microsoft.com/Word",
+         "redirect_document_id": false     
+      },
+      {
+         "source_path": "Office/Client/word/print-a-range-of-pages.md",
+         "redirect_url": "https://support.microsoft.com/Word",
+         "redirect_document_id": false     
+      },
+      {
+         "source_path": "Office/Client/word/printer-settings-not-used.md",
+         "redirect_url": "https://support.microsoft.com/Word",
+         "redirect_document_id": false     
+      },
+      {
+         "source_path": "Office/Client/word/recover-lost-document.md",
+         "redirect_url": "https://support.microsoft.com/Word",
+         "redirect_document_id": false     
+      },
+      {
+         "source_path": "Office/Client/word/insert-image-into-document.md",
+         "redirect_url": "https://support.microsoft.com/Word",
+         "redirect_document_id": false     
+      },
+      {
+         "source_path": "Office/Client/word/word-scroll-bars-missing.md",
+         "redirect_url": "https://support.microsoft.com/Word",
+         "redirect_document_id": false     
+      },
+      {
+         "source_path": "Office/Client/word/tabbing-form-fields-content-controls-not-work.md",
+         "redirect_url": "https://support.microsoft.com/Word",
+         "redirect_document_id": false     
+      },
+      {
+         "source_path": "Office/Client/word/text-not-copied-from-clipboard.md",
+         "redirect_url": "https://support.microsoft.com/Word",
+         "redirect_document_id": false     
+      },
+      {
+         "source_path": "Office/Client/word/word-mac-toolbars-missing.md",
+         "redirect_url": "https://support.microsoft.com/Word",
+         "redirect_document_id": false     
+      },
+      {
+         "source_path": "Office/Client/word/troubleshoot-unwanted-page-breaks.md",
+         "redirect_url": "https://support.microsoft.com/office/e696a217-adc7-4ef3-977b-de0c3d87b762",
+         "redirect_document_id": false     
+      },
+      {
+         "source_path": "Office/Client/word/word-for-mac-crashes-or-quits.md",
+         "redirect_url": "https://support.microsoft.com/Word",
+         "redirect_document_id": false     
+      },
+      {
+         "source_path": "Office/Client/word/word-mac-closes-unexpectedly.md",
+         "redirect_url": "https://support.microsoft.com/Word",
+         "redirect_document_id": false     
+      },
+      {
+         "source_path": "Office/Client/word/toolbars-and-toolbar-buttons-in-word.md",
+         "redirect_url": "https://support.microsoft.com/office/00f24ca7-6021-48d3-9514-a31a460ecb31",
+         "redirect_document_id": false     
+      },
+      {
+         "source_path": "Office/Client/word/paper-size-printer-property.md",
+         "redirect_url": "https://support.microsoft.com/Word",
+         "redirect_document_id": false     
       },
       {
          "source_path": "Office/Client/onenote/open-new-side-note-missing.md",
@@ -2469,7 +2614,6 @@
          "source_path": "Office/Client/publisher/publisher-cannot-open-the-file-error.md",
          "redirect_url": "https://support.microsoft.com/publisher",
          "redirect_document_id": false
-      }        
-      
+      }
    ]
 }
