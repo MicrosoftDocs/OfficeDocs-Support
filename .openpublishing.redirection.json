@@ -2444,7 +2444,7 @@
          "source_path": "Office/Client/powerpoint/videos-listed-as-unsupported.md",
          "redirect_url": "https://support.microsoft.com/office/a45c956a-f4a6-4d47-99ef-b408ac5a9a6b",
          "redirect_document_id": false
-      },
+      },        
       {
          "source_path": "Office/Client/word/background-is-not-printed-in-word.md",
          "redirect_url": "https://support.microsoft.com/office/9aa93bd0-4279-4f0b-9432-152f8549ef15",
@@ -2589,6 +2589,31 @@
          "source_path": "Office/Client/word/paper-size-printer-property.md",
          "redirect_url": "https://support.microsoft.com/Word",
          "redirect_document_id": false     
-      }  
+      },
+      {
+         "source_path": "Office/Client/onenote/open-new-side-note-missing.md",
+         "redirect_url": "https://support.microsoft.com/onenote",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Office/Client/onenote/onenote-error-content-not-yet-available.md",
+         "redirect_url": "https://support.microsoft.com/office/299495ef-66d1-448f-90c1-b785a6968d45",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Office/Client/onenote/locate-onenote-notebooks.md",
+         "redirect_url": "https://support.microsoft.com/office/32cb2bd7-afe7-44d2-a711-398a88421287",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Office/Client/publisher/print-publication-incorrectly.md",
+         "redirect_url": "https://support.microsoft.com/office/6012dd90-5bda-4484-b1b8-83ddc449a563",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Office/Client/publisher/publisher-cannot-open-the-file-error.md",
+         "redirect_url": "https://support.microsoft.com/publisher",
+         "redirect_document_id": false
+      }
    ]
 }
