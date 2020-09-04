@@ -2099,6 +2099,26 @@
         "source_path": "Exchange/ExchangeHybrid/calendar-sharing/policy-permissions-issue.md",
         "redirect_url": "https://docs.microsoft.com/exchange/troubleshoot/calendaring/policy-permissions-issue",
         "redirect_document_id": false
+     },
+     {
+        "source_path": "Exchange/ExchangeServer/migration/outlook-mac-category-colors-changed.md",
+        "redirect_url": "https://docs.microsoft.com/outlook/troubleshoot/categories/outlook-mac-category-colors-changed",
+        "redirect_document_id": false
+     },
+     {
+        "source_path": "Exchange/ExchangeServer/client-connectivity/prompted-for-credentials-modern-authentication.md",
+        "redirect_url": "https://docs.microsoft.com/outlook/troubleshoot/send-receive-emails/prompted-for-credentials-modern-authentication",
+        "redirect_document_id": false
+     },
+     {
+        "source_path": "Exchange/ExchangeServer/mailflow/outlook-mac-security-groups-cannot-send-emails.md",
+        "redirect_url": "https://docs.microsoft.com/outlook/troubleshoot/send-receive-emails/outlook-mac-security-groups-cannot-send-emails",
+        "redirect_document_id": false
+     },
+     {
+        "source_path": "Exchange/ExchangeServer/mailflow/email-stuck-in-outbox-outlook-2016-mac.md",
+        "redirect_url": "https://docs.microsoft.com/outlook/troubleshoot/send-receive-emails/email-stuck-in-outbox-outlook-2016-mac",
+        "redirect_document_id": false
      }
   ]
 }
