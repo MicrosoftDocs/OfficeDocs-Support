@@ -2124,6 +2124,11 @@
         "source_path": "Exchange/ExchangeServer/migration/error-move-items-from-outlook-to-eas-store.md",
         "redirect_url": "https://docs.microsoft.com/exchange/troubleshoot/client-connectivity/outlook-cannot-use-activesync-connect-exchange",
         "redirect_document_id": false
+     },
+     {
+        "source_path": "Office/Client/excel/table-total-row-not-shown-in-waterfall.md",
+        "redirect_url": "https://support.microsoft.com/office/8de1ece4-ff21-4d37-acd7-546f5527f185",
+        "redirect_document_id": false
      }
   ]
 }
