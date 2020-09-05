@@ -2596,11 +2596,6 @@
          "redirect_document_id": false
       },
       {
-         "source_path": "Office/Client/onenote/onenote-error-content-not-yet-available.md",
-         "redirect_url": "https://support.microsoft.com/office/299495ef-66d1-448f-90c1-b785a6968d45",
-         "redirect_document_id": false
-      },
-      {
          "source_path": "Office/Client/onenote/locate-onenote-notebooks.md",
          "redirect_url": "https://support.microsoft.com/office/32cb2bd7-afe7-44d2-a711-398a88421287",
          "redirect_document_id": false
