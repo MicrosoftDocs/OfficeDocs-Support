@@ -2609,6 +2609,331 @@
          "source_path": "Office/Client/publisher/publisher-cannot-open-the-file-error.md",
          "redirect_url": "https://support.microsoft.com/publisher",
          "redirect_document_id": false
+      },
+      {
+         "source_path": "Exchange/ExchangeServer/client-connectivity/outlook-prompt-password-modern-authentication-enabled.md",
+         "redirect_url": "https://docs.microsoft.com/outlook/troubleshoot/authentication/outlook-prompt-password-modern-authentication-enabled",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Exchange/ExchangeServer/client-connectivity/outlook-prompt-password-when-use-mapi-over-http.md",
+         "redirect_url": "https://docs.microsoft.com/outlook/troubleshoot/authentication/outlook-prompt-password-when-use-mapi-over-http",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Exchange/ExchangeServer/client-connectivity/o365-credential-prompts-with-authenticationservice.md",
+         "redirect_url": "https://docs.microsoft.com/outlook/troubleshoot/authentication/o365-credential-prompts-with-authenticationservice",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Exchange/ExchangeServer/client-connectivity/blocked-smart-card-pin-using-outlook.md",
+         "redirect_url": "https://docs.microsoft.com/outlook/troubleshoot/authentication/blocked-smart-card-pin-using-outlook",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Exchange/ExchangeServer/client-connectivity/outlook-prompts-for-credentials-if-using-wan.md",
+         "redirect_url": "https://docs.microsoft.com/outlook/troubleshoot/authentication/outlook-prompts-for-credentials-if-using-wan",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Exchange/ExchangeServer/client-connectivity/looking-for-credential-tiles-message.md",
+         "redirect_url": "https://docs.microsoft.com/outlook/troubleshoot/authentication/looking-for-credential-tiles-message",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Exchange/ExchangeServer/migration/send-update-missing-copy-meeting.md",
+         "redirect_url": "https://docs.microsoft.com/outlook/troubleshoot/calendaring/send-update-missing-copy-meeting",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Exchange/ExchangeServer/administration/outlook-room-finder-not-show-conference-room.md",
+         "redirect_url": "https://docs.microsoft.com/outlook/troubleshoot/calendaring/outlook-room-finder-not-show-conference-room",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Exchange/ExchangeServer/administration/outlook-cannot-set-oof-status-view-busy-free.md",
+         "redirect_url": "https://docs.microsoft.com/outlook/troubleshoot/calendaring/outlook-cannot-set-oof-status-view-busy-free",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Exchange/ExchangeServer/client-connectivity/error-when-outlook-uses-rpc-https-connect-server.md",
+         "redirect_url": "https://docs.microsoft.com/outlook/troubleshoot/connectivity/error-when-outlook-uses-rpc-https-connect-server",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Exchange/ExchangeServer/client-connectivity/outlook-not-connect-exchange-use-mapi-over-http.md",
+         "redirect_url": "https://docs.microsoft.com/outlook/troubleshoot/connectivity/outlook-not-connect-exchange-use-mapi-over-http",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Exchange/ExchangeServer/administration/suppress-autodiscover-mismatch-warning.md",
+         "redirect_url": "https://docs.microsoft.com/outlook/troubleshoot/connectivity/suppress-autodiscover-mismatch-warning",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Exchange/ExchangeServer/client-connectivity/outlook-shows-disconnected-if-ipv6-is-enabled.md",
+         "redirect_url": "https://docs.microsoft.com/outlook/troubleshoot/connectivity/outlook-shows-disconnected-if-ipv6-is-enabled",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Exchange/ExchangeServer/client-connectivity/outlook-displays-disconnected-in-status.md",
+         "redirect_url": "https://docs.microsoft.com/outlook/troubleshoot/connectivity/outlook-displays-disconnected-in-status",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Exchange/ExchangeServer/client-connectivity/outlook-repeatedly-disconnects-and-reconnects.md",
+         "redirect_url": "https://docs.microsoft.com/outlook/troubleshoot/connectivity/outlook-repeatedly-disconnects-and-reconnects",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Exchange/ExchangeServer/client-connectivity/outlook-cannot-connect-to-exchange-certificate-validation.md",
+         "redirect_url": "https://docs.microsoft.com/outlook/troubleshoot/connectivity/outlook-cannot-connect-to-exchange-certificate-validation",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Exchange/ExchangeServer/client-connectivity/outlook-2010-connection-delay-failure.md",
+         "redirect_url": "https://docs.microsoft.com/outlook/troubleshoot/connectivity/outlook-2010-connection-delay-failure",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Exchange/ExchangeServer/client-connectivity/connection-issues-mapi-disabled.md",
+         "redirect_url": "https://docs.microsoft.com/outlook/troubleshoot/connectivity/connection-issues-mapi-disabled",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Exchange/ExchangeServer/mailflow/event-27-mapisentmail-error-send-attachments.md",
+         "redirect_url": "https://docs.microsoft.com/outlook/troubleshoot/connectivity/event-27-mapisentmail-error-send-attachments",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Exchange/ExchangeServer/client-connectivity/cannot-access-archive-mailbox-in-outlook.md",
+         "redirect_url": "https://docs.microsoft.com/outlook/troubleshoot/connectivity/cannot-access-archive-mailbox-in-outlook",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Exchange/ExchangeServer/client-connectivity/dialog-box-does-not-include-connection-tab.md",
+         "redirect_url": "https://docs.microsoft.com/outlook/troubleshoot/connectivity/dialog-box-does-not-include-connection-tab",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Exchange/ExchangeServer/administration/cannot-manage-distribution-group-exchange-mailbox.md",
+         "redirect_url": "https://docs.microsoft.com/outlook/troubleshoot/contacts/cannot-manage-distribution-group-exchange-mailbox",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Exchange/ExchangeServer/administration/error-0x80070057-no-offline-address-book-download.md",
+         "redirect_url": "https://docs.microsoft.com/outlook/troubleshoot/contacts/error-0x80070057-no-offline-address-book-download",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Exchange/ExchangeServer/client-connectivity/cannot-create-contact-groups-eas-account.md",
+         "redirect_url": "https://docs.microsoft.com/outlook/troubleshoot/contacts/cannot-create-contact-groups-eas-account",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Exchange/ExchangeServer/administration/outlook-displays-incorrect-search-results-gal.md",
+         "redirect_url": "https://docs.microsoft.com/outlook/troubleshoot/contacts/outlook-displays-incorrect-search-results-gal",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Exchange/ExchangeServer/administration/limits-using-pst-files-over-lan-wan.md",
+         "redirect_url": "https://docs.microsoft.com/outlook/troubleshoot/data-files/limits-using-pst-files-over-lan-wan",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Exchange/ExchangeServer/migration/weird-folder-names-after-pst-migration.md",
+         "redirect_url": "https://docs.microsoft.com/outlook/troubleshoot/data-files/weird-folder-names-after-pst-migration",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Exchange/ExchangeServer/mailflow/outlook-2013-not-find-pst-file.md",
+         "redirect_url": "https://docs.microsoft.com/outlook/troubleshoot/data-files/outlook-2013-not-find-pst-file",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Exchange/ExchangeServer/development/manage-distribute-outlook-vba-project.md",
+         "redirect_url": "https://docs.microsoft.com/outlook/troubleshoot/development/manage-distribute-outlook-vba-project",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Exchange/ExchangeServer/development/macros-in-this-project-disabled-outlook.md",
+         "redirect_url": "https://docs.microsoft.com/outlook/troubleshoot/development/macros-in-this-project-disabled-outlook",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Exchange/ExchangeServer/administration/rules-not-be-uploaded-to-exchange-server.md",
+         "redirect_url": "https://docs.microsoft.com/outlook/troubleshoot/email-management/rules-not-be-uploaded-to-exchange-server",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Exchange/ExchangeServer/mailflow/emails-remain-in-outbox-deferred-delivery-rule.md",
+         "redirect_url": "https://docs.microsoft.com/outlook/troubleshoot/email-management/emails-remain-in-outbox-deferred-delivery-rule",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Outlook/Client/deployment/install-outlook-latest-updates.md",
+         "redirect_url": "https://docs.microsoft.com/outlook/troubleshoot/installation/install-outlook-latest-updates",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Exchange/ExchangeServer/compliance/enable-leave-a-copy-of-the-message-on-the-server-outlook.md",
+         "redirect_url": "https://docs.microsoft.com/outlook/troubleshoot/installation/enable-leave-a-copy-of-the-message-on-the-server-outlook",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Exchange/ExchangeServer/mailflow/error-send-file-from-application-through-email.md",
+         "redirect_url": "https://docs.microsoft.com/outlook/troubleshoot/installation/error-send-file-from-application-through-email",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Exchange/ExchangeServer/setup/installing-calendar-printing-assistant-fails.md",
+         "redirect_url": "https://docs.microsoft.com/outlook/troubleshoot/installation/installing-calendar-printing-assistant-fails",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Exchange/ExchangeServer/setup/upgrade-errors-office-2016.md",
+         "redirect_url": "https://docs.microsoft.com/outlook/troubleshoot/installation/upgrade-errors-office-2016",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Exchange/ExchangeServer/administration/outlook-error-over-junk-emial-list-limit.md",
+         "redirect_url": "https://docs.microsoft.com/outlook/troubleshoot/junk-email/outlook-error-over-junk-emial-list-limit",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Exchange/ExchangeServer/client-connectivity/junk-email-setting-not-synchronized.md",
+         "redirect_url": "https://docs.microsoft.com/outlook/troubleshoot/junk-email/junk-email-setting-not-synchronized",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Exchange/ExchangeServer/client-connectivity/time-limit-logging-reached-error-outlook-2016.md",
+         "redirect_url": "https://docs.microsoft.com/outlook/troubleshoot/performance/time-limit-logging-reached-error-outlook-2016",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Exchange/ExchangeServer/setup/wait-while-windows-configures-office-outlook.md",
+         "redirect_url": "https://docs.microsoft.com/outlook/troubleshoot/performance/wait-while-windows-configures-office-outlook",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Exchange/ExchangeServer/administration/event-9646-opening-mapi-sessions.md",
+         "redirect_url": "https://docs.microsoft.com/outlook/troubleshoot/performance/event-9646-opening-mapi-sessions",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Exchange/ExchangeServer/setup/outlook-2016-crash-event-1000.md",
+         "redirect_url": "https://docs.microsoft.com/outlook/troubleshoot/performance/outlook-2016-crash-event-1000",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Exchange/ExchangeServer/client-connectivity/outlook-stops-at-the-loading-profile-screen.md",
+         "redirect_url": "https://docs.microsoft.com/outlook/troubleshoot/performance/outlook-stops-at-the-loading-profile-screen",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Exchange/ExchangeServer/client-connectivity/outlook-cannot-use-activesync-connect-exchange.md",
+         "redirect_url": "https://docs.microsoft.com/outlook/troubleshoot/profiles-accounts/outlook-cannot-use-activesync-connect-exchange",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Exchange/ExchangeServer/mailflow/operation-failed-send-email-outlook.md",
+         "redirect_url": "https://docs.microsoft.com/outlook/troubleshoot/profiles-accounts/operation-failed-send-email-outlook",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Exchange/ExchangeServer/administration/cannot-set-up-office-365-account-outlook.md",
+         "redirect_url": "https://docs.microsoft.com/outlook/troubleshoot/profiles-accounts/cannot-set-up-office-365-account-outlook",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Exchange/ExchangeServer/client-connectivity/you-ll-need-a-new-app-to-open-this-osf-roaming-16.md",
+         "redirect_url": "https://docs.microsoft.com/outlook/troubleshoot/profiles-accounts/you-ll-need-a-new-app-to-open-this-osf-roaming-16",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Exchange/ExchangeServer/administration/outlook-exchange-dialog-not-include-connection-tab.md",
+         "redirect_url": "https://docs.microsoft.com/outlook/troubleshoot/profiles-accounts/outlook-exchange-dialog-not-include-connection-tab",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Exchange/ExchangeServer/client-connectivity/starting-outlook-displays-error.md",
+         "redirect_url": "https://docs.microsoft.com/outlook/troubleshoot/profiles-accounts/starting-outlook-displays-error",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Exchange/ExchangeServer/migration/error-copy-appointment-to-outlook-com-folder.md",
+         "redirect_url": "https://docs.microsoft.com/outlook/troubleshoot/profiles-accounts/error-copy-appointment-to-outlook-com-folder",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Exchange/ExchangeServer/client-connectivity/eas-not-synchronizing-some-outlook-contact-information.md",
+         "redirect_url": "https://docs.microsoft.com/outlook/troubleshoot/profiles-accounts/eas-not-synchronizing-some-outlook-contact-information",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Exchange/ExchangeServer/administration/full-access-mailbox-not-automapped-outlook-profile.md",
+         "redirect_url": "https://docs.microsoft.com/outlook/troubleshoot/profiles-accounts/full-access-mailbox-not-automapped-outlook-profile",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Exchange/ExchangeServer/client-connectivity/synchronization-issue-between-outlook-owa.md",
+         "redirect_url": "https://docs.microsoft.com/outlook/troubleshoot/synchronization/synchronization-issue-between-outlook-owa",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Exchange/ExchangeServer/administration/mailbox-quota-information-not-displayed.md",
+         "redirect_url": "https://docs.microsoft.com/outlook/troubleshoot/user-interface/mailbox-quota-information-not-displayed",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Exchange/ExchangeServer/mailflow/sending-email-by-template-fails.md",
+         "redirect_url": "https://docs.microsoft.com/outlook/troubleshoot/user-interface/sending-email-by-template-fails",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Exchange/ExchangeServer/client-connectivity/icloud-crashes-sync-data.md",
+         "redirect_url": "https://docs.microsoft.com/outlook/troubleshoot/user-interface/icloud-crashes-sync-data",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Exchange/ExchangeServer/migration/outlook-search-folders-issue-online-mode.md",
+         "redirect_url": "https://docs.microsoft.com/outlook/troubleshoot/user-interface/outlook-search-folders-issue-online-mode",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Exchange/ExchangeServer/mailflow/send-button-missing-delayed-delivery-email-outbox.md",
+         "redirect_url": "https://docs.microsoft.com/outlook/troubleshoot/user-interface/send-button-missing-delayed-delivery-email-outbox",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Exchange/ExchangeServer/setup/applications-incompatible-c2r-outlook.md",
+         "redirect_url": "https://docs.microsoft.com/outlook/troubleshoot/user-interface/applications-incompatible-c2r-outlook",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Exchange/ExchangeServer/development/wpf-webbrowser-control-content-not-display-correctly.md",
+         "redirect_url": "https://docs.microsoft.com/outlook/troubleshoot/user-interface/wpf-webbrowser-control-content-not-display-correctly",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Exchange/ExchangeServer/mailflow/apps-for-outlook-2013-do-not-activate-as-expected.md",
+         "redirect_url": "https://docs.microsoft.com/outlook/troubleshoot/user-interface/apps-for-outlook-2013-do-not-activate-as-expected",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Exchange/ExchangeServer/administration/mapi-is-the-only-way-to-change-profiles.md",
+         "redirect_url": "https://docs.microsoft.com/outlook/troubleshoot/user-interface/mapi-is-the-only-way-to-change-profiles",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Exchange/ExchangeServer/mailflow/empty-email-body-esetnod32-4x-installed.md",
+         "redirect_url": "https://docs.microsoft.com/outlook/troubleshoot/user-interface/empty-email-body-esetnod32-4x-installed",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Exchange/ExchangeServer/administration/mapi-apps-cannot-access-archive-mailboxes.md",
+         "redirect_url": "https://docs.microsoft.com/outlook/troubleshoot/user-interface/mapi-apps-cannot-access-archive-mailboxes",
+         "redirect_document_id": false
       }
    ]
 }
