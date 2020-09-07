@@ -2832,47 +2832,47 @@
       },
       {
          "source_path": "Exchange/ExchangeServer/client-connectivity/outlook-cannot-use-activesync-connect-exchange.md",
-         "redirect_url": "https://docs.microsoft.com/outlook/troubleshoot/profiles-accounts/outlook-cannot-use-activesync-connect-exchange",
+         "redirect_url": "https://docs.microsoft.com/outlook/troubleshoot/profiles-and-accounts/outlook-cannot-use-activesync-connect-exchange",
          "redirect_document_id": false
       },
       {
          "source_path": "Exchange/ExchangeServer/mailflow/operation-failed-send-email-outlook.md",
-         "redirect_url": "https://docs.microsoft.com/outlook/troubleshoot/profiles-accounts/operation-failed-send-email-outlook",
+         "redirect_url": "https://docs.microsoft.com/outlook/troubleshoot/profiles-and-accounts/operation-failed-send-email-outlook",
          "redirect_document_id": false
       },
       {
          "source_path": "Exchange/ExchangeServer/administration/cannot-set-up-office-365-account-outlook.md",
-         "redirect_url": "https://docs.microsoft.com/outlook/troubleshoot/profiles-accounts/cannot-set-up-office-365-account-outlook",
+         "redirect_url": "https://docs.microsoft.com/outlook/troubleshoot/profiles-and-accounts/cannot-set-up-office-365-account-outlook",
          "redirect_document_id": false
       },
       {
          "source_path": "Exchange/ExchangeServer/client-connectivity/you-ll-need-a-new-app-to-open-this-osf-roaming-16.md",
-         "redirect_url": "https://docs.microsoft.com/outlook/troubleshoot/profiles-accounts/you-ll-need-a-new-app-to-open-this-osf-roaming-16",
+         "redirect_url": "https://docs.microsoft.com/outlook/troubleshoot/profiles-and-accounts/you-ll-need-a-new-app-to-open-this-osf-roaming-16",
          "redirect_document_id": false
       },
       {
          "source_path": "Exchange/ExchangeServer/administration/outlook-exchange-dialog-not-include-connection-tab.md",
-         "redirect_url": "https://docs.microsoft.com/outlook/troubleshoot/profiles-accounts/outlook-exchange-dialog-not-include-connection-tab",
+         "redirect_url": "https://docs.microsoft.com/outlook/troubleshoot/profiles-and-accounts/outlook-exchange-dialog-not-include-connection-tab",
          "redirect_document_id": false
       },
       {
          "source_path": "Exchange/ExchangeServer/client-connectivity/starting-outlook-displays-error.md",
-         "redirect_url": "https://docs.microsoft.com/outlook/troubleshoot/profiles-accounts/starting-outlook-displays-error",
+         "redirect_url": "https://docs.microsoft.com/outlook/troubleshoot/profiles-and-accounts/starting-outlook-displays-error",
          "redirect_document_id": false
       },
       {
          "source_path": "Exchange/ExchangeServer/migration/error-copy-appointment-to-outlook-com-folder.md",
-         "redirect_url": "https://docs.microsoft.com/outlook/troubleshoot/profiles-accounts/error-copy-appointment-to-outlook-com-folder",
+         "redirect_url": "https://docs.microsoft.com/outlook/troubleshoot/profiles-and-accounts/error-copy-appointment-to-outlook-com-folder",
          "redirect_document_id": false
       },
       {
          "source_path": "Exchange/ExchangeServer/client-connectivity/eas-not-synchronizing-some-outlook-contact-information.md",
-         "redirect_url": "https://docs.microsoft.com/outlook/troubleshoot/profiles-accounts/eas-not-synchronizing-some-outlook-contact-information",
+         "redirect_url": "https://docs.microsoft.com/outlook/troubleshoot/profiles-and-accounts/eas-not-synchronizing-some-outlook-contact-information",
          "redirect_document_id": false
       },
       {
          "source_path": "Exchange/ExchangeServer/administration/full-access-mailbox-not-automapped-outlook-profile.md",
-         "redirect_url": "https://docs.microsoft.com/outlook/troubleshoot/profiles-accounts/full-access-mailbox-not-automapped-outlook-profile",
+         "redirect_url": "https://docs.microsoft.com/outlook/troubleshoot/profiles-and-accounts/full-access-mailbox-not-automapped-outlook-profile",
          "redirect_document_id": false
       },
       {
@@ -2933,6 +2933,151 @@
       {
          "source_path": "Exchange/ExchangeServer/administration/mapi-apps-cannot-access-archive-mailboxes.md",
          "redirect_url": "https://docs.microsoft.com/outlook/troubleshoot/user-interface/mapi-apps-cannot-access-archive-mailboxes",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Outlook/Client/sign-in/continually-prompts-password-office-365.md",
+         "redirect_url": "https://docs.microsoft.com/outlook/troubleshoot/authentication/continually-prompts-password-office-365",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Outlook/Client/extended-mapi-solutions/expose-permissions-issue-with-mapi-oauth-tokens.md",
+         "redirect_url": "https://docs.microsoft.com/outlook/troubleshoot/authentication/expose-permissions-issue-with-mapi-oauth-tokens",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Outlook/Client/sign-in/policy-control-credential-prompts.md",
+         "redirect_url": "https://docs.microsoft.com/outlook/troubleshoot/authentication/policy-control-credential-prompts",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Outlook/Client/meetings/meeting-tracking-tab-not-updated.md",
+         "redirect_url": "https://docs.microsoft.com/outlook/troubleshoot/calendaring/meeting-tracking-tab-not-updated",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Outlook/Client/meetings/room-finder-is-not-available-shared-calendars-outlook.md",
+         "redirect_url": "https://docs.microsoft.com/outlook/troubleshoot/calendaring/room-finder-is-not-available-shared-calendars-outlook",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Outlook/Client/send-receive-emails/create-modify-client-only-rule-with-error.md",
+         "redirect_url": "https://docs.microsoft.com/outlook/troubleshoot/email-management/create-modify-client-only-rule-with-error",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Outlook/Client/deployment/cached-exchange-mode.md",
+         "redirect_url": "https://docs.microsoft.com/outlook/troubleshoot/installation/cached-exchange-mode",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Outlook/Client/deployment/plan-outlook-2016-deployment.md",
+         "redirect_url": "https://docs.microsoft.com/outlook/troubleshoot/installation/plan-outlook-2016-deployment",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Outlook/Client/email-messages/url-multiple-slashes-become-single-slash.md",
+         "redirect_url": "https://docs.microsoft.com/outlook/troubleshoot/message-body/url-multiple-slashes-become-single-slash",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Outlook/Client/email-messages/error-when-copying-msg-with-many-attachments-or-recipients.md",
+         "redirect_url": "https://docs.microsoft.com/outlook/troubleshoot/performance/error-when-copying-msg-with-many-attachments-or-recipients",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Outlook/Client/folders/outlook-folder-fails-displaying.md",
+         "redirect_url": "https://docs.microsoft.com/outlook/troubleshoot/performance/outlook-folder-fails-displaying",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Outlook/Client/transport-logging/enable-transport-logging.md",
+         "redirect_url": "https://docs.microsoft.com/outlook/troubleshoot/performance/enable-transport-logging",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Outlook/Client/domain-management/remove-automapping-for-shared-mailbox.md",
+         "redirect_url": "https://docs.microsoft.com/outlook/troubleshoot/profiles-and-accounts/remove-automapping-for-shared-mailbox",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Outlook/Client/domain-management/unexpected-autodiscover-behavior.md",
+         "redirect_url": "https://docs.microsoft.com/outlook/troubleshoot/profiles-and-accounts/unexpected-autodiscover-behavior",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Outlook/Client/folders/focused-inbox-disappears-switch-folder.md",
+         "redirect_url": "https://docs.microsoft.com/outlook/troubleshoot/profiles-and-accounts/focused-inbox-disappears-switch-folder",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Outlook/Client/send-receive-emails/metered-connection-warning.md",
+         "redirect_url": "https://docs.microsoft.com/outlook/troubleshoot/profiles-and-accounts/metered-connection-warning",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Outlook/Client/sign-in/additional-rss-feeds-appear.md",
+         "redirect_url": "https://docs.microsoft.com/outlook/troubleshoot/profiles-and-accounts/additional-rss-feeds-appear",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Outlook/Client/send-receive-emails/can't-display-dlp-policytip.md",
+         "redirect_url": "https://docs.microsoft.com/outlook/troubleshoot/security/can't-display-dlp-policytip",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Outlook/Client/send-receive-emails/delete-nonexistent-messages.md",
+         "redirect_url": "https://docs.microsoft.com/outlook/troubleshoot/synchronization/delete-nonexistent-messages",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Outlook/Client/email-messages/create-recurring-email.md",
+         "redirect_url": "https://docs.microsoft.com/outlook/troubleshoot/user-interface/create-recurring-email",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Outlook/Client/folders/incorrect-folder-names.md",
+         "redirect_url": "https://docs.microsoft.com/outlook/troubleshoot/user-interface/incorrect-folder-names",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Outlook/Client/folders/remove-duration-retention-policy-tag.md",
+         "redirect_url": "https://docs.microsoft.com/outlook/troubleshoot/user-interface/remove-duration-retention-policy-tag",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Outlook/Client/imap-pop/outlook-quick-steps-issues.md",
+         "redirect_url": "https://docs.microsoft.com/outlook/troubleshoot/user-interface/outlook-quick-steps-issues",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Outlook/Client/mailboxes/calling-openmsgstore-opens-archive-mailbox.md",
+         "redirect_url": "https://docs.microsoft.com/outlook/troubleshoot/user-interface/calling-openmsgstore-opens-archive-mailbox",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Outlook/Client/mailboxes/only-subset-items-synchronized.md",
+         "redirect_url": "https://docs.microsoft.com/outlook/troubleshoot/user-interface/only-subset-items-synchronized",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Outlook/Client/ribbon/default-office-addin-icon-displayed-outlook-ribbon.md",
+         "redirect_url": "https://docs.microsoft.com/outlook/troubleshoot/user-interface/default-office-addin-icon-displayed-outlook-ribbon",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Outlook/Client/ribbon/lync-meeting-control-not-displayed.md",
+         "redirect_url": "https://docs.microsoft.com/outlook/troubleshoot/user-interface/lync-meeting-control-not-displayed",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Outlook/Client/search/can't-search-additional-mailbox.md",
+         "redirect_url": "https://docs.microsoft.com/outlook/troubleshoot/user-interface/can't-search-additional-mailbox",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Outlook/Client/search/personmetadata-items.md",
+         "redirect_url": "https://docs.microsoft.com/outlook/troubleshoot/user-interface/personmetadata-items",
          "redirect_document_id": false
       }
    ]
