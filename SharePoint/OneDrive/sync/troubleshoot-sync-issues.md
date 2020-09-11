@@ -16,8 +16,6 @@ search.appverid: MET150
 ---
 # Troubleshooting OneDrive for Business sync issues
 
-This article isolates and resolves issues when you use the sync app to upload or download files or folders in OneDrive for Business. This guide contains information that applies when you use the OneDrive for Business sync client (groove.exe).
-
 _Original KB number:_ &nbsp; 10104
 
 ## Summary
@@ -26,7 +24,7 @@ This article is for anyone who can't sync OneDrive for Business. You'll find det
 
 > [!NOTE]
 > To determine which OneDrive sync client you're using, see [Which OneDrive sync client am I using?](https://support.office.com/article/Which-OneDrive-sync-client-am-I-using-19246eae-8a51-490a-8d97-a645c151f2ba)  
-> If you are using OneDrive not OneDrive for Business, and you encountered sync issue, you can look for the solutions in [Fix OneDrive sync problems](https://support.microsoft.co/office/fix-onedrive-sync-problems-0899b115-05f7-45ec-95b2-e4cc8c4670b2?redirectSourcePath=%252fen-gb%252farticle%252fFix-OneDrive-sync-problems-with-Windows-10-Windows-8-Windows-7-or-Windows-Vista-83ab0d8a-8400-45b0-8dcf-dc8aa8a6bcf8&ui=en-US&rs=en-US&ad=US).
+> If you are using OneDrive not OneDrive for Business, and you encountered sync issue, you can look for the solutions in [Fix OneDrive sync problems](https://support.microsoft.com/office/0899b115-05f7-45ec-95b2-e4cc8c4670b2).
 
 ## Update OneDrive for Business to the current release
 
@@ -78,7 +76,7 @@ When you see this happen, it's up to you to decide how to treat these file versi
 
 Did this solve your problem?
 
-- If yes, we’re glad that your issue is resolved.
+- If yes, we're glad that your issue is resolved.
 - If no, see [Clear cached files](#clear-cached-files).
 
 ### Clear cached files
@@ -94,7 +92,7 @@ Try clearing cached files from Upload Center. To do this, follow these steps:
 
 Did this solve your problem?
 
-- If yes, we’re glad that your issue is resolved.
+- If yes, we're glad that your issue is resolved.
 - If no, see [Stop and resync your libraries](#stop-and-resync-your-libraries).
 
 ### Stop and resync your libraries
@@ -111,7 +109,7 @@ When you stop syncing a folder, this simply disconnects the folder from the libr
 
 Did this solve your problem?
 
-- If yes, we’re glad that your issue is resolved.
+- If yes, we're glad that your issue is resolved.
 - If no, see [Reset the OneDrive for Business cache](#reset-the-onedrive-for-business-cache).
 
 ### Restrictions and limitations
@@ -122,7 +120,7 @@ Sometimes the content you try to sync may not be supported. There are several re
 
 Did this solve your problem?
 
-- If yes, we’re glad that your issue is resolved.
+- If yes, we're glad that your issue is resolved.
 - If not, see [Repair a sync connection](#repair-a-sync-connection).
 
 ### Is the library configured to be available offline
@@ -157,7 +155,7 @@ If you are an administrator of the library, use the following steps to confirm t
 
 Did this solve your problem?
 
-- If yes, we’re glad that your issue is resolved.
+- If yes, we're glad that your issue is resolved.
 - If no, see [Confirm or correct your credentials](#confirm-or-correct-your-credentials).
 
 ### Confirm or correct your credentials
@@ -168,7 +166,7 @@ When you supply credentials, be sure to use the credentials associated with the 
 
 Did this solve your problem?
 
-- If yes, we’re glad that your issue is resolved.
+- If yes, we're glad that your issue is resolved.
 - If no, see [Review conflicts](#review-conflicts).
 
 ### Repair OneDrive for Business or Office installation
@@ -177,7 +175,7 @@ Before you try uninstalling and reinstalling, try repairing OneDrive for Busines
 
 Did this solve your problem?
 
-- If yes, we’re glad that your issue is resolved.
+- If yes, we're glad that your issue is resolved.
 - If no, see [Uninstall and reinstall OneDrive for Business or Office](#uninstall-and-reinstall-onedrive-for-business-or-office).
 
 ### Reset Internet Explorer
@@ -240,5 +238,5 @@ If you installed the OneDrive for Business sync app through a setup program (MSI
 
 Did this solve your problem?
 
-- If yes, we’re glad that your issue is resolved.
+- If yes, we're glad that your issue is resolved.
 - If no, see [Reset Internet Explorer](#reset-internet-explorer).

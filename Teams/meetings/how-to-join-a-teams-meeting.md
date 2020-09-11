@@ -16,8 +16,6 @@ search.appverid: MET150
 ---
 # How to join a Microsoft Teams meeting
 
-This article provides all the details you need to join a Microsoft Teams meeting, plus in-context troubleshooting tips.
-
 _Original KB number:_ &nbsp; 10055
 
 ## Summary
@@ -47,7 +45,7 @@ Follow these steps:
 
 Are you able to join the meeting?
 
-- If yes, congratulations, you’ve successfully joined a Teams meeting.
+- If yes, congratulations, you've successfully joined a Teams meeting.
 - If yes but you're having trouble with the meeting audio, see [Troubleshoot audio](#troubleshoot-audio).
 - If the meeting opened in Teams Web Access instead of in the desktop version of Teams, see [Check your default browser](#check-your-default-browser).
 - If you are not able to join the meeting, see [Join with Teams Web App when Teams is installed](#join-with-teams-web-app-when-teams-is-installed).
@@ -79,8 +77,8 @@ You don't have to download anything, just follow these steps:
 
 Are you able to join the meeting?
 
-- If yes, congratulations, you’ve successfully joined a Teams meeting.
-- If you can’t connect to meeting audio or see the meeting content, see [Troubleshoot using the Teams Web App](#troubleshoot-using-the-teams-web-app).
+- If yes, congratulations, you've successfully joined a Teams meeting.
+- If you can't connect to meeting audio or see the meeting content, see [Troubleshoot using the Teams Web App](#troubleshoot-using-the-teams-web-app).
 - If you are not able to join the meeting, or an error occurred, see [Troubleshoot joining a meeting with Teams Web App](#troubleshoot-joining-a-meeting-with-teams-web-app).
 
 ### Check your default browser
@@ -190,7 +188,7 @@ Go to your calendar, and open the meeting you want to join.
 
 Does it contain dial-in information similar to this?
 
-:::image type="content" source="media/how-to-join-a-teams-meeting/join-by-phone.png" alt-text="Join a meeting by phone":::
+:::image type="content" source="media/how-to-join-a-teams-meeting/join-teams-meeting.png" alt-text="Join a meeting by phone":::
 
 - If yes, see [Join a meeting by phone](#join-a-meeting-by-phone).
 - If no, see [Join a meeting by phone: no dial-in numbers available](#join-a-meeting-by-phone-no-dial-in-numbers-available).
@@ -211,7 +209,7 @@ To join a meeting by phone:
 
 - Dial the conference call number.
 
-  :::image type="content" source="media/how-to-join-a-teams-meeting/join-by-phone.png" alt-text="Join a meeting by phone":::
+  :::image type="content" source="media/how-to-join-a-teams-meeting/join-teams-meeting.png" alt-text="Join a meeting by phone":::
 
 Enter the **Conference ID**.
 
@@ -234,13 +232,13 @@ Look for the link in the meeting request you received from the organizer. Go to 
 
 You can connect to the meeting audio by phone if the meeting request contains information similar to this:
 
-:::image type="content" source="media/how-to-join-a-teams-meeting/join-by-phone.png" alt-text="Join a meeting by phone":::
+:::image type="content" source="media/how-to-join-a-teams-meeting/join-teams-meeting.png" alt-text="Join a meeting by phone":::
 
 For more information, see [Call in to a Teams meeting](https://support.microsoft.com/office/call-in-to-a-meeting-in-teams-44607421-aeae-4481-8c39-d6b40bc5d554).
 
 Did this solve your problem?
 
-- If yes, congratulations, you’ve successfully joined a Teams meeting.
+- If yes, congratulations, you've successfully joined a Teams meeting.
 - If no, see [Troubleshoot meeting join](#troubleshoot-meeting-join).
 
 ### Join a Teams meeting: walkthrough complete
@@ -316,7 +314,7 @@ If you can't hear audio, check the following:
     1. In the Teams main window, go to **Options** ![the Options icon](./media/how-to-join-a-teams-meeting/options.png) > **Audio device**, and then choose the microphone you want.
     2. Use the slider to adjust the microphone volume. The blue indicator helps you choose the appropriate level for your mic as you speak.
 
-       :::image type="content" source="media/how-to-join-a-teams-meeting/audio-device-settings.png" alt-text="Check the speakers and volume on your computer" border="false":::
+       :::image type="content" source="media/how-to-join-a-teams-meeting/audio-device-settings.png" alt-text="Check the audio device settings" border="false":::
 
 #### Low call quality or choppy audio
 
@@ -370,7 +368,7 @@ If your problem is not resolved, see [Not able to join a Teams meeting](#not-abl
 
 What do you need help with?
 
-- [Teams: can’t join the meeting](#join-with-teams-web-app-when-teams-is-installed)
-- [Teams Web App: can’t connect to meeting audio or see meeting content](#troubleshoot-using-the-teams-web-app)
-- [Teams Web App: can’t join the meeting](#troubleshoot-joining-a-meeting-with-teams-web-app)
-- [Mobile devices: can’t join the meeting](#troubleshoot-joining-a-teams-meeting-on-a-mobile-device)
+- [Teams: can't join the meeting](#join-with-teams-web-app-when-teams-is-installed)
+- [Teams Web App: can't connect to meeting audio or see meeting content](#troubleshoot-using-the-teams-web-app)
+- [Teams Web App: can't join the meeting](#troubleshoot-joining-a-meeting-with-teams-web-app)
+- [Mobile devices: can't join the meeting](#troubleshoot-joining-a-teams-meeting-on-a-mobile-device)

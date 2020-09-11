@@ -20,12 +20,12 @@ search.appverid: MET150
 ---
 # Can't send or receive email messages behind a Cisco PIX or Cisco ASA firewall with the Mailguard feature turned on
 
+_Original KB number:_ &nbsp;320027
+
 This article discusses the cause of the behavior that you can't send or receive email messages if an Exchange server is placed behind a Cisco PIX or Cisco ASA firewall device and the PIX or ASA firewall has the Mailguard feature turned on. It provides steps to turn off the Mailguard feature of the PIX or ASA firewall.
 
 > [!IMPORTANT]
 > This article contains information that shows you how to help lower security settings or how to turn off security features on a computer. You can make these changes to work around a specific problem. Before you make these changes, we recommend that you evaluate the risks that are associated with implementing this workaround in your particular environment. If you implement this workaround, take any appropriate additional steps to help protect the computer.
-
-_Original KB number:_ &nbsp;320027
 
 ## Symptoms
 
@@ -59,13 +59,15 @@ This issue may occur in the following situation:
 
 To determine whether Mailguard is running on your Cisco PIX or Cisco ASA firewall, Telnet to the IP address of the MX record, and then verify whether the response looks similar to the following:
 
-    220*******************************************************0*2******0***********************
-    
-    2002*******2***0*00
+   ```console
+   220*******************************************************0*2******0***********************
 
-    Old versions of PIX or ASA:
-    
-    220 SMTP/cmap_________________________________________ read
+   2002*******2***0*00
+
+   Old versions of PIX or ASA:
+
+   220 SMTP/cmap_________________________________________ read
+   ```
 
 > [!NOTE]
 > If you have an ESMTP server behind the PIX or ASA firewall, you may have to turn off the Mailguard feature to permit mail to flow correctly. Also, establishing a Telnet session to port 25 may not work with the `fixup protocol smtp` command, especially with a Telnet client that uses character mode.
@@ -156,11 +158,9 @@ By default, the PIX, or ASA firewall blocks all outside connections from accessi
 
 For more information about firewall products that have SMTP Proxy capabilities, visit the following websites:
 
-[WatchGuard Resources](http://www.watchguard.com)
-
-[Check Point](http://www.checkpoint.com)
-
-[Symantec](http://www.symantec.com/business/index.jsp)
+- [WatchGuard Resources](http://www.watchguard.com)
+- [Check Point](http://www.checkpoint.com)
+- [Symantec](https://www.broadcom.com/)
 
 [!INCLUDE [Third-party information disclaimer](../../../includes/third-party-information-disclaimer.md)]
 

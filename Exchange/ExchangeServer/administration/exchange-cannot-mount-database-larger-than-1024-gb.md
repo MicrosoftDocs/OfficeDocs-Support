@@ -1,6 +1,6 @@
 ---
 title: Can't mount databases that are larger than 1024 GB
-description: Fixes an issue that prevents you from remounting a large dismounted database (>1 TB) in Exchange Server 2013 and 2016 Standard Edition. This issue concerns the default database size limit.
+description: Fixes an issue that prevents you from remounting a large dismounted database (>1 TB) in Exchange Server 2019, Exchange Server 2013 Standard Edition, and Exchange Server 2016 Standard Edition. This issue concerns the default database size limit.
 author: AmandaAZ
 ms.author: v-weizhu
 manager: dcscontentpm
@@ -15,18 +15,17 @@ ms.reviewer: dpaul, honche, jarrettr, genli, christys
 search.appverid: 
 - MET150
 appliesto:
+- Exchange Server 2019
 - Exchange Server 2013 Standard Edition
 - Exchange Server 2016 Standard Edition 
 ---
 # Exchange Server 2013 and 2016 Standard Edition can't mount databases that are larger than 1024 GB
 
-This article helps you resolve the problem that Microsoft Exchange Server 2013 and 2016 Standard Edition can't mount databases that are larger than 1024 GB.
-
 _Original KB number:_ &nbsp; 3059008
 
 ## Summary
 
-This issue occurs because the default database size limit for Exchange Server 2013 Standard Edition and Exchange Server 2016 Standard Edition is 1,024 gigabytes (GB). There is no default database size limit for the Enterprise Edition. The Exchange store checks database size limits periodically and dismounts a database when the size limit is reached. Therefore, this issue may occur after the database is automatically dismounted.
+This issue occurs because the default database size limit for Microsoft Exchange Server 2019, Exchange Server 2013 Standard Edition, and Exchange Server 2016 Standard Edition is 1,024 gigabytes (GB). There is no default database size limit for the Enterprise Edition. The Exchange store checks database size limits periodically and dismounts a database when the size limit is reached. Therefore, this issue may occur after the database is automatically dismounted.
 
 Additionally, when you perform a failover of the database, the failover fails.
 
@@ -54,8 +53,8 @@ To mount the database again, and to prevent the database from being automaticall
     Get-MailboxDatabase -Identity "<database name>" | Format-Table Name, GUID
     ```
 
-3. If the `Database Size Limit` in GB DWORD value exists for the subkey, change it to the size that you want, in GB.
-4. If the `Database Size Limit` in GB DWORD value does not exist for the subkey, create a new DWORD value with that name, and then set its value to the size that you want, in GB.
+3. If the `Database Size Limit in GB` DWORD value exists for the subkey, change it to the size that you want, in GB.
+4. If the `Database Size Limit in GB` DWORD value does not exist for the subkey, create a new DWORD value with that name, and then set its value to the size that you want, in GB.
 5. Mount the database on the server by using Exchange Management Shell and the `-Force` switch.
 
 > [!NOTE]

@@ -35,6 +35,8 @@
     items:
     - name: A channel can't be recreated after deletion
       href: ./known-issues/channel-cannot-be-recreated-after-deletion.md
+    - name: Channel notifications settings don't update
+      href: ./known-issues/notifications-cannot-manage.md
     - name: Rename a channel doesn't rename the corresponding folder
       href: ./known-issues/renaming-channel-does-not-rename-folder-sharepoint.md
   - name: Conferencing
@@ -69,10 +71,16 @@
       href: ./known-issues/no-audio-when-sharing-content-in-meeting.md
     - name: Team member maximum of 5000
       href: ./known-issues/teams-member-max-5000.md
+    - name: Teams is slow during video meetings on laptops docked to 4K/HDR monitors
+      href: ./known-issues/teams-slow-video-meetings-laptops-4k.md
     - name: '"The following application instance is not present in BVD" error when assigning a phone number to a resource accounts'
       href: ./known-issues/following-application-instance-not-present-error.md
     - name: Users with Exchange Online mailboxes can't access meetings or connectors 
       href: ./known-issues/exchange-users-cant-access-meetings.md
+  - name: Exchange integration
+    items:
+    - name: Teams and Exchange interaction issues
+      href: ./known-issues/teams-exchange-interaction-issue.md
   - name: Files
     items:
     - name: Downloaded documents open in protected view
@@ -119,6 +127,10 @@
       href: ./known-issues/deleting-team-also-deletes-group.md
     - name: Incorrect user listed as SharePoint site creator
       href: ./known-issues/wrong-teams-user-listed-as-site-creator.md
+  - name: Rooms
+    items:
+    - name: Known issues in Rooms
+      href: ./known-issues/rooms-known-issues.md
   - name: Sign-in
     items:
     - name: Can't start Teams for Surface Hub from Microsoft Store
@@ -155,6 +167,10 @@
     items: 
     - name: Known issues in Linux
       href: ./known-issues/linux-known-issues.md
+  - name: Teams on Mac
+    items:
+    - name: Virtual Camera stops working on MacOS desktop client
+      href: ./teams-on-mac/virtual-camera-doesnt-work-macos.md
   - name: Third-party programs
     items:
     - name: Dell Encryption prevents Teams from starting correctly

@@ -20,10 +20,6 @@ search.appverid: MET150
 
 _Original KB number:_ &nbsp;973994
 
-This article provides steps to enable the Hierarchical Address Book feature in Exchange Server 2010.
-
-## Introduction
-
 This step-by-step article describes how to enable the Hierarchical Address Book (HAB) feature in Microsoft Exchange Server 2010. HAB is a feature in Exchange Server 2010 and an Office Outlook address book. HAB lets end users browse for recipients in the organizational hierarchy that they belong to.
 
 HAB is enabled by creating a root organization that will be the top of the hierarchy. After you create a root organization on Exchange Server, Outlook 2010 automatically detects when the feature is enabled and adds the **Organization** tab in the **Outlook Address Book**  dialog box. End users can use HAB and the name list, such as the global address list, by switching tabs. The screenshot for this step is listed below.
