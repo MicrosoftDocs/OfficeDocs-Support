@@ -2536,11 +2536,6 @@
          "redirect_document_id": false     
       },
       {
-         "source_path": "Office/Client/word/recover-lost-document.md",
-         "redirect_url": "https://support.microsoft.com/Word",
-         "redirect_document_id": false     
-      },
-      {
          "source_path": "Office/Client/word/insert-image-into-document.md",
          "redirect_url": "https://support.microsoft.com/Word",
          "redirect_document_id": false     
