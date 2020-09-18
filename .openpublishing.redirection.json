@@ -3074,6 +3074,256 @@
          "source_path": "Outlook/Client/search/personmetadata-items.md",
          "redirect_url": "https://docs.microsoft.com/outlook/troubleshoot/user-interface/personmetadata-items",
          "redirect_document_id": false
+      },
+      {
+         "source_path": "Exchange/ExchangeOnline/connectors/badprimary-ndr.md",
+         "redirect_url": "https://docs.microsoft.com/exchange/troubleshoot/email-delivery/badprimary-ndr",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Exchange/ExchangeOnline/connectors/exrecipnotfound-ndr.md",
+         "redirect_url": "https://docs.microsoft.com/exchange/troubleshoot/email-delivery/exrecipnotfound-ndr",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Exchange/ExchangeOnline/connectors/invalid-message-ndr.md",
+         "redirect_url": "https://docs.microsoft.com/exchange/troubleshoot/email-delivery/invalid-message-ndr",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Exchange/ExchangeOnline/connectors/office-365-notice.md",
+         "redirect_url": "https://docs.microsoft.com/exchange/troubleshoot/email-delivery/office-365-notice",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Exchange/ExchangeOnline/connectors/recipientnotfound-ndr.md",
+         "redirect_url": "https://docs.microsoft.com/exchange/troubleshoot/email-delivery/recipientnotfound-ndr",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Exchange/ExchangeOnline/connectors/relay-access-denied-smtp.md",
+         "redirect_url": "https://docs.microsoft.com/exchange/troubleshoot/email-delivery/relay-access-denied-smtp",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Exchange/ExchangeOnline/connectors/wrong-office-365-region-exo.md",
+         "redirect_url": "https://docs.microsoft.com/exchange/troubleshoot/email-delivery/wrong-office-365-region-exo",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Exchange/ExchangeOnline/mailflow/autoforward-mail-exclusions-not-honored-transport-rule.md",
+         "redirect_url": "https://docs.microsoft.com/exchange/troubleshoot/email-delivery/autoforward-mail-exclusions-not-honored-transport-rule",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Exchange/ExchangeOnline/mailflow/inbox-rule-to-forward-messages-not-work.md",
+         "redirect_url": "https://docs.microsoft.com/exchange/troubleshoot/email-delivery/inbox-rule-to-forward-messages-not-work",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Exchange/ExchangeOnline/mailflow/tenantattribution-ndr.md",
+         "redirect_url": "https://docs.microsoft.com/exchange/troubleshoot/email-delivery/tenantattribution-ndr",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Exchange/ExchangeOnline/mail-delivery/email-delivery-issues.md",
+         "redirect_url": "https://docs.microsoft.com/exchange/troubleshoot/email-delivery/email-delivery-issues",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Exchange/ExchangeOnline/mail-delivery/imceaex-ndr.md",
+         "redirect_url": "https://docs.microsoft.com/exchange/troubleshoot/email-delivery/imceaex-ndr",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Exchange/ExchangeOnline/mail-delivery/mail-issues.md",
+         "redirect_url": "https://docs.microsoft.com/exchange/troubleshoot/email-delivery/mail-issues",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Exchange/ExchangeOnline/mail-delivery/mapiexceptionnotfound-ndr.md",
+         "redirect_url": "https://docs.microsoft.com/exchange/troubleshoot/email-delivery/mapiexceptionnotfound-ndr",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Exchange/ExchangeOnline/meetings/conference-rooms-not-displayed.md",
+         "redirect_url": "https://docs.microsoft.com/exchange/troubleshoot/calendaring/conference-rooms-not-displayed",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Exchange/ExchangeOnline/delete-calendar-items/cannot-remove-items.md",
+         "redirect_url": "https://docs.microsoft.com/exchange/troubleshoot/calendaring/cannot-remove-items",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Exchange/ExchangeOnline/delete-calendar-items/store-reached-maximum-size.md",
+         "redirect_url": "https://docs.microsoft.com/exchange/troubleshoot/calendaring/store-reached-maximum-size",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Exchange/ExchangeOnline/groups/cannot-determine-group-type-error.md",
+         "redirect_url": "https://docs.microsoft.com/exchange/troubleshoot/groups-and-distribution-lists/cannot-determine-group-type-error",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Exchange/ExchangeOnline/groups/no-sufficient-permissions-moving-dg.md",
+         "redirect_url": "https://docs.microsoft.com/exchange/troubleshoot/groups-and-distribution-lists/no-sufficient-permissions-moving-dg",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Exchange/ExchangeOnline/groups/o365-group-tasks.md",
+         "redirect_url": "https://docs.microsoft.com/exchange/troubleshoot/groups-and-distribution-lists/o365-group-tasks",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Exchange/ExchangeOnline/groups/prevent-users-create-manage-dg.md",
+         "redirect_url": "https://docs.microsoft.com/exchange/troubleshoot/groups-and-distribution-lists/prevent-users-create-manage-dg",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Exchange/ExchangeOnline/active-sync/issues-for-mobile-devices.md",
+         "redirect_url": "https://docs.microsoft.com/exchange/troubleshoot/mobile-devices/issues-for-mobile-devices",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Exchange/ExchangeOnline/move-mailboxes/cannot-see-free-busy-information.md",
+         "redirect_url": "https://docs.microsoft.com/exchange/troubleshoot/move-or-migrate-mailboxes/cannot-see-free-busy-information",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Exchange/ExchangeOnline/mailbox-migration/issue-with-add-recipientpermission-cmdlet.md",
+         "redirect_url": "https://docs.microsoft.com/exchange/troubleshoot/move-or-migrate-mailboxes/issue-with-add-recipientpermission-cmdlet",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Exchange/ExchangeOnline/mailbox-migration/migrate-data-with-admin-center.md",
+         "redirect_url": "https://docs.microsoft.com/exchange/troubleshoot/move-or-migrate-mailboxes/migrate-data-with-admin-center",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Exchange/ExchangeOnline/mailbox-migration/new-migrationendpoint-returns-error.md",
+         "redirect_url": "https://docs.microsoft.com/exchange/troubleshoot/move-or-migrate-mailboxes/new-migrationendpoint-returns-error",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Exchange/ExchangeOnline/mailbox-migration/no-smtp-proxy-matching.md",
+         "redirect_url": "https://docs.microsoft.com/exchange/troubleshoot/move-or-migrate-mailboxes/no-smtp-proxy-matching",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Exchange/ExchangeOnline/mailbox-migration/troubleshoot-issues-with-imap-mailbox-migration.md",
+         "redirect_url": "https://docs.microsoft.com/exchange/troubleshoot/move-or-migrate-mailboxes/troubleshoot-issues-with-imap-mailbox-migration",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Exchange/ExchangeOnline/mailbox-migration/troubleshoot-migration-issues-in-exchange-hybrid.md",
+         "redirect_url": "https://docs.microsoft.com/exchange/troubleshoot/move-or-migrate-mailboxes/troubleshoot-migration-issues-in-exchange-hybrid",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Exchange/ExchangeOnline/mailbox-migration/whencreated-date-changed.md",
+         "redirect_url": "https://docs.microsoft.com/exchange/troubleshoot/move-or-migrate-mailboxes/whencreated-date-changed",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Exchange/ExchangeOnline/delegates/no-delegate-permissions-after-migration.md",
+         "redirect_url": "https://docs.microsoft.com/exchange/troubleshoot/outlook-issues/no-delegate-permissions-after-migration",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Exchange/ExchangeOnline/owa-issues/cannot-open-attachments.md",
+         "redirect_url": "https://docs.microsoft.com/exchange/troubleshoot/outlook-on-the-web-issues/cannot-open-attachments",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Exchange/ExchangeOnline/owa-issues/incorrect-setting.md",
+         "redirect_url": "https://docs.microsoft.com/exchange/troubleshoot/outlook-on-the-web-issues/incorrect-setting",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Exchange/ExchangeOnline/owa-issues/items-missing-search-results.md",
+         "redirect_url": "https://docs.microsoft.com/exchange/troubleshoot/outlook-on-the-web-issues/items-missing-search-results",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Exchange/ExchangeOnline/owa-issues/read-receipt-incorrect-timezone.md",
+         "redirect_url": "https://docs.microsoft.com/exchange/troubleshoot/outlook-on-the-web-issues/read-receipt-incorrect-timezone",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Exchange/ExchangeOnline/configure-mailboxes/cannot-remove-mailbox-permission-office-365.md",
+         "redirect_url": "https://docs.microsoft.com/exchange/troubleshoot/user-and-shared-mailboxes/cannot-remove-mailbox-permission-office-365",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Exchange/ExchangeOnline/configure-mailboxes/create-and-manage-resource-mailboxes.md",
+         "redirect_url": "https://docs.microsoft.com/exchange/troubleshoot/user-and-shared-mailboxes/create-and-manage-resource-mailboxes",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Exchange/ExchangeOnline/configure-mailboxes/delays-provision-mailbox-sync-changes.md",
+         "redirect_url": "https://docs.microsoft.com/exchange/troubleshoot/user-and-shared-mailboxes/delays-provision-mailbox-sync-changes",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Exchange/ExchangeOnline/configure-mailboxes/mailbox-recovery-in-exchange-online.md",
+         "redirect_url": "https://docs.microsoft.com/exchange/troubleshoot/user-and-shared-mailboxes/mailbox-recovery-in-exchange-online",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Exchange/ExchangeOnline/configure-mailboxes/pop3-imap-owa-activesync-office-365.md",
+         "redirect_url": "https://docs.microsoft.com/exchange/troubleshoot/user-and-shared-mailboxes/pop3-imap-owa-activesync-office-365",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Exchange/ExchangeOnline/configure-mailboxes/set-automatic-replies.md",
+         "redirect_url": "https://docs.microsoft.com/exchange/troubleshoot/user-and-shared-mailboxes/set-automatic-replies",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Exchange/ExchangeOnline/shared-mailboxes/how-to-access-other-mailboxes.md",
+         "redirect_url": "https://docs.microsoft.com/exchange/troubleshoot/user-and-shared-mailboxes/how-to-access-other-mailboxes",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Exchange/ExchangeOnline/shared-mailboxes/sent-mail-is-not-saved.md",
+         "redirect_url": "https://docs.microsoft.com/exchange/troubleshoot/user-and-shared-mailboxes/sent-mail-is-not-saved",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Exchange/ExchangeOnline/add-users/proxy-address-being-used.md",
+         "redirect_url": "https://docs.microsoft.com/exchange/troubleshoot/administration/proxy-address-being-used",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Exchange/ExchangeOnline/modern-authentication/cannot-connect-mailbox-pop-imap-outlook.md",
+         "redirect_url": "https://docs.microsoft.com/exchange/troubleshoot/administration/cannot-connect-mailbox-pop-imap-outlook",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Exchange/ExchangeOnline/modern-authentication/modern-authentication-configuration.md",
+         "redirect_url": "https://docs.microsoft.com/exchange/troubleshoot/administration/modern-authentication-configuration",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Exchange/ExchangeOnline/connecting-to-the-service/access-denied-connect-powershell.md",
+         "redirect_url": "https://docs.microsoft.com/exchange/troubleshoot/administration/access-denied-connect-powershell",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Exchange/ExchangeOnline/connecting-to-the-service/incorrect-settings.md",
+         "redirect_url": "https://docs.microsoft.com/exchange/troubleshoot/administration/incorrect-settings",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Exchange/ExchangeOnline/connecting-to-the-service/winrm-cannot-process-request.md",
+         "redirect_url": "https://docs.microsoft.com/exchange/troubleshoot/administration/winrm-cannot-process-request",
+         "redirect_document_id": false
+      },
+      {
+         "source_path": "Exchange/ExchangeOnline/configure-contacts/update-contact-information.md",
+         "redirect_url": "https://docs.microsoft.com/exchange/troubleshoot/administration/update-contact-information",
+         "redirect_document_id": false
       }
    ]
 }
