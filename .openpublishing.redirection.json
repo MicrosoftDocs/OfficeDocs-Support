@@ -1111,11 +1111,6 @@
          "redirect_document_id": false
       },
       {
-         "source_path": "Exchange/ExchangeHybrid/email-delivery/wrong-office-365-region-exo.md",
-         "redirect_url": "https://docs.microsoft.com/exchange/troubleshoot/connectors/wrong-office-365-region-exo",
-         "redirect_document_id": false
-      },
-      {
          "source_path": "Exchange/ExchangeOnline/archive-mailboxes/message-not-moved-to-archive.md",
          "redirect_url": "https://docs.microsoft.com/office365/troubleshoot/archive-mailboxes/message-not-moved-to-archive",
          "redirect_document_id": false
@@ -3103,11 +3098,6 @@
       {
          "source_path": "Exchange/ExchangeOnline/connectors/relay-access-denied-smtp.md",
          "redirect_url": "https://docs.microsoft.com/exchange/troubleshoot/email-delivery/relay-access-denied-smtp",
-         "redirect_document_id": false
-      },
-      {
-         "source_path": "Exchange/ExchangeOnline/connectors/wrong-office-365-region-exo.md",
-         "redirect_url": "https://docs.microsoft.com/exchange/troubleshoot/email-delivery/wrong-office-365-region-exo",
          "redirect_document_id": false
       },
       {
