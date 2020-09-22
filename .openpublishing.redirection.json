@@ -1111,11 +1111,6 @@
          "redirect_document_id": false
       },
       {
-         "source_path": "Exchange/ExchangeHybrid/email-delivery/wrong-office-365-region-exo.md",
-         "redirect_url": "https://docs.microsoft.com/exchange/troubleshoot/connectors/wrong-office-365-region-exo",
-         "redirect_document_id": false
-      },
-      {
          "source_path": "Exchange/ExchangeOnline/archive-mailboxes/message-not-moved-to-archive.md",
          "redirect_url": "https://docs.microsoft.com/office365/troubleshoot/archive-mailboxes/message-not-moved-to-archive",
          "redirect_document_id": false
@@ -3106,11 +3101,6 @@
          "redirect_document_id": false
       },
       {
-         "source_path": "Exchange/ExchangeOnline/connectors/wrong-office-365-region-exo.md",
-         "redirect_url": "https://docs.microsoft.com/exchange/troubleshoot/email-delivery/wrong-office-365-region-exo",
-         "redirect_document_id": false
-      },
-      {
          "source_path": "Exchange/ExchangeOnline/mailflow/autoforward-mail-exclusions-not-honored-transport-rule.md",
          "redirect_url": "https://docs.microsoft.com/exchange/troubleshoot/email-delivery/autoforward-mail-exclusions-not-honored-transport-rule",
          "redirect_document_id": false
@@ -3147,17 +3137,17 @@
       },
       {
          "source_path": "Exchange/ExchangeOnline/meetings/conference-rooms-not-displayed.md",
-         "redirect_url": "https://docs.microsoft.com/exchange/troubleshoot/calendaring/conference-rooms-not-displayed",
+         "redirect_url": "https://docs.microsoft.com/exchange/troubleshoot/calendars/conference-rooms-not-displayed",
          "redirect_document_id": false
       },
       {
          "source_path": "Exchange/ExchangeOnline/delete-calendar-items/cannot-remove-items.md",
-         "redirect_url": "https://docs.microsoft.com/exchange/troubleshoot/calendaring/cannot-remove-items",
+         "redirect_url": "https://docs.microsoft.com/exchange/troubleshoot/calendars/cannot-remove-items",
          "redirect_document_id": false
       },
       {
          "source_path": "Exchange/ExchangeOnline/delete-calendar-items/store-reached-maximum-size.md",
-         "redirect_url": "https://docs.microsoft.com/exchange/troubleshoot/calendaring/store-reached-maximum-size",
+         "redirect_url": "https://docs.microsoft.com/exchange/troubleshoot/calendars/store-reached-maximum-size",
          "redirect_document_id": false
       },
       {
