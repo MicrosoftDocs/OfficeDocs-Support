@@ -44,6 +44,10 @@ Either of the following issues occurs:
 
 Teams Calendar App requires access to the Exchange mailbox through Exchange Web Services (EWS). The Exchange mailbox can be online or on-premises in the scope of Exchange hybrid deployment.
 
+#### Issue 3: Presence information in Teams incorrect and not updating
+
+The Teams client can automatically update the presence information based on calendar data. It is important to understand that not the Teams client queries the calendar information, but the Teams backend in M365 does. When mailbox is hosted on Exchange Server, the Teams backend might not be able to retrieve the required data using REST API.  
+
 ## Prerequisites
 
 To integrate the Microsoft Teams service with your installation of Exchange Server, make sure that your local Exchange Server environment meets the following requirements:
@@ -91,7 +95,12 @@ If the test fails, you must first resolve the Autodiscover issue.
 In Windows PowerShell, run the following command:
 
 ```powershell
-Invoke-RestMethod -Uri "https://outlook.office365.com/autodiscover/autodiscover.json?Email=onpremisemailbox@contoso.com&Protocol=EWS&RedirectCount=5" -UserAgent Teams
+Invoke-RestMethod -Uri "https://outlook.office365.com/autodiscover/autodiscover.json?Email=onpremisemailbox@contoso.com&Protocol=EWS" -UserAgent Teams
+```
+To verify the endpoint for the REST API, run following command:
+
+```powershell
+Invoke-RestMethod -Uri "https://outlook.office365.com/autodiscover/autodiscover.json?Email=onpremisemailbox@contoso.com&Protocol=REST" -UserAgent Teams
 ```
 
 > [!NOTE]
@@ -105,7 +114,7 @@ For a mailbox hosted on-premises, the EWS URL should point to the on-premises ex
 >
 > EWS <https://mail.contoso.com/EWS/Exchange.asmx>
 
-If this test fails, or if the EWS URL is incorrect, review the [Prerequisites](#prerequisites) section. This is because the problem is likely caused by an Exchange hybrid configuration issue, or a firewall or reverse proxy that is blocking external requests.
+If this test fails, or if the EWS URL is incorrect, review the [Prerequisites](#prerequisites) section. This is because the problem is likely caused by an Exchange hybrid configuration issue, or a firewall or reverse proxy that is blocking external requests. Also check and verify the /api URL to be correct and accessible from external.
 
 #### Step 3: Verify that the Exchange OAuth authentication protocol is enabled and functional
 
@@ -280,6 +289,38 @@ If you can verify that no problems affect the prerequisites and configurations t
 - The UserPrincipalName of the affected user.
 - The time in UTC when the issue was reproduced.
 - Microsoft Teams client debug logs. For more information about how to collect these logs, see [Use log files in troubleshooting Microsoft Teams](https://docs.microsoft.com/microsoftteams/log-files).
+
+## Troubleshoot Presence status issue
+
+> [!NOTE]
+> The troubleshooting steps below only apply to the [Issue 3](#symptoms).
+
+#### Step 1: Check the application log on all Exchange servers for event ID 1309 (Warning)
+
+Open the Eventviewer on all of your on-prem Exchange Servers. When the Teams REST API requests being processed, you might see some requests that exceed the default maxQueryStringLength of 2048byte and the warning event ID 1309 is displayed. In that case you have to locate the file:
+
+: C:\Program Files\Microsoft\Exchange Server\V15\FrontEnd\HttpProxy\Rest\web.config
+
+and open it with a text or XML editor. Locate the line:
+
+<httpRuntime maxRequestLength="2097151" maxUrlLength="2048" requestPathInvalidCharacters="&lt;,>,*,%,\,?" requestValidationMode="2.0" />
+
+and edit it by adding maxQueryStringLength="4096". In increases the default limit of the maxQueryStringLengt from 2k to 4. The relevant section should look similar to:
+
+<httpRuntime maxRequestLength="2097151" maxUrlLength="2048" maxQueryStringLength="4096" requestPathInvalidCharacters="&lt;,>,*,%,\,?" requestValidationMode="2.0" />
+
+Safe the file and restart the IIS service that your changes become effective. Repeat the steps on all servers that receive requests from M365 and after applying an Exchange Server Cummulative Update. 
+
+
+#### Step 2: Escalate the issue
+
+If you can verify that no problems affect the prerequisites and configurations that are mentioned in this article, file a service request with Microsoft Support, and attach the following information:
+
+- The UserPrincipalName of the affected user.
+- The time in UTC when the issue was reproduced.
+- Microsoft Teams client debug logs. For more information about how to collect these logs, see [Use log files in troubleshooting Microsoft Teams](https://docs.microsoft.com/microsoftteams/log-files).
+
+
 
 ## References
 
