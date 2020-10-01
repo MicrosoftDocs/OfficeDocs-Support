@@ -70,22 +70,22 @@ If the **Disable-MailPublicFolder** command doesn't complete the cleanup correct
 
 In such scenario, the **Get-MailPublicFolder** command won't list the folders described in the error message as mail-enabled public folders. However, these folders are still considered mail enabled. This causes the migration failure.
 
-## Workaround: Use either of following workaround to resolve the issue
+## Workaround: Use either of following workaround to work around the issue
 
-# 1 Use [ValidateMailEnabledPublicFolders](https://aka.ms/ValidateMEPF) script
+### Use the [ValidateMailEnabledPublicFolders](https://aka.ms/ValidateMEPF) script
 
-Follow these steps to list and disable MEPF's that may be causing issue:
+Follow these steps to list and disable MEPF that may cause the issue:
 
-1) Download and run the [ValidateMailEnabledPublicFolders](https://aka.ms/ValidateMEPF) script at your Exchange On-Premises server.
-Note:
-For Exchange Server 2010:
-The ExFolders tool must be installed on Exchange 2010 server to run the script
+1. Download and run the [ValidateMailEnabledPublicFolders](https://aka.ms/ValidateMEPF) script on your Exchange On-Premises server.
 
-2) Perform the corrective actions suggested by the script.
+   > [!NOTE]
+   > For Exchange Server 2010: The ExFolders tool must be installed on Exchange 2010 server to run the script.
 
-3) Resume the public folder migration batch.
+1. Perform the corrective actions that are suggested by the script.
 
-## 2 Use following commands to list and disable MEPF's causing problem  
+1. Resume the migration batch of the public folder.
+
+### Use the following commands to list and disable MEPF
 
 To work around this issue, follow these steps on your Exchange On-Premises server:
 
