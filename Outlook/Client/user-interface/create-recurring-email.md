@@ -48,17 +48,17 @@ For more information about the support options that are available and about how 
 3. On the **Tools** menu, point to **Forms**, and then click **Design This Form**.    
 4. On the **Form** menu, click **View Code**, and type the following code in the Script Editor:   
 
-    ```vb
+     ```vb
     Sub Item_PropertyChange(ByVal Name)    
         Select Case Name     
             Case "Status"             
                 if Item.Status = 2 then '2 = Completed                     
-                Set NewItem = Application.CreateItem(0)                    
-                NewItem.To = "myemailaddress@myisp.com"                    
-                NewItem.Recipients.ResolveAll                    
-                NewItem.Subject = "This is the message subject text"   
-                NewItem.Body = "This is text that will appear in the body of the message."
-                NewItem.Display
+                    Set NewItem = Application.CreateItem(0)                    
+                    NewItem.To = "myemailaddress@myisp.com"                    
+                    NewItem.Recipients.ResolveAll                    
+                    NewItem.Subject = "This is the message subject text"   
+                    NewItem.Body = "This is text that will appear in the body of the message."
+                    NewItem.Display
                 End IF     
         End Select     
     End Sub
