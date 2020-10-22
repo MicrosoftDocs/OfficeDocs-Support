@@ -1407,7 +1407,7 @@
     },
     {
       "source_path": "Office/Client/error-messages/cannot-open-excel-word-or-powerpoint-file.md",
-      "redirect_url": "https://docs.microsoft.com/office/troubleshoot/office-suite-issues/cannot-open-excel-word-or-powerpoint-file",
+      "redirect_url": "https://support.microsoft.com/office/1e9c0ad9-34c8-4440-a42e-d30186b29ed6",
       "redirect_document_id": false
     },
     {
@@ -3318,6 +3318,11 @@
     {
       "source_path": "Exchange/ExchangeServer/client-connectivity/one-reply-sent-sender.md",
       "redirect_url": "https://docs.microsoft.com/exchange/troubleshoot/send-emails/understand-troubleshoot-oof-replies",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/office-suite-issues/cannot-open-excel-word-or-powerpoint-file.md",
+      "redirect_url": "https://support.microsoft.com/office/1e9c0ad9-34c8-4440-a42e-d30186b29ed6",
       "redirect_document_id": false
     }
   ]
