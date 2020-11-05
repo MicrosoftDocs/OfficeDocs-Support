@@ -1262,7 +1262,7 @@
     },
     {
       "source_path": "Exchange/ExchangeServer/out-of-office-assistant/one-reply-sent-sender.md",
-      "redirect_url": "https://docs.microsoft.com/exchange/troubleshoot/client-connectivity/one-reply-sent-sender",
+      "redirect_url": "https://docs.microsoft.com/exchange/troubleshoot/send-emails/understand-troubleshoot-oof-replies",
       "redirect_document_id": false
     },
     {
