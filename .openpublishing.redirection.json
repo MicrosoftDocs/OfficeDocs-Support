@@ -2006,11 +2006,6 @@
       "redirect_document_id": false
     },
     {
-      "source_path": "SharePoint/SharePointOnline/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business.md",
-      "redirect_url": "https://docs.microsoft.com/sharepoint/troubleshoot/sharing-and-permissions/access-denied-sharepoint-error",
-      "redirect_document_id": false
-    },
-    {
       "source_path": "SharePoint/SharePointOnline/administration/access-denied-sharepoint-error.md",
       "redirect_url": "https://docs.microsoft.com/sharepoint/troubleshoot/sharing-and-permissions/access-denied-sharepoint-error",
       "redirect_document_id": false
@@ -3313,11 +3308,6 @@
     {
       "source_path": "Exchange/ExchangeOnline/configure-contacts/update-contact-information.md",
       "redirect_url": "https://docs.microsoft.com/exchange/troubleshoot/administration/update-contact-information",
-      "redirect_document_id": false
-    },
-    {
-      "source_path": "Exchange/ExchangeServer/client-connectivity/one-reply-sent-sender.md",
-      "redirect_url": "https://docs.microsoft.com/exchange/troubleshoot/send-emails/understand-troubleshoot-oof-replies",
       "redirect_document_id": false
     },
     {
