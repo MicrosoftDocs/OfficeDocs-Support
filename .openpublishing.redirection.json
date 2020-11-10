@@ -2006,11 +2006,6 @@
       "redirect_document_id": false
     },
     {
-      "source_path": "SharePoint/SharePointOnline/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business.md",
-      "redirect_url": "https://docs.microsoft.com/sharepoint/troubleshoot/sharing-and-permissions/access-denied-sharepoint-error",
-      "redirect_document_id": false
-    },
-    {
       "source_path": "SharePoint/SharePointOnline/administration/access-denied-sharepoint-error.md",
       "redirect_url": "https://docs.microsoft.com/sharepoint/troubleshoot/sharing-and-permissions/access-denied-sharepoint-error",
       "redirect_document_id": false
@@ -3316,11 +3311,6 @@
       "redirect_document_id": false
     },
     {
-      "source_path": "Exchange/ExchangeServer/client-connectivity/one-reply-sent-sender.md",
-      "redirect_url": "https://docs.microsoft.com/exchange/troubleshoot/send-emails/understand-troubleshoot-oof-replies",
-      "redirect_document_id": false
-    },
-    {
       "source_path": "Office/Client/office-suite-issues/cannot-open-excel-word-or-powerpoint-file.md",
       "redirect_url": "https://support.microsoft.com/office/1e9c0ad9-34c8-4440-a42e-d30186b29ed6",
       "redirect_document_id": false
@@ -3398,6 +3388,11 @@
     {
       "source_path": "Exchange/ExchangeHybrid/outlook-policy/control-pst-use.md",
       "redirect_url": "https://docs.microsoft.com/exchange/troubleshoot/outlook-issues/control-pst-use",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/word/recover-lost-document.md",
+      "redirect_url": "https://docs.microsoft.com/en-us/office/troubleshoot/word/recover-lost-unsaved-corrupted-document",
       "redirect_document_id": false
     }
   ]
