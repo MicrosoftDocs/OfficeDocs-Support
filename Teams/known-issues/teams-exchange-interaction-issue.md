@@ -293,10 +293,19 @@ These troubleshooting steps apply to only the [Issue 3](#symptoms).
 
 #### Step 1: Verify that the URL for the on-premises Exchange REST API has been published on the public network
 
-Run [Step 2](#common-troubleshooting-steps) in the Common Troubleshooting Steps above against the user's mailbox to locate the on-premises Exchange EWS URL, and change the URL format (replace "/EWS/Exchange.asmx" with "/api") in this manner: `https://mail.contoso.com/EWS/Exchange.asmx` to `https://mail.contoso.com/api`.
+Run [Step 2](#common-troubleshooting-steps) 
+Verify REST virtual directory conectivity
+```powershell
+Invoke-RestMethod -Uri "https://outlook.office365.com/autodiscover/autodiscover.json?Email=onpremisemailbox@contoso.com&Protocol=REST&RedirectCount=5" -UserAgent Teams
+```
 
-Try to access the REST API URL from a browser in the external network. If you get a 401 response from the on-premises Exchange environment, the REST API URL has been published. Otherwise, contact the local network team to get the URL published.
+For a mailbox hosted on-premises The output should resemble the following:
 
+Protocol Url
+
+-------- ---
+
+EWS https://mail.contoso.com/api
 > [!NOTE]
 > Teams presence service doesn't support the fallback to the EWS URL if the access to the Exchange REST API fails.
 
@@ -335,8 +344,23 @@ Set-CASMailbox <user's UserPrincipalName> -EwsAllowList @{Add="* Microsoft.Skype
 ```
 
 If the **EwsEnabled** parameter is set to **False**, you have to set it to **True**. Otherwise, the Teams service will be blocked from accessing the EWS.
+#### Step 4: Verify the exchange server event viewer:
+check if an event 1309 against the api/ virtual path has the following error:
 
-#### Step 4: Escalate the issue
+"The length of the query string for this request exceeds the configured maxQueryStringLength value."
+if you have this issue please engage Microsoft support. 
+
+
+#### Step 5: Verify conectivity to Presence service:
+
+```powershell
+Test-NetConnection -ComputerName emea.presence.teams.microsoft.com -Port 443
+```
+If this test fails the customer should enable emea.presence.teams.microsoft.com 
+
+Keep in mind this might change based on the tenant region - for example: noam.presence.teams.microsoft.com 
+
+#### Step 6: Escalate the issue
 
 If you verified there's no problem with the prerequisites and configurations mentioned in this article, submit a service request to Microsoft Support with this information:
 
