@@ -1801,11 +1801,6 @@
       "redirect_document_id": false
     },
     {
-      "source_path": "Office/Client/word/merge-word-documents.md",
-      "redirect_url": "https://support.microsoft.com/office/274128e5-4da7-4cb8-b65f-3d8b585e03f1",
-      "redirect_document_id": false
-    },
-    {
       "source_path": "Exchange/ExchangeHybrid/exchange-hybrid.md",
       "redirect_url": "https://docs.microsoft.com/exchange/troubleshoot/exchange-hybrid-welcome",
       "redirect_document_id": false
@@ -2003,11 +1998,6 @@
     {
       "source_path": "Teams/teams-rooms/known-issues.md",
       "redirect_url": "https://docs.microsoft.com/microsoftteams/troubleshoot/known-issues/rooms-known-issues",
-      "redirect_document_id": false
-    },
-    {
-      "source_path": "SharePoint/SharePointOnline/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business.md",
-      "redirect_url": "https://docs.microsoft.com/sharepoint/troubleshoot/sharing-and-permissions/access-denied-sharepoint-error",
       "redirect_document_id": false
     },
     {
@@ -2253,11 +2243,6 @@
     {
       "source_path": "Office/Client/excel/not-fit-worksheet-to-page.md",
       "redirect_url": "https://support.microsoft.com/office/34a91eb5-8b4e-4a8a-ab28-b6492012eaae",
-      "redirect_document_id": false
-    },
-    {
-      "source_path": "Office/Client/excel/long-numbers-incorrectly-in-excel.md",
-      "redirect_url": "https://support.microsoft.com/office/bbeae169-b5cb-42f5-ab87-8a6028f7ae31",
       "redirect_document_id": false
     },
     {
@@ -3316,11 +3301,6 @@
       "redirect_document_id": false
     },
     {
-      "source_path": "Exchange/ExchangeServer/client-connectivity/one-reply-sent-sender.md",
-      "redirect_url": "https://docs.microsoft.com/exchange/troubleshoot/send-emails/understand-troubleshoot-oof-replies",
-      "redirect_document_id": false
-    },
-    {
       "source_path": "Office/Client/office-suite-issues/cannot-open-excel-word-or-powerpoint-file.md",
       "redirect_url": "https://support.microsoft.com/office/1e9c0ad9-34c8-4440-a42e-d30186b29ed6",
       "redirect_document_id": false
@@ -3398,6 +3378,16 @@
     {
       "source_path": "Exchange/ExchangeHybrid/outlook-policy/control-pst-use.md",
       "redirect_url": "https://docs.microsoft.com/exchange/troubleshoot/outlook-issues/control-pst-use",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/word/recover-lost-document.md",
+      "redirect_url": "https://docs.microsoft.com/en-us/office/troubleshoot/word/recover-lost-unsaved-corrupted-document",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/send-emails/understand-troubleshoot-oof-replies.md",
+      "redirect_url": "https://docs.microsoft.com/en-us/exchange/troubleshoot/email-delivery/understand-troubleshoot-oof-replies",
       "redirect_document_id": false
     }
   ]
