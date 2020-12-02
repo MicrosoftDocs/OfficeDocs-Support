@@ -3382,12 +3382,22 @@
     },
     {
       "source_path": "Office/Client/word/recover-lost-document.md",
-      "redirect_url": "https://docs.microsoft.com/en-us/office/troubleshoot/word/recover-lost-unsaved-corrupted-document",
+      "redirect_url": "https://docs.microsoft.com/office/troubleshoot/word/recover-lost-unsaved-corrupted-document",
       "redirect_document_id": false
     },
     {
       "source_path": "Exchange/ExchangeOnline/send-emails/understand-troubleshoot-oof-replies.md",
-      "redirect_url": "https://docs.microsoft.com/en-us/exchange/troubleshoot/email-delivery/understand-troubleshoot-oof-replies",
+      "redirect_url": "https://docs.microsoft.com/exchange/troubleshoot/email-delivery/understand-troubleshoot-oof-replies",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/antispam/user-impersonation-messages-are-classified-as-phishing.md",
+      "redirect_url": "https://docs.microsoft.com/exchange/troubleshoot/antispam-and-protection/user-impersonation-messages-are-classified-as-phishing",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/antispam/cautions-against-bypassing-spam-filters.md",
+      "redirect_url": "https://docs.microsoft.com/exchange/troubleshoot/antispam-and-protection/cautions-against-bypassing-spam-filters",
       "redirect_document_id": false
     }
   ]
