@@ -2681,8 +2681,8 @@
       "redirect_document_id": false
     },
     {
-      "source_path": "Exchange/ExchangeServer/client-connectivity/cannot-access-archive-mailbox-in-outlook.md",
-      "redirect_url": "https://docs.microsoft.com/outlook/troubleshoot/connectivity/cannot-access-archive-mailbox-in-outlook",
+      "source_path": "Outlook/Client/connectivity/cannot-access-archive-mailbox-in-outlook.md",
+      "redirect_url": "https://docs.microsoft.com/exchange/troubleshoot/client-connectivity/cannot-access-archive-mailbox-in-outlook",
       "redirect_document_id": false
     },
     {
