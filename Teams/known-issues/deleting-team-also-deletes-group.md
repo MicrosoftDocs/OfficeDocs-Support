@@ -24,11 +24,11 @@ description: Explains why a Teams group is deleted when the team is deleted.
 
 ## Summary
 
-When deleting a team in Microsoft Teams, the group associated with it is also deleted. 
+When deleting a team in Microsoft Teams, the group and Group Site (Template is Group#0) associated with it are also deleted. 
 
 ## More information
 
-This is by design. Users may not realize that the underlying Office 365 Group is deleted when the team is deleted. Additionally, if the underlying Office 365 Group is deleted, the team is deleted as well. 
+This is by design. Users may not realize that the underlying Office 365 Group and Group Site (Template is Group#0) are deleted when the team is deleted. Additionally, if the underlying Office 365 Group is deleted, the team and Group Site (Template is Group#0) are deleted as well. 
 
 Additional language in Microsoft Teams provides this information to the user. This information is not present in the Office 365 Groups interface. Your help desk can recover a deleted Group/Team. 
 
