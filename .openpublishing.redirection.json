@@ -1262,7 +1262,7 @@
     },
     {
       "source_path": "Exchange/ExchangeServer/out-of-office-assistant/one-reply-sent-sender.md",
-      "redirect_url": "https://docs.microsoft.com/exchange/troubleshoot/client-connectivity/one-reply-sent-sender",
+      "redirect_url": "https://docs.microsoft.com/exchange/troubleshoot/send-emails/understand-troubleshoot-oof-replies",
       "redirect_document_id": false
     },
     {
@@ -1407,7 +1407,7 @@
     },
     {
       "source_path": "Office/Client/error-messages/cannot-open-excel-word-or-powerpoint-file.md",
-      "redirect_url": "https://docs.microsoft.com/office/troubleshoot/office-suite-issues/cannot-open-excel-word-or-powerpoint-file",
+      "redirect_url": "https://support.microsoft.com/office/1e9c0ad9-34c8-4440-a42e-d30186b29ed6",
       "redirect_document_id": false
     },
     {
@@ -1801,11 +1801,6 @@
       "redirect_document_id": false
     },
     {
-      "source_path": "Office/Client/word/merge-word-documents.md",
-      "redirect_url": "https://support.microsoft.com/office/274128e5-4da7-4cb8-b65f-3d8b585e03f1",
-      "redirect_document_id": false
-    },
-    {
       "source_path": "Exchange/ExchangeHybrid/exchange-hybrid.md",
       "redirect_url": "https://docs.microsoft.com/exchange/troubleshoot/exchange-hybrid-welcome",
       "redirect_document_id": false
@@ -2003,11 +1998,6 @@
     {
       "source_path": "Teams/teams-rooms/known-issues.md",
       "redirect_url": "https://docs.microsoft.com/microsoftteams/troubleshoot/known-issues/rooms-known-issues",
-      "redirect_document_id": false
-    },
-    {
-      "source_path": "SharePoint/SharePointOnline/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business.md",
-      "redirect_url": "https://docs.microsoft.com/sharepoint/troubleshoot/sharing-and-permissions/access-denied-sharepoint-error",
       "redirect_document_id": false
     },
     {
@@ -2253,11 +2243,6 @@
     {
       "source_path": "Office/Client/excel/not-fit-worksheet-to-page.md",
       "redirect_url": "https://support.microsoft.com/office/34a91eb5-8b4e-4a8a-ab28-b6492012eaae",
-      "redirect_document_id": false
-    },
-    {
-      "source_path": "Office/Client/excel/long-numbers-incorrectly-in-excel.md",
-      "redirect_url": "https://support.microsoft.com/office/bbeae169-b5cb-42f5-ab87-8a6028f7ae31",
       "redirect_document_id": false
     },
     {
@@ -2696,8 +2681,8 @@
       "redirect_document_id": false
     },
     {
-      "source_path": "Exchange/ExchangeServer/client-connectivity/cannot-access-archive-mailbox-in-outlook.md",
-      "redirect_url": "https://docs.microsoft.com/outlook/troubleshoot/connectivity/cannot-access-archive-mailbox-in-outlook",
+      "source_path": "Outlook/Client/connectivity/cannot-access-archive-mailbox-in-outlook.md",
+      "redirect_url": "https://docs.microsoft.com/exchange/troubleshoot/client-connectivity/cannot-access-archive-mailbox-in-outlook",
       "redirect_document_id": false
     },
     {
@@ -3316,8 +3301,108 @@
       "redirect_document_id": false
     },
     {
-      "source_path": "Exchange/ExchangeServer/client-connectivity/one-reply-sent-sender.md",
-      "redirect_url": "https://docs.microsoft.com/exchange/troubleshoot/send-emails/understand-troubleshoot-oof-replies",
+      "source_path": "Office/Client/office-suite-issues/cannot-open-excel-word-or-powerpoint-file.md",
+      "redirect_url": "https://support.microsoft.com/office/1e9c0ad9-34c8-4440-a42e-d30186b29ed6",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Mac/files-folders/outlook-2016-for-mac-freezes-on-email-folders.md",
+      "redirect_url": "https://docs.microsoft.com/outlook/troubleshoot/files-and-folders/outlook-2016-for-mac-freezes-on-email-folders",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Mac/import-export/cannot-import-ansi-pst-file.md",
+      "redirect_url": "https://docs.microsoft.com/outlook/troubleshoot/import-and-export/cannot-import-ansi-pst-file",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Mac/import-export/cannot-import-olm-file-into-outlook-for-windows.md",
+      "redirect_url": "https://docs.microsoft.com/outlook/troubleshoot/import-and-export/cannot-import-olm-file-into-outlook-for-windows",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Mac/import-export/permissions-error-when-importing-outlook-2011-identity.md",
+      "redirect_url": "https://docs.microsoft.com/outlook/troubleshoot/import-and-export/permissions-error-when-importing-outlook-2011-identity",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeHybrid/accessing-email-data/rpc-over-http-end-of-support.md",
+      "redirect_url": "https://docs.microsoft.com/exchange/troubleshoot/administration/rpc-over-http-end-of-support",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeHybrid/calendaring/cannot-dismiss-outlook-calendar-reminders.md",
+      "redirect_url": "https://docs.microsoft.com/exchange/troubleshoot/calendars/cannot-dismiss-outlook-calendar-reminders",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeHybrid/calendaring/policy-permissions-issue.md",
+      "redirect_url": "https://docs.microsoft.com/exchange/troubleshoot/calendars/policy-permissions-issue",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeHybrid/calendaring/troubleshoot-freebusy-issues-in-exchange-hybrid.md",
+      "redirect_url": "https://docs.microsoft.com/exchange/troubleshoot/calendars/troubleshoot-freebusy-issues-in-exchange-hybrid",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeHybrid/delegates/overview-delegation-office-365-hybrid.md",
+      "redirect_url": "https://docs.microsoft.com/exchange/troubleshoot/send-emails/overview-delegation-office-365-hybrid",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeHybrid/distribution-groups/cannot-manage-dg.md",
+      "redirect_url": "https://docs.microsoft.com/exchange/troubleshoot/groups-and-distribution-lists/cannot-manage-dg",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeHybrid/federation/attribute-not-written-to-azure-ad.md",
+      "redirect_url": "https://docs.microsoft.com/exchange/troubleshoot/administration/attribute-not-written-to-azure-ad",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeHybrid/move-mailboxes/litigationholdenabled-property-differs-onpremises-cloud.md",
+      "redirect_url": "https://docs.microsoft.com/exchange/troubleshoot/user-and-shared-mailboxes/litigationholdenabled-property-differs-onpremises-cloud",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeHybrid/move-mailboxes/mailbox-exists-exo-onpremises.md",
+      "redirect_url": "https://docs.microsoft.com/exchange/troubleshoot/user-and-shared-mailboxes/mailbox-exists-exo-onpremises",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeHybrid/shared-mailboxes/cannot-access-mailbox.md",
+      "redirect_url": "https://docs.microsoft.com/exchange/troubleshoot/user-and-shared-mailboxes/cannot-access-mailbox",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeHybrid/outlook-policy/control-pst-use.md",
+      "redirect_url": "https://docs.microsoft.com/exchange/troubleshoot/outlook-issues/control-pst-use",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/word/recover-lost-document.md",
+      "redirect_url": "https://docs.microsoft.com/office/troubleshoot/word/recover-lost-unsaved-corrupted-document",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/send-emails/understand-troubleshoot-oof-replies.md",
+      "redirect_url": "https://docs.microsoft.com/exchange/troubleshoot/email-delivery/understand-troubleshoot-oof-replies",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/antispam/user-impersonation-messages-are-classified-as-phishing.md",
+      "redirect_url": "https://docs.microsoft.com/exchange/troubleshoot/antispam-and-protection/user-impersonation-messages-are-classified-as-phishing",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/antispam/cautions-against-bypassing-spam-filters.md",
+      "redirect_url": "https://docs.microsoft.com/exchange/troubleshoot/antispam-and-protection/cautions-against-bypassing-spam-filters",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeHybrid/hybrid-configuration-wizard-errors/confirm-hybrid-certificate-has-iis-and-smtp-services-assigned-to-it-error.md",
+      "redirect_url": "https://docs.microsoft.com/exchange/hybrid-deployment/troubleshoot-a-hybrid-deployment",
       "redirect_document_id": false
     }
   ]
