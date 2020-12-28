@@ -1801,11 +1801,6 @@
       "redirect_document_id": false
     },
     {
-      "source_path": "Office/Client/word/merge-word-documents.md",
-      "redirect_url": "https://support.microsoft.com/office/274128e5-4da7-4cb8-b65f-3d8b585e03f1",
-      "redirect_document_id": false
-    },
-    {
       "source_path": "Exchange/ExchangeHybrid/exchange-hybrid.md",
       "redirect_url": "https://docs.microsoft.com/exchange/troubleshoot/exchange-hybrid-welcome",
       "redirect_document_id": false
@@ -2251,11 +2246,6 @@
       "redirect_document_id": false
     },
     {
-      "source_path": "Office/Client/excel/long-numbers-incorrectly-in-excel.md",
-      "redirect_url": "https://support.microsoft.com/office/bbeae169-b5cb-42f5-ab87-8a6028f7ae31",
-      "redirect_document_id": false
-    },
-    {
       "source_path": "Office/Client/excel/manage-multiple-windows.md",
       "redirect_url": "https://support.microsoft.com/Excel",
       "redirect_document_id": false
@@ -2691,8 +2681,8 @@
       "redirect_document_id": false
     },
     {
-      "source_path": "Exchange/ExchangeServer/client-connectivity/cannot-access-archive-mailbox-in-outlook.md",
-      "redirect_url": "https://docs.microsoft.com/outlook/troubleshoot/connectivity/cannot-access-archive-mailbox-in-outlook",
+      "source_path": "Outlook/Client/connectivity/cannot-access-archive-mailbox-in-outlook.md",
+      "redirect_url": "https://docs.microsoft.com/exchange/troubleshoot/client-connectivity/cannot-access-archive-mailbox-in-outlook",
       "redirect_document_id": false
     },
     {
@@ -3392,7 +3382,27 @@
     },
     {
       "source_path": "Office/Client/word/recover-lost-document.md",
-      "redirect_url": "https://docs.microsoft.com/en-us/office/troubleshoot/word/recover-lost-unsaved-corrupted-document",
+      "redirect_url": "https://docs.microsoft.com/office/troubleshoot/word/recover-lost-unsaved-corrupted-document",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/send-emails/understand-troubleshoot-oof-replies.md",
+      "redirect_url": "https://docs.microsoft.com/exchange/troubleshoot/email-delivery/understand-troubleshoot-oof-replies",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/antispam/user-impersonation-messages-are-classified-as-phishing.md",
+      "redirect_url": "https://docs.microsoft.com/exchange/troubleshoot/antispam-and-protection/user-impersonation-messages-are-classified-as-phishing",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/antispam/cautions-against-bypassing-spam-filters.md",
+      "redirect_url": "https://docs.microsoft.com/exchange/troubleshoot/antispam-and-protection/cautions-against-bypassing-spam-filters",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeHybrid/hybrid-configuration-wizard-errors/confirm-hybrid-certificate-has-iis-and-smtp-services-assigned-to-it-error.md",
+      "redirect_url": "https://docs.microsoft.com/exchange/hybrid-deployment/troubleshoot-a-hybrid-deployment",
       "redirect_document_id": false
     }
   ]
