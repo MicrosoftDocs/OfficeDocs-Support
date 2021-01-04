@@ -3,3 +3,8 @@ Your self-presence is Teams seems stuck on away (yellow) instead of available (g
 1: Verify that you have no pending updates - Click on your picture in Teams and then "Check for updates"
 2: The presence can be away by design if the machine has been inactive for more than 5 minutes.
 3: It can take 2-3 minutes for the self-presence to be updated from inactive to active based on activity on the machine e.g. machine coming out of sleep mode, user moving the mouse, etc.
+
+If none of the above address your concern, please open support ticket and provide the following information:
+1: Sign-in addres of the user impacted
+2: The Desktop and Web logs - https://docs.microsoft.com/en-us/microsoftteams/log-files 
+3: Approximate time in UTC when the presence was expected to be available and not away. Verify this time is captured in the logs collected above. 
