@@ -1,5 +1,13 @@
 Outlook shows presence as unknown for contact. This can happen due to following reasons:
 
-1: The contact is a federated (external) contact - Currently Outlook does not support presence for such Teams contacts.
-2: The contact is an in-tenant (internal) contact - Please run the following scenario [TBD] in the Sara Tool.
-3: The contact's email address and Teams sign-in address do not match up. Please confirm with your contact that the sign-in address used for Teams is the same the email address.
+1: Confirm that the user is able to see the presence of the same contact in Teams, just not in Outlook.
+2: The contact is a federated (external) contact - Currently Outlook does not support presence for such Teams contacts.
+3: The contact is an in-tenant (internal) contact - Please run the following scenario [TBD] in the Sara Tool.
+4: The contact's email address and Teams sign-in address do not match up. Please confirm with your contact that the sign-in address used for Teams is the same the email address.
+
+If none of the above address your concern, please open support ticket and provide the following information:
+a: Sign-in addres of the user (say Observer) seeing the unknown presence of the contact.
+b: Sign-in address of the contact (say Publisher) whose presence is showing as unknown.
+c: The Desktop and Web logs from both the observer and publisher - https://docs.microsoft.com/en-us/microsoftteams/log-files 
+d: Approximate time in UTC when the presence was updated by the publisher and the time until the observer still wasnt seeing the presence. Verify this time is captured in the logs collected above.
+e: For in-tenant (internal) contacts the results from the SaRa tool from Step 3 above.
