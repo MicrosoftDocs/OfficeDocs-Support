@@ -4,3 +4,9 @@ If a Teams user cannot see the presence of a contact in Teams, this can be due t
 2: The contact has set presence to "Appear offline" to indicate the contact has not signed in to Teams.
 3: There is a network issue communicating with the unified presence service (UPS), you will need to ensure connectivity to the following endpoints - https://docs.microsoft.com/en-us/microsoft-365/enterprise/urls-and-ip-address-ranges?view=o365-worldwide#skype-for-business-online-and-microsoft-teams
 4: The contact could be using Skype for Business still and hence presence would be determined as described here - https://docs.microsoft.com/microsoftteams/coexistence-chat-calls-presence#presence
+
+If none of the above address your concern, please open support ticket and provide the following information:
+a: Sign-in addres of the user (say Observer) seeing the unknown presence of the contact.
+b: Sign-in address of the contact (say Publisher) whose presence is showing as unknown.
+c: The Desktop and Web logs from both the observer and publisher - https://docs.microsoft.com/en-us/microsoftteams/log-files 
+d: Approximate time in UTC when the presence was updated by the publisher and the time until the observer still wasnt seeing the presence. Verify this time is captured in the logs collected above.
