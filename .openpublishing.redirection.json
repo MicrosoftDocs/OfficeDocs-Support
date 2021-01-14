@@ -3383,7 +3383,7 @@
     {
       "source_path": "Office/Client/word/recover-lost-document.md",
       "redirect_url": "https://docs.microsoft.com/office/troubleshoot/word/recover-lost-unsaved-corrupted-document",
-      "redirect_document_id": false
+      "redirect_document_id": true
     },
     {
       "source_path": "Exchange/ExchangeOnline/send-emails/understand-troubleshoot-oof-replies.md",
