@@ -35,7 +35,7 @@ This article lists known issues that occur in Teams when it runs on a Linux syst
  | Cannot launch Teams client in offline mode.   | You cannot start Teams Offline on a Linux client.   |   Not applicable  | 12/05/19   | 
  | Device settings while in meeting/No microphone input.   | When you change device settings in a meeting, the microphone indicator doesn't register any sound. |   Not applicable  | 12/05/19   | 
  | Webcamera is reversed. | In some notebooks the camera is reversed when it's installed. Because the device drivers do not recognize this problem, video feeds are displayed upside-down. | <ol><li>Locate v4l1compat.so in your system by using `locate v4l1compat.so` </li><li>Open the `/usr/share/applications/teams.desktop` file. </li><li>Replace the Exec line by substituting the following:<br /> `Exec=sh -c 'export LIBV4LCONTROL_FLAGS=1 && LD_PRELOAD=<PATH_TO_v4l1compat.so> usr/bin/teams %U'` </li></ol> | 12/05/19   | 
- | Screen Share  | In all government clouds, screensharing is not available.  Users see black screen and there no options appear when users click on the screen sharing menu. | Not applicable | 08/24/20   | 
+ | Screen Share  | In all government clouds, screensharing is not available on desktop clients.  Users see a black screen and no options appear when clicking on the screen sharing menu. | Use the web client on Linux | 08/24/20   | 
 ## Resolution
 
 Microsoft is researching these problems and will post more information in this article when the information becomes available.
