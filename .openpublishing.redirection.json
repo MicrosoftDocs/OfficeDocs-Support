@@ -3424,6 +3424,11 @@
       "source_path": "Teams/teams-administration/performance-affected-when-teams-remembered-as-game.md",
       "redirect_url": "https://docs.microsoft.com/microsoftteams/troubleshoot/teams-on-windows/performance-affected-when-teams-remembered-as-game",
       "redirect_document_id": true
+    },
+    {
+      "source_path": "Office/Client/office-suite-issues/dsofile.dll-allow-edit-document-property.md",
+      "redirect_url": "/office/open-xml/how-to-retrieve-application-property-values-from-a-word-processing-document",
+      "redirect_document_id": false
     }
   ]
 }
