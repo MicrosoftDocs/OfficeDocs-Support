@@ -21,7 +21,7 @@ ms.reviewer: mikebis
 
 # SBC connectivity issues
 
-When you use Direct Routing, you might experience the following Session Border Controller (SBC) connectivity issues:
+When you set up Direct Routing, you might experience the following Session Border Controller (SBC) connectivity issues:
 
 - Session Initiation Protocol (SIP) options are not received.
 - Transport Layer Security (TLS) connections problems occur.
