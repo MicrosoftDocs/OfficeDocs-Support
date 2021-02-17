@@ -48,7 +48,7 @@ This article lists some common issues that are related to SIP options and TLS ce
 
 - If the SBC FQDN is detected and recognized, the SIP proxy sends a “200 OK” message by using the same TLS connection.
 
-- The SIP proxy sends SIP options to the SBC FQDN that is listed in the Contact header of the SBC SIP options.
+- The SIP proxy sends SIP options to the SBC FQDN that is listed in the Contact header of the SIP options received from the SBC.
 
 - After receiving SIP options from the SIP proxy, the SBC responds by sending a “200 OK” message. This step confirms that the SBC is healthy.
 
