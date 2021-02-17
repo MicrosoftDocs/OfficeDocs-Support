@@ -37,6 +37,7 @@ search.appverid: MET150
 - Office 365 Groups mail flow
   - [Control delivery of group email messages to new members](#control-delivery-of-group-email-messages-to-new-members)
   - [Get a copy of group email messages you send](#get-a-copy-of-group-email-messages-you-send)
+  - [Configure Auto reply message](#configure-auto-reply-message)
   - [Email issues in Office 365 Groups](#email-issues-in-office-365-groups)
 - Other tasks
   - [Restore an Office 365 Group](#restore-an-office-365-group)
@@ -290,6 +291,13 @@ Get-Mailbox -ResultSize Unlimited | ForEach {Set-MailboxMessageConfiguration -Id
 
 [Back to top](#top)
 
+### Configure auto reply message
+
+Use following EXO PowerShell command to configure auto response message for emails sent to Microsoft 365 group:
+
+```powershell
+Set-MailboxAutoReplyConfiguration -Identity <groupmailbox> -AutoReplyState Enabled -InternalMessage "Internal auto-reply message." -ExternalMessage "External auto-reply message."
+```
 ### Email issues in Office 365 Groups
 
 #### Issue 1: Messages sent from external users to an Office 365 group are not received
