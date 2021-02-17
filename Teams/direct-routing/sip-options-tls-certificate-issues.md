@@ -81,9 +81,9 @@ If you’re using the minimum required version of TLS or higher, and your SBC ce
 
 <summary><b>SBC receives “200 OK” response but not SIP options</b></summary>
 
-The SBC receives the “200 OK” response from the SIP proxy but not the SIP options that were sent. If this error occurs, make sure that the FQDN that's listed in the Record-Route or Contact header is correct and resolves to the correct IP address.
+The SBC receives the “200 OK” response from the SIP proxy but not the SIP options that were sent from the SIP proxy as well. If this error occurs, make sure that the FQDN that's listed in the Record-Route or Contact header is correct and resolves to the correct IP address.
 
-Another possible cause for this issue might be firewall rules that are preventing incoming traffic. Make sure that firewall rules are configured to allow incoming connections.
+Another possible cause for this issue might be firewall rules that are preventing incoming traffic. Make sure that firewall rules are configured to allow incoming connections from all [SIP proxy signalling IP addresses](https://docs.microsoft.com/en-us/microsoftteams/direct-routing-plan#sip-signaling-fqdns).
 
 </details>
 
