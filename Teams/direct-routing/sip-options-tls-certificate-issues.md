@@ -108,9 +108,9 @@ For more information, see [SIP Signaling: FQDNS](https://docs.microsoft.com/micr
 </details>
 
 <details>
-<summary><b>FQDN doesn’t match the contents of CN or SAN certificates</b></summary>
+<summary><b>FQDN doesn’t match the contents of CN or SAN in the provided certificate</b></summary>
 
-This issue occurs if a wildcard doesn't match a lower-level subdomain. For example, the wildcard \*\.contoso.com would match sbc1.contoso.com, but not customer10.sbc1.contoso.com. You can't have multiple levels of subdomains under a wildcard. If the FQDN doesn’t match the contents of the Common Name (CN) certificate or Subject Alternate Name (SAN) certificate, request a certificate that matches your domains.
+This issue occurs if a wildcard doesn't match a lower-level subdomain. For example, the wildcard \*\.contoso.com would match sbc1.contoso.com, but not customer10.sbc1.contoso.com. You can't have multiple levels of subdomains under a wildcard. If the FQDN doesn’t match the contents of the Common Name (CN) or Subject Alternate Name (SAN) in the provided certificate, request a certificate that matches your domains.
 
 For more information about certificates, see the “Public trusted certificate for the SBC” section of [Plan Direct Routing](https://docs.microsoft.com/MicrosoftTeams/direct-routing-plan#public-trusted-certificate-for-the-sbc).
 </details>
