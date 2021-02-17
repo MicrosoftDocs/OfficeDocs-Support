@@ -66,7 +66,7 @@ After the TLS connection is successfully established, and the SBC is able to sen
 
 This situation might occur if you’re using an older version of TLS. To enforce stricter security, enable TLS 1.2.
 
-Make sure that your SBC certificate is not self-signed and that you got it from a trusted Certificate Authority (CA).
+Make sure that your SBC certificate is not self-signed and that you got it from a [trusted Certificate Authority (CA)](https://docs.microsoft.com/en-us/microsoftteams/direct-routing-plan#public-trusted-certificate-for-the-sbc).
 
 If you’re using the minimum required version of TLS, and your SBC certificate is valid, then the issue might occur because the FQDN is misconfigured in your SIP profile and not recognized as belonging to any tenant. Check for the following conditions, and fix any errors that you find:
 
