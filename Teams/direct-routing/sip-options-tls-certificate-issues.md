@@ -68,7 +68,7 @@ This situation might occur if you’re using an older version of TLS. To enforce
 
 Make sure that your SBC certificate is not self-signed and that you got it from a [trusted Certificate Authority (CA)](https://docs.microsoft.com/en-us/microsoftteams/direct-routing-plan#public-trusted-certificate-for-the-sbc).
 
-If you’re using the minimum required version of TLS, and your SBC certificate is valid, then the issue might occur because the FQDN is misconfigured in your SIP profile and not recognized as belonging to any tenant. Check for the following conditions, and fix any errors that you find:
+If you’re using the minimum required version of TLS or higher, and your SBC certificate is valid, then the issue might occur because the FQDN is misconfigured in your SIP profile and not recognized as belonging to any tenant. Check for the following conditions, and fix any errors that you find:
 
   - The FQDN provided by the SBC in the Record-Route or Contact header is different from what is configured in Teams.
   - The Contact header contains an IP address instead of the FQDN.
