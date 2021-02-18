@@ -24,15 +24,13 @@ description: Describes why some Meet Now CVI coordinates do not work.
 
 ## Summary
 
-Cloud Video Interop (CVI) information populated in a Meet Now instance of a meeting in Microsoft Teams, with an existing CVI license, will not work.
+If your Cloud Video Interop (CVI) information populated in a Meet Now meeting in Microsoft Teams does not work please check your license with you CVI partner.
 
-To meet right away, users can click New Meeting in Microsoft Teams, instead of Meet Now, and type in a meeting name and optionally invite a guest. This will schedule a meeting in your calendar with working CVI coordinates. 
+To meet right away using CVI coordinates, Microsoft Teams currently supports two scenarios: 
+* click Meet Now in the Teams Calendar 
+* click Meet Now in Outlook Calendar
 
-## Workaround
+These two scenarios will generate working CVI coordinates. 
 
-We recommend that you schedule the meeting to populate this information.
-
-## More information
-Microsoft is researching how to enable working CVI coordinates for Meet Now scenarios and will post more information in this article when the information becomes available.
 
 Still need help? Go to [Microsoft Community](https://answers.microsoft.com/).
