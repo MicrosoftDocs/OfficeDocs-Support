@@ -324,9 +324,12 @@ To check the message status of members who have subscribed to group emails, run 
 ```powershell
 Get-UnifiedGroup <GroupName> | Get-UnifiedGroupLinks -LinkType Subscribers
 ```
+Use following command to configure all group members to receive emails sent to Microsoft 365 group in there Inbox:
 
-See [Message trace in the Security & Compliance Center](/microsoft-365/security/office-365-security/message-trace-scc?view=o365-worldwide&preserve-view=true).
-
+```powershell
+$Group = "Address of [Microsoft 365 Groups]"
+Get-UnifiedGroupLinks $Group -LinkType Member | % {Add-UnifiedGroupLinks -Identity $Group -LinkType subscriber -Links $_.Guid.toString() -Confirm:$false}
+```
 [Back to top](#top)
 
 ## Other tasks
