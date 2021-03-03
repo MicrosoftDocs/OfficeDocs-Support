@@ -47,7 +47,6 @@ Are you able to join the meeting?
 
 - If yes, congratulations, you've successfully joined a Teams meeting.
 - If yes but you're having trouble with the meeting audio, see [Troubleshoot audio](#troubleshoot-audio).
-- If the meeting opened in Teams Web Access instead of in the desktop version of Teams, see [Check your default browser](#check-your-default-browser).
 - If you are not able to join the meeting, see [Join with Teams Web App when Teams is installed](#join-with-teams-web-app-when-teams-is-installed).
 
 ### Join with Teams Web App when Teams is installed
@@ -72,42 +71,11 @@ You don't have to download anything, just follow these steps:
 
    - If the meeting request is from somebody in your own organization, select **Sign in if you are from the organizer's company** or **Sign in if you are an Office 365 user**.
 
-> [!TIP]
-> If you're having trouble joining the meeting, open an **InPrivate Browsing** session in Internet Explorer, and try joining the meeting again.
-
 Are you able to join the meeting?
 
 - If yes, congratulations, you've successfully joined a Teams meeting.
 - If you can't connect to meeting audio or see the meeting content, see [Troubleshoot using the Teams Web App](#troubleshoot-using-the-teams-web-app).
 - If you are not able to join the meeting, or an error occurred, see [Troubleshoot joining a meeting with Teams Web App](#troubleshoot-joining-a-meeting-with-teams-web-app).
-
-### Check your default browser
-
-If Teams is installed on your computer but the meeting opens in Teams Web App, it usually means that Internet Explorer is not your default browser.
-
-To fix this issue, you have two options:
-
-- Make Internet Explorer your default browser, and then try joining the meeting again.
-
-  OR
-
-- Copy the meeting link, and paste it into Internet Explorer.
-
-#### Details
-
-**Make Internet Explorer your default browser**
-
-1. On the Windows desktop, start Internet Explorer.
-2. Go to **Tools** > **Internet Options** > **Programs**.
-3. Select **Make default**, and select **OK**.
-
-**Paste the meeting link into Internet Explorer**
-
-1. Go to **Outlook** > **Calendar**, and open the meeting request.
-2. Right-click the meeting link, and choose **Copy Hyperlink**.
-3. Open Internet Explorer, and paste the meeting link into the address box.
-
-If your problem is not solved, see [Not able to join a Teams meeting](#not-able-to-join-a-teams-meeting).
 
 ### Troubleshoot using the Teams Web App
 
