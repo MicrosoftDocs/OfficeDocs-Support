@@ -58,7 +58,7 @@ If you're an administrator, and you're unable to delete the site:
 
 3. In the **Briefly describe your issue** area, enter **invalid retention policy**, and then select **Enter**.
 
-4. In the Run diagnostic section, select the **SharePoint Online root URL**, type or paste the **SharePoint site URL**, and then select **Run Tests**.
+4. In the Run diagnostic section, type or paste the **SharePoint site URL**, and then select **Run Tests**.
 
    ![Run diagnostics window asking for SharePoint URL information](./media/compliance-policy-blocking-site-deletion/run-diagnostics.png)
 
