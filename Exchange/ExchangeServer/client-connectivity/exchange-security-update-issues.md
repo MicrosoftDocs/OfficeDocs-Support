@@ -300,6 +300,16 @@ You may see the following error:
 
 You need to uninstall the previous installed IU before applying this SU as it is cumulative. You can find previous IU’s in add/remove programs.
 
+### A Restart from a previous installation is pending
+
+You keep getting following error, even after you have restarted the server several times:
+
+"Microsoft Exchange Server setup cannot continue because a restart from a previous installation or update is pending."
+
+**Resolution**
+
+Follow the steps provided on (this)[https://docs.microsoft.com/en-us/previous-versions/office/exchange-server-analyzer/cc164360(v=exchg.80)?redirectedfrom=MSDN] article to resolve the issue.
+
 ## Additional information
 
 ### How to update .NET when migrating from an unsupported CU
