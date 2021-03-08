@@ -300,6 +300,37 @@ You may see the following error:
 
 You need to uninstall the previous installed IU before applying this SU as it is cumulative. You can find previous IU’s in add/remove programs.
 
+### Setup shows installing older CU or setup fails installing language pack
+
+**Issue**
+
+Your upgrading to latest CU but setup shows installing existing CU on the server OR the setup fails with following error:
+
+Couldn't open package **'C:\Program Files\Microsoft\Exchange Server\V15\bin\Setup\<package name>** This installation package could
+not be opened. Verify that the package exists and that you can access it, or contact the application vendor to verify that this is a valid Windows Installer
+package. Error code is 1619. ---> System.ComponentModel.Win32Exception: This installation package could not be opened. Verify that the package exists and that
+you can access it, or contact the application vendor to verify that this is a valid Windows Installer package
+
+**Resolution** 
+
+The issue occurs if you have started installation from Windows PowerShell and used Setup.EXE command
+
+If you run an upgrade using PowerShell, use either of following commands (considering Exchange cumulative update media is mounted on D Drive):
+
+".\setup.exe /m:upgrade /IAcceptExchangeServerLicenseTerms" (PowerShell) or
+"D:\setup.exe /m:upgrade /IAcceptExchangeServerLicenseTerms" (PowerShell and command prompt) to start the command.
+
+**Issue**
+
+You may see the following error: 
+
+>Installation cannot continue. The Setup Wizard has determined that this Interim Update is incompatible with the current Microsoft Exchange Server 2013 Cumulative Update 23 configuration.
+
+**Resolution** 
+
+You need to uninstall the previous installed IU before applying this SU as it is cumulative. You can find previous IU’s in add/remove programs.
+
+
 ## Additional information
 
 ### How to update .NET when migrating from an unsupported CU
