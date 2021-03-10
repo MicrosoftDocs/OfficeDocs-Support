@@ -92,10 +92,10 @@ Run the following command and verify that the file version in the output matches
 Get-Command Exsetup.exe | ForEach {$_.FileVersionInfo}
 ```
 
-| Exchange version  | Patched systems file versions  |
-|---|---|
-| Exchange Server 2019  | For CU7: 15.02.0721.013</br>For CU8: 15.02.0792.010|
-| Exchange Server 2016  | For CU18: 15.01.2106.013</br>For CU19: 15.01.2176.009|
+| Exchange version     | Patched systems file versions                         |
+| -------------------- | ----------------------------------------------------- |
+| Exchange Server 2019  | For CU7: 15.02.0721.013 <br> For CU8: 15.02.0792.010 <br> For CU6: 15.02.0659.012 <br> For CU5: 15.02.0595.008 <br> For CU4: 15.02.0529.013 |
+| Exchange Server 2016  | For CU18: 15.01.2106.013 <br> For CU19: 15.01.2176.009 <br> For CU16: 15.01.1979.008 <br> For CU15: 15.01.1913.012 <br> For CU14: 15.01.1847.012 |
 | Exchange Server 2013  | For CU23: 15.00.1497.012  |
 
 [Back to top](#summary)
