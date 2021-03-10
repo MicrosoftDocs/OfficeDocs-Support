@@ -419,7 +419,7 @@
     items:
     - name: Get-DistributionGroupMember not return all members
       href: ../distribution-list/get-distributiongroupmember-not-return-members.md
-  - name: Mail flow
+  - name: Mailflow
     items:
     - name: 451 4.4.0 DNS query failed
       href: ../mailflow/dns-query-failed.md
