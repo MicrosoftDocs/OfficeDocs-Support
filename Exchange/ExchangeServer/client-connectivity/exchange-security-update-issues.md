@@ -154,6 +154,29 @@ For more information, see [this article](/topic/you-get-a-blank-page-after-loggi
 </details>
 
 <details>
+<summary>Can't sign in to Outlook on the web or EAC if Exchange Server OAuth certificate is expired</summary>
+</br>
+
+**Issue**
+
+When you try to sign in to Outlook on the web or the EAC in Exchange Server, the web browser freezes or reports that the redirect limit was reached. Additionally, Event 1003 is logged in the event viewer. For example, the following entry is logged:
+
+>Event ID: 1003
+>Source: MSExchange Front End HTTPS Proxy
+>[Owa] An internal server error occurred. The unhandled exception was: System.NullReferenceException: Object reference not set to an instance of an object.
+>   at Microsoft.Exchange.HttpProxy.FbaModule.ParseCadataCookies(HttpApplication httpApplication)
+
+**Cause**
+
+This issue occurs because the Exchange Server Open Authentication (OAuth) certificate is expired.
+
+**Resolution**
+
+Follow the resolution steps in this [article](https://docs.microsoft.com/en-us/exchange/troubleshoot/administration/cannot-access-owa-or-ecp-if-oauth-expired#resolution).
+</br>
+</details>
+
+<details>
 <summary>Can't access EAC or OWA after Exchange installation</summary>
 </br>
 
@@ -459,6 +482,30 @@ You keep getting the following error message even after restarting the server se
 **Resolution**
 
 Follow the information provided in [A Restart from a Previous Installation is Pending](/previous-versions/office/exchange-server-analyzer/cc164360(v=exchg.80)) to fix the issue.
+
+</br>
+</details>
+
+<details>
+<summary>Installation Fails with the error The term 'Stop-SetupService' is not recognized</summary>
+</br>
+
+**Issue**
+When upgrading and Exchange server, the patch fails at some point. When running setup again you get an Error:
+
+> System.Management.Automation.CommandNotFoundException: The term 'Stop-SetupService' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+
+Workaround:
+
+- Open up notepad and edit the ServiceControl.ps1 which is in located in `%ExchangeInstallPath%\Bin`
+- Then add the line "New-Alias Stop-SetupService Stop-Service" above the comment of disable Execution Policy like below :
+
+````Ini
+New-Alias Stop-SetupService Stop-Service
+# disable ExecutionPolicy in this PowerShell context
+````
+
+- Then rerun your setup
 
 </br>
 </details>
