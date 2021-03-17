@@ -1936,11 +1936,6 @@
       "redirect_document_id": true
     },
     {
-      "source_path": "Exchange/ExchangeOnline/owa-time-zones/incorrect-setting.md",
-      "redirect_url": "https://docs.microsoft.com/exchange/troubleshoot/owa-issues/incorrect-setting",
-      "redirect_document_id": true
-    },
-    {
       "source_path": "Exchange/ExchangeOnline/owa-time-zones/read-receipt-incorrect-timezone.md",
       "redirect_url": "https://docs.microsoft.com/exchange/troubleshoot/owa-issues/read-receipt-incorrect-timezone",
       "redirect_document_id": true
