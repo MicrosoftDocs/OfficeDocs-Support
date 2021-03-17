@@ -901,11 +901,6 @@
       "redirect_document_id": true
     },
     {
-      "source_path": "Microsoft365/enterprise/excel-online-cross-forest-kcd-data-refresh-is-not-supported.md",
-      "redirect_url": "https://docs.microsoft.com/office/troubleshoot/excel/excel-online-cross-forest-kcd-data-refresh-is-not-supported",
-      "redirect_document_id": false
-    },
-    {
       "source_path": "Microsoft365/enterprise/sway-file-size-limit-error.md",
       "redirect_url": "https://docs.microsoft.com/office/troubleshoot/sway/sway-file-size-limit-error",
       "redirect_document_id": false
