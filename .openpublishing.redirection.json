@@ -3206,11 +3206,6 @@
       "redirect_document_id": true
     },
     {
-      "source_path": "Exchange/ExchangeOnline/owa-issues/incorrect-setting.md",
-      "redirect_url": "https://docs.microsoft.com/exchange/troubleshoot/outlook-on-the-web-issues/incorrect-setting",
-      "redirect_document_id": true
-    },
-    {
       "source_path": "Exchange/ExchangeOnline/owa-issues/items-missing-search-results.md",
       "redirect_url": "https://docs.microsoft.com/exchange/troubleshoot/outlook-on-the-web-issues/items-missing-search-results",
       "redirect_document_id": true
