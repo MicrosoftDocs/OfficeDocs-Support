@@ -3276,11 +3276,6 @@
       "redirect_document_id": true
     },
     {
-      "source_path": "Exchange/ExchangeOnline/connecting-to-the-service/incorrect-settings.md",
-      "redirect_url": "https://docs.microsoft.com/exchange/troubleshoot/administration/incorrect-settings",
-      "redirect_document_id": true
-    },
-    {
       "source_path": "Exchange/ExchangeOnline/connecting-to-the-service/winrm-cannot-process-request.md",
       "redirect_url": "https://docs.microsoft.com/exchange/troubleshoot/administration/winrm-cannot-process-request",
       "redirect_document_id": true
