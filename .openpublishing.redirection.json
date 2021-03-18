@@ -3409,6 +3409,11 @@
       "source_path": "Office/Client/office-suite-issues/dsofile.dll-allow-edit-document-property.md",
       "redirect_url": "/office/open-xml/how-to-retrieve-application-property-values-from-a-word-processing-document",
       "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/excel/excel-online-cross-forest-kcd-data-refresh-is-not-supported.md",
+      "redirect_url": "/officeonlineserver/configure-excel-online-data-refresh-by-using-external-data-connections-in-office",
+      "redirect_document_id": false
     }
   ]
 }
