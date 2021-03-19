@@ -467,8 +467,14 @@ Follow the information provided in [A Restart from a Previous Installation is Pe
 
 If you still see the error message, do the following:
 
-1. Run the [HealthChecker script](https://aka.ms/exchangehealthchecker).
-1. Run the [SetupAssist.ps1](https://aka.ms/ExSetupAssist) script.
+1. Run the [SetupAssist.ps1 -Verbose](https://aka.ms/ExSetupAssist) script.
+
+Example:
+PS C:\scripts> .\SetupAssist.ps1 -Verbose
+
+VERBOSE: Key set at: HKLM:\SYSTEM\CurrentControlSet\Control\Session Manager - PendingFileRenameOperations. Remove it if reboot doesn't work
+WARNING: Reboot pending.
+
 
 [Back to top](#summary)
 
