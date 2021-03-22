@@ -3415,5 +3415,10 @@
       "redirect_url": "/officeonlineserver/configure-excel-online-data-refresh-by-using-external-data-connections-in-office",
       "redirect_document_id": false
     }
+    {
+      "source_path": "Office/Client/word/word-could-not-create-the-work-file.md",
+      "redirect_url": "https://docs.microsoft.com/office/troubleshoot/office-suite-issues/no-file-previews-file-explorer-switching-to-32-bit",
+      "redirect_document_id": true
+    }
   ]
 }
