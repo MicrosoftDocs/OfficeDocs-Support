@@ -3414,6 +3414,11 @@
       "source_path": "Office/Client/excel/excel-online-cross-forest-kcd-data-refresh-is-not-supported.md",
       "redirect_url": "/officeonlineserver/configure-excel-online-data-refresh-by-using-external-data-connections-in-office",
       "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/administration/self-help-portal.md",
+      "redirect_url": "/exchange/troubleshoot/exchange-server-welcome",
+      "redirect_document_id": false
     }
   ]
 }
