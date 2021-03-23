@@ -3417,8 +3417,8 @@
     },
     {
       "source_path": "Exchange/ExchangeServer/administration/self-help-portal.md",
-      "redirect_url": "https://docs.microsoft.com/exchange/troubleshoot/exchange-server-welcome",
-      "redirect_document_id": true
+      "redirect_url": "/exchange/troubleshoot/exchange-server-welcome",
+      "redirect_document_id": false
     }
   ]
 }
