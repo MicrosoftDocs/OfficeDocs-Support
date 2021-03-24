@@ -3419,6 +3419,11 @@
       "source_path": "Exchange/ExchangeServer/administration/self-help-portal.md",
       "redirect_url": "/exchange/troubleshoot/exchange-server-welcome",
       "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/outlook-on-the-web-issues/incorrect-setting.md",
+      "redirect_url": "/exchange/troubleshoot/outlook-on-the-web-issues/shared-mailboxes-time-zone-setting",
+      "redirect_document_id": true
     }
   ]
 }
