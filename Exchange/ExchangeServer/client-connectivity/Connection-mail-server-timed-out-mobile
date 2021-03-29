@@ -1,0 +1,45 @@
+---
+title: Connection to mail server timed out in Outlook for iOS or Android
+description: You see “The connection to your mail server timed out” when attempting to log in to an Exchange On-Premises account in Outlook for iOS or Outlook for Android 
+author: v-behow
+ms.author: v-behow
+manager: dcscontentpm
+audience: ITPro
+ms.topic: troubleshooting
+ms.prod: exchange-server-it-pro
+localization_priority: Normal
+ms.custom: 
+- Exchange Server
+- CSSTroubleshoot
+ms.reviewer: mhaque, daweiler
+appliesto:
+- Outlook for iOS
+- Outlook for Android
+search.appverid: MET150
+---
+# You see “The connection to your mail server timed out” when attempting to log in to an Exchange On-Premises account in Outlook for iOS or Outlook for Android
+
+## Symptom
+
+When you attempt to log in to your Exchange On-Premises account in Outlook for iOS or Outlook for Android you receive the following error: 
+
+"The connection to your mail server timed out." 
+
+In addition, mailbox synchronization may stop unexpectedly for users who have already added their account to Outlook. 
+
+## Causes
+
+There are multiple causes for this issue, including: 
+
+- Your organization’s Exchange Server is utilizing TLS 1.0 or 1.1. 
+- Your organization’s Exchange Server is using an expired TLS certificate.
+
+## Solution
+
+First, check to see whether your organization’s Exchange Server is using TLS 1.0 or 1.1. Outlook for iOS and Outlook for Android have introduced changes to block users from logging in to Exchange Servers that are using TLS 1.0 and 1.1. Organizations who are looking to use Outlook for iOS or Outlook for Android must ensure their Exchange environments support TLS 1.2 or higher.  
+
+Organizations on Exchange Server 2013 or higher can download an update to enable support for TLS 1.2. More information can be found here: [https://techcommunity.microsoft.com/t5/exchange-team-blog/exchange-server-tls-guidance-part-1-getting-ready-for-tls-1-2/ba-p/607649](https://techcommunity.microsoft.com/t5/exchange-team-blog/exchange-server-tls-guidance-part-1-getting-ready-for-tls-1-2/ba-p/607649). Organizations on Exchange Server 2010 or older must upgrade to a newer version in order to continue using Outlook for iOS or Outlook for Android.  
+
+Information on how to update an Exchange Server certificate can be found here: [https://docs.microsoft.com/en-us/exchange/architecture/client-access/renew-certificates?view=exchserver-2019](https://docs.microsoft.com/en-us/exchange/architecture/client-access/renew-certificates?view=exchserver-2019).   
+
+If your organization is using TLS 1.2 or higher already, then there may be other issues with your certificate. Please ensure that you are using a valid certificate, and that it is properly installed. More information can be found here: [https://docs.microsoft.com/en-us/exchange/architecture/client-access/certificate-procedures](https://docs.microsoft.com/en-us/exchange/architecture/client-access/certificate-procedures).
