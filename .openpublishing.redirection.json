@@ -3429,6 +3429,11 @@
       "source_path": "Exchange/ExchangeOnline/outlook-on-the-web-issues/incorrect-setting.md",
       "redirect_url": "/exchange/troubleshoot/outlook-on-the-web-issues/shared-mailboxes-time-zone-setting",
       "redirect_document_id": true
+    },
+    {
+      "source_path": "Office/Client/word/opening-file-blocked-by-registry-policy.md",
+      "redirect_url": "/office/troubleshoot/settings/file-blocked-in-office",
+      "redirect_document_id": false
     }
   ]
 }
