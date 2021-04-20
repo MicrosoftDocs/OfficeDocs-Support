@@ -125,12 +125,12 @@ To deploy this setting by using the Outlook Group Policy template, follow these 
 2. Extract the admintemplates_32bit.exe or admintemplates_64bit.exe file to a folder on your disk.
 3. Copy the file appropriate to your version of Outlook to the C:\Windows\PolicyDefinitions folder.
 
-    Office 2016, Office 2019, or Outlook for Office 36: Outlk16.admx  
+    Office 2016, Office 2019, or Outlook for Office 365: Outlk16.admx  
     Office 2013: Outlk15.admx
 
 4. Copy the file appropriate to your version of Outlook to the C:\Windows\PolicyDefinitions\\*xx-xx*
 
-    Office 2016, Office 2019, or Outlook for Office 36: Outlk16.adml  
+    Office 2016, Office 2019, or Outlook for Office 365: Outlk16.adml  
     Office 2013: Outlk15.adml
 
    where *xx-xx* is a Language Culture Name. For example, for English (US), the Language Culture Name is en-us. For more information about Language Culture Names, see [Table of Language Culture Names, Codes, and ISO Values [C++]](/previous-versions/commerce-server/ee797784(v=cs.20)).
