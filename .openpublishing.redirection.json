@@ -3416,6 +3416,11 @@
       "redirect_document_id": false
     },
     {
+      "source_path": "Office/Client/word/word-could-not-create-the-work-file.md",
+      "redirect_url": "https://docs.microsoft.com/office/troubleshoot/office-suite-issues/no-file-previews-file-explorer-switching-to-32-bit",
+      "redirect_document_id": false
+    },
+    {
       "source_path": "Exchange/ExchangeServer/administration/self-help-portal.md",
       "redirect_url": "/exchange/troubleshoot/exchange-server-welcome",
       "redirect_document_id": false
@@ -3424,6 +3429,11 @@
       "source_path": "Exchange/ExchangeOnline/outlook-on-the-web-issues/incorrect-setting.md",
       "redirect_url": "/exchange/troubleshoot/outlook-on-the-web-issues/shared-mailboxes-time-zone-setting",
       "redirect_document_id": true
+    },
+    {
+      "source_path": "Office/Client/word/opening-file-blocked-by-registry-policy.md",
+      "redirect_url": "/office/troubleshoot/settings/file-blocked-in-office",
+      "redirect_document_id": false
     }
   ]
 }
