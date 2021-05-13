@@ -3434,6 +3434,11 @@
       "source_path": "Office/Client/word/opening-file-blocked-by-registry-policy.md",
       "redirect_url": "/office/troubleshoot/settings/file-blocked-in-office",
       "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/public-folders/outlook-or-owa-cannot-connect-to-public-folders.md",
+      "redirect_url": "/exchange/troubleshoot/exchange-online-welcome",
+      "redirect_document_id": false
     }
   ]
 }
