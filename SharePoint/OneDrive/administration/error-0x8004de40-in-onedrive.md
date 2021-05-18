@@ -51,7 +51,7 @@ If you're using Windows 10, restart the device while it’s connected to your Az
 1. After the command runs, close the Command Prompt window.
 1. Restart the computer, and log in to OneDrive.
 
-### Windows 8 or Windows 7
+### Windows 7/8 or Windows Server 2012
 
 If you are using Windows 8 or Windows 7, see the following pages:
 
