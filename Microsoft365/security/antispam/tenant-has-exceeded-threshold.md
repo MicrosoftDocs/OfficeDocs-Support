@@ -56,6 +56,9 @@ To fix this issue, follow these steps:
 1. To prevent future compromise, enable multi-factor authentication (MFA) for, at least, the admin accounts. For more information, see [Set up multi-factor authentication](/office365/admin/security-and-compliance/set-up-multi-factor-authentication?preserve-view=true&view=o365-worldwide).
 1. Contact Microsoft Support to unblock the tenant.
 
+[!NOTE]
+Communicate your tenant users about email sending limits. See [Exchange Online Limits](/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits#receiving-and-sending-limits).
+
 ## References
 
 [Email non-delivery reports in Office 365](https://support.office.com/article/51daa6b9-2e35-49c4-a0c9-df85bf8533c3)
