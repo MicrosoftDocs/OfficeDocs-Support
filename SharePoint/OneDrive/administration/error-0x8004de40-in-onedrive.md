@@ -48,7 +48,7 @@ Make sure that you carefully review information about [TLS deprecation](/microso
 > - TLS_DHE_RSA_WITH_AES_256_GCM_SHA384
 > - TLS_DHE_RSA_WITH_AES_128_GCM_SHA256
 >
-> For more information, see [What are the current cipher suites supported by Azure Front Door?](/azure/frontdoor/front-door-faq#what-are-the-current-cipher-suites-supported-by-azure-front-door-).
+> For more information, see [What are the current cipher suites supported by Azure Front Door?](/azure/frontdoor/front-door-faq#what-are-the-current-cipher-suites-supported-by-azure-front-door-) and [Configuring TLS Cipher Suite Order by using Group Policy](https://docs.microsoft.com/windows-server/security/tls/manage-tls#configuring-tls-cipher-suite-order-by-using-group-policy)
 
 If the device is connected to the internet and TLS has been updated, continue to the following steps based on the version of Windows that the device is running.
 
