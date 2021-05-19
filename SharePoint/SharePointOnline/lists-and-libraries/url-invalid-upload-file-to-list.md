@@ -43,6 +43,9 @@ To work around this issue, remove the Version column from the list of Indexed Co
 
 1. Upload any files that you previously experienced the issue with.
 
+> [!NOTE]
+> Please also check that the Sharepoint Database Server is not running out of free space.
+
 ## More information
 
 This issue occurs when the Version column is configured as an Indexed Column.
