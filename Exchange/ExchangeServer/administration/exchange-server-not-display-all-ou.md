@@ -47,7 +47,7 @@ To resolve this issue, follow these steps:
 
     `drive:\Program Files\Microsoft\Exchange Server\V15\ClientAccess\ecp`
 
-3. Add the following lines in the web.config file just above `</appsettings>`:
+3. Add the following lines in the web.config file just above `appsettings`:
 
     ```xml
     <!-- allows the OU picker when placing a new mailbox in its designated organizational unit to retrieve all OUs - default value is 500 -->
