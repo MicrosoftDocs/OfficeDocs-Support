@@ -38,6 +38,11 @@ First, verify that you are connected to the internet. If the affected device is 
 
 Make sure that you carefully review information about [TLS deprecation](/microsoft-365/compliance/tls-1.0-and-1.1-deprecation-for-office-365). That change might also cause this error.
 
+If the device is connected to the internet and TLS has been updated, continue to the following steps based on the version of Windows that the device is running.
+
+### Windows 10
+Ensure Supported Cipher Suites are enabled.
+
  > [!NOTE]
  > Even after you upgrade to TLS 1.2, it's important to make sure that the cipher suites settings match Azure Front Door requirements, because Microsoft 365 and Azure Front Door provide slightly different support for cipher suites.
 >
@@ -53,10 +58,6 @@ Make sure that you carefully review information about [TLS deprecation](/microso
 > or use PowerShell to [Enable-TlsCipherSuite](/powershell/module/tls/enable-tlsciphersuite?view=windowsserver2019-ps&preserve-view=true).
 >
 > For more information, see [What are the current cipher suites supported by Azure Front Door?](/azure/frontdoor/front-door-faq#what-are-the-current-cipher-suites-supported-by-azure-front-door-&preserve-view=true).
-
-If the device is connected to the internet and TLS has been updated, continue to the following steps based on the version of Windows that the device is running.
-
-### Windows 10
 
 If you're using Windows 10, restart the device while it’s connected to your Azure Active Directory (Azure AD) domain. If that doesn’t fix the problem, unjoin your device from Azure AD and rejoin it, by using the following steps.
 
