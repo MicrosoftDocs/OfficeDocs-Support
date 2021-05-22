@@ -76,6 +76,13 @@ This issue occurs if one of the following registry values is configured as speci
   Name: `SignInOptions`  
   Type: DWORD  
   Value: 3
+  
+ - `HKEY_CURRENT_USER\Software\Policies\Microsoft\Office\xx.0\Common\SignIn`
+
+  Name: `SignInOptions`
+  Type: DWORD
+  Value: 3
+  
 - `HKEY_USERS\<UserSID>\Software\Microsoft\Office\xx.0\Common\SignIn`
   
   Name: `SignInOptions`  
