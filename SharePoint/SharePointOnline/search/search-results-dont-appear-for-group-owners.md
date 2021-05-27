@@ -35,7 +35,7 @@ The owner fails to find content in the search results.
 
 ## Cause
 
-The issue is caused by the security trimming of the query (filtering based on user's access rights and memberships) which only relates to the  security group membership, not the group ownership.  Office 365 groups can have an owner that is not a member.  
+The issue is caused by the security trimming of the query (filtering based on user's access rights and memberships) which only relates to the  security group membership, not the group ownership.  Office 365 groups can have an owner that is not a member.  This issue may also occur if the O365 group was created from Microsoft Teams admin center.
 
 ## Resolution
 
