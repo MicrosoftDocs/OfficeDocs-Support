@@ -3442,7 +3442,7 @@
     },
     {
       "source_path": "Teams/known-issues/teams-exchange-interaction-issue.md",
-      "redirect_url": "/exchange-integration/teams-exchange-interaction-issue",
+      "redirect_url": "microsoftteams/troubleshoot/exchange-integration/teams-exchange-interaction-issue",
       "redirect_document_id": true
     }
   ]
