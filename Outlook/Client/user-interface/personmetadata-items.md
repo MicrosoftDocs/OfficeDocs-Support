@@ -48,6 +48,17 @@ Folder item limit notification
 
 :::image type="content" source="media/personmetadata-items/personmetadata-limit-notification.png" alt-text="{alt-text}":::
 
+## Workaround 3
+
+To prevent mail items in the PersonMetadata folder from showing up in your Search Folders, we can also follow these steps:
+
+1. Leave **Search subfolders** checked
+2. Uncheck account/mailstore (user@contoso.com).
+3. Check the Inbox.
+
+> [!NOTE]
+> All inbox folders (present and future) are searched and the "person metadata" entries are not included (those appear to be stored at the account/mailstore level).
+
 ### Method 1: Run MFCMAPI on the affected user's computer
 
 Use this method if only a few users are experiencing the issue. If there many affected users, use [Method 2](#method-2-run-the-ews-script-as-an-administrator).
