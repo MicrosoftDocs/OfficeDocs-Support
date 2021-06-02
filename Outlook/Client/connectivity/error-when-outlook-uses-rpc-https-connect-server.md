@@ -82,7 +82,7 @@ To examine the certificate, follow these steps:
 
 ## Resolution 2: Install the trusted root certificate for error message 3
 
-To install the trusted root certificate, follow these steps:
+To install the trusted root certificate on the Client side, follow these steps:
 
 1. Click **Install Certificate** when you're prompted with the **Certificate** dialog box.
 1. Click **Next**.
