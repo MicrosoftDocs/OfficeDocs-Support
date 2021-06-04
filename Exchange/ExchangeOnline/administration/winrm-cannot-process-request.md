@@ -63,7 +63,7 @@ The proxy has been configured but the proxy is not running.
   ```powershell
      netsh winhttp show proxy
    ```
-3.From here,you can reset the proxy settings
+3. From here, you can reset the proxy settings:
   ```powershell
      netsh winhttp reset proxy
   ```
