@@ -33,7 +33,7 @@ PSRemotingTransportException
 + FullyQualifiedErrorId : PSSessionOpenedFailed
 ```
 
-## Cause
+## Cause NO 1
 
 This issue occurs if either an internal firewall or the Windows Remote Management service has not been started.
 
@@ -53,7 +53,31 @@ To resolve this issue, check whether the Windows Remote Management service is in
     > [!NOTE]
     > If the service was already started but it's not responding, you may have to click **Restart**.
 6. Try to connect to Exchange Online again.
+## Cause NO 2
 
+Proxy has been configured but proxy is not running
+
+## Solution
+1.Take the steps to start the proxy and try again. OR
+2.Determine current proxy by executing((in powershell run as administrator)
+  ```powershell
+     netsh winhttp show proxy
+   ```
+3.From here,you can reset the proxy settings
+  ```powershell
+     netsh winhttp reset proxy
+  ```
+4.OR you can change to proxt something else(in the example 127.0.0.1:8888)
+  ```powershell
+     netsh winhttp set proxy "127.0.0.1:8888)
+  ```
+5.OR you can import the proxy settings from the internet explorer( assuming you are able to access the internet from the Internet Explorer)
+  ```powershell
+     netsh winhttp import proxy source=ie
+  ```
+
+  
+     
 ## More information
 
 For more information about how to connect to Exchange Online by using remote PowerShell, go to [Connect to Exchange Online using Remote PowerShell](/powershell/exchange/connect-to-exchange-online-powershell).
