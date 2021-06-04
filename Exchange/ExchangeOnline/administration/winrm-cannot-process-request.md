@@ -58,7 +58,8 @@ To resolve this issue, check whether the Windows Remote Management service is in
 The proxy has been configured but the proxy is not running.
 
 ### Solution
-1.Take the steps to start the proxy and try again, OR
+1. Take the necessary steps to start the proxy and try again, OR
+
 2. Determine the current proxy by executing (in PowerShell run as administrator):
   ```powershell
      netsh winhttp show proxy
