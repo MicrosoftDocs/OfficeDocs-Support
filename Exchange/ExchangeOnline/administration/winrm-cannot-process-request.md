@@ -67,7 +67,7 @@ The proxy has been configured but the proxy is not running.
   ```powershell
      netsh winhttp reset proxy
   ```
-4.OR you can change to proxt something else(in the example 127.0.0.1:8888)
+4. OR you can change proxt to something else (in this example 127.0.0.1:8888):
   ```powershell
      netsh winhttp set proxy "127.0.0.1:8888)
   ```
