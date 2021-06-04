@@ -71,7 +71,7 @@ The proxy has been configured but the proxy is not running.
   ```powershell
      netsh winhttp set proxy "127.0.0.1:8888)
   ```
-5.OR you can import the proxy settings from the internet explorer( assuming you are able to access the internet from the Internet Explorer)
+5. OR you can import the proxy settings from Internet Explorer (assuming you are able to access the Internet from Internet Explorer):
   ```powershell
      netsh winhttp import proxy source=ie
   ```
