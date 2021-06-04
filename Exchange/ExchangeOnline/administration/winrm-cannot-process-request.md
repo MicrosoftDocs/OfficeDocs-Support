@@ -33,7 +33,7 @@ PSRemotingTransportException
 + FullyQualifiedErrorId : PSSessionOpenedFailed
 ```
 
-## Cause NO 1
+## Cause No. 1
 
 This issue occurs if either an internal firewall or the Windows Remote Management service has not been started.
 
