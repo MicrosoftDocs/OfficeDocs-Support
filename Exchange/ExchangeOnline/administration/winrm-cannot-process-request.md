@@ -59,7 +59,7 @@ The proxy has been configured but the proxy is not running.
 
 ### Solution
 1.Take the steps to start the proxy and try again, OR
-2.Determine current proxy by executing((in powershell run as administrator)
+2. Determine the current proxy by executing (in PowerShell run as administrator):
   ```powershell
      netsh winhttp show proxy
    ```
