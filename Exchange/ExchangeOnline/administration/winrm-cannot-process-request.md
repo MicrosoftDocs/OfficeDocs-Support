@@ -76,8 +76,6 @@ The proxy has been configured but the proxy is not running.
      netsh winhttp import proxy source=ie
   ```
 
-  
-     
 ## More information
 
 For more information about how to connect to Exchange Online by using remote PowerShell, go to [Connect to Exchange Online using Remote PowerShell](/powershell/exchange/connect-to-exchange-online-powershell).
