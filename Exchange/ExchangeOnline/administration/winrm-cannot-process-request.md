@@ -53,7 +53,7 @@ To resolve this issue, check whether the Windows Remote Management service is in
     > [!NOTE]
     > If the service was already started but it's not responding, you may have to click **Restart**.
 6. Try to connect to Exchange Online again.
-## Cause NO 2
+## Cause No. 2
 
 Proxy has been configured but proxy is not running
 
