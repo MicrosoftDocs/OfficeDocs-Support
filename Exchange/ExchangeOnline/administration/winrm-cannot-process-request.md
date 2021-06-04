@@ -55,7 +55,7 @@ To resolve this issue, check whether the Windows Remote Management service is in
 6. Try to connect to Exchange Online again.
 ## Cause No. 2
 
-Proxy has been configured but proxy is not running
+The proxy has been configured but the proxy is not running.
 
 ## Solution
 1.Take the steps to start the proxy and try again. OR
