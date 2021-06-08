@@ -60,7 +60,7 @@ Use the **/resetfolders** switch to restore missing folders at the default deliv
      
 3. In the **Run** dialog box, enter the following command, and then click **OK**:    
  
-    ```powershell
+    ```
     Outlook.exe /resetfolders
     ```
 ### Method 2
