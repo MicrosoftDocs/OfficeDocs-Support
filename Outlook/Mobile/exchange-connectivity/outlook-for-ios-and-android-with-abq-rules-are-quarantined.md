@@ -35,7 +35,8 @@ Exchange Online users who use Outlook for iOS and Android and who also use Devic
 A back-end protocol change in how Office 365 mailbox data is accessed through Outlook for iOS and Android applications changes the DeviceID that the app uses to connect to Exchange Online. The expected behavior is that the new DeviceID will automatically be added to the `ActiveSyncAllowedDeviceID` for the user. But in certain scenarios, the device may be quarantined. In such cases, follow the steps in the Resolution section. This issue is not expected to occur repeatedly.
 
 ## Resolution
-
+> [!IMPORTANT]
+> Use Autodiscover (the 'sign in' option) when setting up the account and, the device will not quarantine.
 Contact Support and ask the customer service representative to help you unblock the device.
 
 Or, use one of the following methods to unblock the device:
