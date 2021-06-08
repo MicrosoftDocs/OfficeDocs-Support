@@ -29,7 +29,9 @@ Starting in Microsoft Office ProPlus build 16.0.11220.*xxxxx* or a later build, 
 
 ![Office Feature Updates tasks](./media/office-feature-updates-task-faq/office-feature-updates.png)
 
-The **Office Feature Updates** task calls the "SDXHelper.exe" process in the background. You can view this process in Task Manager during the execution. This task runs in user context and polls Office services in the background. It doesn't cause any Office performance issues during startup.
+The **Office Feature Updates** task calls the "SDXHelper.exe" process in the background. You can view this process in Task Manager during the execution. This task runs in user context and polls Office services in the background. It may cause Office performance issues during startup.
+>[!NOTE]
+>If you are having Office performance issues during startup you should repair your Office installation. See [Repair an Office application](https://support.microsoft.com/office/repair-an-office-application-7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b)
 
 !["SDXHelper.exe" process in Task Manager](./media/office-feature-updates-task-faq/sdxhelper-process.png)
 
