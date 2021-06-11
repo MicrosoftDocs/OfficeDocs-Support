@@ -43,8 +43,7 @@ This issue occurs when the following two conditions are true:
 
 **Scenario 2**
 
-The Excel sheet name contains a single quote character.
-
+The Excel sheet name contains special characters.
 ## Workaround
 
 Use one of the following workarounds:
