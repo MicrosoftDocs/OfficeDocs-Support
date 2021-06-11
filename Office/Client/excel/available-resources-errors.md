@@ -58,7 +58,7 @@ The first thing to determine is if the error is specific to one workbook (or oth
 - Inserting a row or column
 - Sorting
 - Performing calculations
-- Copy and pasting
+- Copy and pasting (If you're copying data from one spreadsheet into another using a macro, the autofilter on the source spreadsheet must be removed.) 
 - Opening or closing the workbook
 - Running VBA
 
