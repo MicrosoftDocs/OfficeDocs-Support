@@ -132,6 +132,8 @@ Authentication issues with Windows Server 2012 R2 due to missing two cipher suit
 - TLS_DHE_RSA_WITH_AES_128_GCM_SHA256
 
  ### Resolution
+ 
+ For Windows Server 2012, the [Easy Fix Tool](https://download.microsoft.com/download/0/6/5/0658B1A7-6D2E-474F-BC2C-D69E5B9E9A68/MicrosoftEasyFix51044.msi) can add TLS 1.1 and TLS 1.2 Secure Protocol registry keys automatically. If you're still receiving intermittent connectivity errors after you run the Easy Fix Tool, consider [disabling DHE cipher suites](/security-updates/securitybulletins/2015/ms15-055#workarounds). For more information, see [Applications experience forcibly closed TLS connection errors when connecting SQL Servers in Windows](/troubleshoot/windows-server/identity/apps-forcibly-closed-tls-connection-errors).
    
  Configuration to add the missing cipher suites must be completed on Windows 2012 R2. If Windows 2012 R2 is still experiencing the issue, ensure there are no Windows Group Policy (GOP) exceptions that would prevent the cipher suites on Windows 2012 R2 servers.
 
