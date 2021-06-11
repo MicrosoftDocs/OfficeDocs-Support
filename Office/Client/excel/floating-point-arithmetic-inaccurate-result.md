@@ -85,6 +85,8 @@ Floating-point numbers are represented in the following form, where exponent is 
 Fraction is the normalized fractional part of the number, normalized because the exponent is adjusted so that the leading bit is always a 1. This way, it does not have to be stored, and you get one more bit of precision. This is why there is an implied bit. This is similar to scientific notation, where you manipulate the exponent to have one digit to the left of the decimal point; except in binary, you can always manipulate the exponent so that the first bit is a 1, because there are only 1s and 0s.
 
 Bias is the bias value used to avoid having to store negative exponents. The bias for single-precision numbers is 127 and 1,023 (decimal) for double-precision numbers. Excel stores numbers using double-precision.
+> [!NOTE]
+> Bias is the difference between the true value (reference value) and the observed average of the measurements on the same characteristic on the same part.
 
 ### Example using very large numbers
 
