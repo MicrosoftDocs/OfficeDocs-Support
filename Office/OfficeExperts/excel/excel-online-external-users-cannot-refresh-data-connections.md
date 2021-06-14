@@ -40,4 +40,4 @@ Currently, the data refresh operation in Excel Online doesn't support external u
 
 ## Workaround
 
-To work around this issue, the users can open the file from the Excel client application, and then refresh the data source from there.
+To work around this issue, users should close the spreadsheet, then re-open it, and then the refresh option will work. 
