@@ -43,8 +43,19 @@ To work around this issue, remove the Version column from the list of Indexed Co
 
 1. Upload any files that you previously experienced the issue with.
 
-> [!NOTE]
-> Please also check that the Sharepoint Database Server is not running out of free space.
+
+If the above solution does not solve the issue, please also check that the Sharepoint Database Server is not running out of free space.
+
+1. Go to the SharePoint application server, open Event Viewer and see the details of the actual error. If it's related to database(s) running out of space, proceed to the next step.
+
+1. Check that the following SharePoint databases have enough space to perform actions, and if not, please check the size of the database log and configure the log storage limit accordingly. 
+
+SharePoing Content Database
+SharePoint Contect Database Logs
+Temp Database Logs
+SharePoint Service Databases
+SharePoint Service Databases Logs
+SharePoint Service Databases Temp Logs
 
 ## More information
 
