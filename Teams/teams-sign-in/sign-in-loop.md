@@ -20,7 +20,7 @@ appliesto:
 
 ## Symptoms
 
-When you try to sign in to Microsoft Teams in Microsoft Edge, Internet Explorer or Google Chrome, the site continually loops, and you can never sign in.
+When you try to sign in to Microsoft Teams in Microsoft Edge, Internet Explorer, Google Chrome, Firefox or Safari, the site continually loops, and you can never sign in.
 
 ## Cause
 
@@ -89,6 +89,13 @@ To change the settings by using GPO:
 
 1. [Download and install the Chrome administrative template](https://support.google.com/chrome/a/answer/187202/set-chrome-browser-policies-on-managed-pcs).
 2. Add the sites listed in step 3 above to the **Content settings** > **CookiesAllowedForUrls** setting.
+
+**### Firefox**
+nigolc@microsoft.com to comment further on this.
+    
+**### Safari**
+[Check here for Safari Browser Support around similar issues](https://support.microsoft.com/en-us/office/safari-browser-support-1aac0a7c-35a8-42c1-a7df-f674afe234df#:~:text=Teams%20preview%20won%27t%20open%20in%20Safari&text=If%20you%20want%20to%20use,.microsoft.com%20in%20Safari.).
+[Similarly, if you're an IT Admin, please check here](https://support.microsoft.com/en-us/office/safari-browser-support-1aac0a7c-35a8-42c1-a7df-f674afe234df#:~:text=Teams%20preview%20won%27t%20open%20in%20Safari&text=If%20you%20want%20to%20use,.microsoft.com%20in%20Safari.).
 
 > [!NOTE]
 > It's always good to validate and enable all trusted URLs for Teams and review the requirements in the following articles:
