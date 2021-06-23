@@ -44,7 +44,7 @@ To work around this issue, remove the Version column from the list of Indexed Co
 1. Upload any files that you previously experienced the issue with.
 
 
-If the above solution does not solve the issue, please also check that the Sharepoint Database Server is not running out of free space.
+If the previous solution does not solve the issue, also check that the SharePoint database server is not running out of free space.
 
 1. Go to the SharePoint application server, open Event Viewer and see the details of the actual error. If it's related to database(s) running out of space, proceed to the next step.
 
