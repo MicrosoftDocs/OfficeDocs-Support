@@ -50,7 +50,7 @@ If the previous solution does not solve the issue, also check that the SharePoin
 
 1. Check that the following SharePoint databases have enough space to perform actions, and if not, check the size of the database log and configure the log storage limit accordingly. 
 
-SharePoing Content Database
+SharePoint content database
 SharePoint Contect Database Logs
 Temp Database Logs
 SharePoint Service Databases
