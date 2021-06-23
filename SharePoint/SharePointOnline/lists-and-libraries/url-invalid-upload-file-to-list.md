@@ -53,7 +53,7 @@ If the previous solution does not solve the issue, also check that the SharePoin
 SharePoint content database
 SharePoint content database logs
 Temp database logs
-SharePoint Service Databases
+SharePoint service databases
 SharePoint Service Databases Logs
 SharePoint Service Databases Temp Logs
 
