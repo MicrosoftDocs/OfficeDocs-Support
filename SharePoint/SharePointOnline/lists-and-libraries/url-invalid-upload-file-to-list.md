@@ -48,7 +48,7 @@ If the previous solution does not solve the issue, also check that the SharePoin
 
 1. Go to the SharePoint application server and open Event Viewer to see details of the actual error. If it's related to database(s) running out of space, proceed to the next step.
 
-1. Check that the following SharePoint databases have enough space to perform actions, and if not, please check the size of the database log and configure the log storage limit accordingly. 
+1. Check that the following SharePoint databases have enough space to perform actions, and if not, check the size of the database log and configure the log storage limit accordingly. 
 
 SharePoing Content Database
 SharePoint Contect Database Logs
