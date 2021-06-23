@@ -54,7 +54,7 @@ SharePoint content database
 SharePoint content database logs
 Temp database logs
 SharePoint service databases
-SharePoint Service Databases Logs
+SharePoint service databases logs
 SharePoint Service Databases Temp Logs
 
 ## More information
