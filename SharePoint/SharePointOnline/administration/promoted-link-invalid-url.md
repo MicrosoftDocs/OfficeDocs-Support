@@ -28,6 +28,9 @@ However, when you view the Promoted Links list in the tile view and then click t
 
 **Invalid URL**
 
+> [!NOTE]
+> This problem could potentially impact also on-premises SharePoint Server versions.
+
 ## Solution
 
 This is the expected behavior in SharePoint Online. This issue occurs because the file:// protocol isn't supported for local files in the Promoted Links list. The http:// and https:// protocols are supported in the Promoted Links list in SharePoint Online.
