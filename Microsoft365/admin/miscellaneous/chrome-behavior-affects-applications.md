@@ -120,6 +120,9 @@ The web community is working on a solution to address the abusive use of trackin
 The Chrome team had announced plans to roll out [a change in the default behavior](https://groups.google.com/a/chromium.org/forum/#!topic/blink-dev/AknSSyQTGYs/discussion) of the SameSite functionality starting in a release of Chrome version 78 Beta on October 18, 2019. This rollout will be moved to Chrome version 80 release on February 4, 2020. This change helps improve web security. However, it also breaks authentication flows that are based on the OpenID Connect standard. Therefore, well-established patterns of authentication won't work.
 
 ## Checking the Chrome version
+> [!NOTE]
+> Chrome with v80 can't review permissions when trying to activate the sandbox. The fix is to clear the browser's cache.
+> chrome://settings/clearBrowserData?search=CACHE
 
 If you suspect that your users are using a Chrome version 76 or a later version that has SameSite enabled, you can check the version number by navigating to `chrome://settings/help` or by selecting the Chrome settings icon, and then selecting **Help** > **About Google Chrome**.
 
