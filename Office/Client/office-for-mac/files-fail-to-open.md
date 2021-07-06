@@ -76,8 +76,10 @@ Additionally, you may see one of the following error messages when you try to si
 
 ## Resolution
 
-Enable and start **Network List Service** on the client computer. To do this, follow these steps:  
- 
-1. Click Start, type "**services.msc**" (without quotation marks) in the Start Search box and press Enter.    
-2. Double-click **Network List Service**.    
-3. Right-click the service, and then click **Start**.    
+Enable and start Network services on clinet computer. To do this,follow these steps:
+1.Open the terminal
+2.Enter the following Commands
+ ```sudo ifconfig en0 down
+ ```
+ ```sudo ifconfig en0 up
+ ```
