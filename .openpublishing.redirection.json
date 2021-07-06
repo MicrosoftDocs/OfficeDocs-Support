@@ -3461,9 +3461,14 @@
       "redirect_document_id": true
     },
     {
-      "source_path": "Exchange/ExchangeHybrid/administration/attribute-not-written-to-azure-ad.md ",
+      "source_path": "Exchange/ExchangeHybrid/administration/attribute-not-written-to-azure-ad.md",
       "redirect_url": "/azure/active-directory/hybrid/how-to-dirsync-upgrade-get-started",
       "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/sites/classic-usage-popularity-reports-discontinued.md",
+      "redirect_url": "/sharepoint/troubleshoot/sites/classic-site-collection-search-usage-reports",
+      "redirect_document_id": true
     },
     {
       "source_path": "Outlook/Client/message-body/email-message-body-is-blank-in-outlook.md",
