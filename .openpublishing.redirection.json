@@ -3337,8 +3337,8 @@
     },
     {
       "source_path": "Exchange/ExchangeHybrid/federation/attribute-not-written-to-azure-ad.md",
-      "redirect_url": "/exchange/troubleshoot/administration/attribute-not-written-to-azure-ad",
-      "redirect_document_id": true
+      "redirect_url": "/azure/active-directory/hybrid/how-to-dirsync-upgrade-get-started",
+      "redirect_document_id": false
     },
     {
       "source_path": "Exchange/ExchangeHybrid/move-mailboxes/litigationholdenabled-property-differs-onpremises-cloud.md",
@@ -3458,6 +3458,16 @@
     {
       "source_path": "Exchange/ExchangeOnline/move-or-migrate-mailboxes/public-folder-migration-batch-error.md",
       "redirect_url": "/exchange/troubleshoot/public-folders/public-folder-migration-batch-error",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Exchange/ExchangeHybrid/administration/attribute-not-written-to-azure-ad.md",
+      "redirect_url": "/azure/active-directory/hybrid/how-to-dirsync-upgrade-get-started",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/sites/classic-usage-popularity-reports-discontinued.md",
+      "redirect_url": "/sharepoint/troubleshoot/sites/classic-site-collection-search-usage-reports",
       "redirect_document_id": true
     },
     {
