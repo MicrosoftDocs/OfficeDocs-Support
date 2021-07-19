@@ -32,7 +32,8 @@ When you upload a file to a SharePoint Online or SharePoint Server 2013 list, yo
 This issue occurs if one of the following conditions is true:
 
 - The **Version** column is configured as an indexed column
-- The content database doesn't have enough space in SharePoint Server 2013
+- The content database doesn't have enough 
+in SharePoint Server 2013
 - You don't have the enough permission to the content database in SharePoint Server 2013
 
 ## Solution
