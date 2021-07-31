@@ -32,7 +32,7 @@ By default, when you open a new meeting form in Microsoft Outlook 2016, Microsof
 
 :::image type="content" source="./media/room-finder/image2.png" alt-text="Room Finder feature in Outlook 2016 in the Scheduling Assistant view.":::
 
-In Outlook for Microsoft 365, the Room Finder control button can be found next to the **Location** field on the **Meeting** tab, or on the ribbon when you view the **Scheduling Assistant** screen.
+In Outlook for Microsoft 365, the Room Finder control button can be found next to the **Location** field on the **Meeting** tab, or on the ribbon when you view the **Scheduling Assistant** screen. You can also enable Room Finder by selecting the Room Finder in the Options Group.
 
 :::image type="content" source="./media/room-finder/image3.png" alt-text="A screenshot of a social media post Description automatically generated.":::
 
