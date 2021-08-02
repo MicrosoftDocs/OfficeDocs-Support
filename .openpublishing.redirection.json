@@ -1201,6 +1201,11 @@
       "redirect_document_id": false
     },
     {
+      "source_path": "Teams/meetings/how-to-join-a-teams-meeting.md",
+      "redirect_url": "https://support.microsoft.com/office/1613bb53-f3fa-431e-85a9-d6a91e3468c9",
+      "redirect_document_id": false
+    },
+    {
       "source_path": "Exchange/ExchangeServer/active-sync/url-invalid-format.md",
       "redirect_url": "/exchange/troubleshoot/administration/url-invalid-format",
       "redirect_document_id": true
