@@ -3476,6 +3476,31 @@
       "redirect_document_id": true
     },
     {
+      "source_path": "SharePoint/SharePointOnline/sharing-and-permissions/access-denied-sharepoint-error.md",
+      "redirect_url": "/sharepoint/troubleshoot/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/sharing-and-permissions/error-when-external-user-tries-to-access-sharepoint-onedrive.md",
+      "redirect_url": "/sharepoint/troubleshoot/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/sharing-and-permissions/approval-workflow-access-denied-error.md",
+      "redirect_url": "/sharepoint/troubleshoot/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/sharing-and-permissions/access-requests-list-error-access-denied.md",
+      "redirect_url": "/sharepoint/troubleshoot/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/sharing-and-permissions/cannot-access-shared-folder.md",
+      "redirect_url": "/sharepoint/troubleshoot/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business",
+      "redirect_document_id": false
+    },
+    {
       "source_path": "Outlook/Client/message-body/email-message-body-is-blank-in-outlook.md",
       "redirect_url": "/outlook/troubleshoot/outlook-client-welcome",
       "redirect_document_id": false
