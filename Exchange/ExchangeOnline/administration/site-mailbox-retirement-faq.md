@@ -111,6 +111,6 @@ Because of this change, you'll now experience the following conditions in Outloo
   >
   > Microsoft.Exchange.Clients.Owa2.Server.Core.OwaExplicitLogonException
 
-  This change doesn't block exporting site mailbox data to a .pst file by using eDiscovery. You can follow the steps from the "How can I keep the data from my site mailboxes?" section to export site mailbox data to a .pst file.
+  This change doesn't block exporting site mailbox data to a .pst file by using eDiscovery. You can follow the steps under "How can I keep the data from my site mailboxes?" to export site mailbox data to a .pst file.
   
   [Back to top](#summary)  
