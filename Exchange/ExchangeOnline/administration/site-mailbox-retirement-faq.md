@@ -1,5 +1,5 @@
 ---
-title: Site mailbox retirement FAQs
+title: Site mailbox retirement FAQ
 description: Lists frequently asked questions about the retirement of site mailboxes.
 author: MaryQiu1987
 ms.author: v-maqiu
@@ -21,19 +21,19 @@ search.appverid: MET150
 
 <a id="summary"></a>
 
-The site mailbox feature was [deprecated for Exchange Online in 2017](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/deprecation-of-site-mailboxes/ba-p/93028). In October 2020, we announced that all site mailboxes will be [discontinued after April 2021](https://techcommunity.microsoft.com/t5/microsoft-365-blog/update-retirement-of-sharepoint-site-mailboxes-in-microsoft-365/ba-p/1754704). No extension will be provided beyond this timeframe.
+The site mailbox feature was [deprecated for Exchange Online in 2017](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/deprecation-of-site-mailboxes/ba-p/93028). In October 2020, we announced that all site mailboxes will be [discontinued after April 2021](https://techcommunity.microsoft.com/t5/microsoft-365-blog/update-retirement-of-sharepoint-site-mailboxes-in-microsoft-365/ba-p/1754704). No extension will be provided beyond this time frame.
 
 To avoid disruption in your services, we encourage you to remove all dependencies from site mailboxes in your organization as soon as possible. This article answers questions that you might have about how the retirement will affect your organization and what actions you should take.
 
 - [What is a site mailbox?](#what-is-a-site-mailbox)
 - [How can I check whether my organization is using site mailboxes?](#how-can-i-check-whether-my-organization-is-using-site-mailboxes)
-- [What should I do if I want to keep the data in my site mailboxes?](#what-should-i-do-if-i-want-to-keep-the-data-in-my-site-mailboxes)
+- [How can I keep the data from my site mailboxes?](#how-can-i-keep-the-data-from-my-site-mailboxes)
 - [Will deleting a site mailbox remove the documents in the associated SharePoint site?](#will-deleting-a-site-mailbox-remove-the-documents-in-the-associated-sharepoint-site)
-- [Site mailbox inaccessible in Outlook and OWA](#site-mailbox-inaccessible-in-outlook-and-owa)
+- [Are site mailboxes still accessible in Outlook and OWA?](#are-site-mailboxes-still-accessible-in-outlook-and-owa)
 
 ## What is a site mailbox?
 
-A site mailbox is a data repository for email messages and documents that collaborating groups of users can access from a single client interface. Each site mailbox is associated with an Exchange mailbox that stores email messages and with a SharePoint site that stores documents. For more information, see [Site mailboxes](/exchange/collaboration/site-mailboxes).
+A site mailbox is a data repository for email messages and documents that collaborating groups of users can access from a single client interface. Each site mailbox is associated with an Exchange mailbox that stores email messages and a SharePoint site that stores documents. For more information, see [Site mailboxes](/exchange/collaboration/site-mailboxes).
 
 [Back to top](#summary)
 
@@ -53,11 +53,11 @@ Get-SiteMailbox -BypassOwnerCheck -ResultSize Unlimited | ft Name, WhenCreated, 
 
 If the cmdlet returns a blank output, your organization doesn't use site mailboxes. Therefore, your organization won't be affected by this feature retirement.
 
-If the output is not blank, you'll see a list of the site mailboxes and their associated SharePoint site URLs. To prepare for the site mailbox retirement, we recommend that you [back up the site mailboxes and then delete them](/sharepoint/deprecation-of-site-mailboxes).
+If your organization uses site mailboxes, you'll see a list of the site mailboxes and their associated SharePoint site URLs. To prepare for the site mailbox retirement, we recommend that you [back up the site mailboxes and then delete them](/sharepoint/deprecation-of-site-mailboxes).
 
 [Back to top](#summary)
 
-## What should I do if I want to keep the data in my site mailboxes?
+## How can I keep the data from my site mailboxes?
 
 If you want to keep the data that's in your site mailboxes, you can migrate the site mailboxes to either [Microsoft 365 Groups](/microsoft-365/admin/create-groups/office-365-groups) or shared mailboxes by using one of the following methods.
 
@@ -65,9 +65,9 @@ If you want to keep the data that's in your site mailboxes, you can migrate the 
 
 Method 1: [Connect each associated SharePoint site to a new Microsoft 365 group](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/rolling-out-tenant-admin-tools-to-connect-existing-sharepoint/bc-p/188867).
 
-Method 2: [Export the data in each site mailbox to a PST file, and then import the PST file to a shared mailbox](/sharepoint/deprecation-of-site-mailboxes).
+Method 2: [Export the data in each site mailbox to a .pst file, and then import the .pst file to a shared mailbox](/sharepoint/deprecation-of-site-mailboxes).
 
-The **Documents** folder in the site mailbox is a part of the associated SharePoint site. The links that it contains are shortcuts to the documents that are stored on the SharePoint site. When you export the site mailbox to a PST file, these shortcuts are broken and won't function reliably in the new shared mailbox that you import them to.
+The **Documents** folder in the site mailbox is a part of the associated SharePoint site. The links that it contains are shortcuts to the documents that are stored on the SharePoint site. When you export the site mailbox to a .pst file, these shortcuts are broken and won't function reliably in the new shared mailbox that you import them to.
 
 For example, when you access the **Documents** folder in a shared mailbox from Outlook on the web, email messages will include the SharePoint document links, as shown in the following screenshot. However, the links won't be active.
 
@@ -93,23 +93,24 @@ The system will remove the link to the site mailbox from the associated SharePoi
 
 [Back to top](#summary)
 
-## Site mailbox inaccessible in Outlook and OWA
+## Are site mailboxes still accessible in Outlook and OWA?
 
-Following [our announcement to retire site mailboxes](https://techcommunity.microsoft.com/t5/microsoft-365-blog/update-retirement-of-sharepoint-site-mailboxes-in-microsoft-365/ba-p/1754704), access to the site mailbox is now stopped from the clients (Outlook and OWA). 
+Following [our announcement to retire site mailboxes](https://techcommunity.microsoft.com/t5/microsoft-365-blog/update-retirement-of-sharepoint-site-mailboxes-in-microsoft-365/ba-p/1754704), access to site mailboxes from the clients (Outlook and OWA) is now stopped.
 
-After the change is rolled out, you'll experience the following in Outlook and OWA:
+Because of this change, you'll now experience the following conditions in Outlook and OWA:
 
 - Outlook
 
-   Outlook displays the site mailbox in the left pane, just like an automatically mapped delegate mailbox. After this change, Outlook will stop receiving site mailbox-related payloads in Autodiscover, which is used to automatically map site mailboxes. The existing automatically mapped site mailboxes will disappear from the Outlook client. The end user won't see any errors. 
+   Outlook displays the site mailbox in the left pane in the same manner that it displays an automatically mapped delegate mailbox. Outlook no longer receives site mailbox-related payloads in Autodiscover, the feature that was used to automatically map site mailboxes. Any existing site mailboxes that were automatically mapped will be removed from the Outlook client. User won't receive any related error messages.
+
 - Outlook on the web (OWA) extension
 
-  Clicking the site mailbox application in the SharePoint site will launch the OWA extension to display site mailbox content. After this change, the end user will receive the following error when trying to access the site mailbox:
+  Clicking the site mailbox application in the SharePoint site will start the OWA extension to display site mailbox content. Because site mailboxes are no longer accessible, users will receive the following error message when they try to access a site mailbox:
 
   > HTTP 500 something went wrong, You don't have access to this mailbox.
   >
   > Microsoft.Exchange.Clients.Owa2.Server.Core.OwaExplicitLogonException
 
-  This change doesn't block exporting site mailbox data to PST by using eDiscovery. You can follow the steps mentioned earlier to export data from the site mailbox to PST.
+  This change doesn't block exporting site mailbox data to a .pst file by using eDiscovery. You can follow the steps from the "How can I keep the data from my site mailboxes?" section to export site mailbox data to a .pst file.
   
   [Back to top](#summary)  
