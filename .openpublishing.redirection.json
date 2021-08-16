@@ -3504,6 +3504,16 @@
       "source_path": "Outlook/Client/message-body/email-message-body-is-blank-in-outlook.md",
       "redirect_url": "/outlook/troubleshoot/outlook-client-welcome",
       "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/public-folders/can't-apply-permissions-public-folder-subfolders.md",
+      "redirect_url": "/exchange/troubleshoot/public-folders/permissions-settings-not-propagate-eac",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/public-folders/cannot-apply-read-unread-setting.md",
+      "redirect_url": "/exchange/troubleshoot/public-folders/permissions-settings-not-propagate-eac",
+      "redirect_document_id": true
     }
   ]
 }
