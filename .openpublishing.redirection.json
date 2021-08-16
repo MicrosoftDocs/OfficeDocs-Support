@@ -3513,7 +3513,7 @@
     {
       "source_path": "Exchange/ExchangeOnline/public-folders/cannot-apply-read-unread-setting.md",
       "redirect_url": "/exchange/troubleshoot/public-folders/permissions-settings-not-propagate-eac",
-      "redirect_document_id": true
+      "redirect_document_id": false
     }
   ]
 }
