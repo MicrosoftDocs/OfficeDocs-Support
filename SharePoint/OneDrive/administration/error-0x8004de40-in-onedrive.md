@@ -40,7 +40,7 @@ Make sure that you carefully review information about [TLS deprecation](/microso
 
 If the device is connected to the internet and TLS has been updated, continue to the following steps based on the version of Windows that the device is running.
 
-### Windows 10
+### Windows 10 or Windows Server 2016
 
 **Solution 1: Check cipher suites settings**
 
