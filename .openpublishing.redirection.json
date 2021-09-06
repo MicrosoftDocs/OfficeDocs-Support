@@ -1201,6 +1201,11 @@
       "redirect_document_id": false
     },
     {
+      "source_path": "Teams/meetings/how-to-join-a-teams-meeting.md",
+      "redirect_url": "https://support.microsoft.com/office/1613bb53-f3fa-431e-85a9-d6a91e3468c9",
+      "redirect_document_id": false
+    },
+    {
       "source_path": "Exchange/ExchangeServer/active-sync/url-invalid-format.md",
       "redirect_url": "/exchange/troubleshoot/administration/url-invalid-format",
       "redirect_document_id": true
@@ -3471,9 +3476,44 @@
       "redirect_document_id": true
     },
     {
+      "source_path": "SharePoint/SharePointOnline/sharing-and-permissions/access-denied-sharepoint-error.md",
+      "redirect_url": "/sharepoint/troubleshoot/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/sharing-and-permissions/error-when-external-user-tries-to-access-sharepoint-onedrive.md",
+      "redirect_url": "/sharepoint/troubleshoot/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/sharing-and-permissions/approval-workflow-access-denied-error.md",
+      "redirect_url": "/sharepoint/troubleshoot/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/sharing-and-permissions/access-requests-list-error-access-denied.md",
+      "redirect_url": "/sharepoint/troubleshoot/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/sharing-and-permissions/cannot-access-shared-folder.md",
+      "redirect_url": "/sharepoint/troubleshoot/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business",
+      "redirect_document_id": false
+    },
+    {
       "source_path": "Outlook/Client/message-body/email-message-body-is-blank-in-outlook.md",
       "redirect_url": "/outlook/troubleshoot/outlook-client-welcome",
       "redirect_document_id": false
-    }
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/public-folders/can't-apply-permissions-public-folder-subfolders.md",
+      "redirect_url": "/exchange/troubleshoot/public-folders/permissions-settings-not-propagate-eac",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/send-emails/how-to-set-iis-smtp-for-outgoing-tls-auth.md",
+      "redirect_url": "/exchange/mail-flow-best-practices/use-connectors-to-configure-mail-flow/set-up-connectors-to-route-mail",
+      "redirect_document_id": false
+    }    
   ]
 }
