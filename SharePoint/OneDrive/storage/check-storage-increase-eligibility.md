@@ -50,7 +50,7 @@ Admins can request Microsoft to increase the default storage space up to 25 TB p
     :::image type="content" source="media/check-storage-increase-eligibility/not-configured.png" alt-text="Need Help window says your tenant is not configured to increase a user's OneDrive quota beyond 5 TB.":::
     
 > [!NOTE]  
-> If you are not receiving option to update settings, contact [Microsoft Support](https://go.microsoft.com/fwlink/?linkid=869559) to enable boost storage for your tanent. 
+> If you do not receive the option to update settings, contact [Microsoft Support](https://go.microsoft.com/fwlink/?linkid=869559) to enable boost storage for your tenant. 
 
 1. After the user's OneDrive storage limit is increased, you can set a different limit for the user's storage space from the Microsoft 365 admin center or SharePoint Online Management Shell. For more information, see [Change a specific user's OneDrive storage space](/onedrive/change-user-storage).  
 
