@@ -3511,6 +3511,11 @@
       "redirect_document_id": false
     },
     {
+      "source_path": "Exchange/ExchangeOnline/public-folders/cannot-apply-read-unread-setting.md",
+      "redirect_url": "/exchange/troubleshoot/public-folders/permissions-settings-not-propagate-eac",
+      "redirect_document_id": false
+    },
+    {
       "source_path": "Exchange/ExchangeOnline/send-emails/how-to-set-iis-smtp-for-outgoing-tls-auth.md",
       "redirect_url": "/exchange/mail-flow-best-practices/use-connectors-to-configure-mail-flow/set-up-connectors-to-route-mail",
       "redirect_document_id": false
