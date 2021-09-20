@@ -87,6 +87,9 @@ To resolve this issue, follow these steps:
 2. Set the value of the `adminCount` attribute on the computer account to **0**.
 3. Restart the server.
 
+> [!NOTE]
+> If the above solution does not fix the issue, please check that the **UserPrincipalName** format used for providing remote credentials is **SAMAccountName@domainname**.  
+
 ## More information
 
 Members of protected groups don't inherit permissions from the parent container.
