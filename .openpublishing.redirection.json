@@ -3539,6 +3539,26 @@
       "source_path": "Office/Client/installation/windows-installer-service-not-be-accesse.md",
       "redirect_url": "/office/troubleshoot/installation/windows-installer-service-not-be-accessed",
       "redirect_document_id": true
+    },
+    {
+      "source_path": "Microsoft365/compliance/mrm-rentention-policies/cannot-manage-disposition-reviews.md",
+      "redirect_url": "/office365/troubleshoot/retention/cannot-manage-disposition-reviews",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Microsoft365/compliance/mrm-rentention-policies/cannot-retain-cloud-attachments.md",
+      "redirect_url": "/office365/troubleshoot/retention/cannot-retain-cloud-attachments",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Microsoft365/compliance/mrm-rentention-policies/managed-folders-disappear.md",
+      "redirect_url": "/office365/troubleshoot/retention/managed-folders-disappear",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Microsoft365/compliance/mrm-rentention-policies/mrm-and-retention-policy.md",
+      "redirect_url": "/office365/troubleshoot/retention/mrm-and-retention-policy",
+      "redirect_document_id": true
     }
   ]
 }
