@@ -3521,9 +3521,44 @@
       "redirect_document_id": false
     },
     {
+      "source_path": "SharePoint/SharePointOnline/lists-and-libraries/office-app-fails-opening-list-item-attachment.md",
+      "redirect_url": "/sharepoint/troubleshoot/sharepoint-online-welcome",
+      "redirect_document_id": false
+    },
+    {
       "source_path": "Exchange/ExchangeOnline/calendars/attendees-receive-meeting-cancellation-followed-by-meeting-update.md",
       "redirect_url": "/exchange/troubleshoot/exchange-online-welcome",
       "redirect_document_id": false
-    }     
+    },
+    {
+      "source_path": "Teams/known-issues/renaming-channel-does-not-rename-folder-sharepoint.md",
+      "redirect_url": "/MicrosoftTeams/troubleshoot/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/installation/windows-installer-service-not-be-accesse.md",
+      "redirect_url": "/office/troubleshoot/installation/windows-installer-service-not-be-accessed",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Microsoft365/compliance/mrm-rentention-policies/cannot-manage-disposition-reviews.md",
+      "redirect_url": "/office365/troubleshoot/retention/cannot-manage-disposition-reviews",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Microsoft365/compliance/mrm-rentention-policies/cannot-retain-cloud-attachments.md",
+      "redirect_url": "/office365/troubleshoot/retention/cannot-retain-cloud-attachments",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Microsoft365/compliance/mrm-rentention-policies/managed-folders-disappear.md",
+      "redirect_url": "/office365/troubleshoot/retention/managed-folders-disappear",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Microsoft365/compliance/mrm-rentention-policies/mrm-and-retention-policy.md",
+      "redirect_url": "/office365/troubleshoot/retention/mrm-and-retention-policy",
+      "redirect_document_id": true
+    }
   ]
 }
