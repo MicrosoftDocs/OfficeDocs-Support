@@ -3559,6 +3559,11 @@
       "source_path": "Microsoft365/compliance/mrm-rentention-policies/mrm-and-retention-policy.md",
       "redirect_url": "/office365/troubleshoot/retention/mrm-and-retention-policy",
       "redirect_document_id": true
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/administration/exchange-online-message-trace-diagnostic.md",
+      "redirect_url": "/exchange/troubleshoot/exchange-online-welcome",
+      "redirect_document_id": false
     }
   ]
 }
