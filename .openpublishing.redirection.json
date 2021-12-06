@@ -3562,7 +3562,7 @@
     },
     {
       "source_path": "Exchange/ExchangeOnline/administration/exchange-online-message-trace-diagnostic.md",
-      "redirect_url": "/exchange/troubleshoot/exchange-online-welcome",
+      "redirect_url": "/exchange/monitoring/trace-an-email-message/message-trace-modern-eac",
       "redirect_document_id": false
     }
   ]
