@@ -3564,6 +3564,11 @@
       "source_path": "Exchange/ExchangeOnline/administration/exchange-online-message-trace-diagnostic.md",
       "redirect_url": "/exchange/monitoring/trace-an-email-message/message-trace-modern-eac",
       "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/performance/share-file-unable-reach-the-server.md",
+      "redirect_url": "/sharepoint/troubleshoot/sharing-and-permissions/share-file-unable-reach-server",
+      "redirect_document_id": false
     }
   ]
 }
