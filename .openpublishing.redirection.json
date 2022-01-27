@@ -3569,11 +3569,6 @@
       "source_path": "Microsoft365/admin/access-management/manage-fluid-framework-preview-access.md",
       "redirect_url": "/office365/troubleshoot/o365-admin-welcome",
       "redirect_document_id": false
-    },
-    {
-      "source_path": "SharePoint/SharePointOnline/performance/share-file-unable-reach-the-server.md",
-      "redirect_url": "/sharepoint/troubleshoot/sharing-and-permissions/share-file-unable-reach-server",
-      "redirect_document_id": false
     }
   ]
 }
