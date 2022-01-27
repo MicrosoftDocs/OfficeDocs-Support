@@ -3576,7 +3576,7 @@
       "redirect_document_id": false
     },
     {
-      "source_path": "Exchange\ExchangeHybrid\administration\invalid-product-key-error-when-activating-hybrid-edition-of-exchange-2013.md",
+      "source_path": "Exchange/ExchangeHybrid/administration/invalid-product-key-error-when-activating-hybrid-edition-of-exchange-2013.md",
       "redirect_url": "/exchange/troubleshoot/exchange-hybrid-welcome",
       "redirect_document_id": false
     }
