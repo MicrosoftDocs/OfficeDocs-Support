@@ -3564,6 +3564,21 @@
       "source_path": "Exchange/ExchangeOnline/administration/exchange-online-message-trace-diagnostic.md",
       "redirect_url": "/exchange/monitoring/trace-an-email-message/message-trace-modern-eac",
       "redirect_document_id": false
+    },
+    {
+      "source_path": "Microsoft365/admin/access-management/manage-fluid-framework-preview-access.md",
+      "redirect_url": "/office365/troubleshoot/o365-admin-welcome",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/performance/share-file-unable-reach-the-server.md",
+      "redirect_url": "/sharepoint/troubleshoot/sharing-and-permissions/share-file-unable-reach-server",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeHybrid/administration/invalid-product-key-error-when-activating-hybrid-edition-of-exchange-2013.md",
+      "redirect_url": "/exchange/troubleshoot/exchange-hybrid-welcome",
+      "redirect_document_id": false
     }
   ]
 }
