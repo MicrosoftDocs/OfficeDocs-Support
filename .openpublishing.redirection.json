@@ -1993,7 +1993,7 @@
     {
       "source_path": "Teams/teams-rooms/known-issues.md",
       "redirect_url": "/microsoftteams/troubleshoot/Teams-devices-and-rooms/rooms-known-issues",
-      "redirect_document_id": true
+      "redirect_document_id": false
     },
     {
       "source_path": "SharePoint/SharePointOnline/administration/access-denied-sharepoint-error.md",
@@ -3811,7 +3811,7 @@
     },
     {
       "source_path": "Teams/known-issues/cant-save-profile-picture.md",
-      "redirect_url": "/microsoftteams/troubleshoot/teams-im-presence/cant-save-profile-picture.md",
+      "redirect_url": "/microsoftteams/troubleshoot/teams-im-presence/cant-save-profile-picture",
       "redirect_document_id": true
     },
     {
