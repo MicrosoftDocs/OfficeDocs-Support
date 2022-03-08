@@ -33,10 +33,13 @@ You might not receive email notifications for responses that you submit to a Gro
 
    :::image type="content" source="media/no-email-notifications-for-responses-to-group-forms/number-of-members.png" alt-text="Selecting the number of members in the top-right." border="false":::
 
-5. In Outlook on the web, select the **Edit** button above the group name.
+5. In Outlook on the web, click the three dots and select the **Edit group** button.
 
     :::image type="content" source="media/no-email-notifications-for-responses-to-group-forms/edit-group-option.png" alt-text="Select the ellipsis and then select the Edit group option.":::
-
+    
+    Note: If Edit Group button is missing, you will need to have the Exchange Online administrator run the following Exchange Online PowerShell command to unhide the button, replacing <GroupEmailAddress> with the actual group email address:
+    Set-UnifiedGroup <GroupEmailAddress> -HiddenFromExchangeClientsEnabled:$False
+    
 6. Select the **Let people outside the organization email the groups** and **Members will receive all group conversations and events ...** check boxes and then select **Save**.
 
     :::image type="content" source="media/no-email-notifications-for-responses-to-group-forms/select-two-checkboxes-in-edit-group-page.png" alt-text="Select the two checkboxes in the External email settings.":::
