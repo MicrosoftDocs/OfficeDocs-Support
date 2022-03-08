@@ -3863,6 +3863,31 @@
       "source_path": "Teams/known-issues/unable-to-access-gstatic-in-teams.md",
       "redirect_url": "/microsoftteams/troubleshoot/third-party-programs/unable-to-access-gstatic-in-teams",
       "redirect_document_id": true
+    },
+    {
+      "source_path": "Outlook/Client/Installation/enable-leave-a-copy-of-the-message-on-the-server-outlook.md",
+      "redirect_url": "/outlook/troubleshoot/installation/enable-leave-a-copy-of-the-message-on-the-server-outlook",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Outlook/Client/Installation/error-send-file-from-application-through-email.md",
+      "redirect_url": "/outlook/troubleshoot/installation/error-send-file-from-application-through-email",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Outlook/Client/Installation/install-outlook-latest-updates.md",
+      "redirect_url": "/outlook/troubleshoot/installation/install-outlook-latest-updates",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Outlook/Client/Installation/installing-calendar-printing-assistant-fails.md",
+      "redirect_url": "/outlook/troubleshoot/installation/installing-calendar-printing-assistant-fails",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Outlook/Client/Installation/upgrade-errors-office-2016.md",
+      "redirect_url": "/outlook/troubleshoot/installation/upgrade-errors-office-2016",
+      "redirect_document_id": true
     }
   ]
 }
