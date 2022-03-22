@@ -24,7 +24,12 @@ appliesto:
 
 ## Symptoms
 
-In Microsoft Exchange Server 2019, 2016, or 2013, email messages may be stuck in on-premises message queues for several minutes if the server is configured to send to a single destination, such as Exchange Online. There are few or no deferrals (400-series SMTP response codes) from Exchange Online to account for the number of messages in the queue. Eventually, the messages are sent. However, there are some delays.
+In Microsoft Exchange Server 2019, 2016, or 2013, email messages may be stuck in on-premises message queues for several minutes if the server is configured to send to a single destination, such as Exchange Online. There are few or no deferrals (400-series SMTP response codes) from Exchange Online to account for the number of messages in the queue. This includes the scenarios where service limits are exceeded for Exchange Online recipients such as Receiving Limits and/or Sender-Recipient pair limits (aka SRP limits), wherein NDR status codes such as 5.2.121, 5.2.122 get returned back to on-premises, followed by 400-series SMTP response codes.
+
+In such scenarios, eventually, the messages are sent. However, there are some delays.
+
+*Note* : *Exchange Online Receiving Limits enforcement was announced via https://techcommunity.microsoft.com/t5/exchange-team-blog/upcoming-changes-to-mailbox-receiving-limits-hot-recipients/ba-p/2155862 and MC239262;
+SRP changes were announced via MC272450*  
 
 ## Cause
 
@@ -62,3 +67,13 @@ Set-TransportService Mailbox01 -MessageRetryInterval 00:05:00
 ```
 
 For more information, see [Set-TransportService](/powershell/module/exchange/set-transportservice?view=exchange-ps&preserve-view=true).
+
+### SmtpMaxMessagesPerConnection
+
+The *SmtpMaxMessagesPerConnection* parameter is a SendConnector configuration that specifies the maximum number of messages the server can send per connection. You can set this value to **2** for the highest throughput, run the following cmdlet on the SendConnector used for Hybrid mail flow, by default the connector name would be *"Outbound to Office 365"* :
+
+```powershell
+Set-SendConnector "Outbound to Office 365" -SmtpMaxMessagesPerConnection 2
+```
+
+For more information, see [Set-SendConnector](/powershell/module/exchange/set-sendconnector?view=exchange-ps&preserve-view=true).
