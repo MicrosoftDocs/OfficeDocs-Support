@@ -3864,7 +3864,7 @@
       "redirect_url": "/microsoftteams/troubleshoot/third-party-programs/unable-to-access-gstatic-in-teams",
       "redirect_document_id": true
     },
-        {
+    {
       "source_path": "Teams/teams-rooms-and-devices/collect-device-logs.md",
       "redirect_url": "/microsoftteams/troubleshoot/teams-rooms-and-devices/collect-device-logs",
       "redirect_document_id": true
