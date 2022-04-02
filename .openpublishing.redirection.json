@@ -3878,6 +3878,21 @@
       "source_path": "Teams/Teams-devices-and-rooms/rooms-known-issues.md",
       "redirect_url": "/microsoftteams/troubleshoot/teams-rooms-and-devices/rooms-known-issues",
       "redirect_document_id": true
+    },
+    {
+      "source_path": "Microsoft365/security/antispam/tenant-has-exceeded-threshold.md",
+      "redirect_url": "/exchange/mail-flow-best-practices/non-delivery-reports-in-exchange-online/fix-error-code-5-7-700-through-5-7-750",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Microsoft365/security/antispam/550-dkim-ndr.md",
+      "redirect_url": "/exchange/mail-flow-best-practices/non-delivery-reports-in-exchange-online/fix-error-code-550-5-6-11-in-exchange-online",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Microsoft365/security/antispam/authrequired-ndr.md",
+      "redirect_url": "/exchange/troubleshoot/public-folders/authrequired-ndr",
+      "redirect_document_id": true
     }
   ]
 }
