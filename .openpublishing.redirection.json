@@ -3892,7 +3892,7 @@
     {
       "source_path": "Microsoft365/security/antispam/authrequired-ndr.md",
       "redirect_url": "/exchange/troubleshoot/public-folders/authrequired-ndr",
-      "redirect_document_id": true
+      "redirect_document_id": false
     }
   ]
 }
