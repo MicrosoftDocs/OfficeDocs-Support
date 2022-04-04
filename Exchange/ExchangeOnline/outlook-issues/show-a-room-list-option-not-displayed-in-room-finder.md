@@ -41,7 +41,7 @@ This issue occurs if no room lists were created in the organization.
 
 ## Resolution
 
-To resolve this issue, create a room list and add rooms to it. For more information about how to do this, see [Create and manage room mailboxes](/Exchange/recipients/room-mailboxes).
+To resolve this issue, create a room list and add rooms to it. For more information about how to do this, see [Create and manage room mailboxes](/Exchange/recipients/room-mailboxes?view=exchserver-2019).
 
 ## More information
 
