@@ -3893,6 +3893,11 @@
       "source_path": "Microsoft365/security/antispam/authrequired-ndr.md",
       "redirect_url": "/exchange/troubleshoot/public-folders/authrequired-ndr",
       "redirect_document_id": false
+    },
+    {
+      "source_path": "Microsoft365/admin/active-directory/ad-object-information-not-update-in-address.md",
+      "redirect_url": "/office365/troubleshoot/o365-admin-welcome",
+      "redirect_document_id": false
     }
   ]
 }
