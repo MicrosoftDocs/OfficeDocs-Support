@@ -58,7 +58,9 @@ In this scenario, you should rerun the cmdlet. A different back-end server shoul
 Microsoft may require a Fiddler trace to investigate this issue. If this is required, a support engineer will send a Support Diagnostics Package to securely capture and upload this information. To capture this information in the Fiddler trace, you must add a PowerShell session option with the `ProxyAccessType` parameter set to **IEConfig**. For example:
 
 ```powershell
-Import-PSSession (New-PSSession -ConfigurationName Microsoft.Exchange -ConnectionUri https://mail.contoso.com/powershell -Credential (Get-Credential) -Authentication Basic -AllowRedirection -SessionOption (New-PSSessionOption -ProxyAccessType IEConfig))
+Connect-EXOPSSession -PSSessionOption (New-PSSessionOption -ProxyAccessType IEConfig)
+or
+Connect-ExchangeOnline -PSSessionOption (New-PSSessionOption -ProxyAccessType IEConfig)
 ```
 
 ## More information
