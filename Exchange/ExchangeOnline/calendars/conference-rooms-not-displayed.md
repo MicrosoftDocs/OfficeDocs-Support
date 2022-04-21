@@ -41,7 +41,7 @@ To create a room list and to add existing rooms to the room list, follow these s
 1. Run the following command to create a room list:
 
     ```powershell
-    New-DistributionGroup <RoomListName> -RoomList -Members $Members
+    New-DistributionGroup <RoomListName> -RoomList
     ```
 
 1. Run the following command to add existing rooms to the room list:
