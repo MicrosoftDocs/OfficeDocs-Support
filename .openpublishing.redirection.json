@@ -3806,8 +3806,8 @@
     },
     {
       "source_path": "Teams/known-issues/rooms-known-issues.md",
-      "redirect_url": "/microsoftteams/troubleshoot/Teams-devices-and-rooms/rooms-known-issues",
-      "redirect_document_id": true
+      "redirect_url": "/microsoftteams/troubleshoot/teams-rooms-and-devices/rooms-known-issues",
+      "redirect_document_id": false
     },
     {
       "source_path": "Teams/known-issues/cant-save-profile-picture.md",
@@ -3862,6 +3862,46 @@
     {
       "source_path": "Teams/known-issues/unable-to-access-gstatic-in-teams.md",
       "redirect_url": "/microsoftteams/troubleshoot/third-party-programs/unable-to-access-gstatic-in-teams",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Teams/Teams-devices-and-rooms/collect-device-logs.md",
+      "redirect_url": "/microsoftteams/troubleshoot/teams-rooms-and-devices/collect-device-logs",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Teams/Teams-devices-and-rooms/sip-gateway-issues.md",
+      "redirect_url": "/microsoftteams/troubleshoot/teams-rooms-and-devices/sip-gateway-issues",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Teams/Teams-devices-and-rooms/rooms-known-issues.md",
+      "redirect_url": "/microsoftteams/troubleshoot/teams-rooms-and-devices/rooms-known-issues",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Microsoft365/security/antispam/tenant-has-exceeded-threshold.md",
+      "redirect_url": "/exchange/mail-flow-best-practices/non-delivery-reports-in-exchange-online/fix-error-code-5-7-700-through-5-7-750",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Microsoft365/security/antispam/550-dkim-ndr.md",
+      "redirect_url": "/exchange/mail-flow-best-practices/non-delivery-reports-in-exchange-online/fix-error-code-550-5-6-11-in-exchange-online",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Microsoft365/security/antispam/authrequired-ndr.md",
+      "redirect_url": "/exchange/troubleshoot/public-folders/authrequired-ndr",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Microsoft365/admin/active-directory/ad-object-information-not-update-in-address.md",
+      "redirect_url": "/office365/troubleshoot/o365-admin-welcome",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/word/not-recognize-mispespelled-words-in-word.md",
+      "redirect_url": "/office/troubleshoot/word/not-recognize-misspelled-words-in-word",
       "redirect_document_id": true
     }
   ]
