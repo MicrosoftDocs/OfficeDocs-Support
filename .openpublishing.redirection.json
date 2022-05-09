@@ -3880,6 +3880,11 @@
       "redirect_document_id": true
     },
     {
+      "source_path": "Teams/teams-rooms-and-devices/signed_out_of_teams_android_devices.md",
+      "redirect_url": "/microsoftteams/troubleshoot/teams-rooms-and-devices/signed-out-of-teams-android-devices",
+      "redirect_document_id": true
+    },
+    {
       "source_path": "Microsoft365/security/antispam/tenant-has-exceeded-threshold.md",
       "redirect_url": "/exchange/mail-flow-best-practices/non-delivery-reports-in-exchange-online/fix-error-code-5-7-700-through-5-7-750",
       "redirect_document_id": false
@@ -3893,6 +3898,16 @@
       "source_path": "Microsoft365/security/antispam/authrequired-ndr.md",
       "redirect_url": "/exchange/troubleshoot/public-folders/authrequired-ndr",
       "redirect_document_id": false
+    },
+    {
+      "source_path": "Microsoft365/admin/active-directory/ad-object-information-not-update-in-address.md",
+      "redirect_url": "/office365/troubleshoot/o365-admin-welcome",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/word/not-recognize-mispespelled-words-in-word.md",
+      "redirect_url": "/office/troubleshoot/word/not-recognize-misspelled-words-in-word",
+      "redirect_document_id": true
     }
   ]
 }
