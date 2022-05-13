@@ -1861,11 +1861,6 @@
       "redirect_document_id": true
     },
     {
-      "source_path": "Outlook/OutlookExperts/outlook-experts.md",
-      "redirect_url": "/outlook/troubleshoot/outlook-experts-welcome",
-      "redirect_document_id": true
-    },
-    {
       "source_path": "SharePoint/SharePointExperts/experts.md",
       "redirect_url": "/sharepoint/support/sharepoint-experts-welcome",
       "redirect_document_id": false
@@ -3877,6 +3872,11 @@
     {
       "source_path": "Teams/Teams-devices-and-rooms/rooms-known-issues.md",
       "redirect_url": "/microsoftteams/troubleshoot/teams-rooms-and-devices/rooms-known-issues",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Teams/teams-rooms-and-devices/signed_out_of_teams_android_devices.md",
+      "redirect_url": "/microsoftteams/troubleshoot/teams-rooms-and-devices/signed-out-of-teams-android-devices",
       "redirect_document_id": true
     },
     {
