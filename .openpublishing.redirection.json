@@ -1861,11 +1861,6 @@
       "redirect_document_id": true
     },
     {
-      "source_path": "Outlook/OutlookExperts/outlook-experts.md",
-      "redirect_url": "/outlook/troubleshoot/outlook-experts-welcome",
-      "redirect_document_id": true
-    },
-    {
       "source_path": "SharePoint/SharePointExperts/experts.md",
       "redirect_url": "/sharepoint/support/sharepoint-experts-welcome",
       "redirect_document_id": false
