@@ -1903,7 +1903,7 @@
     {
       "source_path": "Teams/teams.md",
       "redirect_url": "/MicrosoftTeams/troubleshoot/teams-welcome",
-      "redirect_document_id": true
+      "redirect_document_id": false
     },
     {
       "source_path": "SharePoint/OneDrive/onedrive.md",
