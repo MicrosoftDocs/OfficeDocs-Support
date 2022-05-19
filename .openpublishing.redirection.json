@@ -3907,7 +3907,7 @@
     {
       "source_path": "Exchange/ExchangeOnline/outlook-on-the-web-issues/send-updates-options-for-attendees-not-displayed.md",
       "redirect_url": "/outlook/troubleshoot/calendaring/send-updates-prompt-not-displayed",
-      "redirect_document_id": true
+      "redirect_document_id": false
     }
   ]
 }
