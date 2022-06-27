@@ -1042,7 +1042,7 @@
     },
     {
       "source_path": "Microsoft365/admin/updates/switch-channel-for-office-365.md",
-      "redirect_url": "http://docs.microsoft.com/deployoffice/change-update-channels",
+      "redirect_url": "/deployoffice/change-update-channels",
       "redirect_document_id": false
     },
     {
@@ -3422,7 +3422,7 @@
     },
     {
       "source_path": "Office/Client/word/word-could-not-create-the-work-file.md",
-      "redirect_url": "https://docs.microsoft.com/office/troubleshoot/office-suite-issues/no-file-previews-file-explorer-switching-to-32-bit",
+      "redirect_url": "/office/troubleshoot/office-suite-issues/no-file-previews-file-explorer-switching-to-32-bit",
       "redirect_document_id": false
     },
     {
