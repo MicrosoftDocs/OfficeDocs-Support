@@ -1861,11 +1861,6 @@
       "redirect_document_id": true
     },
     {
-      "source_path": "Outlook/OutlookExperts/outlook-experts.md",
-      "redirect_url": "/outlook/troubleshoot/outlook-experts-welcome",
-      "redirect_document_id": true
-    },
-    {
       "source_path": "SharePoint/SharePointExperts/experts.md",
       "redirect_url": "/sharepoint/support/sharepoint-experts-welcome",
       "redirect_document_id": false
@@ -1908,7 +1903,7 @@
     {
       "source_path": "Teams/teams.md",
       "redirect_url": "/MicrosoftTeams/troubleshoot/teams-welcome",
-      "redirect_document_id": true
+      "redirect_document_id": false
     },
     {
       "source_path": "SharePoint/OneDrive/onedrive.md",
@@ -1992,8 +1987,8 @@
     },
     {
       "source_path": "Teams/teams-rooms/known-issues.md",
-      "redirect_url": "/microsoftteams/troubleshoot/known-issues/rooms-known-issues",
-      "redirect_document_id": true
+      "redirect_url": "/microsoftteams/troubleshoot/Teams-devices-and-rooms/rooms-known-issues",
+      "redirect_document_id": false
     },
     {
       "source_path": "SharePoint/SharePointOnline/administration/access-denied-sharepoint-error.md",
@@ -2372,7 +2367,7 @@
     },
     {
       "source_path": "Office/Client/powerpoint/embedded-video-not-play.md",
-      "redirect_url": "https://powerpoint.uservoice.com/forums/288925-powerpoint-for-mac/suggestions/36088309-play-embedded-videos-on-slide-when-exported-to-vid",
+      "redirect_url": "https://support.microsoft.com/office/e0a94444-8ea7-4a00-974b-6ad0d6edc4b1",
       "redirect_document_id": false
     },
     {
@@ -3376,14 +3371,19 @@
       "redirect_document_id": true
     },
     {
-      "source_path": "Exchange/ExchangeOnline/antispam/user-impersonation-messages-are-classified-as-phishing.md",
-      "redirect_url": "/exchange/troubleshoot/antispam-and-protection/user-impersonation-messages-are-classified-as-phishing",
-      "redirect_document_id": true
-    },
-    {
       "source_path": "Exchange/ExchangeOnline/antispam/cautions-against-bypassing-spam-filters.md",
       "redirect_url": "/exchange/troubleshoot/antispam-and-protection/cautions-against-bypassing-spam-filters",
       "redirect_document_id": true
+    },    
+    {
+      "source_path": "Exchange/ExchangeOnline/antispam-and-protection/how-to-reduce-malware-threats-via-file-attachment-blocking.md",
+      "redirect_url": "/microsoft-365/security/office-365-security/configure-anti-malware-policies?view=o365-worldwide",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/antispam-and-protection/domains-on-outlook-safe-senders-list-not-recognized.md",
+      "redirect_url": "microsoft-365/security/office-365-security/create-safe-sender-lists-in-office-365?view=o365-worldwide",
+      "redirect_document_id": false
     },
     {
       "source_path": "Exchange/ExchangeHybrid/hybrid-configuration-wizard-errors/confirm-hybrid-certificate-has-iis-and-smtp-services-assigned-to-it-error.md",
@@ -3578,6 +3578,345 @@
     {
       "source_path": "Exchange/ExchangeHybrid/administration/invalid-product-key-error-when-activating-hybrid-edition-of-exchange-2013.md",
       "redirect_url": "/exchange/troubleshoot/exchange-hybrid-welcome",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Teams/known-issues/modern-authentication-failure-teams.md",
+      "redirect_url": "/microsoftteams/troubleshoot/authentication/modern-authentication-failure-teams",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Teams/known-issues/teams-stops-working-when-joining-from-edge.md",
+      "redirect_url": "/microsoftteams/troubleshoot/authentication/teams-stops-working-when-joining-from-edge",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Teams/known-issues/teams-defaults-to-domain-joined-account.md",
+      "redirect_url": "/microsoftteams/troubleshoot/authentication/teams-defaults-to-domain-joined-account",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Teams/known-issues/channel-cannot-be-recreated-after-deletion.md",
+      "redirect_url": "/microsoftteams/troubleshoot/channels/channel-cannot-be-recreated-after-deletion",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Teams/known-issues/notifications-cannot-manage.md",
+      "redirect_url": "/microsoftteams/troubleshoot/channels/notifications-cannot-manage",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Teams/known-issues/do-not-have-access-to-this-file-teams.md",
+      "redirect_url": "/microsoftteams/troubleshoot/files/do-not-have-access-to-this-file-teams",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Teams/known-issues/download-documents-open-in-protected-view.md",
+      "redirect_url": "/microsoftteams/troubleshoot/files/download-documents-open-in-protected-view",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Teams/known-issues/cannot-send-poll.md",
+      "redirect_url": "/microsoftteams/troubleshoot/forms/cannot-send-poll",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Teams/known-issues/cant-see-auto-favorited-channels-in-mobile.md",
+      "redirect_url": "/microsoftteams/troubleshoot/mobile/cant-see-auto-favorited-channels-in-mobile",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Teams/known-issues/chrome-80-users-unable-to-sign-in-on-teams.md",
+      "redirect_url": "/microsoftteams/troubleshoot/mobile/chrome-80-users-unable-to-sign-in-on-teams",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Teams/known-issues/problems-using-teams-on-ios-13-beta.md",
+      "redirect_url": "/microsoftteams/troubleshoot/mobile/problems-using-teams-on-ios-13-beta",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Teams/known-issues/teams-users-cant-switch-accounts-intune-mobile.md",
+      "redirect_url": "/microsoftteams/troubleshoot/mobile/teams-users-cant-switch-accounts-intune-mobile",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Teams/known-issues/websites-with-conditional-access-dont-display.md",
+      "redirect_url": "/microsoftteams/troubleshoot/mobile/websites-with-conditional-access-dont-display",
+      "redirect_document_id": true
+    },{
+      "source_path": "Teams/known-issues/deleting-team-also-deletes-group.md",
+      "redirect_url": "/microsoftteams/troubleshoot/provisioning/deleting-team-also-deletes-group",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Teams/known-issues/users-cant-create-team.md",
+      "redirect_url": "/microsoftteams/troubleshoot/provisioning/users-cant-create-team",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Teams/known-issues/wrong-teams-user-listed-as-site-creator.md",
+      "redirect_url": "/microsoftteams/troubleshoot/provisioning/wrong-teams-user-listed-as-site-creator",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Teams/known-issues/cannot-view-website-teams-web-client.md",
+      "redirect_url": "/microsoftteams/troubleshoot/sites/cannot-view-website-teams-web-client",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Teams/known-issues/file-download-failure-teams.md",
+      "redirect_url": "/microsoftteams/troubleshoot/tabs/file-download-failure-teams",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Teams/known-issues/removed-user-appears-as-unknown.md",
+      "redirect_url": "/microsoftteams/troubleshoot/tabs/removed-user-appears-as-unknown",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Teams/known-issues/tabs-dont-work-after-enabling-conditional-access.md",
+      "redirect_url": "/microsoftteams/troubleshoot/tabs/tabs-dont-work-after-enabling-conditional-access",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Teams/known-issues/task-buckets-do-not-appear-in-planner.md",
+      "redirect_url": "/microsoftteams/troubleshoot/tabs/task-buckets-do-not-appear-in-planner",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Teams/known-issues/teams-owner-cannot-create-planner-tab.md",
+      "redirect_url": "/microsoftteams/troubleshoot/tabs/teams-owner-cannot-create-planner-tab",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Teams/known-issues/unable-to-rename-legacy-onenote-tabs.md",
+      "redirect_url": "/microsoftteams/troubleshoot/tabs/unable-to-rename-legacy-onenote-tabs",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Teams/known-issues/website-tabs-cause-confusion-teams.md",
+      "redirect_url": "/microsoftteams/troubleshoot/tabs/website-tabs-cause-confusion-teams",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Teams/known-issues/linux-known-issues.md",
+      "redirect_url": "/microsoftteams/troubleshoot/teams-on-linux/linux-known-issues",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Teams/known-issues/couldnt-add-member-error.md",
+      "redirect_url": "/microsoftteams/troubleshoot/teams-administration/couldnt-add-member-error",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Teams/known-issues/eaf-in-emet-ids-chrome-optimizations-as-threats.md",
+      "redirect_url": "/microsoftteams/troubleshoot/teams-administration/eaf-in-emet-ids-chrome-optimizations-as-threats",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Teams/known-issues/group-mailboxes-will-not-enable-archive.md",
+      "redirect_url": "/microsoftteams/troubleshoot/teams-administration/group-mailboxes-will-not-enable-archive",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Teams/known-issues/public-team-list-doesnt-display-all.md",
+      "redirect_url": "/microsoftteams/troubleshoot/teams-administration/public-team-list-doesnt-display-all",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Teams/known-issues/welcome-email-not-received-in-teams.md",
+      "redirect_url": "/microsoftteams/troubleshoot/teams-administration/welcome-email-not-received-in-teams",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Teams/known-issues/cvi-info-does-not-populate-in-meet-now.md",
+      "redirect_url": "/microsoftteams/troubleshoot/teams-conferencing/cvi-info-does-not-populate-in-meet-now",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Teams/known-issues/exchange-users-cant-access-meetings.md",
+      "redirect_url": "/microsoftteams/troubleshoot/teams-conferencing/exchange-users-cant-access-meetings",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Teams/known-issues/following-application-instance-not-present-error.md",
+      "redirect_url": "/microsoftteams/troubleshoot/teams-conferencing/following-application-instance-not-present-error",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Teams/known-issues/meeting-requires-skype-instead-of-teams.md",
+      "redirect_url": "/microsoftteams/troubleshoot/teams-conferencing/meeting-requires-skype-instead-of-teams",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Teams/known-issues/need-a-license-error-when-assigning-a-number.md",
+      "redirect_url": "/microsoftteams/troubleshoot/teams-conferencing/need-a-license-error-when-assigning-a-number",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Teams/known-issues/no-audio-when-sharing-content-in-meeting.md",
+      "redirect_url": "/microsoftteams/troubleshoot/teams-conferencing/no-audio-when-sharing-content-in-meeting",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Teams/known-issues/organizer-cant-start-teams-meeting.md",
+      "redirect_url": "/microsoftteams/troubleshoot/teams-conferencing/organizer-cant-start-teams-meeting",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Teams/known-issues/phone-number-blocked-in-teams.md",
+      "redirect_url": "/microsoftteams/troubleshoot/teams-conferencing/phone-number-blocked-in-teams",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Teams/known-issues/pstn-callers-shown-with-same-call-in-number.md",
+      "redirect_url": "/microsoftteams/troubleshoot/teams-conferencing/pstn-callers-shown-with-same-call-in-number",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Teams/known-issues/static-conference-id-not-supported.md",
+      "redirect_url": "/microsoftteams/troubleshoot/teams-conferencing/static-conference-id-not-supported",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Teams/known-issues/teams-call-requires-five-or-more-digits.md",
+      "redirect_url": "/microsoftteams/troubleshoot/teams-conferencing/teams-call-requires-five-or-more-digits",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Teams/known-issues/teams-meetings-capped-at-250.md",
+      "redirect_url": "/microsoftteams/troubleshoot/teams-conferencing/teams-meetings-capped-at-250",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Teams/known-issues/teams-meetings-not-available.md",
+      "redirect_url": "/microsoftteams/troubleshoot/teams-conferencing/teams-meetings-not-available",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Teams/known-issues/teams-member-max-5000.md",
+      "redirect_url": "/microsoftteams/troubleshoot/teams-conferencing/teams-member-max-5000",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Teams/teams-conferencing/teams-member-max-5000.md",
+      "redirect_url": "/microsoftteams/troubleshoot/teams-welcome",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Teams/known-issues/teams-slow-video-meetings-laptops-4k.md",
+      "redirect_url": "/microsoftteams/troubleshoot/teams-conferencing/teams-slow-video-meetings-laptops-4k",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Teams/known-issues/rooms-known-issues.md",
+      "redirect_url": "/microsoftteams/troubleshoot/teams-rooms-and-devices/rooms-known-issues",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Teams/known-issues/cant-save-profile-picture.md",
+      "redirect_url": "/microsoftteams/troubleshoot/teams-im-presence/cant-save-profile-picture",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Teams/known-issues/deleted-messages-send-notifications-with-link.md",
+      "redirect_url": "/microsoftteams/troubleshoot/teams-im-presence/deleted-messages-send-notifications-with-link",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Teams/known-issues/cant-upload-download-onenote-file.md",
+      "redirect_url": "/microsoftteams/troubleshoot/teams-onenote-integration/cant-upload-download-onenote-file",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Teams/known-issues/symlink-or-drivemap-causes-white-screen.md",
+      "redirect_url": "/microsoftteams/troubleshoot/teams-sign-in/symlink-or-drivemap-causes-white-screen",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Teams/known-issues/sign-in-error-after-password-change.md",
+      "redirect_url": "/microsoftteams/troubleshoot/teams-sign-in/sign-in-error-after-password-change",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Teams/known-issues/teams-doesnt-automatically-update.md",
+      "redirect_url": "/microsoftteams/troubleshoot/teams-sign-in/teams-doesnt-automatically-update",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Teams/known-issues/teams-for-surface-hub-wont-start-from-store.md",
+      "redirect_url": "/microsoftteams/troubleshoot/teams-sign-in/teams-for-surface-hub-wont-start-from-store",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Teams/known-issues/dell-encryption-prevents-teams-from-starting.md",
+      "redirect_url": "/microsoftteams/troubleshoot/third-party-programs/dell-encryption-prevents-teams-from-starting",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Teams/known-issues/safari-intelligent-tracking-prevention-problems.md",
+      "redirect_url": "/microsoftteams/troubleshoot/third-party-programs/safari-intelligent-tracking-prevention-problems",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Teams/known-issues/symantec-dlp-interferes-with-teams.md",
+      "redirect_url": "/microsoftteams/troubleshoot/third-party-programs/symantec-dlp-interferes-with-teams",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Teams/known-issues/unable-to-access-gstatic-in-teams.md",
+      "redirect_url": "/microsoftteams/troubleshoot/third-party-programs/unable-to-access-gstatic-in-teams",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Teams/Teams-devices-and-rooms/collect-device-logs.md",
+      "redirect_url": "/microsoftteams/troubleshoot/teams-rooms-and-devices/collect-device-logs",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Teams/Teams-devices-and-rooms/sip-gateway-issues.md",
+      "redirect_url": "/microsoftteams/troubleshoot/teams-rooms-and-devices/sip-gateway-issues",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Teams/Teams-devices-and-rooms/rooms-known-issues.md",
+      "redirect_url": "/microsoftteams/troubleshoot/teams-rooms-and-devices/rooms-known-issues",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Teams/teams-rooms-and-devices/signed_out_of_teams_android_devices.md",
+      "redirect_url": "/microsoftteams/troubleshoot/teams-rooms-and-devices/signed-out-of-teams-android-devices",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Microsoft365/security/antispam/tenant-has-exceeded-threshold.md",
+      "redirect_url": "/exchange/mail-flow-best-practices/non-delivery-reports-in-exchange-online/fix-error-code-5-7-700-through-5-7-750",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Microsoft365/security/antispam/550-dkim-ndr.md",
+      "redirect_url": "/exchange/mail-flow-best-practices/non-delivery-reports-in-exchange-online/fix-error-code-550-5-6-11-in-exchange-online",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Microsoft365/security/antispam/authrequired-ndr.md",
+      "redirect_url": "/exchange/troubleshoot/public-folders/authrequired-ndr",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Microsoft365/admin/active-directory/ad-object-information-not-update-in-address.md",
+      "redirect_url": "/office365/troubleshoot/o365-admin-welcome",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/word/not-recognize-mispespelled-words-in-word.md",
+      "redirect_url": "/office/troubleshoot/word/not-recognize-misspelled-words-in-word",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/outlook-on-the-web-issues/send-updates-options-for-attendees-not-displayed.md",
+      "redirect_url": "/outlook/troubleshoot/calendaring/send-updates-prompt-not-displayed",
       "redirect_document_id": false
     }
   ]
