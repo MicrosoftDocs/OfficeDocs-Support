@@ -1861,11 +1861,6 @@
       "redirect_document_id": true
     },
     {
-      "source_path": "Outlook/OutlookExperts/outlook-experts.md",
-      "redirect_url": "/outlook/troubleshoot/outlook-experts-welcome",
-      "redirect_document_id": true
-    },
-    {
       "source_path": "SharePoint/SharePointExperts/experts.md",
       "redirect_url": "/sharepoint/support/sharepoint-experts-welcome",
       "redirect_document_id": false
@@ -1908,7 +1903,7 @@
     {
       "source_path": "Teams/teams.md",
       "redirect_url": "/MicrosoftTeams/troubleshoot/teams-welcome",
-      "redirect_document_id": true
+      "redirect_document_id": false
     },
     {
       "source_path": "SharePoint/OneDrive/onedrive.md",
@@ -3376,14 +3371,19 @@
       "redirect_document_id": true
     },
     {
-      "source_path": "Exchange/ExchangeOnline/antispam/user-impersonation-messages-are-classified-as-phishing.md",
-      "redirect_url": "/exchange/troubleshoot/antispam-and-protection/user-impersonation-messages-are-classified-as-phishing",
-      "redirect_document_id": true
-    },
-    {
       "source_path": "Exchange/ExchangeOnline/antispam/cautions-against-bypassing-spam-filters.md",
       "redirect_url": "/exchange/troubleshoot/antispam-and-protection/cautions-against-bypassing-spam-filters",
       "redirect_document_id": true
+    },    
+    {
+      "source_path": "Exchange/ExchangeOnline/antispam-and-protection/how-to-reduce-malware-threats-via-file-attachment-blocking.md",
+      "redirect_url": "/microsoft-365/security/office-365-security/configure-anti-malware-policies?view=o365-worldwide",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/antispam-and-protection/domains-on-outlook-safe-senders-list-not-recognized.md",
+      "redirect_url": "microsoft-365/security/office-365-security/create-safe-sender-lists-in-office-365?view=o365-worldwide",
+      "redirect_document_id": false
     },
     {
       "source_path": "Exchange/ExchangeHybrid/hybrid-configuration-wizard-errors/confirm-hybrid-certificate-has-iis-and-smtp-services-assigned-to-it-error.md",
@@ -3800,6 +3800,11 @@
       "redirect_document_id": true
     },
     {
+      "source_path": "Teams/teams-conferencing/teams-member-max-5000.md",
+      "redirect_url": "/microsoftteams/troubleshoot/teams-welcome",
+      "redirect_document_id": false
+    },
+    {
       "source_path": "Teams/known-issues/teams-slow-video-meetings-laptops-4k.md",
       "redirect_url": "/microsoftteams/troubleshoot/teams-conferencing/teams-slow-video-meetings-laptops-4k",
       "redirect_document_id": true
@@ -3908,6 +3913,11 @@
       "source_path": "Office/Client/word/not-recognize-mispespelled-words-in-word.md",
       "redirect_url": "/office/troubleshoot/word/not-recognize-misspelled-words-in-word",
       "redirect_document_id": true
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/outlook-on-the-web-issues/send-updates-options-for-attendees-not-displayed.md",
+      "redirect_url": "/outlook/troubleshoot/calendaring/send-updates-prompt-not-displayed",
+      "redirect_document_id": false
     }
   ]
 }
