@@ -40,7 +40,9 @@ If you then allow the synchronization process to fully synchronize the folder, t
 
 ## Cause
 
-The value shown in the status bar has an upper limit of 3.99 GB, so this problem occurs when the size of the folder being synchronized is above 4 GB.
+The visuals in the status bar are poorly implemented.
+
+The network protocol uses 64-bit values (cf. [[MS-OXCFXICS §2.2.2.7]](/openspecs/exchange_server_protocols/ms-oxcfxics/322aa3ca-8ef2-4c0c-89c8-3fbf8ea95499)) and is therefore capable of reporting sizes up to 16 exabytes, but the size counter in Outlook is capped at a maximum starting value of 4 gigabytes. As it counts down, the counter stops at 1 byte, even if more data subsequently arrives during the synchronization operation.
 
 ## Resolution
 
@@ -48,9 +50,9 @@ To resolve this problem you have several options.
 
 1. Do nothing
 
-    Since this problem only occurs during the initial synchronization of the `.ost` file, if you wait for the synchronization to fully finish, the problem should eventually go away.
+    The problem is purely a cosmetic one. The data transfer continues even after the progress bar stopped updating.
 
-    If you elect to do nothing, the time to fully synchronize a large folder may take longer than anticipated. If the time to synchronize the large folder is taking longer than desired or if it never fully synchronizes, consider using one of the following two methods.
+    If you elect to do nothing, the time to fully synchronize a large folder may take longer than the visual representation suggests. If the time to synchronize the large folder is taking longer than desired or if it never fully synchronizes, consider using one of the following two methods.
 
 2. Reduce the size of the folder contents
 
