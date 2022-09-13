@@ -41,10 +41,10 @@ This issue occurs if you're not a manager of the group. In this situation, you'r
 
 2. Make the change that you want to the distribution group by using the appropriate Windows PowerShell cmdlet.
 
-   For example, to remove the distribution group, use the `Remove-DistributionGroup` cmdlet together with the `BypassSecurityGroupManagerCheck` parameter. Here's an example:
+   For example, to remove the distribution group, use the `Remove-DistributionGroupMember` cmdlet together with the `BypassSecurityGroupManagerCheck` parameter. Here's an example:
 
    ```powershell
-   Remove-DistributionGroup <NameOfGroup> -BypassSecurityGroupManagerCheck
+   Remove-DistributionGroupMember <NameOfGroup> -BypassSecurityGroupManagerCheck
    ```
 
    > [!NOTE]
