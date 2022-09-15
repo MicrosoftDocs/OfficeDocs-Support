@@ -276,6 +276,11 @@
       "redirect_document_id": false
     },
     {
+      "source_path": "Teams/channels/external-memeber-can-preview-shared-channel-messages.md",
+      "redirect_url": "/MicrosoftTeams/troubleshoot/teams-welcome",
+      "redirect_document_id": false
+    },
+    {
       "source_path": "SharePoint/SharePointOnline/sites/site-collection-uses-enterprise-wiki-template.md",
       "redirect_url": "/sharepoint/support/online",
       "redirect_document_id": false
