@@ -3915,6 +3915,11 @@
       "redirect_document_id": false
     },
     {
+      "source_path": "Microsoft365/enterprise/authentication/unable-sign-in-m365-desktop-apps.md",
+      "redirect_url": "/microsoft-365/troubleshoot/o365-enterprise-welcome",
+      "redirect_document_id": false
+    },
+    {
       "source_path": "Office/Client/word/not-recognize-mispespelled-words-in-word.md",
       "redirect_url": "/office/troubleshoot/word/not-recognize-misspelled-words-in-word",
       "redirect_document_id": true
