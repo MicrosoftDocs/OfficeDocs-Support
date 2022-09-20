@@ -467,6 +467,11 @@
     },
     {
       "source_path": "Microsoft365/admin/administration/cannot-find-any-clipart.md",
+      "redirect_url": "/microsoft-365/troubleshoot/miscellaneous/cannot-find-any-clipart",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Microsoft365/enterprise/miscellaneous/cannot-find-any-clipart.md",
       "redirect_url": "/microsoft-365/troubleshoot/miscellaneous/cannot-find-any-clip art",
       "redirect_document_id": true
     },
