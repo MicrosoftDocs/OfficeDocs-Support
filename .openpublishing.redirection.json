@@ -1776,6 +1776,11 @@
       "redirect_document_id": true
     },
     {
+      "source_path": "Teams/teams-rooms-and-devices/sip-gateway-issues.md",
+      "redirect_url": "/microsoftteams/troubleshoot/phone-system/sip-gateway-issues",
+      "redirect_document_id": true
+    },
+    {
       "source_path": "SharePoint/SharePointOnline/administration/tls-1.0-and-1.1-deprecation-for-office-365.md",
       "redirect_url": "/microsoft-365/compliance/tls-1.0-and-1.1-deprecation-for-office-365",
       "redirect_document_id": false
