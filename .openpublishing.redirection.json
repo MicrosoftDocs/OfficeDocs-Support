@@ -1081,6 +1081,26 @@
       "redirect_document_id": true
     },
     {
+      "source_path": "SharePoint/SharePointOnline/sharing-and-permissions/sharepoint-online-inaccessible.md",
+      "redirect_url": "/sharepoint/troubleshoot/administration/sharepoint-online-inaccessible",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/administration/troubleshoot-mapped-network-drives.md",
+      "redirect_url": "/sharepoint/troubleshoot/lists-and-libraries/troubleshoot-mapped-network-drives",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/sites/classic-site-collection-search-usage-reports.md",
+      "redirect_url": "/sharepoint/troubleshoot/search/classic-site-collection-search-usage-reports",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/administration/sharing-options-grayed-out-when-sharing-from-sharepoint-online-or-onedrive.md",
+      "redirect_url": "/sharepoint/troubleshoot/sharing-and-permissions/sharing-options-grayed-out-when-sharing-from-sharepoint-online-or-onedrive",
+      "redirect_document_id": true
+    },
+    {
       "source_path": "Outlook/Client/diagnostics/install-sara-from-network-share.md",
       "redirect_url": "/microsoft-365/troubleshoot/installation/install-sara-from-network-share",
       "redirect_document_id": false
