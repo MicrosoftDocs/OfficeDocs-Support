@@ -120,6 +120,22 @@ For more information, see [Teams preview won't open in Safari](https://support.m
     - `https://*.sfbassets.com`
     - `https://*.skypeforbusiness.com`
 
+## Extra steps for protected environments
+
+Your organization might use [Defender for Cloud Apps](https://aka.ms/defender-for-cloud-apps) and employ its Conditional Access App Control to control the access to the cloud apps.
+
+Examine the list of safe suffixes on [Defender Cloud Apps troubleshooting page](/defender-cloud-apps/troubleshooting-proxy-url) and check if your Teams URL ends with one of them.
+
+If so, you should add your modified Teams site address to your browser's trusted list.
+
+Let's say your Teams URL is `https://teams.microsoft.com.mcas.ms/`. You must transform it according to your browser's pattern format and add to trusted list as it is described above.
+
+So, depending on you browser, the actual site address you should include will look like:
+
+- Microsoft Edge or Google Chrome: `[*.]teams.microsoft.com.mcas.ms`
+- Mozilla Firefox: `https://teams.microsoft.com.mcas.ms`
+- Internet Explorer: `https://*.teams.microsoft.com.mcas.ms`
+
 [!INCLUDE [Third-party information disclaimer](../../includes/third-party-information-disclaimer.md)]
 
 Still need help? Go to [Microsoft Community](https://answers.microsoft.com/).
