@@ -3288,7 +3288,7 @@
     {
       "source_path": "Exchange/ExchangeOnline/add-users/proxy-address-being-used.md",
       "redirect_url": "/exchange/troubleshoot/email-alias/proxy-address-being-used",
-      "redirect_document_id": true
+      "redirect_document_id": false
     },
     {
       "source_path": "Exchange/ExchangeOnline/administration/proxy-address-being-used.md",
