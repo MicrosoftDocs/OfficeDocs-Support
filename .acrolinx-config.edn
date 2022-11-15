@@ -39,8 +39,7 @@ Select the score links for each article to review the Acrolinx feedback on gramm
 "
 
  :template-change
- "
-| ${s/status} ${s/file} | [${acrolinx/qualityscore}](${acrolinx/scorecard}) | ${acrolinx/scores/words_and_phrases}  | ${acrolinx/scores/correctness}  | ${acrolinx/scores/clarity}  | ${acrolinx/scores/inclusive}  |
+ "| ${s/status} ${s/file} | [${acrolinx/qualityscore}](${acrolinx/scorecard}) | ${acrolinx/scores/words_and_phrases}  | ${acrolinx/scores/correctness}  | ${acrolinx/scores/clarity}  |
 "
  
  :template-footer
