@@ -19,11 +19,10 @@
  :guidance-profile "d2b6c2c8-00ee-47f1-8d10-b280cc3434c1" ;; Profile ID for "M365-specific"
  
  :template-header
-
  "
-## Acrolinx Scorecards
+## Acrolinx Scorecard
  
-**The minimum Acrolinx topic score of 80 is required for all MAGIC content merged to the default branch.**
+**A minimum Acrolinx score of 80 is required for all MAGIC content merged to the default branch.**
 
 If you need a scoring exception for content in this PR, add the *Sign off* and the *Acrolinx exception* labels to the PR. The PubOps Team will review the exception request and may take one or more of the following actions:
 
@@ -33,14 +32,15 @@ If you need a scoring exception for content in this PR, add the *Sign off* and t
 
 For more information about the exception criteria and exception process, see [Minimum Acrolinx topic scores for publishing](https://review.docs.microsoft.com/office-authoring-guide/acrolinx-min-score).
  
-Click the scorecard links for each article to review the Acrolinx feedback on grammar, spelling, punctuation, writing style, and terminology:
+Select the score links for each article to review the Acrolinx feedback on grammar, spelling, punctuation, writing style, and terminology:
 
-| Article | **Total score**<br />**Required: 80** | Word and phrases<br />(Brand, terms)<br />Preferred: 100 | Correctness<br />(Spelling, grammar)<br />Preferred: 100 | Clarity<br />(Readability)<br />Preferred: 80 | Inclusive language<br />(+ accesibility)<br />Preferred: 100 |
-| ------- | ----- | ------ | --------- | --------- |
+| Article | **Total score**<br />**Required: 80** | Word and phrases<br />(Brand, terms)<br />Preferred: 100 | Correctness<br />(Spelling, grammar)<br />Preferred: 100 | Clarity<br />(Readability)<br />Preferred: 80 |
+|---------|:------------------------------------:|:--------------------------------------------------------:|:--------------------------------------------------------:|:---------------------------------------------:|
 "
 
  :template-change
- "| ${s/status} ${s/file} | [${acrolinx/qualityscore}](${acrolinx/scorecard}) | ${acrolinx/scores/words_and_phrases}  | ${acrolinx/scores/correctness}  | ${acrolinx/scores/clarity}  | ${acrolinx/scores/inclusive}  |
+ "
+| ${s/status} ${s/file} | [${acrolinx/qualityscore}](${acrolinx/scorecard}) | ${acrolinx/scores/words_and_phrases}  | ${acrolinx/scores/correctness}  | ${acrolinx/scores/clarity}  | ${acrolinx/scores/inclusive}  |
 "
  
  :template-footer
