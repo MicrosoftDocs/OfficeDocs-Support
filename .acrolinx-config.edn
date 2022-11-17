@@ -1,5 +1,5 @@
 {:allowed-branchname-matches ["main"]
- :allowed-filename-matches ["Exchange/" "Microsoft365/" "Office/" "Outlook/" "SharePoint/" "SkypeforBusiness/" "Teams/"]
+ :allowed-filename-matches ["Exchange/" "Microsoft365/" "Office/" "Outlook/" "SharePoint/" "SkypeforBusiness/" "Teams/" "Viva/"]
  
   :targets 
    {
