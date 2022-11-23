@@ -276,6 +276,11 @@
       "redirect_document_id": false
     },
     {
+      "source_path": "Teams/channels/external-memeber-can-preview-shared-channel-messages.md",
+      "redirect_url": "/MicrosoftTeams/troubleshoot/teams-welcome",
+      "redirect_document_id": false
+    },
+    {
       "source_path": "SharePoint/SharePointOnline/sites/site-collection-uses-enterprise-wiki-template.md",
       "redirect_url": "/sharepoint/support/online",
       "redirect_document_id": false
@@ -463,6 +468,11 @@
     {
       "source_path": "Microsoft365/admin/administration/cannot-find-any-clipart.md",
       "redirect_url": "/microsoft-365/troubleshoot/miscellaneous/cannot-find-any-clipart",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Microsoft365/enterprise/miscellaneous/cannot-find-any-clipart.md",
+      "redirect_url": "/microsoft-365/troubleshoot/miscellaneous/cannot-find-any-clip art",
       "redirect_document_id": true
     },
     {
@@ -1068,6 +1078,26 @@
     {
       "source_path": "SharePoint/online-admin/error-when-external-user-accepts-an-invitation-by-using-another-account.md",
       "redirect_url": "/sharepoint/troubleshoot/sharing-and-permissions/error-when-external-user-accepts-an-invitation-by-using-another-account",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/sharing-and-permissions/sharepoint-online-inaccessible.md",
+      "redirect_url": "/sharepoint/troubleshoot/administration/sharepoint-online-inaccessible",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/administration/troubleshoot-mapped-network-drives.md",
+      "redirect_url": "/sharepoint/troubleshoot/lists-and-libraries/troubleshoot-mapped-network-drives",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/sites/classic-site-collection-search-usage-reports.md",
+      "redirect_url": "/sharepoint/troubleshoot/search/classic-site-collection-search-usage-reports",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/administration/sharing-options-grayed-out-when-sharing-from-sharepoint-online-or-onedrive.md",
+      "redirect_url": "/sharepoint/troubleshoot/sharing-and-permissions/sharing-options-grayed-out-when-sharing-from-sharepoint-online-or-onedrive",
       "redirect_document_id": true
     },
     {
@@ -1763,6 +1793,11 @@
     {
       "source_path": "Teams/teams-conferencing/ev-user-have-no-dial-pad.md",
       "redirect_url": "/microsoftteams/troubleshoot/teams-conferencing/no-dial-pad",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Teams/teams-rooms-and-devices/sip-gateway-issues.md",
+      "redirect_url": "/microsoftteams/troubleshoot/phone-system/sip-gateway-issues",
       "redirect_document_id": true
     },
     {
@@ -3252,7 +3287,12 @@
     },
     {
       "source_path": "Exchange/ExchangeOnline/add-users/proxy-address-being-used.md",
-      "redirect_url": "/exchange/troubleshoot/administration/proxy-address-being-used",
+      "redirect_url": "/exchange/troubleshoot/email-alias/proxy-address-being-used",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/administration/proxy-address-being-used.md",
+      "redirect_url": "/exchange/troubleshoot/email-alias/proxy-address-being-used",
       "redirect_document_id": true
     },
     {
@@ -3910,6 +3950,11 @@
       "redirect_document_id": false
     },
     {
+      "source_path": "Microsoft365/enterprise/authentication/unable-sign-in-m365-desktop-apps.md",
+      "redirect_url": "/microsoft-365/troubleshoot/o365-enterprise-welcome",
+      "redirect_document_id": false
+    },
+    {
       "source_path": "Office/Client/word/not-recognize-mispespelled-words-in-word.md",
       "redirect_url": "/office/troubleshoot/word/not-recognize-misspelled-words-in-word",
       "redirect_document_id": true
@@ -3917,6 +3962,11 @@
     {
       "source_path": "Exchange/ExchangeOnline/outlook-on-the-web-issues/send-updates-options-for-attendees-not-displayed.md",
       "redirect_url": "/outlook/troubleshoot/calendaring/send-updates-prompt-not-displayed",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/OneDrive/administration/error-0x8004de40-in-onedrive.md",
+      "redirect_url": "/sharepoint/troubleshoot/sync/error-0x8004de40-in-onedrive",
       "redirect_document_id": false
     }
   ]
