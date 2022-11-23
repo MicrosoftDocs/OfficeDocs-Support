@@ -8,12 +8,12 @@ brand: m365
 metadata:
   title: Microsoft 365 troubleshooting for admins and IT professionals # Required; page title displayed in search results. Include the brand. < 60 chars.
   description: Microsoft 365 provides online services and server products for your business with solutions for small to enterprise scale. This page provides guidance for troubleshooting issues with these products and services. # < 160 chars
-  ms.service: o365-administration #Required; service per approved list. service slug assigned to your service by ACOM.
+  ms.service: viva
   ms.topic: hub-page # Required
   audience: ITPro
   author: helenclu #Required; your GitHub user alias, with correct capitalization.
   ms.author: luche #Required; microsoft alias of author; optional team alias.
-  ms.date: 07/03/2019 #Required; mm/dd/yyyy format.
+  ms.date: 11/10/2022 #Required; mm/dd/yyyy format.
 
 # productDirectory section (optional)
 productDirectory:
@@ -62,11 +62,11 @@ productDirectory:
     - title: Exchange
       imageSrc: /media/logos/logo_Exchange.svg
       links:
-        - url: ../ExchangeServer/exchange-server-welcome.md
+        - url: /exchange/troubleshoot/exchange-server-welcome
           text: Exchange Server
-        - url: ../ExchangeOnline/exchange-online-welcome.yml
+        - url: /exchange/troubleshoot/exchange-online-welcome
           text: Exchange Online
-        - url: ../ExchangeHybrid/exchange-hybrid-welcome.md
+        - url: /exchange/troubleshoot/exchange-hybrid-welcome
           text: Exchange Hybrid
     # Card
     - title: Skype for Business
@@ -96,14 +96,14 @@ productDirectory:
       links:
         - url: /sharepoint/support/onedrive-welcome
           text: OneDrive for Business
-   # Card
+    # Card
     - title: Microsoft Viva
       imageSrc: /support/media/hub-landing/logo-viva.svg
       links:
         - url: /viva/learning/
           text: Microsoft Viva Learning
         - url: /viva/connections/viva-connections-overview
-          text: Microsoft Viva Connections       
+          text: Microsoft Viva Connections 
     # Card
     - title: Endpoint management
       imageSrc: /media/logos/logo-ms-social.png
@@ -139,7 +139,7 @@ additionalContent:
         # Card
         - title: Educators
           summary: Find help, training, and technical support for educators.
-          url: https://support.microsoft.com/education         
+          url: https://support.microsoft.com/education          
         # Card
         - title: Admins and IT Professionals
           summary: Guidance for admins and IT Professionals managing Office products and services.
