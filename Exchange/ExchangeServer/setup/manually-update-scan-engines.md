@@ -47,287 +47,304 @@ The manual update involves running the Update-Engines.ps1 PowerShell script. Thi
 
     ```powershell
     #---------------------------------------------------------------------------------------
-    # The UpdateEngines script demonstrates how to download engine packages for use
-    # by the Forefront Protection for Exchange and Sharepoint products.
-    #
-    # What the script does:
-    #
-    # * Downloads copies of the UniversalManifest, EngineInfo.
-    # * Downloads and extracts the full update package for the
-    # specified engines for each specified platforms. This script
-    # automatically creates directories under this root (metadata, x86, amd64)
-    # and a script specific temp directory used during the processing.
-    #---------------------------------------------------------------------------------------
-    param(
-    [string]$EngineDirPath,
-    [string]$UpdatePathUrl = "http://forefrontdl.microsoft.com/server/scanengineupdate/",
-    [string]$FailoverPathUrl = "https://amupdatedl.microsoft.com/server/scanengineupdate/",
-    [string]$EngineDownloadUrlV2 = "http://amupdatedl.microsoft.com/server/amupdate/",
-    [string[]]$Engines = ("Microsoft"),
-    [string[]]$Platforms = ("amd64")
-    )
+# The UpdateEngines script demonstrates how to download engine packages for use
+# by the Malware Agent for Exchange
+#
+# What the script does:
+#
+# * Downloads copies of the UniversalManifest, EngineInfo.
+# * Downloads and extracts the full update package for the
+# specified engines for each specified platforms. This script
+# automatically creates directories under this root (metadata, x86, amd64)
+# and a script specific temp directory used during the processing.
+# Version: 2.0.1
+#---------------------------------------------------------------------------------------
 
-    # Display Help
-    if (($Args[0] -eq "-?") -or ($Args[0] -eq "-help")) {
-    ""
-    "Usage: Update-Engines.ps1 [-EngineDirPath <string>] [[-UpdatePathUrl] <update url>] [[-Engines] <engine names>] [[-Platforms] <platform names> "
-    "       [-EngineDirPath <string>]           The directory to serve as the root engines directory"
-    "       [-UpdatePathUrl <update url]        The update path used to pull the updates from"
-    "       [[-Engines] <engine names>[]]       The list of names of engines to update"
-    "       [[-Platforms] <platform names>[]]   The list of names of platforms to update"
-    ""
-    "Examples: "
-    "     Update-Engines.ps1 -EngineDirPath C:\Engines\"
-    "     Update-Engines.ps1 -EngineDirPath C:\Engines\ -UpdatePathUrl http://forefrontdl.microsoft.com/server/scanengineupdate/ -Engines Microsoft -Platforms amd64"
-    ""
-    exit
-    }
+param(
+[Parameter(Mandatory=$true)][string]$EngineDirPath,
+[string]$UpdatePathUrl = "http://forefrontdl.microsoft.com/server/scanengineupdate/",
+#[string]$FailoverPathUrl = "https://amupdatedl.microsoft.com/server/scanengineupdate/",
+#[string]$EngineDownloadUrlV2 = "http://amupdatedl.microsoft.com/server/amupdate/",
+[string[]]$Engines = ("Microsoft"),
+[string[]]$Platforms = ("amd64"),
+[int]$DirectoryAge = 30
+)
 
-    if ($EngineDirPath.Length -eq 0)
-    {
-        $(throw "The EngineDirPath is not set. Please set the EngineDirPath parameter to a valid directory.")
-    }
+# Display Help
+if (($Args[0] -eq "-?") -or ($Args[0] -eq "-help")) {
+""
+"Usage: Update-Engines.ps1 [-EngineDirPath <string>] [[-UpdatePathUrl] <update url>] [[-Engines] <engine names>] [[-Platforms] <platform names> "
+"	   [-EngineDirPath <string>]		   The directory to serve as the root engines directory"
+"	   [-UpdatePathUrl <update url]		The update path used to pull the updates from"
+"	   [[-Engines] <engine names>[]]	   The list of names of engines to update"
+"	   [[-Platforms] <platform names>[]]   The list of names of platforms to update"
+""
+"Examples: "
+"	 Update-Engines.ps1 -EngineDirPath C:\Engines\"
+"	 Update-Engines.ps1 -EngineDirPath C:\Engines\ -UpdatePathUrl http://forefrontdl.microsoft.com/server/scanengineupdate/ -Engines Microsoft -Platforms amd64"
+""
+exit
+}
 
-    # The directory to store the engines with needs to contain
-    # a trailing slash.
-    if (!$EngineDirPath.EndsWith("\"))
-    {
-        $EngineDirPath += "\"
-    }
 
-    # Constants used in the script
-    $ShellProgId = "Shell.Application"
-    $DoNotDisplayProgress = 4
-    $YesAll = 16
-    $NoConfirmDirectory = 512
-    $NoUI = 1024
+Start-Transcript
+# The directory to store the engines with needs to contain a trailing slash.
+if (!$EngineDirPath.EndsWith("\"))
+{
+	$EngineDirPath += "\"
+}
 
-    $UmFileName = "UniversalManifest.cab"
-    $EliFileName = "EngineInfo.cab"
+$UmFileName = "UniversalManifest.cab"
+$EliFileName = "EngineInfo.cab"
 
-    # Checks if the specified path exists.
-    # If not the directory is created.
-    function CreatePath($path)
-    {
-        if ((Test-Path $path) -ne $true)
-        {
-            New-Item -type Directory $path
-            Write-Host "Created: " $path
-        }
-    }
+# Checks if the specified path exists.
+# If not the directory is created.
+function CreatePath($path)
+{
+	if ((Test-Path $path) -ne $true)
+	{
+		New-Item -type Directory $path
+		Write-Host "Created: " $path
+	}
+}
 
-    # Use the Shell.Application COM object to extract the
-    # contents of the sourceCabPath and put the contents into
-    # the destinationDirectory. Support is included for cab
-    # files with sub directory hierarchies.
-    function ExtractCab($sourceCabPath, $destinationDirectory)
-    {
-        # Determine if we can call the expand.exe utility
-        # if so use it, otherwise, use the Shell.Application
-        # COM object to perform the expansion of the CAB
-        & "expand.exe"
+# Use the Shell.Application COM object to extract the
+# contents of the sourceCabPath and put the contents into
+# the destinationDirectory. Support is included for cab
+# files with sub directory hierarchies.
+function ExtractCab($sourceCabPath, $destinationDirectory)
+{
+	try
+	{
+		& "expand.exe" "-R" $sourceCabPath "-F:*" $destinationDirectory
+	}
+	catch
+	{
+		# Constants used in the script
+		$ShellProgId = "Shell.Application"
+		$DoNotDisplayProgress = 4
+		$YesAll = 16
+		$NoConfirmDirectory = 512
+		$NoUI = 1024
 
-        if($?)
-        {
+		$shell = new-object -comobject $ShellProgId
 
-            & "expand.exe" "-R" $sourceCabPath "-F:*" $destinationDirectory
-        }
-        else
-        {
+		if(!$?)
+		{
+			$(throw "unable to create $ShellProgId object")
+		}
 
-            $shell = new-object -comobject $ShellProgId
+		$source = $shell.Namespace($sourceCabPath).items()
 
-            if(!$?)
-            {
-                $(throw "unable to create $ShellProgId object")
-            }
+		$destination = $shell.Namespace($destinationDirectory)
+		$flags = $DoNotDisplayProgress + $YesAll + $NoConfirmDirectory + $NoUI
+		$itemCount = $source.Count
+		$cabNameLength = $sourceCabPath.Length
 
-            $source = $shell.Namespace($sourceCabPath).items()
+		$cachedDestDir = ""
+		$relativeDest = ""
 
-            $destination = $shell.Namespace($destinationDirectory)
+		# Process each item in the cab. Determine if the destination
+		# is a sub directory and create if necessary.
+		for($i=0; $i -lt $itemCount; $i++)
+		{
+			$lastPathIndex = $source.item($i).Path.LastIndexOf("\");
 
-            $flags = $DoNotDisplayProgress + $YesAll + $NoConfirmDirectory + $NoUI
-            $itemCount = $source.Count
-            $cabNameLength = $sourceCabPath.Length
+			# If the file inside the zip file should be extracted
+			# to a subfolder, then we need to reset the destination
+			if ($lastPathIndex -gt $cabNameLength)
+			{
+				$relativePath = $source.item($i).Path.SubString(($cabNameLength + 1), ($lastPathIndex - $cabNameLength))
+				$relativeDestDir = $destinationDirectory + $relativePath
 
-            $cachedDestDir = ""
-            $relativeDest = ""
+				if ($relativeDestDir -ne $cachedDestDir)
+				{
+					$relativeDest = $shell.Namespace($relativeDestDir)
+					$cachedDestDir = $relativeDestDir
+				}
 
-            # Process each item in the cab. Determine if the destination
-            # is a sub directory and create if necessary.
-            for($i=0; $i -lt $itemCount; $i++)
-            {
-                $lastPathIndex = $source.item($i).Path.LastIndexOf("\");
+				$relativeDest.CopyHere($source.item($i), $flags)
+			}
+			else
+			{
+				$destination.CopyHere($source.item($i), $flags)
+			}
+		}
+	}
+}
 
-                # If the file inside the zip file should be extracted
-                # to a subfolder, then we need to reset the destination
-                if ($lastPathIndex -gt $cabNameLength)
-                {
-                    $relativePath = $source.item($i).Path.SubString(($cabNameLength + 1), ($lastPathIndex - $cabNameLength))
-                    $relativeDestDir = $destinationDirectory + $relativePath
+#--------------------------------------------------------------------------------------- 
+# Main Script
+#--------------------------------------------------------------------------------------- 
+Write-Host "Update Path:" $UpdatePathUrl
+Write-Host "Engine Directory:" $EngineDirPath
+Write-Host "Engines:" $Engines
+Write-Host "Platforms:" $Platforms
 
-                    if ($relativeDestDir -ne $cachedDestDir)
-                    {
-                        $relativeDest = $shell.Namespace($relativeDestDir)
-                        $cachedDestDir = $relativeDestDir
-                    }
+if((Test-Path $EngineDirPath) -ne $true)
+{
+$(throw "The directory specified to store the engines does not exist or the user this script is running as does not have permissions to access it. " + $EngineDirPath)
+}
 
-                    $relativeDest.CopyHere($source.item($i), $flags)
-                }
-                else
-                {
-                    $destination.CopyHere($source.item($i), $flags)
-                }
-            }
-        }
-    }
+$tempFilePath = $EngineDirPath + "temp\"
 
-    #--------------------------------------------------------------------------------------- 
-    # Main Script
-    #--------------------------------------------------------------------------------------- 
-    Write-Host "Update Path: " $UpdatePathUrl
-    Write-Host "Engine Directory: " $EngineDirPath
-    Write-Host "Engines: " $Engines
-    Write-Host "Platforms: " $Platforms
+# Download the Universal Manifest file
+$url = ($UpdatePathUrl + "metadata/UniversalManifest.cab")
+$umFilePath = $EngineDirPath + "metadata\UniversalManifest.cab"
 
-    if ((Test-Path $EngineDirPath) -ne $true)
-    {
-    $(throw "The directory specified to store the engines does not exist or the user this script is running as does not have permissions to access it. " + $EngineDirPath)
-    }
+$metaDataDir = $EngineDirPath + "metadata\"
 
-    $tempFilePath = $EngineDirPath + "temp\"
+CreatePath $metaDataDir
 
-    $wc = new-object System.Net.WebClient
+try
+{
+	Invoke-WebRequest -Uri $url -OutFile $umFilePath
+}
+catch
+{
+	Write-Host " "
+	Write-Host "No Internet connection! Script stopped." -foregroundcolor red
+	Write-Host " "
+	break
+}
 
-    # Download the Universal Manifest file
-    $url = ($UpdatePathUrl + "metadata/UniversalManifest.cab")
-    $umFilePath = $EngineDirPath + "metadata\UniversalManifest.cab"
+CreatePath $tempFilePath
 
-    $metaDataDir = $EngineDirPath + "metadata\"
+# Delete any temporary files left over from
+# any previous runs of the script
+Remove-Item ($tempFilePath + "*.*")
 
-    CreatePath $metaDataDir
+# Extract the xml file from the cab
+# so we can parse and read the data
+ExtractCab $umFilePath $tempFilePath
 
-    $wc.DownloadFile($url, $umFilePath)
+# Read in and process the contents of the 
+# Universal Manifest file. 
+try
+{
+	[xml]$umFile = Get-Content($tempFilePath + "UniversalManifest.xml")
+}
+catch
+{
+	Write-Host "UniversalManifest.xml missing"
+	break
+}
 
-    CreatePath $tempFilePath
+# Check if we need to download a new Engine License Info file
+$engineInfoVersion = $umFile.UniversalManifest.licenseInfoVersion
+Write-Host "The current Engine License Info version:" $engineInfoVersion
 
-    # Delete any temporary files left over from
-    # any previous runs of the script
-    Remove-Item ($tempFilePath + "*.*")
+$engineInfoFilePath = $EngineDirPath + "metadata\" + $engineInfoVersion
 
-    # Extract the xml file from the cab
-    # so we can parse and read the data
-    ExtractCab $umFilePath $tempFilePath
+CreatePath $engineInfoFilePath
 
-    # Read in and process the contents of the 
-    # Universal Manifest file. 
-    [xml]$umFile = Get-Content($tempFilePath + "UniversalManifest.xml")
+$engineInfoFilePath += "\" + $EliFileName
 
-    # Check if we need to download a new Engine License Info file
-    $engineInfoVersion = $umFile.UniversalManifest.licenseInfoVersion
-    Write-Host "The current Engine License Info version: " $engineInfoVersion
+# If the versioned directory does not exists
+# download the new version of the Engine License Info
+if ((Test-Path $engineInfoFilePath) -ne $true)
+{
+	Write-Host "The current version of the Engine License Info needs to be downloaded."
+	$engineInfoURL = ($UpdatePathUrl + "\metadata\" + $engineInfoVersion + "/" + $EliFileName)
+	Invoke-WebRequest -Uri $engineInfoURL -OutFile $engineInfoFilePath
+	Write-Host "The Engine License Info download is complete."
+}
 
-    $engineInfoFilePath = $EngineDirPath + "metadata\" + $engineInfoVersion
+Write-Host "Begin Processing Engine Updates"
 
-    CreatePath $engineInfoFilePath
+# Process each engine in the Universal Manifest
+# and download all applicable engines
+foreach ($p in $Platforms)
+{
+	$platform = $umFile.UniversalManifest.EngineVersions.SelectSingleNode(("Platform[@id='" + $p + "']"))
 
-    $engineInfoFilePath += "\" + $EliFileName
+	if ($platform -isnot [System.Xml.XmlElement])
+	{
+		$(throw "The Platform '" + $p + "' is not valid.") 
+	}
 
-    # If the versioned directory does not exists
-    # download the new version of the Engine License Info
-    if ((Test-Path $engineInfoFilePath) -ne $true)
-    {
-        Write-Host "The current version of the Engine License Info needs to be downloaded."
+	Write-Host "Platform:" $platform.id
 
-        $engineInfoURL = ($UpdatePathUrl + "\metadata\" + $engineInfoVersion + "/" + $EliFileName)
-        $wc.DownloadFile($engineInfoURL, $engineInfoFilePath)
+	foreach ($e in $Engines)
+	{
+		$engine = $platform.SelectSingleNode(("Category/Engine[@name='" + $e + "']"))
 
-        Write-Host "The Engine License Info download is complete."
-    }
+		if ($engine -isnot [System.Xml.XmlElement])
+		{
+			Write-Error "The engine name '" $e "' is not valid."  -Category InvalidArgument
+		}
+		else
+		{
+			Write-Host "Engine:" $engine.Name "UpdateVersion:" $engine.Package.version   
 
-    Write-Host "Begin Processing Engine Updates"
+			$manifestFileNameRoot = "manifest." + $engine.Default
+			$manifestFileName = $manifestFileNameRoot + ".cab"
+			$engineUrl = $UpdatePathUrl + $platform.id + "/" + $engine.Name + "/" + "Package/"
+			$manifestUrl =  ($engineUrl + $manifestFileName)
+			$enginePath = $EngineDirPath + $platform.id + "\" + $engine.Name + "\Package\"
 
-    # Process each engine in the Universal Manifest
-    # and download all applicable engines
-    foreach ($p in $Platforms)
-    {
-        $platform = $umFile.UniversalManifest.EngineVersions.SelectSingleNode(("Platform[@id='" + $p + "']"))
+			Write-Host "Begin download:" $engine.Name " Url:" $manifestUrl
 
-        if ($platform -isnot [System.Xml.XmlElement])
-        {
-            $(throw "The Platform '" + $p + "' is not valid.") 
-        }
+			CreatePath $enginePath
 
-        Write-Host "Platform: " $platform.id
+			$manifestPath = $enginePath + $manifestFileName
 
-    foreach ($e in $Engines)
-    {
-        $engine = $platform.SelectSingleNode(("Category/Engine[@name='" + $e + "']"))
+			Invoke-WebRequest -Uri $manifestUrl -OutFile $manifestPath
 
-        if ($engine -isnot [System.Xml.XmlElement])
-        {
-            $errMsg = "The engine name '" + $e + "' is not valid." 
-            Write-Error $errMsg -Category InvalidArgument
-        }
-        else
-        {
-            Write-Host "Engine: " $engine.Name "UpdateVersion: " $engine.Package.version   
+			# Delete any temporary files left over from
+			# any previous runs of the script
+			Remove-Item ($tempFilePath + "*.*")
 
-            $manifestFileNameRoot = "manifest." + $engine.Default
-            $manifestFileName = $manifestFileNameRoot + ".cab"
-            $engineUrl = $UpdatePathUrl + $platform.id + "/" + $engine.Name + "/" + "Package/"
-            $manifestUrl =  ($engineUrl + $manifestFileName)
-            $enginePath = $EngineDirPath + $platform.id + "\" + $engine.Name + "\Package\"
+			ExtractCab $manifestPath $tempFilePath
 
-            Write-Host "Begin download: " $engine.Name " Url: " $manifestUrl
+			[xml]$manifest = Get-Content($tempFilePath + "manifest.xml")
 
-            CreatePath $enginePath
+			$fullPkgDir = $enginePath + $manifest.ManifestFile.Package.version + "\"
 
-            $manifestPath = $enginePath + $manifestFileName
+			CreatePath $fullPkgDir
 
-            $wc.DownloadFile($manifestUrl, $manifestPath)
+			$fullPkgUrl = $engineUrl + $manifest.ManifestFile.Package.version + "/" + $manifest.ManifestFile.Package.FullPackage.name
+			$fullPkgPath = ($fullPkgDir + $manifest.ManifestFile.Package.FullPackage.name)
 
-            # Delete any temporary files left over from
-            # any previous runs of the script
-            Remove-Item ($tempFilePath + "*.*")
+			Write-Host "Begin download file. Url: $fullPkgUrl"
+			Invoke-WebRequest -Uri $fullPkgUrl -OutFile $fullPkgPath
 
-            ExtractCab $manifestPath $tempFilePath
+			# Detect if there are any subdirectories
+			# needed for this engine
+			$subDirCount = $manifest.ManifestFile.Package.Files.Dir.Count
 
-            [xml]$manifest = Get-Content($tempFilePath + "manifest.xml")
+			for($i=0; $i -lt $subDirCount; $i++)
+			{
+				CreatePath ($fullPkgDir + $manifest.ManifestFile.Package.Files.Dir[$i].name)
+			}
 
-            $fullPkgDir = $enginePath + $manifest.ManifestFile.Package.version + "\"
+			ExtractCab $fullPkgPath $fullPkgDir
 
-            CreatePath $fullPkgDir
+			# Copy the downloaded manifest to the package directory
+			Copy-Item $manifestPath -Destination $fullPkgDir
 
-            $fullPkgUrl = $engineUrl + $manifest.ManifestFile.Package.version + "/" + $manifest.ManifestFile.Package.FullPackage.name
-            $fullPkgPath = ($fullPkgDir + $manifest.ManifestFile.Package.FullPackage.name)
+			Write-Host "Download Complete:" $engine.Name
 
-            $wc.DownloadFile($fullPkgUrl, $fullPkgPath)
+			Write-Host " "
+			Write-Host "Checking Hashes..."
+			# Compare Hash form downloaded file with Manifest
+			$manifest.ManifestFile.Package.Files.File | foreach { $filename = ($_.name+".cab"); if([BitConverter]::ToString([System.Convert]::FromBase64String($_.hash.chash)).replace("-","") -eq (Get-FileHash $fullPkgDir$filename).hash) { Write-Host "Hash checked $filename" } else { Write-Host "Error Hash mismatch $filename" -foregroundcolor red } }
+		}
+	}
+}
 
-            # Detect if there are any subdirectories
-            # needed for this engine
-            $subDirCount = $manifest.ManifestFile.Package.Files.Dir.Count
+Write-Host " "
+Write-Host "Cleaning up..."
+Write-Host " "
+# Clean up the temporary directory
+# that is used during the update
+Remove-Item $tempFilePath -recurse
 
-            for($i=0; $i -lt $subDirCount; $i++)
-            {
-                CreatePath ($fullPkgDir + $manifest.ManifestFile.Package.Files.Dir[$i].name)
-            }
+# Clean up folders older than DirAge value
+Get-ChildItem -Path $EngineDirPath -Directory -Recurse| where {$_.LastWriteTime -le $(Get-Date).Adddays(-$DirectoryAge)} | Remove-Item -Recurse -Force
 
-            ExtractCab $fullPkgPath $fullPkgDir
-
-            # Copy the downloaded manifest to the package directory
-            Copy-Item $manifestPath -Destination $fullPkgDir
-
-            Write-Host "Download Complete: " $engine.Name
-        }
-      }
-    }
-
-    Write-Host "Engine Update processing completed."
-
-    # Clean up the temporary directory
-    # that is used during the update
-    Remove-Item $tempFilePath -recurse
+Write-Host "Engine Update processing completed."
+Stop-Transcript
     ```
 
 3. Execute the Update-Engines.ps1 PowerShell script, providing any necessary parameters. The format of the command to use is:
