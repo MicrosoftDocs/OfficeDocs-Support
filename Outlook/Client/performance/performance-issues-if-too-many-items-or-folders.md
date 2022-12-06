@@ -41,28 +41,26 @@ If you have a large number of mail folders, you might experience performance iss
 
 ## Cause
 
-These problems may occur if you have a large number of folders or a large number of items in any single folder. There is no hard limit, but generally you will experience increasing performance issues as the number of items approaches 10,000 calendar items, 10,000 folders, or 100,000 mail items per folder. Large numbers of recurring meetings, or long-lived recurring meetings can also have an outsized impact on performance.
+These problems may occur if you have a large number of folders or a large number of items in any single folder. There is no hard limit, but generally you may experience increasing performance issues as the number of items approaches 10,000 calendar items, 10,000 folders, or 100,000 mail items per folder. Large numbers of recurring meetings, or long-lived recurring meetings can also have an outsized impact on performance.
 
 ## Resolution
 
 > [!IMPORTANT]
 > Follow the steps in this section carefully. Serious problems might occur if you modify the registry incorrectly. Before you modify it, [back up the registry for restoration](https://support.microsoft.com/help/322756) in case problems occur.
 
-If you have folders with a quantity of items approaching the quantities mentioned above, and stored in an Outlook data (.pst) file or an offline Outlook data (`.ost`) file, move items from the larger folders to separate or smaller folders in the same mailbox or data file. Optionally, if you have a Microsoft Exchange online archive, you can move items to that archive or create retention policies to automatically dispose of older items.
+### Resolutions for Calendar-Related Issues
 
-If you have a quantity of calendar items approaching the quantities mentioned above, use any of the following methods to reduce the number of items that you have.
+#### Managing the Growth of Exceptions
 
-It is also important to note that not all calendar items have equal impact on performance. One-time meetings have relatively low impact, whereas long-lived recurring meetings and particularly recurring meetings with changes to the subject, body, location, or time have more performance cost. You can address this higher cost by using Outlook options to set an end time or maximum recurrence count, and then by creating a new recurring meeting instead of extending the existing recurrence. 
+Not all calendar items have equal impact on performance. One-time meetings have relatively low impact, whereas long-lived recurring meetings and particularly recurring meetings with changes to the subject, body, location, or time have more performance cost. You can address this higher cost by using Outlook options to set an end time or maximum recurrence count, and then by creating a new recurring meeting instead of extending the existing recurrence. 
 
-### Method 1
+#### Activating Shared Calendar Improvements
 
-If you have enabled Online Archive Mailbox, archive items to the Online Archive Mailbox.
+Activating the Shared Calendar Improvements option for primary calendar users and users with delegated access will improve performance. This improvement comes from the fact that calendar actions are sent directly to the server instead of having to be synchronized from local storage, and conflict resolution can be done more efficiently.
 
-### Method 2
+#### Limiting the Sync Window
 
-Apply a Retention Policy on the Calendar folder to delete older items from this folder. (For example: Any item that is not modified within one year moves to the Deleted Items folder.)
-
-### Method 3
+Limiting the synchronization window used for calendar folders will reduce the number of items stored locally in your calendar folder(s) and can improve performance.
 
 In Sync Window Settings, adjust the number of months of data that are synced for the primary shared calendars. To do this, add the following registry keys.
 
@@ -100,7 +98,20 @@ To clear offline Calendar items, follow these steps:
 3. On the **General** tab, select **Clear Offline Items**.
 4. Select **OK**.
 
-Additionally, you can use the Microsoft Support and Recovery Assistant to diagnose issues that affect Outlook. (The tool works for both programs.)
+### Resolutions for Mail-Related issues
+If you have folders with a quantity of items approaching the quantities mentioned above, and stored in an Outlook data (.pst) file or an offline Outlook data (`.ost`) file, move items from the larger folders to separate or smaller folders in the same mailbox or data file. Optionally, if you have a Microsoft Exchange online archive, you can move items to that archive or create retention policies to automatically dispose of older items.
+
+#### Archiving Mail Items
+
+If you have enabled Online Archive Mailbox, archive items to the Online Archive Mailbox.
+
+#### Applying a Retention Policy
+
+Apply a Retention Policy on Mail or Calendar folder to delete older items from this folder. (For example: Any item that is not modified within one year moves to the Deleted Items folder.)
+
+### Additional Diagnostics
+
+Additionally, you can use the Microsoft Support and Recovery Assistant to diagnose issues that affect Outlook. This tool applies to both calendar and mail issues.
 
 To download and install the tool, go to the following Microsoft website:
 
@@ -120,6 +131,6 @@ To do this, follow these steps:
 4. Select the **Synchronization** tab.
 5. View the count under **View statistics for this folder**.
 
-Outlook uses an `.ost` file only if the Exchange email account is configured to use Cached Exchange Mode. When Outlook is configured to connect to the Exchange mailbox in online mode, an `.ost` file is not used. If your Outlook client is connected to Exchange in online mode, and you do not have high-item-count folders in a .pst file, the performance issue might be occurring on the server.
+Outlook uses an `.ost` file only if the Exchange email account is configured to use Cached Exchange Mode. When Outlook is configured to connect to the Exchange mailbox in online mode, an `.ost` file is not used. If your Outlook client is connected to Exchange in online mode, and you do not have high-item-count folders in a .pst file, any performance issues might be occurring on the server.
 
 For more information about Outlook performance issues, see [You may experience application pauses if you have a large Outlook data file](https://support.microsoft.com/help/2759052/).
