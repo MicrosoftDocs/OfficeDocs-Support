@@ -19,7 +19,7 @@ appliesto:
   - Outlook 2013
   - Outlook 2010
 search.appverid: MET150
-ms.date: 5/11/2022
+ms.date: 12/6/2022
 ---
 # Outlook performance issues if there are too many items or folders in a cached mode .ost or .pst file
 
@@ -27,33 +27,32 @@ _Original KB number:_ &nbsp; 2768656
 
 ## Symptoms
 
-If you have lots of items in any single folder, you might experience symptoms such as the following in Microsoft Outlook:
+If you have a large number of items in any single folder, you might experience symptoms such as the following in Microsoft Outlook:
 
 - When you use Cached Exchange Mode or an Outlook data (.pst) file, you notice performance issues when you do certain actions.
-- You experience decreased performance in Outlook if the Inbox, Calendar, Tasks, Sent Items, or Deleted Items folders contain lots of items.
-- Calendar performance is inconsistent. For example, meeting updates might not be reflected in the primary, shared, or delegated calendar.
+- You experience decreased performance in Outlook if the Inbox, Calendar, Tasks, Sent Items, or Deleted Items folders contain a large number of items.
+- Calendar performance may become inconsistent. For example, meeting updates might not be reflected in the primary, shared, or delegated calendar.
 
-If you have lots of mail folders, you might experience performance issues such as the following:
+If you have a large number of mail folders, you might experience performance issues such as the following:
 
-- Folders are not displayed correctly, or they take a long time to appear, especially in cached mode.
-- If your Outlook profile has shared mailboxes and has caching enabled (**Download Shared Folders** is selected), folder synchronization issues, performance issues, and other problems occur if the number of shared folders per mailbox exceeds 500, as described in [Performance and synchronization problems when you work with folders in a secondary mailbox in Outlook](https://support.microsoft.com/help/3115602). Additionally, errors are logged in the Sync Issues folder and "9646" events are logged in the Application log.
-- In extreme cases, if there are more than 10,000 folders, Outlook is very slow to open. This behavior occurs because it takes a long time to enumerate the folders.
+- Folders may take a long time to appear or may not appear correctly.
+- If your Outlook profile contains shared mailboxes and has caching enabled (**Download Shared Folders** is selected) then you may encounter folder synchronization issues, performance issues, or other problems if the number of shared folders per mailbox exceeds 500, as described in [Performance and synchronization problems when you work with folders in a secondary mailbox in Outlook](https://support.microsoft.com/help/3115602). Additionally, errors will be logged in the Sync Issues folder and "9646" events will be logged in the Application log.
+- In extreme cases, if there are more than 10,000 folders, Outlook can become very slow to open. This behavior occurs because of the time it takes to enumerate this large number of folders.
 
 ## Cause
 
-This problem might occur if you have folders that exceed the limit for the number of items per folder or if you have too many folders total. The limits for Outlook 2019, Outlook 2016, Outlook 2013, and Outlook 2010 are as follows:
-
-- 100,000 items per folder
-- 5,000 items per Calendar folder
+These problems may occur if you have a large number of folders or a large number of items in any single folder. There is no hard limit, but generally you will experience increasing performance issues as the number of items approaches 10,000 calendar items, 10,000 folders, or 100,000 mail items per folder. Large numbers of recurring meetings, or long-lived recurring meetings can also have an outsized impact on performance.
 
 ## Resolution
 
 > [!IMPORTANT]
 > Follow the steps in this section carefully. Serious problems might occur if you modify the registry incorrectly. Before you modify it, [back up the registry for restoration](https://support.microsoft.com/help/322756) in case problems occur.
 
-If you have folders that exceed the limit for the number of items in an Outlook data (.pst) file or an offline Outlook data (`.ost`) file, move items from the larger folders to separate or smaller folders in the same mailbox or data file. Optionally, if you have a Microsoft Exchange online archive, you can move items to that archive.
+If you have folders with a quantity of items approaching the quantities mentioned above, and stored in an Outlook data (.pst) file or an offline Outlook data (`.ost`) file, move items from the larger folders to separate or smaller folders in the same mailbox or data file. Optionally, if you have a Microsoft Exchange online archive, you can move items to that archive or create retention policies to automatically dispose of older items.
 
-If you have exceeded the recommended limit of 5,000 total Calendar items, use any of the following methods to reduce the number of items that you have.
+If you have a quantity of calendar items approaching the quantities mentioned above, use any of the following methods to reduce the number of items that you have.
+
+It is also important to note that not all calendar items have equal impact on performance. One-time meetings have relatively low impact, whereas long-lived recurring meetings and particularly recurring meetings with changes to the subject, body, location, or time have more performance cost. You can address this higher cost by using Outlook options to set an end time or maximum recurrence count, and then by creating a new recurring meeting instead of extending the existing recurrence. 
 
 ### Method 1
 
@@ -61,7 +60,7 @@ If you have enabled Online Archive Mailbox, archive items to the Online Archive 
 
 ### Method 2
 
-Apply a Retention Policy on the Calendar folder to delete items from this folder. (For example: Any item that is not modified within one year moves to the Deleted Items folder.)
+Apply a Retention Policy on the Calendar folder to delete older items from this folder. (For example: Any item that is not modified within one year moves to the Deleted Items folder.)
 
 ### Method 3
 
