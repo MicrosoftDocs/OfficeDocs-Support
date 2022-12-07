@@ -52,11 +52,13 @@ These problems may occur if you have a large number of folders or a large number
 
 #### Managing the Growth of Exceptions
 
-Not all calendar items have equal impact on performance. One-time meetings have relatively low impact, whereas long-lived recurring meetings and particularly recurring meetings with changes to the subject, body, location, or time have more performance cost. You can address this higher cost by using Outlook options to set an end time or maximum recurrence count, and then by creating a new recurring meeting instead of extending the existing recurrence. 
+Not all calendar items have equal impact on performance. One-time meetings have relatively low impact, whereas long-lived recurring meetings and particularly recurring meetings with changes to the subject, body, location, or time have more performance cost. You can address this higher cost by using Outlook options to set an end time or maximum recurrence count, and then by creating a new recurring meeting instead of extending the existing recurrence.
 
 #### Activating Shared Calendar Improvements
 
 Activating the Shared Calendar Improvements option for primary calendar users and users with delegated access will improve performance. This improvement comes from the fact that calendar actions are sent directly to the server instead of having to be synchronized from local storage, and conflict resolution can be done more efficiently.
+
+You can learn more about activating and managing the shared calendar improvements by reading [How to enable and disable the Outlook calendar sharing updates - Microsoft Support](https://support.microsoft.com/en-us/office/how-to-enable-and-disable-the-outlook-calendar-sharing-updates-c3aec5d3-55ce-4cea-84b0-80aab6d8dc26)
 
 #### Limiting the Sync Window
 
@@ -99,6 +101,7 @@ To clear offline Calendar items, follow these steps:
 4. Select **OK**.
 
 ### Resolutions for Mail-Related issues
+
 If you have folders with a quantity of items approaching the quantities mentioned above, and stored in an Outlook data (.pst) file or an offline Outlook data (`.ost`) file, move items from the larger folders to separate or smaller folders in the same mailbox or data file. Optionally, if you have a Microsoft Exchange online archive, you can move items to that archive or create retention policies to automatically dispose of older items.
 
 #### Archiving Mail Items
