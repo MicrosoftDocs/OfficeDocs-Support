@@ -3968,6 +3968,71 @@
       "source_path": "SharePoint/OneDrive/administration/error-0x8004de40-in-onedrive.md",
       "redirect_url": "/sharepoint/troubleshoot/sync/error-0x8004de40-in-onedrive",
       "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/email-delivery/unable-to-relay-blocked-by-allow-list.md",
+      "redirect_url": "/exchange/troubleshoot/email-delivery/ndr/unable-to-relay-blocked-by-allow-list",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/email-delivery/550-5-6-0-approval-invalidexpiry-cannot-read-expiry-poilcy-error.md",
+      "redirect_url": "/exchange/troubleshoot/email-delivery/ndr/550-5-6-0-approval-invalidexpiry-cannot-read-expiry-poilcy-error",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/email-delivery/550-x-dg-ref-header-too-long-ndr.md",
+      "redirect_url": "/exchange/troubleshoot/email-delivery/ndr/550-x-dg-ref-header-too-long-ndr",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/email-delivery/badprimary-ndr.md",
+      "redirect_url": "/exchange/troubleshoot/email-delivery/ndr/badprimary-ndr",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/email-delivery/cannot-send-mail-mepf.md",
+      "redirect_url": "/exchange/troubleshoot/email-delivery/ndr/cannot-send-mail-mepf",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/email-delivery/exrecipnotfound-ndr.md",
+      "redirect_url": "/exchange/troubleshoot/email-delivery/ndr/exrecipnotfound-ndr",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/email-delivery/mail-issues.md",
+      "redirect_url": "/exchange/troubleshoot/email-delivery/ndr/mail-issues",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/email-delivery/mapiexceptionnotfound-ndr.md",
+      "redirect_url": "/exchange/troubleshoot/email-delivery/ndr/mapiexceptionnotfound-ndr",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/email-delivery/relay-access-denied-smtp.md",
+      "redirect_url": "/exchange/troubleshoot/email-delivery/ndr/relay-access-denied-smtp",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/email-delivery/recipientnotfound-ndr.md",
+      "redirect_url": "/exchange/troubleshoot/email-delivery/ndr/recipientnotfound-ndr",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/email-delivery/remote-server-returned-mailbox-busy.md",
+      "redirect_url": "/exchange/troubleshoot/email-delivery/ndr/remote-server-returned-mailbox-busy",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/email-delivery/tenantattribution-ndr.md",
+      "redirect_url": "/exchange/troubleshoot/email-delivery/ndr/tenantattribution-ndr",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/email-delivery/invalid-message-ndr.md",
+      "redirect_url": "/exchange/troubleshoot/email-delivery/ndr/invalid-message-ndr",
+      "redirect_document_id": false
     }
   ]
 }
