@@ -2,17 +2,17 @@
   "redirections": [
     {
       "source_path": "SkypeforBusiness/SkypeOnline/online-exchange-integration/outlook-for-mac-chat-app-defaults-to-teams.md",
-      "redirect_url": "/previous-versions/troubleshoot/online-exchange-integration/outlook-for-mac-chat-app-defaults-to-teams",
+      "redirect_url": "/previous-versions/troubleshoot/skypeforbusiness/sfbonline/outlook-for-mac-chat-app-defaults-to-teams",
       "redirect_document_id": false
     },
     {
       "source_path": "SkypeforBusiness/SkypeOnline/online-meeting-broadcast/create-outlook-invitation-unavailable.md",
-      "redirect_url": "/previous-versions/troubleshoot/online-meeting-broadcast/create-outlook-invitation-unavailable",
+      "redirect_url": "/previous-versions/troubleshoot/skypeforbusiness/sfbonline/create-outlook-invitation-unavailable",
       "redirect_document_id": false
     },
     {
       "source_path": "SkypeforBusiness/SkypeOnline/online-meeting-broadcast/no-permission-create-meeting-broadcast.md",
-      "redirect_url": "/previous-versions/troubleshoot/online-meeting-broadcast/no-permission-create-meeting-broadcast",
+      "redirect_url": "/previous-versions/troubleshoot/skypeforbusiness/sfbonline/no-permission-create-meeting-broadcast",
       "redirect_document_id": false
     },
     {
