@@ -3152,7 +3152,7 @@
     },
     {
       "source_path": "Exchange/ExchangeOnline/mail-delivery/mail-issues.md",
-      "redirect_url": "/exchange/troubleshoot/email-delivery/mail-issues",
+      "redirect_url": "/exchange/troubleshoot/email-delivery/ndr/non-delivery-reports-in-exchange-online",
       "redirect_document_id": true
     },
     {
@@ -4016,7 +4016,7 @@
     },
     {
       "source_path": "Exchange/ExchangeOnline/email-delivery/mail-issues.md",
-      "redirect_url": "/exchange/troubleshoot/email-delivery/ndr/mail-issues",
+      "redirect_url": "/exchange/troubleshoot/email-delivery/ndr/non-delivery-reports-in-exchange-online",
       "redirect_document_id": true
     },
     {
@@ -4052,6 +4052,11 @@
     {
       "source_path": "Exchange/ExchangeOnline/email-delivery/ndr-received-send-emails-microsoft365-groups.md",
       "redirect_url": "/exchange/troubleshoot/email-delivery/ndr/ndr-received-send-emails-microsoft365-groups",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/email-delivery/ndr/mail-issues.md",
+      "redirect_url": "/exchange/troubleshoot/email-delivery/ndr/non-delivery-reports-in-exchange-online",
       "redirect_document_id": true
     }
   ]
