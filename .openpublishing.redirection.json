@@ -3153,7 +3153,7 @@
     {
       "source_path": "Exchange/ExchangeOnline/mail-delivery/mail-issues.md",
       "redirect_url": "/exchange/troubleshoot/email-delivery/ndr/non-delivery-reports-in-exchange-online",
-      "redirect_document_id": true
+      "redirect_document_id": false
     },
     {
       "source_path": "Exchange/ExchangeOnline/mail-delivery/mapiexceptionnotfound-ndr.md",
@@ -4057,7 +4057,7 @@
     {
       "source_path": "Exchange/ExchangeOnline/email-delivery/ndr/mail-issues.md",
       "redirect_url": "/exchange/troubleshoot/email-delivery/ndr/non-delivery-reports-in-exchange-online",
-      "redirect_document_id": true
+      "redirect_document_id": false
     }
   ]
 }
