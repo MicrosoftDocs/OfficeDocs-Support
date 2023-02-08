@@ -4058,6 +4058,11 @@
       "source_path": "Exchange/ExchangeOnline/email-delivery/ndr/mail-issues.md",
       "redirect_url": "/exchange/troubleshoot/email-delivery/ndr/non-delivery-reports-in-exchange-online",
       "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/setup/manually-update-scan-engines.md",
+      "redirect_url": "https://aka.ms/ExchangeScanEnginesUpdateScript",
+      "redirect_document_id": false
     }
   ]
 }
