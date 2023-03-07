@@ -38,7 +38,7 @@ You can't view one or more folders in a user's mailbox on a Microsoft Exchange A
 This issue occurs if the folders in the Exchange mailbox were created by using an unrecognized class of type `IPF.Imap`. An analysis of the folder properties shows the following results:
 
 ```console
-<property tag = "0x3613001E" type = "PT_STRING8">
+<property tag = "0x3613001F" type = "PT_STRING8">
 <ExactNames>PR_CONTAINER_CLASS, PR_CONTAINER_CLASS_A, ptagContainerClass</ExactNames>
 <PartialNames>PR_CONTAINER_CLASS_W, PidTagContainerClass</PartialNames>
 <Value><![CDATA[IPF.Imap]]></Value>
