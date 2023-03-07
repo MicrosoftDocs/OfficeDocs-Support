@@ -61,7 +61,7 @@ Use Microsoft Exchange Server MAPI Editor (MFCMAPI) to change the `PR_CONTAINER_
 6. Double-click the mailbox to open it.
 7. Expand the **Root** container, expand **Top of Information Store**, and then locate the missing folder.
 8. Select the folder that's missing from the Exchange ActiveSync client to view the properties.
-9. Double-click the property that contains the tag value **0x3613001E**.
+9. Double-click the property that contains the tag value **0x3613001F**.
 10. Change the value from **IPF.Imap** to the appropriate class. (For example, change the value to **IPF.Note** for an email folder.)
 11. Exit MFCMAPI.
 12. Create a profile on the Exchange ActiveSync client.
