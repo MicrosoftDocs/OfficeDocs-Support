@@ -311,6 +311,11 @@
       "redirect_document_id": false
     },
     {
+      "source_path": "SharePoint/SharePointOnline/migration-tool/content-manual-migration.md",
+      "redirect_url": "/sharepoint/troubleshoot/migration/content-manual-migration",
+      "redirect_document_id": true
+    },
+    {
       "source_path": "SharePoint/SharePointOnline/sites/server-error-application.md",
       "redirect_url": "/sharepoint/support/online",
       "redirect_document_id": false
