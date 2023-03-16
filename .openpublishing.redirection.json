@@ -341,6 +341,11 @@
       "redirect_document_id": false
     },
     {
+      "source_path": "Microsoft365/admin/access-management/control-file-transfer.md",
+      "redirect_url": "https://techcommunity.microsoft.com/t5/microsoft-365-blog/transfer-files-will-be-retired-from-office-mobile/ba-p/3672034",
+      "redirect_document_id": false
+    },
+    {
       "source_path": "Microsoft365/admin/administration/0xc004f038-computer-not-activate.md",
       "redirect_url": "/office/troubleshoot/administration/0xc004f038-computer-not-activate",
       "redirect_document_id": false
