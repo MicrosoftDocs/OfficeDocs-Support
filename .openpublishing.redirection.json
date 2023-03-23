@@ -4076,7 +4076,17 @@
     },
     {
       "source_path": "Office/Client/excel/unable-to-edit-protected-ranges-on-mac.md",
-      "redirect_url": "https://support.microsoft.com/en-us/office/can-t-edit-certain-cells-in-a-protected-worksheet-in-excel-for-mac-6ab82205-386c-48e6-b125-74c6afb6894a",
+      "redirect_url": "https://support.microsoft.com/office/can-t-edit-certain-cells-in-a-protected-worksheet-in-excel-for-mac-6ab82205-386c-48e6-b125-74c6afb6894a",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/excel/inserted-object-icon-incorrect.md",
+      "redirect_url": "https://support.microsoft.com/office/incorrect-icon-shows-when-inserting-an-object-in-excel-2019-dbd558f2-6358-4a5c-815f-302900bf1529",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/excel/use-cell-references-defined-names.md",
+      "redirect_url": "https://support.microsoft.com/office/how-to-use-cell-references-and-defined-names-in-criteria-in-excel-7c858ad0-dd2f-4644-8410-00d8bc15e2d5",
       "redirect_document_id": false
     }
   ]
