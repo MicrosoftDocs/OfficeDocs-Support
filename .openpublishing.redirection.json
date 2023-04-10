@@ -4098,6 +4098,21 @@
       "source_path": "Office/Client/excel/use-cell-references-defined-names.md",
       "redirect_url": "https://support.microsoft.com/office/how-to-use-cell-references-and-defined-names-in-criteria-in-excel-7c858ad0-dd2f-4644-8410-00d8bc15e2d5",
       "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/message-body/document-inserted-as-icon-with-hyperlink.md",
+      "redirect_url": "/previous-versions/troubleshoot/outlook/document-inserted-as-icon-with-hyperlink",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Mac/categories/outlook-mac-category-colors-changed.md",
+      "redirect_url": "/previous-versions/troubleshoot/outlook/outlook-mac-category-colors-changed",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeHybrid/hybrid-configuration-wizard-errors/nullable-object-must-have-value-error.md",
+      "redirect_url": "/previous-versions/troubleshoot/exchange/exchangehybrid/nullable-object-must-have-value-error",
+      "redirect_document_id": false
     }
   ]
 }
