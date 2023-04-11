@@ -4113,6 +4113,156 @@
       "source_path": "Exchange/ExchangeHybrid/hybrid-configuration-wizard-errors/nullable-object-must-have-value-error.md",
       "redirect_url": "/previous-versions/troubleshoot/exchange/exchangehybrid/nullable-object-must-have-value-error",
       "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeOnline/online-attachments/cant-send-receive-files-attachments.md",
+      "redirect_url": "/previous-versions/troubleshoot/skypeforbusiness/sfbonline/cant-send-receive-files-attachments",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeOnline/online-conferencing/cant-share-presentations.md",
+      "redirect_url": "/previous-versions/troubleshoot/skypeforbusiness/sfbonline/cant-share-presentations",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeOnline/online-conferencing/sharing-display-black-screen.md",
+      "redirect_url": "/previous-versions/troubleshoot/skypeforbusiness/sfbonline/sharing-display-black-screen",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeOnline/online-conferencing/poor-audio-video-quality.md",
+      "redirect_url": "/previous-versions/troubleshoot/skypeforbusiness/sfbonline/poor-audio-video-quality",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeOnline/online-configuration/dns-configuration-issue.md",
+      "redirect_url": "/previous-versions/troubleshoot/skypeforbusiness/sfbonline/dns-configuration-issue",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeOnline/online-configuration/problem-connecting-to-outlook.md",
+      "redirect_url": "/previous-versions/troubleshoot/skypeforbusiness/sfbonline/problem-connecting-to-outlook",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeOnline/online-configuration/msrtcsip-primaryuseraddress-proxyaddaddress.md",
+      "redirect_url": "/previous-versions/troubleshoot/skypeforbusiness/sfbonline/msrtcsip-primaryuseraddress-proxyaddaddress",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeOnline/online-configuration/set-up-external-communication.md",
+      "redirect_url": "/previous-versions/troubleshoot/skypeforbusiness/sfbonline/set-up-external-communication",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeOnline/online-configuration/license-validation-error.md",
+      "redirect_url": "/previous-versions/troubleshoot/skypeforbusiness/sfbonline/license-validation-error",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeOnline/online-contacts/contacts-offline-not-searchable.md",
+      "redirect_url": "/previous-versions/troubleshoot/skypeforbusiness/sfbonline/contacts-offline-not-searchable",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeOnline/online-contacts/telephone-number-not-visible.md",
+      "redirect_url": "/previous-versions/troubleshoot/skypeforbusiness/sfbonline/telephone-number-not-visible",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeOnline/online-contacts/outlook-contacts-folder-not-sync.md",
+      "redirect_url": "/previous-versions/troubleshoot/skypeforbusiness/sfbonline/outlook-contacts-folder-not-sync",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeHybrid/hybrid-exchange-integration/repeatedly-prompted-for-credentials.md",
+      "redirect_url": "/previous-versions/troubleshoot/skypeforbusiness/sfbhybrid/repeatedly-prompted-for-credentials",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeHybrid/hybrid-exchange-integration/allowadalfornonlyncIndependentofLync-setting.md",
+      "redirect_url": "/previous-versions/troubleshoot/skypeforbusiness/sfbhybrid/allowadalfornonlyncIndependentofLync-setting",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeOnline/online-im-presence/cannot-communicate-with-external-contacts.md",
+      "redirect_url": "/previous-versions/troubleshoot/skypeforbusiness/sfbonline/cannot-communicate-with-external-contacts",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeOnline/online-meetings/cannot-join-online-meetings.md",
+      "redirect_url": "/previous-versions/troubleshoot/skypeforbusiness/sfbonline/cannot-join-online-meetings",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeOnline/online-meetings/error-when-you-schedule-meeting.md",
+      "redirect_url": "/previous-versions/troubleshoot/skypeforbusiness/sfbonline/error-when-you-schedule-meeting",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeOnline/online-meetings/invitations-are-not-sent.md",
+      "redirect_url": "/previous-versions/troubleshoot/skypeforbusiness/sfbonline/invitations-are-not-sent",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeOnline/online-meetings/troubleshoot-recording-online-meetings.md",
+      "redirect_url": "/previous-versions/troubleshoot/skypeforbusiness/sfbonline/troubleshoot-recording-online-meetings",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeOnline/online-sign-in/cant-sign-into-sfb-online.md",
+      "redirect_url": "/previous-versions/troubleshoot/skypeforbusiness/sfbonline/cant-sign-into-sfb-online",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeOnline/online-sign-in/change-office-365-sign-in-address.md",
+      "redirect_url": "/previous-versions/troubleshoot/skypeforbusiness/sfbonline/change-office-365-sign-in-address",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeOnline/online-sign-in/conversation-history-user-presence-unavailable.md",
+      "redirect_url": "/previous-versions/troubleshoot/skypeforbusiness/sfbonline/conversation-history-user-presence-unavailable",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeOnline/online-sign-in/couldnt-sign-you-in-when-click-skype.md",
+      "redirect_url": "/previous-versions/troubleshoot/skypeforbusiness/sfbonline/couldnt-sign-you-in-when-click-skype",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeOnline/online-sign-in/troubleshoot-sign-in-issues-for-admins.md",
+      "redirect_url": "/previous-versions/troubleshoot/skypeforbusiness/sfbonline/troubleshoot-sign-in-issues-for-admins",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeOnline/online-sign-in/troubleshoot-sign-in-issues-for-users.md",
+      "redirect_url": "/previous-versions/troubleshoot/skypeforbusiness/sfbonline/troubleshoot-sign-in-issues-for-users",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeHybrid/hybrid-move-sfb-online/hostedmigration-fault-error-506.md",
+      "redirect_url": "/previous-versions/troubleshoot/skypeforbusiness/sfbhybrid/hostedmigration-fault-error-506",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeHybrid/hybrid-move-sfb-online/move-csuser--hostedmigration-fault.md",
+      "redirect_url": "/previous-versions/troubleshoot/skypeforbusiness/sfbhybrid/move-csuser--hostedmigration-fault",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeHybrid/hybrid-phone-system/phone-contact-number-not-updated.md",
+      "redirect_url": "/previous-versions/troubleshoot/skypeforbusiness/sfbhybrid/phone-contact-number-not-updated",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeHybrid/hybrid-phone-system/voicemails-not-delivered.md",
+      "redirect_url": "/previous-versions/troubleshoot/skypeforbusiness/sfbhybrid/voicemails-not-delivered",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeOnline/online-phone-system/calls-to-international-phone-number-fail.md",
+      "redirect_url": "/previous-versions/troubleshoot/skypeforbusiness/sfbonline/calls-to-international-phone-number-fail",
+      "redirect_document_id": false
     }
   ]
 }
