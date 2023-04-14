@@ -4263,6 +4263,11 @@
       "source_path": "SkypeforBusiness/SkypeOnline/online-phone-system/calls-to-international-phone-number-fail.md",
       "redirect_url": "/previous-versions/troubleshoot/skypeforbusiness/sfbonline/calls-to-international-phone-number-fail",
       "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/office-suite-issues/error-do-you-want-download-converter.md",
+      "redirect_url": "https://support.microsoft.com/office/end-of-support-for-office-2010-3a3e45de-51ac-4944-b2ba-c2e415432789",
+      "redirect_document_id": false
     }
   ]
 }
