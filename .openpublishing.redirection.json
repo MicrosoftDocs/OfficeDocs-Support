@@ -4175,16 +4175,6 @@
       "redirect_document_id": false
     },
     {
-      "source_path": "SkypeforBusiness/SkypeHybrid/hybrid-exchange-integration/repeatedly-prompted-for-credentials.md",
-      "redirect_url": "/previous-versions/troubleshoot/skypeforbusiness/sfbhybrid/repeatedly-prompted-for-credentials",
-      "redirect_document_id": false
-    },
-    {
-      "source_path": "SkypeforBusiness/SkypeHybrid/hybrid-exchange-integration/allowadalfornonlyncIndependentofLync-setting.md",
-      "redirect_url": "/previous-versions/troubleshoot/skypeforbusiness/sfbhybrid/allowadalfornonlyncIndependentofLync-setting",
-      "redirect_document_id": false
-    },
-    {
       "source_path": "SkypeforBusiness/SkypeOnline/online-im-presence/cannot-communicate-with-external-contacts.md",
       "redirect_url": "/previous-versions/troubleshoot/skypeforbusiness/sfbonline/cannot-communicate-with-external-contacts",
       "redirect_document_id": false
@@ -4237,26 +4227,6 @@
     {
       "source_path": "SkypeforBusiness/SkypeOnline/online-sign-in/troubleshoot-sign-in-issues-for-users.md",
       "redirect_url": "/previous-versions/troubleshoot/skypeforbusiness/sfbonline/troubleshoot-sign-in-issues-for-users",
-      "redirect_document_id": false
-    },
-    {
-      "source_path": "SkypeforBusiness/SkypeHybrid/hybrid-move-sfb-online/hostedmigration-fault-error-506.md",
-      "redirect_url": "/previous-versions/troubleshoot/skypeforbusiness/sfbhybrid/hostedmigration-fault-error-506",
-      "redirect_document_id": false
-    },
-    {
-      "source_path": "SkypeforBusiness/SkypeHybrid/hybrid-move-sfb-online/move-csuser--hostedmigration-fault.md",
-      "redirect_url": "/previous-versions/troubleshoot/skypeforbusiness/sfbhybrid/move-csuser--hostedmigration-fault",
-      "redirect_document_id": false
-    },
-    {
-      "source_path": "SkypeforBusiness/SkypeHybrid/hybrid-phone-system/phone-contact-number-not-updated.md",
-      "redirect_url": "/previous-versions/troubleshoot/skypeforbusiness/sfbhybrid/phone-contact-number-not-updated",
-      "redirect_document_id": false
-    },
-    {
-      "source_path": "SkypeforBusiness/SkypeHybrid/hybrid-phone-system/voicemails-not-delivered.md",
-      "redirect_url": "/previous-versions/troubleshoot/skypeforbusiness/sfbhybrid/voicemails-not-delivered",
       "redirect_document_id": false
     },
     {
