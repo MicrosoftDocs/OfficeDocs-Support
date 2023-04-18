@@ -4608,6 +4608,11 @@
       "source_path": "SkypeforBusiness/Hub/context/online-context.yml",
       "redirect_url": "/skypeforbusiness/troubleshoot/sfbonline-end-of-support",
       "redirect_document_id": false
+    },
+    {
+      "source_path": "/skypeforbusiness/troubleshoot/context/online-context.json",
+      "redirect_url": "/skypeforbusiness/troubleshoot/sfbonline-end-of-support",
+      "redirect_document_id": false
     }
   ]
 }
