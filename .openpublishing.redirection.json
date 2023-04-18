@@ -4598,6 +4598,11 @@
       "source_path": "SkypeforBusiness/SkypeOnline/online-sign-in/cannot-sign-in-lync-mobile-2013.md",
       "redirect_url": "/skypeforbusiness/troubleshoot/sfbonline-end-of-support",
       "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeOnline/skype-online-welcome.yml",
+      "redirect_url": "/skypeforbusiness/troubleshoot/sfbonline-end-of-support",
+      "redirect_document_id": false
     }
   ]
 }
