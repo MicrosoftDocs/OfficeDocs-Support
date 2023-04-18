@@ -4603,6 +4603,11 @@
       "source_path": "SkypeforBusiness/SkypeOnline/skype-online-welcome.yml",
       "redirect_url": "/skypeforbusiness/troubleshoot/sfbonline-end-of-support",
       "redirect_document_id": false
-    }
+    },
+    {
+      "source_path": "SkypeforBusiness/Hub/context/online-context.yml",
+      "redirect_url": "/skypeforbusiness/troubleshoot/sfbonline-end-of-support",
+      "redirect_document_id": false
+    },
   ]
 }
