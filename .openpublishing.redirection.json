@@ -292,7 +292,7 @@
     },
     {
       "source_path": "Teams/channels/external-memeber-can-preview-shared-channel-messages.md",
-      "redirect_url": "/MicrosoftTeams/troubleshoot/teams-welcome",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement",
       "redirect_document_id": false
     },
     {
@@ -3492,7 +3492,7 @@
     },
     {
       "source_path": "Exchange/ExchangeServer/administration/self-help-portal.md",
-      "redirect_url": "/exchange/troubleshoot/exchange-server-welcome",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement",
       "redirect_document_id": false
     },
     {
@@ -3507,7 +3507,7 @@
     },
     {
       "source_path": "Exchange/ExchangeOnline/public-folders/outlook-or-owa-cannot-connect-to-public-folders.md",
-      "redirect_url": "/exchange/troubleshoot/exchange-online-welcome",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement",
       "redirect_document_id": false
     },
     {
@@ -3567,7 +3567,7 @@
     },
     {
       "source_path": "Outlook/Client/message-body/email-message-body-is-blank-in-outlook.md",
-      "redirect_url": "/outlook/troubleshoot/outlook-client-welcome",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement",
       "redirect_document_id": false
     },
     {
@@ -3587,12 +3587,12 @@
     },
     {
       "source_path": "SharePoint/SharePointOnline/lists-and-libraries/office-app-fails-opening-list-item-attachment.md",
-      "redirect_url": "/sharepoint/troubleshoot/sharepoint-online-welcome",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement",
       "redirect_document_id": false
     },
     {
       "source_path": "Exchange/ExchangeOnline/calendars/attendees-receive-meeting-cancellation-followed-by-meeting-update.md",
-      "redirect_url": "/exchange/troubleshoot/exchange-online-welcome",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement",
       "redirect_document_id": false
     },
     {
@@ -3632,7 +3632,7 @@
     },
     {
       "source_path": "Microsoft365/admin/access-management/manage-fluid-framework-preview-access.md",
-      "redirect_url": "/microsoft-365/troubleshoot/o365-admin-welcome",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement",
       "redirect_document_id": false
     },
     {
@@ -3642,7 +3642,7 @@
     },
     {
       "source_path": "Exchange/ExchangeHybrid/administration/invalid-product-key-error-when-activating-hybrid-edition-of-exchange-2013.md",
-      "redirect_url": "/exchange/troubleshoot/exchange-hybrid-welcome",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement",
       "redirect_document_id": false
     },
     {
@@ -3866,7 +3866,7 @@
     },
     {
       "source_path": "Teams/teams-conferencing/teams-member-max-5000.md",
-      "redirect_url": "/microsoftteams/troubleshoot/teams-welcome",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement",
       "redirect_document_id": false
     },
     {
@@ -3971,12 +3971,12 @@
     },
     {
       "source_path": "Microsoft365/admin/active-directory/ad-object-information-not-update-in-address.md",
-      "redirect_url": "/microsoft-365/troubleshoot/o365-admin-welcome",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement",
       "redirect_document_id": false
     },
     {
       "source_path": "Microsoft365/enterprise/authentication/unable-sign-in-m365-desktop-apps.md",
-      "redirect_url": "/microsoft-365/troubleshoot/o365-enterprise-welcome",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement",
       "redirect_document_id": false
     },
     {
