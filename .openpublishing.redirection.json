@@ -1161,6 +1161,11 @@
       "redirect_document_id": true
     },
     {
+      "source_path": "Microsoft365/compliance/holds/resolve-ediscovery-hold-issues.md",
+      "redirect_url": "/microsoft-365/troubleshoot/ediscovery/resolve-ediscovery-hold-issues",
+      "redirect_document_id": true
+    },
+    {
       "source_path": "Exchange/ExchangeOnline/archive-mailboxes/message-not-moved-to-archive.md",
       "redirect_url": "/microsoft-365/troubleshoot/archive-mailboxes/message-not-moved-to-archive",
       "redirect_document_id": false
