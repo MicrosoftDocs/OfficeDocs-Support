@@ -2,20 +2,26 @@
 
 
 
-## Week of December 12, 2022
+## Week of May 15, 2023
 
 
 | Published On |Topic title | Change |
 |------|------------|--------|
-| 12/13/2022 | [The Outlook AutoComplete list](/outlook/troubleshoot/contacts/information-about-the-outlook-autocomplete-list) | modified |
-| 12/13/2022 | [Shareable links overview and troubleshooting](/outlook/troubleshoot/email-management/shareable-links-functionality-in-outlook) | modified |
-| 12/15/2022 | [Configure rooms and workspaces for Room Finder](/outlook/troubleshoot/calendaring/configure-room-finder-rooms-workspaces) | modified |
+| 5/16/2023 | [View emails and web links side-by-side with Outlook and Microsoft Edge](/outlook/troubleshoot/message-body/view-emails-and-web-links-in-browser) | added |
+| 5/18/2023 | [Actionable message doesn't automatically refresh in the Outlook reading pane](/outlook/troubleshoot/message-body/actionable-message-in-reading-pane-not-refreshed) | added |
 
 
-## Week of December 05, 2022
+## Week of May 08, 2023
 
 
 | Published On |Topic title | Change |
 |------|------------|--------|
-| 12/8/2022 | [Folder names or locations are incorrect in Outlook](/outlook/troubleshoot/user-interface/incorrect-folder-names) | modified |
-| 12/8/2022 | [Outlook performance issues in a Cached Exchange Mode .ost or .pst file](/outlook/troubleshoot/performance/performance-issues-if-too-many-items-or-folders) | modified |
+| 5/8/2023 | [Scan Outlook by using Microsoft Support and Recovery Assistant](/outlook/troubleshoot/performance/how-to-scan-outlook-by-using-microsoft-support-and-recovery-assistant) | modified |
+
+
+## Week of May 01, 2023
+
+
+| Published On |Topic title | Change |
+|------|------------|--------|
+| 5/4/2023 | [Scan Outlook by using Microsoft Support and Recovery Assistant](/outlook/troubleshoot/performance/how-to-scan-outlook-by-using-microsoft-support-and-recovery-assistant) | modified |

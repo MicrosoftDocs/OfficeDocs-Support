@@ -292,7 +292,7 @@
     },
     {
       "source_path": "Teams/channels/external-memeber-can-preview-shared-channel-messages.md",
-      "redirect_url": "/MicrosoftTeams/troubleshoot/teams-welcome",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement",
       "redirect_document_id": false
     },
     {
@@ -1158,6 +1158,11 @@
     {
       "source_path": "Microsoft365/admin/security/can’t-run-ediscovery-search-cloud-mailbox.md",
       "redirect_url": "/microsoft-365/troubleshoot/ediscovery/cannot-run-ediscovery-search-cloud-mailbox",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Microsoft365/compliance/holds/resolve-ediscovery-hold-issues.md",
+      "redirect_url": "/microsoft-365/troubleshoot/ediscovery/resolve-ediscovery-hold-issues",
       "redirect_document_id": true
     },
     {
@@ -3492,7 +3497,7 @@
     },
     {
       "source_path": "Exchange/ExchangeServer/administration/self-help-portal.md",
-      "redirect_url": "/exchange/troubleshoot/exchange-server-welcome",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement",
       "redirect_document_id": false
     },
     {
@@ -3507,7 +3512,7 @@
     },
     {
       "source_path": "Exchange/ExchangeOnline/public-folders/outlook-or-owa-cannot-connect-to-public-folders.md",
-      "redirect_url": "/exchange/troubleshoot/exchange-online-welcome",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement",
       "redirect_document_id": false
     },
     {
@@ -3567,7 +3572,7 @@
     },
     {
       "source_path": "Outlook/Client/message-body/email-message-body-is-blank-in-outlook.md",
-      "redirect_url": "/outlook/troubleshoot/outlook-client-welcome",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement",
       "redirect_document_id": false
     },
     {
@@ -3587,12 +3592,12 @@
     },
     {
       "source_path": "SharePoint/SharePointOnline/lists-and-libraries/office-app-fails-opening-list-item-attachment.md",
-      "redirect_url": "/sharepoint/troubleshoot/sharepoint-online-welcome",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement",
       "redirect_document_id": false
     },
     {
       "source_path": "Exchange/ExchangeOnline/calendars/attendees-receive-meeting-cancellation-followed-by-meeting-update.md",
-      "redirect_url": "/exchange/troubleshoot/exchange-online-welcome",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement",
       "redirect_document_id": false
     },
     {
@@ -3632,7 +3637,7 @@
     },
     {
       "source_path": "Microsoft365/admin/access-management/manage-fluid-framework-preview-access.md",
-      "redirect_url": "/microsoft-365/troubleshoot/o365-admin-welcome",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement",
       "redirect_document_id": false
     },
     {
@@ -3642,7 +3647,7 @@
     },
     {
       "source_path": "Exchange/ExchangeHybrid/administration/invalid-product-key-error-when-activating-hybrid-edition-of-exchange-2013.md",
-      "redirect_url": "/exchange/troubleshoot/exchange-hybrid-welcome",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement",
       "redirect_document_id": false
     },
     {
@@ -3866,7 +3871,7 @@
     },
     {
       "source_path": "Teams/teams-conferencing/teams-member-max-5000.md",
-      "redirect_url": "/microsoftteams/troubleshoot/teams-welcome",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement",
       "redirect_document_id": false
     },
     {
@@ -3971,12 +3976,12 @@
     },
     {
       "source_path": "Microsoft365/admin/active-directory/ad-object-information-not-update-in-address.md",
-      "redirect_url": "/microsoft-365/troubleshoot/o365-admin-welcome",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement",
       "redirect_document_id": false
     },
     {
       "source_path": "Microsoft365/enterprise/authentication/unable-sign-in-m365-desktop-apps.md",
-      "redirect_url": "/microsoft-365/troubleshoot/o365-enterprise-welcome",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement",
       "redirect_document_id": false
     },
     {
@@ -4083,6 +4088,531 @@
       "source_path": "Office/Client/word/print-failures-word-for-office-365-on-win-10.md",
       "redirect_url": "https://support.microsoft.com/office/troubleshoot-printing-problems-in-microsoft-365-apps-46722261-4d75-43b1-90d5-325171f04900",
       "redirect_document_id": false
-    }
+    },
+    {
+      "source_path": "Office/Client/excel/unable-to-edit-protected-ranges-on-mac.md",
+      "redirect_url": "https://support.microsoft.com/office/can-t-edit-certain-cells-in-a-protected-worksheet-in-excel-for-mac-6ab82205-386c-48e6-b125-74c6afb6894a",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/excel/inserted-object-icon-incorrect.md",
+      "redirect_url": "https://support.microsoft.com/office/incorrect-icon-shows-when-inserting-an-object-in-excel-2019-dbd558f2-6358-4a5c-815f-302900bf1529",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/excel/use-cell-references-defined-names.md",
+      "redirect_url": "https://support.microsoft.com/office/how-to-use-cell-references-and-defined-names-in-criteria-in-excel-7c858ad0-dd2f-4644-8410-00d8bc15e2d5",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/message-body/document-inserted-as-icon-with-hyperlink.md",
+      "redirect_url": "/previous-versions/troubleshoot/outlook/document-inserted-as-icon-with-hyperlink",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Mac/categories/outlook-mac-category-colors-changed.md",
+      "redirect_url": "/previous-versions/troubleshoot/outlook/outlook-mac-category-colors-changed",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeHybrid/hybrid-configuration-wizard-errors/nullable-object-must-have-value-error.md",
+      "redirect_url": "/previous-versions/troubleshoot/exchange/exchangehybrid/nullable-object-must-have-value-error",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeOnline/online-attachments/cant-send-receive-files-attachments.md",
+      "redirect_url": "/previous-versions/troubleshoot/skypeforbusiness/sfbonline/cant-send-receive-files-attachments",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeOnline/online-conferencing/cant-share-presentations.md",
+      "redirect_url": "/previous-versions/troubleshoot/skypeforbusiness/sfbonline/cant-share-presentations",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeOnline/online-conferencing/sharing-display-black-screen.md",
+      "redirect_url": "/previous-versions/troubleshoot/skypeforbusiness/sfbonline/sharing-display-black-screen",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeOnline/online-conferencing/poor-audio-video-quality.md",
+      "redirect_url": "/previous-versions/troubleshoot/skypeforbusiness/sfbonline/poor-audio-video-quality",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeOnline/online-conferencing/audio-or-video-not-start.md",
+      "redirect_url": "/previous-versions/troubleshoot/skypeforbusiness/sfbonline/audio-or-video-not-start",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeOnline/online-configuration/dns-configuration-issue.md",
+      "redirect_url": "/previous-versions/troubleshoot/skypeforbusiness/sfbonline/dns-configuration-issue",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeOnline/online-configuration/problem-connecting-to-outlook.md",
+      "redirect_url": "/previous-versions/troubleshoot/skypeforbusiness/sfbonline/problem-connecting-to-outlook",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeOnline/online-configuration/msrtcsip-primaryuseraddress-proxyaddaddress.md",
+      "redirect_url": "/previous-versions/troubleshoot/skypeforbusiness/sfbonline/msrtcsip-primaryuseraddress-proxyaddaddress",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeOnline/online-configuration/set-up-external-communication.md",
+      "redirect_url": "/previous-versions/troubleshoot/skypeforbusiness/sfbonline/set-up-external-communication",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeOnline/online-configuration/license-validation-error.md",
+      "redirect_url": "/previous-versions/troubleshoot/skypeforbusiness/sfbonline/license-validation-error",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeOnline/online-configuration/admins-cant-use-set-csuser.md",
+      "redirect_url": "/previous-versions/troubleshoot/skypeforbusiness/sfbonline/admins-cant-use-set-csuser",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeOnline/online-contacts/contacts-offline-not-searchable.md",
+      "redirect_url": "/previous-versions/troubleshoot/skypeforbusiness/sfbonline/contacts-offline-not-searchable",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeOnline/online-contacts/telephone-number-not-visible.md",
+      "redirect_url": "/previous-versions/troubleshoot/skypeforbusiness/sfbonline/telephone-number-not-visible",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeOnline/online-contacts/outlook-contacts-folder-not-sync.md",
+      "redirect_url": "/previous-versions/troubleshoot/skypeforbusiness/sfbonline/outlook-contacts-folder-not-sync",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeOnline/online-contacts/user-contact-photos-not-correct.md",
+      "redirect_url": "/previous-versions/troubleshoot/skypeforbusiness/sfbonline/user-contact-photos-not-correct",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeOnline/online-contacts/maximum-followers-reached.md",
+      "redirect_url": "/previous-versions/troubleshoot/skypeforbusiness/sfbonline/maximum-followers-reached",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeOnline/online-im-presence/cannot-communicate-with-external-contacts.md",
+      "redirect_url": "/previous-versions/troubleshoot/skypeforbusiness/sfbonline/cannot-communicate-with-external-contacts",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeOnline/online-meetings/cannot-join-online-meetings.md",
+      "redirect_url": "/previous-versions/troubleshoot/skypeforbusiness/sfbonline/cannot-join-online-meetings",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeOnline/online-meetings/error-when-you-schedule-meeting.md",
+      "redirect_url": "/previous-versions/troubleshoot/skypeforbusiness/sfbonline/error-when-you-schedule-meeting",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeOnline/online-meetings/invitations-are-not-sent.md",
+      "redirect_url": "/previous-versions/troubleshoot/skypeforbusiness/sfbonline/invitations-are-not-sent",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeOnline/online-meetings/troubleshoot-recording-online-meetings.md",
+      "redirect_url": "/previous-versions/troubleshoot/skypeforbusiness/sfbonline/troubleshoot-recording-online-meetings",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeOnline/online-meetings/cannot-create-meeting-delegate.md",
+      "redirect_url": "/previous-versions/troubleshoot/skypeforbusiness/sfbonline/cannot-create-meeting-delegate",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeOnline/online-sign-in/cant-sign-into-sfb-online.md",
+      "redirect_url": "/previous-versions/troubleshoot/skypeforbusiness/sfbonline/cant-sign-into-sfb-online",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeOnline/online-sign-in/change-office-365-sign-in-address.md",
+      "redirect_url": "/previous-versions/troubleshoot/skypeforbusiness/sfbonline/change-office-365-sign-in-address",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeOnline/online-sign-in/conversation-history-user-presence-unavailable.md",
+      "redirect_url": "/previous-versions/troubleshoot/skypeforbusiness/sfbonline/conversation-history-user-presence-unavailable",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeOnline/online-sign-in/couldnt-sign-you-in-when-click-skype.md",
+      "redirect_url": "/previous-versions/troubleshoot/skypeforbusiness/sfbonline/couldnt-sign-you-in-when-click-skype",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeOnline/online-sign-in/troubleshoot-sign-in-issues-for-admins.md",
+      "redirect_url": "/previous-versions/troubleshoot/skypeforbusiness/sfbonline/troubleshoot-sign-in-issues-for-admins",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeOnline/online-sign-in/cant-sign-in-to-sfb-online.md",
+      "redirect_url": "/previous-versions/troubleshoot/skypeforbusiness/sfbonline/cant-sign-in-to-sfb-online",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeOnline/online-sign-in/sign-in-lync-2010-mobile.md",
+      "redirect_url": "/previous-versions/troubleshoot/skypeforbusiness/sfbonline/sign-in-lync-2010-mobile",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeOnline/online-sign-in/troubleshoot-sign-in-issues-for-users.md",
+      "redirect_url": "/previous-versions/troubleshoot/skypeforbusiness/sfbonline/troubleshoot-sign-in-issues-for-users",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeOnline/online-phone-system/calls-to-international-phone-number-fail.md",
+      "redirect_url": "/previous-versions/troubleshoot/skypeforbusiness/sfbonline/calls-to-international-phone-number-fail",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeOnline/online-phone-system/add-new-derived-sbc-direct-routing.md",
+      "redirect_url": "/previous-versions/troubleshoot/skypeforbusiness/sfbonline/add-new-derived-sbc-direct-routing",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeOnline/online-install-or-uninstall/uninstall-lync-for-mac-2011.md",
+      "redirect_url": "/previous-versions/troubleshoot/skypeforbusiness/sfbonline/uninstall-lync-for-mac-2011",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeOnline/end of support.md",
+      "redirect_url": "/skypeforbusiness/troubleshoot/sfbonline-end-of-support",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Office/Client/office-suite-issues/error-do-you-want-download-converter.md",
+      "redirect_url": "https://support.microsoft.com/office/end-of-support-for-office-2010-3a3e45de-51ac-4944-b2ba-c2e415432789",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeOnline/online-conferencing/pstn-callers-cant-join-dial-in-call.md",
+      "redirect_url": "/skypeforbusiness/troubleshoot/sfbonline-end-of-support",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeOnline/online-contacts/lync-contact-list-is-empty-or-read-only.md",
+      "redirect_url": "/skypeforbusiness/troubleshoot/sfbonline-end-of-support",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeOnline/online-im-presence/cant-send-im-to-external-contacts.md",
+      "redirect_url": "/skypeforbusiness/troubleshoot/sfbonline-end-of-support",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeOnline/online-im-presence/conversations-calls-not-synced.md",
+      "redirect_url": "/skypeforbusiness/troubleshoot/sfbonline-end-of-support",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeOnline/online-meeting-broadcast/attendees-of-a-broadcast-cant-see-annotations.md",
+      "redirect_url": "/skypeforbusiness/troubleshoot/sfbonline-end-of-support",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeOnline/online-phone-system/call-transfer-fails.md",
+      "redirect_url": "/skypeforbusiness/troubleshoot/sfbonline-end-of-support",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeOnline/online-sign-in/lync-cant-connect-to-sfb-online.md",
+      "redirect_url": "/skypeforbusiness/troubleshoot/sfbonline-end-of-support",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeOnline/online-sign-in/cannot-sign-in-pic-is-enabled.md",
+      "redirect_url": "/skypeforbusiness/troubleshoot/sfbonline-end-of-support",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeOnline/online-conferencing/sharing-cannot-connect.md",
+      "redirect_url": "/skypeforbusiness/troubleshoot/sfbonline-end-of-support",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeOnline/online-conferencing/dial-out-to-telephone-from-pstn-meeting.md",
+      "redirect_url": "/skypeforbusiness/troubleshoot/sfbonline-end-of-support",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeOnline/online-conferencing/video-is-unavailable-sfb-online-conference.md",
+      "redirect_url": "/skypeforbusiness/troubleshoot/sfbonline-end-of-support",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeOnline/online-conferencing/audio-or-video-connections-fail.md",
+      "redirect_url": "/skypeforbusiness/troubleshoot/sfbonline-end-of-support",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeOnline/online-conferencing/speaker-and-mute-buttons-not-working.md",
+      "redirect_url": "/skypeforbusiness/troubleshoot/sfbonline-end-of-support",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeOnline/online-conferencing/meeting-organizer-not-prompted-for-leader-pin.md",
+      "redirect_url": "/skypeforbusiness/troubleshoot/sfbonline-end-of-support",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeOnline/online-configuration/call-queues-not-redirect-to-agents.md",
+      "redirect_url": "/skypeforbusiness/troubleshoot/sfbonline-end-of-support",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeOnline/online-configuration/cant-set-location-in-lync.md",
+      "redirect_url": "/skypeforbusiness/troubleshoot/sfbonline-end-of-support",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeOnline/online-contacts/cannot-add-contact-group.md",
+      "redirect_url": "/skypeforbusiness/troubleshoot/sfbonline-end-of-support",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeOnline/online-configuration/sharepoint-skill-search-not-supported.md",
+      "redirect_url": "/skypeforbusiness/troubleshoot/sfbonline-end-of-support",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeOnline/online-contacts/cant-communicate-with-external-contact.md",
+      "redirect_url": "/skypeforbusiness/troubleshoot/sfbonline-end-of-support",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeOnline/online-exchange-integration/um-enabled-mailbox-migration-fails.md",
+      "redirect_url": "/skypeforbusiness/troubleshoot/sfbonline-end-of-support",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeOnline/online-im-presence/lastactive-attribute-gives-wrong-user-status-info-.md",
+      "redirect_url": "/skypeforbusiness/troubleshoot/sfbonline-end-of-support",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeOnline/online-contacts/cannot-modify-contact-lists.md",
+      "redirect_url": "/skypeforbusiness/troubleshoot/sfbonline-end-of-support",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeOnline/online-contacts/cant-upload-photo-to-sfb-online.md",
+      "redirect_url": "/skypeforbusiness/troubleshoot/sfbonline-end-of-support",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeOnline/online-im-presence/lync-presence-unavailable-in-sharepoint.md",
+      "redirect_url": "/skypeforbusiness/troubleshoot/sfbonline-end-of-support",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeOnline/online-im-presence/sfb-presence-unavailable.md",
+      "redirect_url": "/skypeforbusiness/troubleshoot/sfbonline-end-of-support",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeOnline/online-im-presence/only-first-im-received-when-locked.md",
+      "redirect_url": "/skypeforbusiness/troubleshoot/sfbonline-end-of-support",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeOnline/online-meeting-broadcast/bandwidth-for-skype-meeting-broadcast.md",
+      "redirect_url": "/skypeforbusiness/troubleshoot/sfbonline-end-of-support",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeOnline/online-meeting-broadcast/unsupported-video-type-or-invalid-file-path.md",
+      "redirect_url": "/skypeforbusiness/troubleshoot/sfbonline-end-of-support",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeOnline/online-meeting-broadcast/cannot-join-broadcast-as-event-team-mac.md",
+      "redirect_url": "/skypeforbusiness/troubleshoot/sfbonline-end-of-support",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeOnline/online-meeting-broadcast/issue-join-meeting-broadcast.md",
+      "redirect_url": "/skypeforbusiness/troubleshoot/sfbonline-end-of-support",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeOnline/online-meetings/special-characters-not-display-correctly.md",
+      "redirect_url": "/skypeforbusiness/troubleshoot/sfbonline-end-of-support",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeOnline/online-meetings/schedule-online-meetings-from-owa.md",
+      "redirect_url": "/skypeforbusiness/troubleshoot/sfbonline-end-of-support",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeOnline/online-meetings/url-for-meetings-not-use-custom-domain.md",
+      "redirect_url": "/skypeforbusiness/troubleshoot/sfbonline-end-of-support",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeOnline/online-meetings/user-removed-meeting-sfb-ucwa-application.md",
+      "redirect_url": "/skypeforbusiness/troubleshoot/sfbonline-end-of-support",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeOnline/online-phone-system/add-normalization-rules-change-japanese-dial-plans.md",
+      "redirect_url": "/skypeforbusiness/troubleshoot/sfbonline-end-of-support",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeOnline/online-meetings/users-cant-join-online-meeting.md",
+      "redirect_url": "/skypeforbusiness/troubleshoot/sfbonline-end-of-support",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeOnline/online-meeting-broadcast/event-team-members-repeatedly-prompted.md",
+      "redirect_url": "/skypeforbusiness/troubleshoot/sfbonline-end-of-support",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeOnline/online-meeting-broadcast/cant-join-skype-meeting-broadcast.md",
+      "redirect_url": "/skypeforbusiness/troubleshoot/sfbonline-end-of-support",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeOnline/online-phone-system/cannot-transfer-numbers-from-office-365-tenant.md",
+      "redirect_url": "/skypeforbusiness/troubleshoot/sfbonline-end-of-support",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeOnline/online-phone-system/telephone-number-rings-old-telephone.md",
+      "redirect_url": "/skypeforbusiness/troubleshoot/sfbonline-end-of-support",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeOnline/online-phone-system/pstn-call-shows-wrong-caller-number.md",
+      "redirect_url": "/skypeforbusiness/troubleshoot/sfbonline-end-of-support",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeOnline/online-phone-system/voice-tab-not-appear-sfb-admin-center.md",
+      "redirect_url": "/skypeforbusiness/troubleshoot/sfbonline-end-of-support",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeOnline/online-phone-system/cannot-manage-voice-mail-or-greeting.md",
+      "redirect_url": "/skypeforbusiness/troubleshoot/sfbonline-end-of-support",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeOnline/online-phone-system/rule-not-applied-to-cloud-pbx-voice-mail.md",
+      "redirect_url": "/skypeforbusiness/troubleshoot/sfbonline-end-of-support",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeOnline/online-phone-system/deployment-of-cloud-connector-edition.md",
+      "redirect_url": "/skypeforbusiness/troubleshoot/sfbonline-end-of-support",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeOnline/online-phone-system/escalation-peer-to-peer-pstn-call-fails.md",
+      "redirect_url": "/skypeforbusiness/troubleshoot/sfbonline-end-of-support",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeOnline/online-phone-system/pstn-calling-emergency-address.md",
+      "redirect_url": "/skypeforbusiness/troubleshoot/sfbonline-end-of-support",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeOnline/online-phone-system/phone-number-exceed-pstn-calling-license.md",
+      "redirect_url": "/skypeforbusiness/troubleshoot/sfbonline-end-of-support",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeOnline/online-phone-system/incoming-lync-to-phone-calls-not-transferred.md",
+      "redirect_url": "/skypeforbusiness/troubleshoot/sfbonline-end-of-support",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeOnline/online-phone-system/cant-use-all-skype-voice-features.md",
+      "redirect_url": "/skypeforbusiness/troubleshoot/sfbonline-end-of-support",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeOnline/online-phone-system/cant-locate-city-name.md",
+      "redirect_url": "/skypeforbusiness/troubleshoot/sfbonline-end-of-support",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeOnline/online-sign-in/sfb-online-sign-in-error.md",
+      "redirect_url": "/skypeforbusiness/troubleshoot/sfbonline-end-of-support",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeOnline/online-sign-in/cannot-sign-in-to-lync.md",
+      "redirect_url": "/skypeforbusiness/troubleshoot/sfbonline-end-of-support",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeOnline/online-sign-in/cant-sign-in-to-lync-not-support-sni.md",
+      "redirect_url": "/skypeforbusiness/troubleshoot/sfbonline-end-of-support",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeOnline/online-sign-in/error-in-xml-document-new-csonlinesession.md",
+      "redirect_url": "/skypeforbusiness/troubleshoot/sfbonline-end-of-support",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeOnline/online-subscription/your-subscription-has-expired.md",
+      "redirect_url": "/skypeforbusiness/troubleshoot/sfbonline-end-of-support",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeOnline/online-sign-in/sign-in-issues-lync-for-mac.md",
+      "redirect_url": "/skypeforbusiness/troubleshoot/sfbonline-end-of-support",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeOnline/online-sign-in/troubleshoot-issues-related-skype-for-business-sign-in.md",
+      "redirect_url": "/skypeforbusiness/troubleshoot/sfbonline-end-of-support",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeOnline/online-sign-in/lync-2010-sign-into-sfb-online.md",
+      "redirect_url": "/skypeforbusiness/troubleshoot/sfbonline-end-of-support",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeOnline/online-sign-in/issue-sign-in-german-environment.md",
+      "redirect_url": "/skypeforbusiness/troubleshoot/sfbonline-end-of-support",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeOnline/online-sign-in/cannot-sign-in-using-full-redelegation-domain.md",
+      "redirect_url": "/skypeforbusiness/troubleshoot/sfbonline-end-of-support",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeOnline/online-sign-in/cannot-sign-in-lync-mobile-2013.md",
+      "redirect_url": "/skypeforbusiness/troubleshoot/sfbonline-end-of-support",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeOnline/skype-online-welcome.yml",
+      "redirect_url": "/skypeforbusiness/troubleshoot/sfbonline-end-of-support",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/Hub/context/online-context.yml",
+      "redirect_url": "/skypeforbusiness/troubleshoot/sfbonline-end-of-support",
+      "redirect_document_id": false
+    }    
   ]
 }

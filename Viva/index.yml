@@ -74,8 +74,6 @@ productDirectory:
       links:
         - url: /skypeforbusiness/troubleshoot/skype-server-welcome
           text: Skype for Business Server
-        - url: /skypeforbusiness/troubleshoot/skype-online-welcome
-          text: Skype for Business Online
         - url: /skypeforbusiness/troubleshoot/skype-hybrid-welcome
           text: Skype for Business Hybrid
         - url: /skypeforbusiness/troubleshoot/skype-experts-welcome
@@ -100,9 +98,9 @@ productDirectory:
     - title: Microsoft Viva
       imageSrc: /support/media/hub-landing/logo-viva.png
       links:
-        - url: ./learning/viva-learning-welcome.md
+        - url: ./learning/viva-learning-welcome.yml
           text: Microsoft Viva Learning
-        - url: ./connections/viva-connections-welcome.md
+        - url: ./connections/viva-connections-welcome.yml
           text: Microsoft Viva Connections 
     # Card
     - title: Endpoint management
