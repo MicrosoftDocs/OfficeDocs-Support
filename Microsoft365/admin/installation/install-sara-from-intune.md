@@ -77,7 +77,7 @@ For complete information about app deployment by using Microsoft Intune, see the
     
         Use the following program values for SaRA:
         - **Install command:** sarasetup.exe /q
-        - **Uninstall command:** rundll32.exe dfshim.dll,ShArpMaintain Microsoft.Sara.application, Culture=neutral, PublicKeyToken=1f16bd4ec4c2bb19, processorArchitecture=msil
+        - **Uninstall command:** rundll32.exe dfshim.dll,ShArpMaintain Microsoft.Sara.application, Culture=neutral, PublicKeyToken=58ba7f1f99ea0333, processorArchitecture=msil
         - **Install behavior:** User
  
         :::image type="content" source="media/install-sara-from-intune/program-setting.png" alt-text="Screenshot shows steps to use the program values in the Program settings.":::
