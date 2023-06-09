@@ -1631,6 +1631,11 @@
       "redirect_document_id": true
     },
     {
+      "source_path": "Microsoft365/admin/administration/office-crash-with-sendtobluetooth.md",
+      "redirect_url": "/office/troubleshoot/third-party-add-ins/office-crash-with-sendtobluetooth",
+      "redirect_document_id": true
+    },
+    {
       "source_path": "Office/Client/office/ability-to-uninstall-office.md",
       "redirect_url": "/office/troubleshoot/installation/ability-to-uninstall-office",
       "redirect_document_id": true
