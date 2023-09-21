@@ -1,8 +1,8 @@
 ---
 title: Missing Weather Bar and Weather settings
 description: Article documenting a scenario where the Weather Bar and Weather settings are missing in Microsoft Outlook 2019, 2016, 2013 or Outlook for Microsoft 365.
-author: helenclu
-ms.author: luche
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
@@ -19,7 +19,7 @@ appliesto:
   - Microsoft Outlook 2010
   - Outlook for Microsoft 365
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 # Weather Bar and Weather settings missing in Outlook 2019, 2016, 2013, or Outlook for Microsoft 365
 

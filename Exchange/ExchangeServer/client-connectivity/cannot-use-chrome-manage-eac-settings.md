@@ -1,8 +1,8 @@
 ---
 title: Error when you use Chrome to manage settings in the EAC in Exchange Server 2013
 description: Resolves an issue in which you receive a (The Web page isn't loading properly) error message when you use Chrome to manage settings in the EAC. This issue occurs in an Exchange Server 2013 environment.
-author: simonxjx
-ms.author: v-six
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: 
   - Exchange Server
   - CSSTroubleshoot
-ms.reviewer: zhengy
+ms.reviewer: zhengy, v-six
 appliesto: 
   - Exchange Server 2013 Enterprise
   - Exchange Server 2013 Standard Edition
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 # You can't use Chrome to manage settings in the EAC in an Exchange Server 2013 environment
 

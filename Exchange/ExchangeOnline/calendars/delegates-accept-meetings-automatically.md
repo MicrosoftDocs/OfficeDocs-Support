@@ -1,8 +1,8 @@
 ---
 title: Delegates accept meetings automatically
 description: Describes behavior in which a meeting request that's created by a delegate is automatically accepted and added to the delegate's calendar when the delegate is an attendee.
-author: simonxjx
-ms.author: v-six
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
@@ -10,7 +10,7 @@ localization_priority: Normal
 ms.custom: 
   - Exchange Online
   - CSSTroubleshoot
-ms.reviewer: 
+ms.reviewer: v-six
 appliesto: 
   - Exchange Online
   - Exchange Server 2016 Enterprise Edition
@@ -18,7 +18,7 @@ appliesto:
   - Exchange Server 2013 Enterprise
   - Exchange Server 2013 Standard Edition
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 # Meeting is automatically accepted when a delegate is added as an attendee
 

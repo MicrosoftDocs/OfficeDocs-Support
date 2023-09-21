@@ -1,8 +1,8 @@
 ---
 title: How to use vCalendar in Outlook
 description: Discusses how to create, to distribute, and to process a vCalendar file in Outlook.
-author: helenclu
-ms.author: luche
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
@@ -21,7 +21,7 @@ appliesto:
   - Exchange Server 2010 Standard
   - Exchange Server 2010 Enterprise
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 # How to use vCalendar in Outlook
 

@@ -7,13 +7,15 @@ localization_priority: Normal
 search.appverid: 
   - MET150
 audience: ITPro
-ms.custom: CSSTroubleshoot
+ms.custom:
+  - CSSTroubleshoot
+  - has-azure-ad-ps-ref
 ms.topic: troubleshooting
 ms.author: luche
 appliesto: 
   - Azure Active Directory
   - Microsoft 365 User and Domain Management
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 
 # Domain errors in the Microsoft 365 portal

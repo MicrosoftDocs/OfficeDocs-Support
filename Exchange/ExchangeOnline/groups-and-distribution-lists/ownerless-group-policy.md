@@ -1,8 +1,8 @@
 ---
 title: Microsoft 365 ownerless group policy
 description: Answers questions that you might have about an ownerless group and its policy.
-author: helenclu
-ms.author: luche
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
@@ -16,15 +16,15 @@ appliesto:
   - Exchange Online via Office 365 E Plans
   - Exchange Online via Office 365 P Plans
 search.appverid: MET150
-ms.date: 9/21/2022
+ms.date: 09/21/2022
 ---
 # Microsoft 365 ownerless group policy
 
 Global administrators can [set or edit a policy](/microsoft-365/admin/create-groups/ownerless-groups-teams) for ownerless Microsoft 365 groups and teams. The policy queries active members of an ownerless group about whether they'll accept the group ownership. Notifications are sent weekly starting within 24 hours of the policy creation. This article answers questions that you might have about ownerless groups and this policy.
 
-## Does the policy for ownerless groups apply to Yammer, SharePoint, Stream and so on?
+## Does the policy for ownerless groups apply to Viva Engage, SharePoint, Stream and so on?
 
-For Yammer: If a tenant is in Native mode, Yammer groups are identified as Microsoft 365 groups. In this scenario, the policy for ownerless groups works as expected.  
+For Viva Engage: If a tenant is in Native mode, Viva Engage groups are identified as Microsoft 365 groups. In this scenario, the policy for ownerless groups works as expected.  
 
 For SharePoint, Stream, and other applications: Not all groups can be identified as Microsoft 365 groups. Therefore, the policy for ownerless groups might not work.
 

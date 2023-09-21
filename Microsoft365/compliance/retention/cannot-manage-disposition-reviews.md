@@ -1,8 +1,6 @@
 ---
 title: The remote server returned an error (401) Rbac check failed when you manage disposition of data
 description: Fixes an issue in which you can't manage disposition reviews from Microsoft Purview Records Management. This issue occurs because you don't have sufficient permission.
-author: v-charloz
-ms.author: v-chazhang
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
@@ -14,7 +12,7 @@ ms.reviewer: subansal; lindabr; meerak
 appliesto: 
   - Microsoft 365
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 
 # "(401) Rbac check failed" error when trying to manage disposition reviews

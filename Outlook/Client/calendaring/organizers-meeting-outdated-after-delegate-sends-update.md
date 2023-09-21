@@ -1,8 +1,8 @@
 ---
 title: Organizer's meeting outdated after delegate sends update
 description: Issue causes an organizer's meeting to remain outdated after a delegate sends an update on their behalf.
-ms.author: luche
-author: helenclu
+ms.author: meerak
+author: cloud-writer
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
@@ -16,7 +16,7 @@ appliesto:
   - Outlook 2016
   - Outlook for Microsoft 365
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 # Organizer's meeting remains outdated after a delegate sends an update on their behalf
 

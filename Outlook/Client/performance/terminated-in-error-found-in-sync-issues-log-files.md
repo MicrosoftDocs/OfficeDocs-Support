@@ -1,8 +1,8 @@
 ---
 title: Terminated in error found in Sync Issues log files
 description: Documenting an issue for OffCAT rule where errors appear in the Sync Issues folder.
-author: helenclu
-ms.author: luche
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
@@ -18,7 +18,7 @@ appliesto:
   - Microsoft Office Outlook 2007
   - Outlook for Microsoft 365
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 # Terminated in error found in Outlook Sync Issues log files
 

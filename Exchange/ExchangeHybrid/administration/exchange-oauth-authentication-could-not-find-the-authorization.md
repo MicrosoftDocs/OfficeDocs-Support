@@ -1,8 +1,8 @@
 ---
 title: OAuth authentication configuration fails
 description: Describes an error that occurs when you run the Hybrid Configuration wizard. Provides a resolution.
-author: simonxjx
-ms.author: v-six
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
@@ -10,13 +10,13 @@ localization_priority: Normal
 ms.custom: 
   - Exchange Hybrid
   - CSSTroubleshoot
-ms.reviewer: timothyh
+ms.reviewer: timothyh, v-six
 appliesto: 
   - Exchange Online
   - Exchange Server 2013 Enterprise
   - Exchange Server 2013 Standard Edition
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 # Exchange OAuth authentication couldn't find the authorization certificate with thumbprint error when running Hybrid Configuration
 

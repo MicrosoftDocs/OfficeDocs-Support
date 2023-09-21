@@ -1,20 +1,21 @@
 ---
 title: Cannot add Exchange license in Azure AD Connect
 description: Fixes an issue in which you encounter issues when you try to add an Exchange license in Azure AD Connect for Microsoft 365.
-author: simonxjx
-ms.author: v-six
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
 localization_priority: Normal
-ms.custom: 
+ms.custom:
   - Exchange Online
   - CSSTroubleshoot
-ms.reviewer: kerbo
+  - has-azure-ad-ps-ref
+ms.reviewer: kerbo, v-six
 appliesto: 
   - Exchange Online
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 # Can't add Exchange license in Azure AD Connect for Microsoft 365
 

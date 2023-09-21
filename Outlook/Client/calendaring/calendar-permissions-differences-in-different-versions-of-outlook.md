@@ -1,8 +1,8 @@
 ---
 title: Calendar permissions differences
 description: This article provides a resolution to solve the calendar permissions differences issue between different versions of Microsoft Outlook.
-author: helenclu
-ms.author: luche
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
@@ -16,7 +16,7 @@ appliesto:
   - Microsoft Outlook 2010
   - Microsoft Office Outlook 2007
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 # Calendar permissions differences in Outlook 2013, 2010, and 2007
 

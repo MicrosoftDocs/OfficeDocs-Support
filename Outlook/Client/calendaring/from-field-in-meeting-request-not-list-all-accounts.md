@@ -1,8 +1,8 @@
 ---
 title: From in meeting request not lists all accounts
 description: Works around a problem in which you cannot see all accounts in the From field in a meeting request in Outlook 2010, Outlook 2013, Outlook 2016, and Outlook for O365.
-author: helenclu
-ms.author: luche
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
@@ -17,7 +17,7 @@ appliesto:
   - Outlook 2016
   - Outlook for Microsoft 365
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 # The From field in a meeting request does not list all accounts in Microsoft Outlook
 

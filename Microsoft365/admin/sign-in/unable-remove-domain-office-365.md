@@ -7,12 +7,14 @@ localization_priority: Normal
 search.appverid: 
   - MET150
 audience: ITPro
-ms.custom: CSSTroubleshoot
+ms.custom:
+  - CSSTroubleshoot
+  - has-azure-ad-ps-ref
 ms.topic: troubleshooting
 ms.author: luche
 appliesto: 
   - Microsoft 365
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 
 # "Unable to remove this domain" when you try to remove a domain from Microsoft 365

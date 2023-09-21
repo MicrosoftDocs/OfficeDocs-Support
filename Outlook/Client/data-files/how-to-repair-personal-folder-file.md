@@ -1,8 +1,8 @@
 ---
 title: How to repair personal folder file (.pst)
 description: Describes how to find the Inbox Repair tool (Scanpst.exe) that is designed to repair the personal folder (.pst) files.
-author: helenclu
-ms.author: luche
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
@@ -18,7 +18,7 @@ appliesto:
   - Microsoft Office Outlook 2007
   - Microsoft Office Outlook 2003
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 # How to repair your Outlook personal folder file (.pst)
 

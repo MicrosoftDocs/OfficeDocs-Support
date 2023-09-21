@@ -1,13 +1,13 @@
 ---
 title: Can't open another user's mailbox
 description: Resolves an issue in which you can't open another user's mailbox by using Outlook Web App in an Exchange Server environment.
-author: simonxjx
-ms.author: v-six
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
 localization_priority: Normal
-ms.reviewer: batre
+ms.reviewer: batre, v-six
 ms.custom: 
   - Exchange Server
   - CSSTroubleshoot
@@ -18,7 +18,7 @@ appliesto:
   - Exchange Server 2013 Standard Edition
   - Exchange Server 2016 Enterprise Edition
   - Exchange Server 2016 Standard Edition
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 # Error (HTTP 400 Bad Request) when you try to open another user's mailbox in Outlook Web App in an Exchange Server environment
 

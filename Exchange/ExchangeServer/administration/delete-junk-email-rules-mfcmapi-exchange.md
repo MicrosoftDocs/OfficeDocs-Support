@@ -1,8 +1,8 @@
 ---
 title: Delete junk email rules by using MFCMAPI
 description: Describes how to delete junk email rules by using MFCMAPI in Exchange Server 2010, Exchange Server 2013, and Exchange Server 2016.
-author: simonxjx
-ms.author: v-six
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
@@ -11,7 +11,7 @@ ms.custom:
   - Exchange Server
   - CI 119623
   - CSSTroubleshoot
-ms.reviewer: ChrisBur, MHAQUE, DJBall, ChrisBur, genli
+ms.reviewer: ChrisBur, MHAQUE, DJBall, ChrisBur, genli, v-six
 search.appverid: 
   - MET150
 appliesto: 
@@ -21,7 +21,7 @@ appliesto:
   - Exchange Server 2013 Standard Edition
   - Exchange Server 2010 Enterprise
   - Exchange Server 2010 Standard
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 # How to delete junk email rules by using MFCMAPI in an Exchange Server environment
 

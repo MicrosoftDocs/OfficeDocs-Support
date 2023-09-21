@@ -1,8 +1,8 @@
 ---
 title: Let ZeroConfigExchange automatically create first profile
 description: Make ZeroConfigExchange automate the creation of the first Outlook profile only in case you want to manually create the second and more profiles.
-author: helenclu
-ms.author: luche
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
@@ -15,7 +15,7 @@ appliesto:
   - Outlook 2019
   - Outlook 2016
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 # How to manually create additional Outlook 2016 profiles with ZeroConfigExchange in place
 

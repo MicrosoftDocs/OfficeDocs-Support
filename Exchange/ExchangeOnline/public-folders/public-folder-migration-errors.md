@@ -1,8 +1,8 @@
 ---
 title: Errors during a public folder migration
 description: Fix errors that occur because of orphaned public folder mailboxes when you roll back a public folder migration or create a migration endpoint.
-author: helenclu
-ms.author: luche
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
@@ -16,7 +16,7 @@ ms.reviewer: haembab, batre
 appliesto: 
   - Exchange Online
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 # Errors during a public folder migration
 

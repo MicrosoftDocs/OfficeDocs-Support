@@ -1,8 +1,8 @@
 ---
 title: Senders do not receive Out of Office notifications
 description: Describes that senders don't receive Out of Office replies from a Microsoft 365 user although an Out of Office MailTip is displayed in the mail clients of the senders. Provides a solution and a workaround.
-author: simonxjx
-ms.author: v-six
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
@@ -10,11 +10,11 @@ localization_priority: Normal
 ms.custom: 
   - Exchange Online
   - CSSTroubleshoot
-ms.reviewer: 
+ms.reviewer: v-six
 appliesto: 
   - Exchange Online
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 # Senders don't receive Out of Office notifications from a Microsoft 365 user when Forwarding is enabled
 

@@ -1,13 +1,13 @@
 ---
 title: Emails aren't saved in the Sent Items folder
 description: Describes an issue in which email messages that are sent in Outlook for Mac aren't saved in the Sent Items folder as expected. Provides a resolution for this issue.
-author: simonxjx
-ms.author: v-six
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
 localization_priority: Normal
-ms.reviewer: djball, tasitae, djball, nasira
+ms.reviewer: djball, tasitae, djball, nasira, v-six
 ms.custom: 
   - Exchange Server
   - CSSTroubleshoot
@@ -21,7 +21,7 @@ appliesto:
   - Exchange Server 2007
   - Outlook 2016 for Mac
   - Outlook for Microsoft 365 for Mac
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 # Email messages that you send from a shared mailbox aren't saved in the Sent Items folder in Outlook for Mac
 

@@ -9,7 +9,9 @@ search.appverid:
 audience: ITPro
 ms.topic: troubleshooting
 ms.author: luche
-ms.custom: CSSTroubleshoot
+ms.custom:
+  - CSSTroubleshoot
+  - has-azure-ad-ps-ref
 appliesto: 
   - Cloud Services (Web roles/Worker roles)
   - Azure Active Directory
@@ -17,7 +19,7 @@ appliesto:
   - Azure Backup
   - Microsoft 365
   - User and Domain Management
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 
 # "We could not verify your account" error when you try to reset your admin password in Microsoft 365, Intune, or Azure

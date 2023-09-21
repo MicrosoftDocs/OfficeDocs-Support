@@ -1,8 +1,8 @@
 ---
 title: Active Directory error 0x52 when installing Edge role
 description: Provides a workaround to solve the Active Directory 0x52 error that occurs when installing Exchange Server 2016 Edge role.
-author: simonxjx
-ms.author: v-six
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: 
   - Exchange Server
   - CSSTroubleshoot
-ms.reviewer: 
+ms.reviewer: v-six
 appliesto: 
   - Exchange Server 2016 Enterprise Edition
   - Exchange Server 2016 Enterprise Edition
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 # Active Directory error 0x52 at Exchange Server 2016 Edge role installation
 

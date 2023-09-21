@@ -1,8 +1,8 @@
 ---
 title: How to manage maximum concurrent migration batches
 description: Describes how to manage the number of concurrent migration batches in Exchange Online in Microsoft 365.
-author: simonxjx
-ms.author: v-six
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
@@ -10,11 +10,11 @@ localization_priority: Normal
 ms.custom: 
   - Exchange Online
   - CSSTroubleshoot
-ms.reviewer: v-lanac
+ms.reviewer: v-lanac, v-six
 appliesto: 
   - Exchange Online
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 # How to manage the maximum concurrent migration batches in Exchange Online in Microsoft 365
 

@@ -1,8 +1,8 @@
 ---
 title: Cannot open Word Documents or Excel Spreadsheets
 description: Describes an issue that occurs when you try to open a Microsoft Word document or an Excel spreadsheet from Outlook and receive an error message.
-author: helenclu
-ms.author: luche
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
@@ -30,7 +30,7 @@ appliesto:
   - PowerPoint 2013
   - PowerPoint for Microsoft 365
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 # Cannot open Word documents or Excel spreadsheets from an external source in Outlook
 

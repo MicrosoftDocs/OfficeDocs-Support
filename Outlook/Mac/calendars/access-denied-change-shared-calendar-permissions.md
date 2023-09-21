@@ -1,8 +1,8 @@
 ---
 title: Can't change shared calendar permissions
 description: Fixes an issue in which you receive an Access Denied error when you change permissions to a calendar shared by another user.
-author: helenclu
-ms.author: luche
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
@@ -17,7 +17,7 @@ appliesto:
   - Outlook 2019 for Mac
   - Outlook for Microsoft 365 for Mac
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 # "Access Denied" error when you change shared calendar permissions in Outlook for Mac
 

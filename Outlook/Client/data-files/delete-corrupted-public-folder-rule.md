@@ -1,8 +1,8 @@
 ---
 title: Delete corrupted public folder rules
 description: Use the MFCMAPI tool to delete corrupted public folder rules that prevent you from accessing the Folder Assistant to manage rules in Outlook.
-author: helenclu
-ms.author: luche
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
@@ -18,7 +18,7 @@ appliesto:
   - Outlook for Microsoft 365
   - Outlook LTSC 2021
 search.appverid: MET150
-ms.date: 5/12/2022
+ms.date: 05/12/2022
 ---
 # Can't access Folder Assistant in Outlook
 

@@ -1,8 +1,8 @@
 ---
 title: Spam Confidence Level (SCL) -1 not working
 description: Discusses an issue in which Outlook unexpectedly marks messages as junk if the Exchange Server connection becomes disconnected. Provides a workaround.
-author: helenclu
-ms.author: luche
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
@@ -20,7 +20,7 @@ appliesto:
   - Microsoft Business Productivity Online Dedicated
   - Microsoft Business Productivity Online Suite Federal
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 # Outlook moves messages to the Junk Mail Folder even if the Spam Confidence Level (SCL) is -1
 

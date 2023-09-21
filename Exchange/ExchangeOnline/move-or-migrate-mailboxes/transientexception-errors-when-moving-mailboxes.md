@@ -1,8 +1,8 @@
 ---
 title: TransientException when moving mailboxes
 description: Describes that you experience RestartMoveCorruptSyncStateTransientException and CommunicationErrorTransientException errors in the move request report when you try to offboard mailboxes from Exchange Online to Exchange Server 2010 in the on-premises Exchange environment. Provides a solution.
-author: simonxjx
-ms.author: v-six
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: 
   - Exchange Online
   - CSSTroubleshoot
-ms.reviewer: 
+ms.reviewer: v-six
 appliesto: 
   - Exchange Online
   - Exchange Server 2010
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 # TransientException when moving mailboxes from Exchange Online to Exchange Server 2010 in on-premises
 

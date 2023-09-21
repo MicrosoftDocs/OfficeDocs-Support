@@ -1,8 +1,8 @@
 ---
 title: Can't connect. Please try again later when searching people in OWA in Exchange Server 2019
 description: Describes an issue in which you are unable to search people in OWA in Exchange Server 2019. Provides a solution.
-author: simonxjx
-ms.author: v-six
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
@@ -11,12 +11,12 @@ ms.custom:
   - Exchange Server
   - CI 116313
   - CSSTroubleshoot
-ms.reviewer: jcoiffin
+ms.reviewer: jcoiffin, v-six
 appliesto: 
   - Exchange Server 2019
 search.appverid: 
   - MET150
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 # "Can't connect. Please try again later" error when searching people in OWA in Exchange Server 2019
 

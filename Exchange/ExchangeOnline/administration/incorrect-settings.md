@@ -1,20 +1,20 @@
 ---
 title: Can't connect to Exchange Online because of incorrect service settings
 description: Describes a scenario in which Microsoft 365 users who connect to Exchange Online by using incorrect hardcoded service settings will not be able to connect to the service after July8, 2015 when these settings are discontinued. Provides a solution.
-author: simonxjx
-audience: ITPro
+author: cloud-writer
+ms.author: meerak
 ms.topic: troubleshooting
 ms.custom: 
   - Exchange Online
   - CSSTroubleshoot
-ms.author: v-six
 manager: dcscontentpm
 localization_priority: Normal
 search.appverid: 
   - MET150
 appliesto: 
   - Exchange Online
-ms.date: 3/31/2022
+ms.date: 03/31/2022
+ms.reviewer: v-six
 ---
 # Microsoft 365 users can't connect to Exchange Online because of incorrect service settings
 

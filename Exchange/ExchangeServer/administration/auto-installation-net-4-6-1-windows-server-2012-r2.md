@@ -1,13 +1,13 @@
 ---
 title: Auto-installation of .NET 4.6.1
 description: Describes the effects and functionality of the announced .NET Framework 4.6.1 for Windows Server 2012 R2 server in an Exchange Server 2013 or Exchange Server 2016 environment.
-author: simonxjx
-ms.author: v-six
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
 localization_priority: Normal
-ms.reviewer: marcn, nasira, brettan
+ms.reviewer: marcn, nasira, brettan, v-six
 ms.custom: 
   - Exchange Server
   - CI 119623
@@ -19,7 +19,7 @@ appliesto:
   - Exchange Server 2013 Standard Edition
   - Exchange Server 2016 Enterprise Edition
   - Exchange Server 2016 Standard Edition
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 # Auto-installation of .NET Framework 4.6.1 for Windows Server 2012 R2 in Exchange Server 2013 or 2016
 

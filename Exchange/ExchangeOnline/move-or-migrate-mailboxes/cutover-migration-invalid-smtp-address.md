@@ -1,8 +1,8 @@
 ---
 title: Not a valid SMTP address in a cutover migration
 description: Fixes an issue that triggers an error when you try to migrate mailboxes from an on-premises Exchange organization to Exchange Online in a cutover migration.
-author: simonxjx
-ms.author: v-six
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
@@ -10,7 +10,7 @@ localization_priority: Normal
 ms.custom: 
   - Exchange Online
   - CSSTroubleshoot
-ms.reviewer: 
+ms.reviewer: v-six
 appliesto: 
   - Exchange Online
   - Exchange Server 2016 Enterprise Edition
@@ -20,7 +20,7 @@ appliesto:
   - Exchange Server 2010 Enterprise
   - Exchange Server 2010 Standard
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 # Not a valid SMTP address when you migrate mailboxes to Exchange Online in a cutover migration
   

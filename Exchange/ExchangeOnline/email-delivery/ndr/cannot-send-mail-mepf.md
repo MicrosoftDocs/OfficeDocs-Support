@@ -1,8 +1,8 @@
 ---
 title: NDR error 554 5.2.2 mailbox full when sending email to mail-enabled public folders
 description: Email is not able to be delivered to mail-enabled public folders in Microsoft 365 with error 554 5.2.2 mailbox full. This article provides three resolutions.
-author: simonxjx
-ms.author: v-six
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
@@ -12,12 +12,12 @@ ms.custom:
   - CI 123399
   - CSSTroubleshoot
   - CI 167832
-ms.reviewer: haembab
+ms.reviewer: haembab, v-six
 appliesto: 
   - Exchange Online
 search.appverid: 
   - MET150
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 # "554 5.2.2 mailbox full" when sending emails to a mail-enabled public folder
 

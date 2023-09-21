@@ -1,8 +1,8 @@
 ---
 title: Formatting lost when editing HtmlBody
 description: Provides a workaround for formatting that's lost when you edit the HtmlBody property of an Outlook item using the Outlook object model.
-author: helenclu
-ms.author: luche
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
@@ -19,7 +19,7 @@ appliesto:
   - Microsoft Office Outlook 2007
   - Outlook for Microsoft 365
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 # Formatting lost when editing the HtmlBody property of an Outlook item by using the Outlook object model
 

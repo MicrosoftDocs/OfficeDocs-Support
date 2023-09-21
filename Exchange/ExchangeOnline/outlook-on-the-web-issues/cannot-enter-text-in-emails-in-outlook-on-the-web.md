@@ -1,8 +1,8 @@
 ---
 title: Cannot enter text in emails in Outlook on the web
 description: Describes an issue that prevents users from entering text in the body of email messages in Outlook on the web when you use Internet Explorer. This is caused by a third-party antivirus add-on to the web browser.
-author: simonxjx
-ms.author: v-six
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
@@ -10,7 +10,7 @@ localization_priority: Normal
 ms.custom: 
   - Exchange Online
   - CSSTroubleshoot
-ms.reviewer: 
+ms.reviewer: v-six
 appliesto: 
   - Exchange Online
   - Exchange Server 2016 Enterprise Edition
@@ -20,7 +20,7 @@ appliesto:
   - Exchange Server 2010 Enterprise
   - Exchange Server 2010 Standard
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 # You can't enter text in the body of email messages in Outlook on the web in Internet Explorer
 

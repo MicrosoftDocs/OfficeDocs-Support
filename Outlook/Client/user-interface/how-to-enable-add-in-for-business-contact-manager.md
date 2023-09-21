@@ -1,8 +1,8 @@
 ---
 title: How to enable add-in for Business Contact Manager
 description: Provides steps to configure the Business Contact Manager Add-in to load in Microsoft Outlook.
-author: helenclu
-ms.author: luche
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
@@ -14,7 +14,7 @@ ms.reviewer: TasitaE, GregMans
 appliesto: 
   - Outlook 2010 with Business Contact Manager
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 # How to enable the add-in for Business Contact Manager in Outlook
 

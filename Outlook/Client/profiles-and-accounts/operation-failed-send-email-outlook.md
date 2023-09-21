@@ -1,8 +1,8 @@
 ---
 title: The operation failed error when you send email messages in Outlook
 description: Describes an error (The operation failed. The messaging interfaces have returned an unknown error.) that occurs when a Google Apps Sync for Outlook account and an Exchange Server account are configured in the same Outlook profile.
-author: helenclu
-ms.author: luche
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
@@ -18,7 +18,7 @@ appliesto:
   - Outlook for Microsoft 365
   - Outlook 2019
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 # The operation failed error when you send email messages in Outlook
 

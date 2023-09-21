@@ -1,8 +1,8 @@
 ---
 title: Control recurrence patterns via Group Policy
 description: Describes how to control Microsoft Outlook recurrence patterns by using Group Policy.
-author: helenclu
-ms.author: luche
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
@@ -19,7 +19,7 @@ appliesto:
   - Microsoft Office Outlook 2007
   - Microsoft Office Outlook 2003
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 # How to control Outlook recurrence patterns using Group Policy
 

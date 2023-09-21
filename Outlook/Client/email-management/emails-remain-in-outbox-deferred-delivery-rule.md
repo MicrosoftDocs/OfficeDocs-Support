@@ -1,8 +1,8 @@
 ---
 title: Emails remain in Outbox for at least one minute
 description: This article provides a solution to an issue where email messages remain in the Outbox folder for at least one minute before it's sent.
-author: helenclu
-ms.author: luche
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
@@ -21,7 +21,7 @@ appliesto:
   - Outlook 2010
   - Office Outlook 2007
   - Office Outlook 2003
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 # Email messages remain in the Outbox because of Deferred Delivery rule
 

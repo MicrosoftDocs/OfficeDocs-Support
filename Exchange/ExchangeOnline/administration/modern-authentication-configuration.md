@@ -1,21 +1,21 @@
 ---
 title: Modern Authentication configuration requirements for transition
 description: Configuration requirements by Outlook version for transition from Microsoft Office 365 dedicated/ITAR to vNext.
-author: simonxjx
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 localization_priority: Normal
 audience: ITPro
 ms.topic: troubleshooting
-ms.author: v-six
 ms.custom: 
   - Exchange Online
   - CSSTroubleshoot
-ms.reviewer: kellybos
+ms.reviewer: kellybos, v-six
 search.appverid: 
   - MET150
 appliesto: 
   - Exchange Online
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 # Modern Authentication configuration requirements for transition from Office 365 dedicated/ITAR to vNext
 

@@ -1,21 +1,22 @@
 ---
 title: Common tasks to manage Microsoft 365 groups
 description: Describes common tasks about how to manage Microsoft 365 groups. For example, groups and teams, group delegation, group email management, and some other tasks.
-author: helenclu
-ms.author: luche
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
 localization_priority: Normal
-ms.custom: 
+ms.custom:
   - Exchange Online
   - CI 115161
   - CSSTroubleshoot
+  - has-azure-ad-ps-ref
 ms.reviewer: batre
 appliesto: 
   - Exchange Online
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 # Microsoft 365 Groups - common tasks
 
@@ -509,7 +510,7 @@ Also, you can [search the content](/microsoft-365/compliance/content-search) of 
 
 ### Microsoft 365 Group usage report
 
-In the Microsoft 365 groups report, you can gain insights into the activity of groups in your organization, such as Emails received in Exchange, Messages in Yammer. For more information, see [Microsoft 365 Reports in the admin center](https://aka.ms/M365GroupUsageReport).
+In the Microsoft 365 groups report, you can gain insights into the activity of groups in your organization, such as Emails received in Exchange, Messages in Viva Engage. For more information, see [Microsoft 365 Reports in the admin center](https://aka.ms/M365GroupUsageReport).
 
 [Back to top](#summary)
 

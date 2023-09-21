@@ -1,8 +1,8 @@
 ---
 title: Outlook connection issues with Exchange mailboxes because of the RPC encryption requirement
 description: Fixes some mailbox connection issues for Outlook 2013, Outlook 2010, or Outlook 2007 that has an Exchange 2010, Exchange 2013, or Exchange 2016 mailbox configured.
-author: simonxjx
-ms.author: v-six
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
@@ -10,7 +10,7 @@ localization_priority: Normal
 ms.custom: 
   - Exchange Server
   - CSSTroubleshoot
-ms.reviewer: gregmans, wduff
+ms.reviewer: gregmans, wduff, v-six
 appliesto: 
   - Exchange Server 2016 Enterprise Edition
   - Exchange Server 2016 Standard Edition
@@ -22,7 +22,7 @@ appliesto:
   - Microsoft Outlook 2010
   - Microsoft Office Outlook 2007
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 # Outlook connection issues with Exchange mailboxes caused by the RPC encryption requirement
 

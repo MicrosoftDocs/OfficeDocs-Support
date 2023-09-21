@@ -1,8 +1,8 @@
 ---
 title: No buttons to sign or encrypt emails
 description: Describes how to configure Outlook to automatically show the Sign button and the Encrypt button in an email message after Outlook 2007 or 2010 has been configured for S/MIME.
-author: helenclu
-ms.author: luche
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
@@ -15,7 +15,7 @@ appliesto:
   - Microsoft Outlook 2010
   - Microsoft Office Outlook 2007
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 # After you obtain an S/MIME certificate, no buttons are available to sign or encrypt email messages in Outlook 2007 and in Outlook 2010
 

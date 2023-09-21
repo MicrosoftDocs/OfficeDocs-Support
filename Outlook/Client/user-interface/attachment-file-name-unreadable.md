@@ -1,8 +1,8 @@
 ---
 title: Can't read an attachment file name
 description: Resolves a bug in which the file name on an attachment icon is unreadable when you print an RTF email message in Outlook 2010 and Outlook 2013. This problem occurs because the icon has a black background.
-author: helenclu
-ms.author: luche
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
@@ -15,7 +15,7 @@ appliesto:
   - Outlook 2013
   - Microsoft Outlook 2010
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 # File name on an attachment icon is unreadable when you print an RTF email message in Outlook
 

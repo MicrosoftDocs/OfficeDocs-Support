@@ -1,10 +1,10 @@
 ---
 title: Policy doesn't allow granting permissions
 description: Describes an error that occurs when users try to share their calendar to a cross-premises user.
-author: simonxjx
+author: cloud-writer
+ms.author: meerak
 audience: ITPro
 ms.topic: troubleshooting
-ms.author: v-six
 ms.custom: 
   - Exchange Hybrid
   - CSSTroubleshoot
@@ -18,7 +18,8 @@ appliesto:
   - Exchange Server 2016 Standard Edition
   - Exchange Server 2013 Enterprise
   - Exchange Server 2013 Standard Edition
-ms.date: 3/31/2022
+ms.date: 03/31/2022
+ms.reviewer: v-six
 ---
 # Policy doesn't allow granting permissions at this level to one or more of the recipient(s) when sharing calendar
 

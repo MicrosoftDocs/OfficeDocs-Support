@@ -1,8 +1,8 @@
 ---
 title: '"Cannot process argument transformation" error for cmdlets in Exchange Server 2013 with CU11'
 description: Provides a fix for the "Cannot process argument transformation" error. 
-author: simonxjx
-ms.author: v-six
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: 
   - Exchange Server
   - CSSTroubleshoot
-ms.reviewer: batre, genli
+ms.reviewer: batre, genli, v-six
 appliesto: 
   - Exchange Server 2013 Enterprise
   - Exchange Server 2013 Standard Edition
 search.appverid: MET150
-ms.date: 3/29/2023
+ms.date: 03/29/2023
 recommendations: false
 ---
 # "Cannot process argument transformation" error for cmdlets in Exchange Server 2013 with CU11

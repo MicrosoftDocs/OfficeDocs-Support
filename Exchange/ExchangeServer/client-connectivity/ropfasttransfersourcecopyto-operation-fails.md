@@ -1,8 +1,8 @@
 ---
 title: RopFastTransferSourceCopyTo operation fails on messages
 description: The RopFastTransferSourceCopyTo operation fails on messages that have a large HTML message body because the input document is too complex.
-author: helenclu
-ms.author: luche
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
@@ -16,7 +16,7 @@ appliesto:
   - Exchange Server 2016
   - Exchange Server 2019
 search.appverid: MET150
-ms.date: 6/23/2022
+ms.date: 06/23/2022
 ---
 # RopFastTransferSourceCopyTo operation fails on messages
 

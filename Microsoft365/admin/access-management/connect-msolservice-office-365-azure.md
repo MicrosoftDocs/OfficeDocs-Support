@@ -9,7 +9,9 @@ search.appverid:
 audience: ITPro
 ms.topic: troubleshooting
 ms.author: luche
-ms.custom: CSSTroubleshoot
+ms.custom:
+  - CSSTroubleshoot
+  - has-azure-ad-ps-ref
 appliesto: 
   - Cloud Services (Web roles/Worker roles)
   - Azure Active Directory
@@ -18,7 +20,7 @@ appliesto:
   - CRM Online via Office 365 E Plans
   - Azure Backup
   - Microsoft 365 User and Domain Management
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 
 # "The user name or password is incorrect" when you use connect-MSOLService to connect to Microsoft 365

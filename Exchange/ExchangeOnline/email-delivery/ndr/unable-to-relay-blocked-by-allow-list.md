@@ -1,8 +1,8 @@
 ---
 title: NDR error 5.7.1. Unable To Relay
 description: Fixes an issue that occurs when a sender uses an external email server whose IP address was added to a blocklist.
-author: simonxjx
-ms.author: v-six
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
@@ -11,12 +11,12 @@ ms.custom:
   - Exchange Online
   - CSSTroubleshoot
   - CI 167832
-ms.reviewer: romccart
+ms.reviewer: romccart, v-six
 appliesto: 
   - Exchange Online
   - Exchange Online Protection
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 # 5.7.1 Unable to Relay: Blocked by Customer Allow List
 

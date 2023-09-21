@@ -1,8 +1,8 @@
 ---
 title: No Federation trust is configured for this organization
 description: Describes an issue that triggers an error when you try to run the Hybrid Configuration Wizard. A resolution is provided.
-author: simonxjx
-ms.author: v-six
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
@@ -10,11 +10,11 @@ localization_priority: Normal
 ms.custom: 
   - Exchange Hybrid
   - CSSTroubleshoot
-ms.reviewer: timothyh
+ms.reviewer: timothyh, v-six
 appliesto: 
   - Exchange Online
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 # No Federation trust is configured for this organization error when you run the Hybrid Configuration Wizard
 

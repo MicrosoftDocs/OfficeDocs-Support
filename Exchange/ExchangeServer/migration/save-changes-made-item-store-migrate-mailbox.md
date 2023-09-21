@@ -1,9 +1,9 @@
 ---
 title: Error (Cannot save changes made to an item to store) while migrating mailbox to Exchange Online
 description: This article fixes an issue in which you can't migrate mailboxes from on-premises to Exchange Online with Cannot save changes made to an item to store error.
-author: simonxjx
-ms.author: v-six
-ms.reviewer: pramods
+author: cloud-writer
+ms.author: meerak
+ms.reviewer: pramods, v-six
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
@@ -20,7 +20,7 @@ appliesto:
   - Exchange Server 2016
   - Exchange Server 2013
   - Exchange Server 2010
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 # Error while migrating mailbox to Exchange Online: Cannot save changes made to an item to store
 

@@ -1,8 +1,8 @@
 ---
 title: Event 1098 and can't create new profiles
 description: You can't create an Outlook profile with an error message saying you can't start Outlook or something went wrong.
-author: helenclu
-ms.author: luche
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
@@ -15,7 +15,7 @@ appliesto:
   - Outlook 2019
   - Outlook 2016
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 # Unable to create an Outlook profile after a migration with Event 1098 in AAD log
 

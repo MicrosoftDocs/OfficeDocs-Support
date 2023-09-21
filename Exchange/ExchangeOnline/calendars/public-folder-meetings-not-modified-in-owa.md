@@ -1,8 +1,8 @@
 ---
 title: Public folder meetings cannot be modified in OWA
 description: Fixes an issue that triggers an error when you try to change a meeting in a public folder by using Outlook on the web.
-author: simonxjx
-ms.author: v-six
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
@@ -10,7 +10,7 @@ localization_priority: Normal
 ms.custom: 
   - Exchange Online
   - CSSTroubleshoot
-ms.reviewer: alinastr
+ms.reviewer: alinastr, v-six
 appliesto: 
   - Exchange Online
   - Exchange Server 2016 Enterprise Edition
@@ -20,7 +20,7 @@ appliesto:
   - Exchange Server 2010 Enterprise
   - Exchange Server 2010 Standard
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 # Public folder meetings cannot be modified in OWA when you use Outlook on the web to change a meeting
 

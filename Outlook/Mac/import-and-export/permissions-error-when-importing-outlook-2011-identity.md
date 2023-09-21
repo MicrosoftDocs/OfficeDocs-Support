@@ -1,8 +1,8 @@
 ---
 title: Permissions error when importing Outlook 2011 identity
 description: Error occurs when you import an Outlook 2011 identity into Outlook 2016 for Mac.
-author: helenclu
-ms.author: luche
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
@@ -15,7 +15,7 @@ appliesto:
   - Outlook 2016 for Mac
   - Outlook for Microsoft 365 for Mac
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 # Permissions error when you import an Outlook 2011 identity
 

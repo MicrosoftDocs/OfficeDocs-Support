@@ -1,8 +1,8 @@
 ---
-title: Can't expand public folders with error Your server administrator has limited the number of items you can open simultaneously
-description: Provide solutions to an issue in which you can't expand public folders in Outlook or OWA with error Your server administrator has limited the number of items you can open simultaneously.
-author: simonxjx
-ms.author: v-six
+title: Error "Your server administrator has limited the number of items you can open simultaneously" when you expand public folders in Outlook
+description: Provide solutions to an issue in which you can't expand public folders in Outlook or OWA. 
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
@@ -11,7 +11,7 @@ ms.custom:
   - Exchange Online
   - CI 125992
   - CSSTroubleshoot
-ms.reviewer: haembab,batre
+ms.reviewer: haembab, batre, v-six
 appliesto: 
   - Exchange Online
   - Exchange Server 2019
@@ -21,7 +21,7 @@ appliesto:
   - Microsoft Outlook 2013
 search.appverid: 
   - MET150
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 
 # "Your server administrator has limited the number of items you can open simultaneously" error and you can't expand public folders in Outlook
@@ -57,7 +57,7 @@ To resolve this problem, create a new public folder mailbox, and manually update
 2. Run the following command to create a public folder mailbox:
 
     ```powershell
-    New-Mailbox -<Public folder name> -Name "<New public folder mailbox name>"  
+    New-Mailbox -Name "<New public folder mailbox name>" -PublicFolder 
     ```
 
 3. Run the following command to update the public folder hierarchy for the public folder mailbox

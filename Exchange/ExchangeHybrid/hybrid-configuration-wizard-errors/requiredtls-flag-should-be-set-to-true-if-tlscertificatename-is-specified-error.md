@@ -1,8 +1,8 @@
 ---
 title: RequiredTls flag should be set to true error
 description: Describes an issue in which you receive a RequiredTls flag should be set to true if TlsCertificateName is specified error message when you run the Hybrid Configuration wizard. Provides a solution.
-author: simonxjx
-ms.author: v-six
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
@@ -10,7 +10,7 @@ localization_priority: Normal
 ms.custom: 
   - Exchange Hybrid
   - CSSTroubleshoot
-ms.reviewer: timothyh
+ms.reviewer: timothyh, v-six
 appliesto: 
   - Exchange Online
   - Exchange Server 2013 Enterprise
@@ -18,7 +18,7 @@ appliesto:
   - Exchange Server 2010 Enterprise
   - Exchange Server 2010 Standard
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 # RequiredTls flag should be set to true if TlsCertificateName is specified error when running Hybrid Configuration wizard
 

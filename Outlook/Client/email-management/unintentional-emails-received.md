@@ -1,8 +1,8 @@
 ---
 title: Receiving email messages not intended for you
 description: Fixes an issue in which you receive an email message that wasn't intended for you.
-author: helenclu
-ms.author: luche
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
@@ -25,7 +25,7 @@ appliesto:
   - Outlook for iOS
   - Outlook for Android
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 # Unintentional emails received in Outlook
 

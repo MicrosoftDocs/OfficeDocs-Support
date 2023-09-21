@@ -1,8 +1,8 @@
 ---
 title: Can't migrate Google Workspace mailboxes to Microsoft 365
 description: Unable to migrate mailboxes from Google Workspace to Microsoft 365 because the app passwords aren't set for these mailboxes. 
-author: helenclu
-ms.author: luche
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
@@ -16,7 +16,7 @@ appliesto:
   - Exchange Online
   - Microsoft 365
 search.appverid: MET150
-ms.date: 6/6/2022
+ms.date: 06/06/2022
 ---
 # Error during mailbox migration from Google Workspace to Microsoft 365
 

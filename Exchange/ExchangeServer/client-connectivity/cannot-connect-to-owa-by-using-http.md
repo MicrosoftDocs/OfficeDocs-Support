@@ -1,8 +1,8 @@
 ---
 title: Cannot connect to Outlook Web App via HTTP protocol
 description: Works around a problem in which users cannot connect to Outlook Web App by using the HTTP protocol after you apply Exchange Server 2010 SP2.
-author: simonxjx
-ms.author: v-six
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
@@ -10,11 +10,11 @@ localization_priority: Normal
 ms.custom: 
   - Exchange Server
   - CSSTroubleshoot
-ms.reviewer: 
+ms.reviewer: v-six
 appliesto: 
   - Exchange Server 2010
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 # Users can't connect to Outlook Web App by using the HTTP protocol in Exchange Server 2010
 

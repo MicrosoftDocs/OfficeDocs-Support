@@ -1,8 +1,8 @@
 ---
 title: Outlook prompts for credentials when using WAN
 description: This article resolves an issue in which Outlook users are prompted for credentials when they switch network from local area network to Wide Area Network (WAN).
-author: helenclu
-ms.author: luche
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
@@ -18,7 +18,7 @@ appliesto:
   - Exchange Server 2010 Enterprise
   - Exchange Server 2010 Standard
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 # Outlook users are prompted for credentials when they switch from a LAN to a WAN
 

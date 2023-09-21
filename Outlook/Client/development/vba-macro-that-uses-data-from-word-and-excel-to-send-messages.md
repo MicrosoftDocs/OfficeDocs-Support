@@ -9,10 +9,10 @@ ms.custom: CSSTroubleshoot
 appliesto:
 - Outlook
 search.appverid: MET150
-ms.reviewer: 
-author: simonxjx
-ms.author: v-six
-ms.date: 3/31/2022
+ms.reviewer: v-six
+author: cloud-writer
+ms.author: meerak
+ms.date: 03/31/2022
 ---
 # VBA macro that uses data from a Word document and an Excel workbook to send messages from Outlook
 

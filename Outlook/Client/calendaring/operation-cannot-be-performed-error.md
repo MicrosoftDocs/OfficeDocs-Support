@@ -1,8 +1,8 @@
 ---
 title: Operation cannot be performed error
 description: This article fixes an issue in which you receive an error when a delegate creates a Skype or Teams meeting in Outlook.
-author: helenclu
-ms.author: luche
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
@@ -14,7 +14,7 @@ ms.reviewer: benwinz, aruiz, gbratton, gabesl
 appliesto: 
   - Outlook 2016
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 # The operation cannot be performed because the message has been changed error when a delegate creates a Skype or Teams meeting in Outlook
 

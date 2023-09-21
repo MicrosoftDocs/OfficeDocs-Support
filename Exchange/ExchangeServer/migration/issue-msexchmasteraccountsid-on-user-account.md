@@ -1,8 +1,8 @@
 ---
 title: Outlook issues when msExchMasterAccountSID attribute exists on a user account
 description: Documentation for OffCAT diagnostic issue where Outlook has connection issues to Exchange related to msExchMasterAccountSID on the user mailbox.
-author: simonxjx
-ms.author: v-six
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
@@ -10,7 +10,7 @@ localization_priority: Normal
 ms.custom: 
   - Exchange Server
   - CSSTroubleshoot
-ms.reviewer: tmoore, gregmans
+ms.reviewer: tmoore, gregmans, v-six
 appliesto: 
   - Outlook 2016
   - Outlook 2013
@@ -18,7 +18,7 @@ appliesto:
   - Outlook for Microsoft 365
   - Outlook 2019
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 # Outlook issues when the msExchMasterAccountSID attribute exists on a user account in Active Directory
 

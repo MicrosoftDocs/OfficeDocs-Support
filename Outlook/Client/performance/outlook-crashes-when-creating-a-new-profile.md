@@ -1,8 +1,8 @@
 ---
 title: Outlook crashes when creating a new profile
 description: Provides a resolution to solve the crash issue when you try to create a new profile in Microsoft Outlook.
-author: helenclu
-ms.author: luche
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
@@ -16,7 +16,7 @@ appliesto:
   - Outlook 2016
   - Outlook for Microsoft 365
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 # Outlook 2016 crashes when creating a new profile
 

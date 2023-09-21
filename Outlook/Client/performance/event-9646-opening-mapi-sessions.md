@@ -1,8 +1,8 @@
 ---
 title: Event ID 9646 if service account opens MAPI sessions
 description: Event ID 9646 is logged when a service account opens many MAPI sessions in Exchange Server 2013 and 2010. Provides a resolution.
-author: helenclu
-ms.author: luche
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
@@ -15,7 +15,7 @@ appliesto:
   - Exchange Server 2013 Enterprise Edition
   - Exchange Server 2010 Enterprise
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 # Event ID 9646 when a service account opens many MAPI sessions
 

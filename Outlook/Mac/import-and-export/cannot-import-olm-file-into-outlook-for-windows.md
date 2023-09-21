@@ -1,8 +1,8 @@
 ---
 title: Cannot import (.olm) file into Outlook for Windows
 description: Provides information about how to migrate the data, such as email and contacts, into Outlook for Windows by using Microsoft Exchange Server.
-author: helenclu
-ms.author: luche
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
@@ -15,7 +15,7 @@ appliesto:
   - Outlook 2016 for Mac
   - Outlook for Microsoft 365 for Mac
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 # You can't import (.olm) files from Outlook for Mac to Outlook for Windows
 

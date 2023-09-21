@@ -1,8 +1,8 @@
 ---
 title: WPF WebBrowser control doesn't display content correctly in an Office application
 description: Describes the issue that the WebBrowser control content isn't displayed or functioned correctly in an Office application. It occurs when the control is hosted inside a CustomTaskPane control.
-author: helenclu
-ms.author: luche
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
@@ -19,7 +19,7 @@ appliesto:
   - Outlook 2013
   - Outlook 2010
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 # WebBrowser or WPF control doesn't display content correctly in an Office application when hosted inside a CustomTaskPane control
 

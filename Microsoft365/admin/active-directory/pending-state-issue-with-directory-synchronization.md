@@ -8,7 +8,9 @@ search.appverid:
   - MET150
 audience: ITPro
 ms.topic: troubleshooting
-ms.custom: CSSTroubleshoot
+ms.custom:
+  - CSSTroubleshoot
+  - has-azure-ad-ps-ref
 ms.author: luche
 ms.reviewer: ericta, andypunt, v-lanac
 appliesto: 
@@ -16,7 +18,7 @@ appliesto:
   - Microsoft Intune
   - Azure Backup
   - Microsoft 365 Identity Management
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 # Fix pending state issue with Directory synchronization for Microsoft 365, Azure, or Intune
 

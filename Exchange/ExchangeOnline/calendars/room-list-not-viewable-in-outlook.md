@@ -1,8 +1,8 @@
 ---
 title: Can't view a room list in Outlook or OWA
 description: Fixes a problem in which a room list in Microsoft Exchange Online cannot be viewed in Microsoft Outlook or Outlook Web App (OWA).
-author: simonxjx
-ms.author: v-six
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
@@ -10,11 +10,11 @@ localization_priority: Normal
 ms.custom: 
   - Exchange Online
   - CSSTroubleshoot
-ms.reviewer: rrajan
+ms.reviewer: rrajan, v-six
 appliesto: 
   - Exchange Online
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 # An Exchange Online room list isn't viewable in Outlook or OWA
 

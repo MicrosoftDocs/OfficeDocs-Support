@@ -1,8 +1,8 @@
 ---
 title: Only see basic free/busy mailbox information
 description: Describes an issue in which a user can see only basic free/busy time information about a mailbox in a remote forest by using Scheduling Assistant in Microsoft 365. Provides a resolution.
-author: simonxjx
-ms.author: v-six
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
@@ -10,11 +10,11 @@ localization_priority: Normal
 ms.custom: 
   - Exchange Online
   - CSSTroubleshoot
-ms.reviewer: kellybos
+ms.reviewer: kellybos, v-six
 appliesto: 
   - Exchange Online
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 # Users can see only basic free/busy mailbox information in a remote forest in Microsoft 365
 

@@ -1,8 +1,8 @@
 ---
 title: Mailbox quotas not increased automatically for licenses
 description: Describes the problem and a solution when mailbox quotas for qualifying license types do not automatically reflect new quotas.
-author: simonxjx
-ms.author: v-six
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
@@ -10,11 +10,11 @@ localization_priority: Normal
 ms.custom: 
   - Exchange Online
   - CSSTroubleshoot
-ms.reviewer: bradhugh
+ms.reviewer: bradhugh, v-six
 appliesto: 
   - Exchange Online
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 # Mailbox quotas not increased automatically for qualifying licenses in Exchange Online
 

@@ -1,8 +1,8 @@
 ---
 title: HCW errors in Organization Configuration transfer
 description: Describes HCW8109, HCW8110, and HCW8111 errors and the troubleshooting of these errors.
-author: simonxjx
-ms.author: v-six
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
@@ -10,11 +10,11 @@ localization_priority: Normal
 ms.custom: 
   - Exchange Server
   - CSSTroubleshoot
-ms.reviewer: kchandra
+ms.reviewer: kchandra, v-six
 appliesto: 
   - Exchange Online
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 # Hybrid Configuration Wizard errors when running the Organization Configuration transfer feature
 

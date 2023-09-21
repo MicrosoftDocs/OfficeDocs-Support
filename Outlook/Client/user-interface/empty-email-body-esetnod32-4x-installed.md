@@ -1,8 +1,8 @@
 ---
 title: Email message body is blank when ESET NOD32 4.x is installed on client machines in Exchange Server 2010
 description: Discusses an issue where users receive an empty email when ESET NOD32 4.x is installed on Outlook Web App or Outlook.
-author: helenclu
-ms.author: luche
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
@@ -15,7 +15,7 @@ appliesto:
   - Exchange Server 2010 Enterprise
   - Exchange Server 2010 Standard
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 # Emails have empty bodies when ESET NOD32 4.x is installed on client machines on Exchange Server 2010
 

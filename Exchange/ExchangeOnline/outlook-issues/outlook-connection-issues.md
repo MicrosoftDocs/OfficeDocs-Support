@@ -1,9 +1,9 @@
 ---
 ms.topic: troubleshooting
-author: simonxjx
-ms.author: v-six
+author: cloud-writer
+ms.author: meerak
 ms.assetid: b3e740b9-171d-4179-bcd1-e279a363fa75
-ms.reviewer: 
+ms.reviewer: v-six
 description: When you can't send or receive Microsoft 365 email, use these steps to find and fix problems with Outlook.
 title: Fix Outlook connection problems in Microsoft 365
 ms.collection: 
@@ -30,7 +30,7 @@ localization_priority: Normal
 manager: dcscontentpm
 appliesto: 
   - Exchange Online
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 # Fix Outlook connection problems for Microsoft 365 account
 

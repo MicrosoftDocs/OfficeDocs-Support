@@ -9,10 +9,10 @@ ms.custom: CSSTroubleshoot
 appliesto:
 - Outlook
 search.appverid: MET150
-ms.reviewer: gregmans
-author: simonxjx
-ms.author: v-six
-ms.date: 3/31/2022
+ms.reviewer: gregmans, v-six
+author: cloud-writer
+ms.author: meerak
+ms.date: 03/31/2022
 ---
 # Outlook application event log entries for add-in load time
 

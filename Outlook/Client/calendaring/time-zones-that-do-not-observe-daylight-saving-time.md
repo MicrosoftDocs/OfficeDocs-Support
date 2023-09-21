@@ -1,8 +1,8 @@
 ---
 title: Time zones that do not observe daylight saving time
 description: Describes how to optimally configure Windows in those time zones that do not observe daylight saving time. By disabling daylight saving time in Windows, this may trigger incorrect times for Outlook calendar events and appointments for recipients in time zones that do observe daylight saving time.
-author: helenclu
-ms.author: luche
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
@@ -16,7 +16,7 @@ appliesto:
   - Microsoft Outlook 2010
   - Outlook 2010 with Business Contact Manager
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 # Time zones that do not observe daylight saving time
 

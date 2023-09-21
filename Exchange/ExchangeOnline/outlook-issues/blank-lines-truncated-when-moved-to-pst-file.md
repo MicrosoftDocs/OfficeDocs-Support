@@ -1,8 +1,8 @@
 ---
 title: Blank lines are truncated when moved to PST files
 description: If blank lines are truncated when a message is moved from online mode to a PST file, change Outlook to Cache mode.
-author: simonxjx
-ms.author: v-six
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: 
   - Exchange Online
   - CSSTroubleshoot
-ms.reviewer: michxu, rschaffr
+ms.reviewer: michxu, rschaffr, v-six
 appliesto: 
   - Exchange Online
   - Exchange Server
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 # Blank lines are truncated when a message is moved from online mode to a PST file
 

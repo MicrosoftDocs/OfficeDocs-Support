@@ -1,8 +1,8 @@
 ---
 title: REST API is not yet supported error
 description: REST API is not supported if you don't have a valid Microsoft 365 mailbox, if an Outlook.com account isn't enabled, or if Flow isn't included in your plan.
-author: simonxjx
-ms.author: v-six
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
@@ -10,11 +10,11 @@ localization_priority: Normal
 ms.custom: 
   - Exchange Online
   - CSSTroubleshoot
-ms.reviewer: evsung, rachaudh, brianja, jasonjoh
+ms.reviewer: evsung, rachaudh, brianja, jasonjoh, v-six
 appliesto: 
   - Power Automate
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 # REST API is not yet supported for this mailbox error for request to a mailbox
 

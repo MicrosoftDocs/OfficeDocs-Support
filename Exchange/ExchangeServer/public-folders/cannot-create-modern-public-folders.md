@@ -12,10 +12,10 @@ appliesto:
 - Exchange Server 2013 Enterprise 
 - Exchange Server 2013 Standard Edition
 search.appverid: MET150
-ms.reviewer: batre; christys; genli
-author: simonxjx
-ms.author: v-six
-ms.date: 3/31/2022
+ms.reviewer: batre, christys, genli, v-six
+author: cloud-writer
+ms.author: meerak
+ms.date: 03/31/2022
 ---
 
 # Owner cannot create modern public folders by using Outlook in Exchange Server 2013 or Exchange Server 2016

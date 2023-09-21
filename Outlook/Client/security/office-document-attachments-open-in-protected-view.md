@@ -1,8 +1,8 @@
 ---
 title: Document attachments open in Protected View
 description: Describes an issue that causes Office attachments to unexpectedly Outlook messages to open in Protected View. Resolutions are provided.
-author: helenclu
-ms.author: luche
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
@@ -15,7 +15,7 @@ appliesto:
   - Outlook 2013
   - Microsoft Outlook 2010
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 # Office document attachments open in Protected View in Outlook
 

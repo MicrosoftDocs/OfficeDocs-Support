@@ -1,8 +1,8 @@
 ---
 title: Limits to using pst files over LAN and WAN links
 description: Explains why personal folders files (which store messages locally) are typically unsupported over a LAN or WAN link. To resolve this issue, you can use Exchange Server with local Offline Folders file or Terminal Services instead. An exception in which Outlook 2010 is hosted remotely on a Windows Server 2008 R2 RDSH is included.
-author: helenclu
-ms.author: luche
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
@@ -28,7 +28,7 @@ appliesto:
   - Windows Server 2003
   - Windows Vista
   - Windows XP
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 # Limits to using personal folders files over LAN and WAN links
 

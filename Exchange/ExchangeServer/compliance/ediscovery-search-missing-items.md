@@ -1,8 +1,8 @@
 ---
 title: Missing items in eDiscovery search results
 description: Provides a workaround for an issue in which eDiscovery search returns an incomplete set of results.
-author: helenclu
-ms.author: luche
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
@@ -15,7 +15,7 @@ ms.reviewer: dpaul
 appliesto: 
   - Exchange Server 2019
 search.appverid: MET150
-ms.date: 4/21/2022
+ms.date: 04/21/2022
 ---
 # Missing items in eDiscovery search results in Exchange Server 2019
 

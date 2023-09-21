@@ -1,8 +1,8 @@
 ---
 title: Messages with attachments not delivered
 description: Describes an issue in which messages are delayed by several hours or are never displayed in the recipient's mailbox. Occurs in a Microsoft 365 environment where Exclaimer is used. Provides a resolution.
-author: simonxjx
-ms.author: v-six
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
@@ -10,11 +10,11 @@ localization_priority: Normal
 ms.custom: 
   - Exchange Online
   - CSSTroubleshoot
-ms.reviewer: marcn
+ms.reviewer: marcn, v-six
 appliesto: 
   - Exchange Online
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 # Messages with attachments are not delivered when ATP Dynamic Delivery and Exclaimer are used
 

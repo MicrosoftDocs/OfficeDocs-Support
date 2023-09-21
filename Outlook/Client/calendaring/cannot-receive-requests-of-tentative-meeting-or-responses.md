@@ -1,8 +1,8 @@
 ---
 title: Cannot receive tentative meetings requests or responses
 description: Describes an issue in which a user doesn't receive meeting invitations in their inbox but the meetings appear in the user's calendar as Tentative.  Or, meeting responses from other users don't appear in the user's inbox.
-author: helenclu
-ms.author: luche
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
@@ -26,7 +26,7 @@ appliesto:
   - Exchange Server 2010 Standard
   - Outlook for Microsoft 365
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 # Meetings are Tentative but not receiving requests or meeting responses from others don't show in inbox
 

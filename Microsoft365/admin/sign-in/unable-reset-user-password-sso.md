@@ -7,7 +7,9 @@ localization_priority: Normal
 search.appverid: 
   - MET150
 audience: ITPro
-ms.custom: CSSTroubleshoot
+ms.custom:
+  - CSSTroubleshoot
+  - has-azure-ad-ps-ref
 ms.topic: troubleshooting
 ms.author: luche
 appliesto: 
@@ -16,7 +18,7 @@ appliesto:
   - Microsoft Intune
   - Azure Backup
   - Microsoft 365
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 
 # "Unable to reset this user's password" when an admin resets the password of a domain member user

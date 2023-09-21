@@ -1,8 +1,8 @@
 ---
 title: EAS not synchronizing Outlook contact information
 description: Describes an issue that can occur when you synchronize a Windows Mobile 7.5-based device or an iPhone over-the-air.
-author: helenclu
-ms.author: luche
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
@@ -15,7 +15,7 @@ appliesto:
   - Exchange Server 2010
   - Exchange Server 2007
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 # Exchange ActiveSync does not synchronize some Outlook contact information as expected
 

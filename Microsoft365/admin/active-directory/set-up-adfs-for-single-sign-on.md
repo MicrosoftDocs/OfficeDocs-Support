@@ -8,12 +8,14 @@ audience: ITPro
 ms.topic: troubleshooting
 ms.author: luche
 ms.reviewer: abizerh, willfid, rkiran
-ms.custom: CSSTroubleshoot
+ms.custom:
+  - CSSTroubleshoot
+  - has-azure-ad-ps-ref
 search.appverid: 
   - MET150
 appliesto: 
   - Microsoft 365
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 
 # Set up AD FS for Microsoft 365 for Single Sign-On

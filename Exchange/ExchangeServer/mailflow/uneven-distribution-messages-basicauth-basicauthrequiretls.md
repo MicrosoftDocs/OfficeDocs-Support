@@ -1,8 +1,8 @@
 ---
 title: Messages aren't evenly distributed if BasicAuth, BasicAuthRequireTLS or NTLM is used in Exchange Server 2013 or later
 description: Describes an issue that blocks mail flow on the SMTP server when messages are sent to Exchange Server 2013 or later. Provides a workaround.
-author: simonxjx
-ms.author: v-six
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
@@ -10,7 +10,7 @@ localization_priority: Normal
 ms.custom: 
   - Exchange Server
   - CSSTroubleshoot
-ms.reviewer: dpaul, jarrettr
+ms.reviewer: dpaul, jarrettr, v-six
 appliesto: 
   - Exchange Server 2016 Enterprise Edition
   - Exchange Server 2016 Standard Edition
@@ -18,7 +18,7 @@ appliesto:
   - Exchange Server 2013 Standard Edition
   - Exchange Server 2019
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 # Messages aren't evenly distributed if BasicAuth, BasicAuthRequireTLS or NTLM is used in Exchange Server 2019, 2016, or 2013
 

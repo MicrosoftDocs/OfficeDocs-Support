@@ -1,8 +1,8 @@
 ---
 title: Can't upgrade distribution lists to Microsoft 365 groups
 description: Provides a resolution if you're unable to upgrade a distribution list to a Microsoft 365 group.
-author: simonxjx
-ms.author: v-six
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: 
   - Exchange Online
   - CSSTroubleshoot
-ms.reviewer: subansal, ninob; ritwikraj
+ms.reviewer: subansal, ninob; ritwikraj, v-six
 appliesto: 
   - Exchange Online
   - MSfC O365-Exchange Online
 search.appverid: MET150
-ms.date: 4/6/2023
+ms.date: 04/06/2023
 ---
 # Can't upgrade distribution lists to Microsoft 365 groups
 

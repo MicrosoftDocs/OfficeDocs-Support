@@ -15,10 +15,10 @@ appliesto:
 - Exchange Server 2013 Standard Edition 
 - Exchange Online
 search.appverid: MET150
-ms.reviewer: abdallaa, excontent, ninob, kellybos, jmartin
-author: simonxjx
-ms.author: v-six
-ms.date: 3/31/2022
+ms.reviewer: abdallaa, excontent, ninob, kellybos, jmartin, v-six
+author: cloud-writer
+ms.author: meerak
+ms.date: 03/31/2022
 ---
 # Can't open a shared folder in Outlook on the web in Exchange Server
 

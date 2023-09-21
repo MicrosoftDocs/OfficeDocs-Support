@@ -1,8 +1,8 @@
 ---
 title: Can't access contact list from public folder
 description: Describes an issue in which you can't access a contact list from a public folder in Outlook.
-author: v-charloz
-ms.author: v-chazhang
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
@@ -11,12 +11,12 @@ ms.custom:
   - CI 155696
   - Exchange Online
   - CSSTroubleshoot
-ms.reviewer: haembab; meerak; batre
+ms.reviewer: haembab, meerak, batre, v-chazhang
 editor: v-jesits
 appliesto: 
   - Exchange Online
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 
 # "Out of memory or system resources" error when accessing contact list from public folder

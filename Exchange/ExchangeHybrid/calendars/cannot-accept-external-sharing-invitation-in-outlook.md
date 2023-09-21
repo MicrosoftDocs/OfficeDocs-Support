@@ -1,8 +1,8 @@
 ---
 title: Can't accept external sharing invitation
 description: Users in a hybrid environment can't accept cross-organization sharing and cross-premises sharing.
-author: simonxjx
-ms.author: v-six
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
@@ -10,11 +10,11 @@ localization_priority: Normal
 ms.custom: 
   - Exchange Hybrid
   - CSSTroubleshoot
-ms.reviewer: kellybos, aruiz, kerbo
+ms.reviewer: kellybos, aruiz, kerbo, v-six
 appliesto: 
   - Exchange Online
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 # Unable to accept an external sharing invitation by using Outlook in a hybrid environment
 

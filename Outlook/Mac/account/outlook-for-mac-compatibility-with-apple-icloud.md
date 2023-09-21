@@ -1,8 +1,8 @@
 ---
 title: Outlook for Mac compatibility with Apple iCloud
 description: Provides information on how to configure an iCloud Mail account with Outlook for Mac.
-author: helenclu
-ms.author: luche
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
@@ -14,7 +14,7 @@ ms.reviewer: danv
 appliesto: 
   - Outlook 2016 for Mac
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 # Microsoft Outlook for Mac compatibility with Apple iCloud
 

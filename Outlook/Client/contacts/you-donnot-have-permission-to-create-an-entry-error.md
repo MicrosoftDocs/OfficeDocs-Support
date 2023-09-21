@@ -1,8 +1,8 @@
 ---
 title: Error when adding contacts to contacts folder
 description: Provides a workaround for the issue that you receive an error when you try to add contacts to a contacts folder in Microsoft Outlook.
-author: helenclu
-ms.author: luche
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
@@ -15,7 +15,7 @@ appliesto:
   - Outlook
   - Microsoft 365
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 # You don't have permission to create an entry in this folder error when you add contacts to a contacts folder
 

@@ -1,8 +1,8 @@
 ---
 title: Getting errors 9875 in the event log
 description: Provides a resolution to solve the Event ID 9875 that may occur for a recurring meeting in Exchange Server 2010 Service Pack 3 (SP3).
-author: simonxjx
-ms.author: v-six
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
@@ -10,11 +10,11 @@ localization_priority: Normal
 ms.custom: 
   - Exchange Server
   - CSSTroubleshoot
-ms.reviewer: anthonge, nbanup
+ms.reviewer: anthonge, nbanup, v-six
 appliesto: 
   - Exchange Server 2010 Service Pack 3
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 # Event ID 9875 source MSExchangeIS Mailbox Store error
 

@@ -1,8 +1,8 @@
 ---
 title: Can't send emails to a mail-enabled public folder
 description: Fixes an issue in which users can't send email messages to a mail-enabled public folder because they have insufficient permissions on the folder.
-author: helenclu
-ms.author: luche
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
@@ -15,7 +15,7 @@ ms.reviewer: haembab
 appliesto: 
   - Exchange Online
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 # "550 5.7.13 STOREDRV.AuthenticationRequiredForPublicFolder" error for messages sent to a mail-enabled public folder
 

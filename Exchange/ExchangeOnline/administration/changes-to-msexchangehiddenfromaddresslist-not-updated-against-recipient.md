@@ -1,8 +1,8 @@
 ---
 title: Changes to msExchangeHiddenFromAddressList not updated
 description: Fixes an issue in which changes made to the msExchangeHiddenFromAddressList attribute are not updated against the recipient object in Exchange Online.
-author: simonxjx
-ms.author: v-six
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
@@ -10,11 +10,11 @@ localization_priority: Normal
 ms.custom: 
   - Exchange Online
   - CSSTroubleshoot
-ms.reviewer: gabesl
+ms.reviewer: gabesl, v-six
 appliesto: 
   - Exchange Online
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 # Changes to msExchangeHiddenFromAddressList attribute not updated against recipient object in Exchange Online
 

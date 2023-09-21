@@ -1,8 +1,8 @@
 ---
 title: Send Update button is missing when you import or copy Outlook meetings
 description: If you migrate or copy Outlook calendar meetings, you lose the option to Send Update. This article discusses why the GlobalObjectID isn't kept when you import or copy an Outlook meeting. Additionally, it details how the Copy prefix is added to the subject line of a copied meeting.
-author: helenclu
-ms.author: luche
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
@@ -17,7 +17,7 @@ appliesto:
   - Microsoft Outlook 2010
   - Exchange Online
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 # How to move Outlook meetings without losing the option to send update
 

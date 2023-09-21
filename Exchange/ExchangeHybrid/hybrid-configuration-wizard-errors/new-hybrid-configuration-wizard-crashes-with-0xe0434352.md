@@ -1,8 +1,8 @@
 ---
 title: New Hybrid Configuration Wizard crashes error 0xe0434352
 description: Provides methods to solve the error 0xe0434352 that occurs when the new Hybrid Configuration Wizard crashes.
-author: simonxjx
-ms.author: v-six
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
@@ -10,11 +10,11 @@ localization_priority: Normal
 ms.custom: 
   - Exchange Hybrid
   - CSSTroubleshoot
-ms.reviewer: timothyh, pramods
+ms.reviewer: timothyh, pramods, v-six
 appliesto: 
   - Exchange Online
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 # New Hybrid Configuration Wizard crashes with error code 0xe0434352
 

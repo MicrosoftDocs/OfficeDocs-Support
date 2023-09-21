@@ -1,8 +1,8 @@
 ---
 title: Status bar has an upper limit of 3.99 GB
 description: Status bar progress never shows more than 3.99 GB on initial Sync of large folders in Microsoft Outlook. Provides a resolution.
-author: helenclu
-ms.author: luche
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
@@ -20,7 +20,7 @@ appliesto:
   - Exchange Online
   - Outlook for Microsoft 365
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 # Status bar progress never shows more than 3.99 GB remaining on initial Sync of large folders
 

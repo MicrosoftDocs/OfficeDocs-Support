@@ -1,13 +1,13 @@
 ---
 title: Installation of Edge Transport role fails
 description: This article fixes an issue that causes the installation of the Exchange Edge Transport role to fail.
-author: simonxjx
-ms.author: v-six
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
 localization_priority: Normal
-ms.reviewer: arindamt
+ms.reviewer: arindamt, v-six
 ms.custom: 
   - Exchange Server
   - CSSTroubleshoot
@@ -17,7 +17,7 @@ appliesto:
   - Exchange Server 2019
   - Exchange Server 2016
   - Exchange Server 2013
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 # Error when installation of Exchange Edge Transport role fails: Process execution failed with exit code 3
 

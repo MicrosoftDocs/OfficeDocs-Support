@@ -1,8 +1,8 @@
 ---
 title: Office program crashes due to the SendToBluetooth add-in
 description: Fixes an issue in which Office programs crashes if you have the SendToBluetooth add-in installed.
-author: helenclu
-ms.author: luche
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
@@ -25,7 +25,7 @@ appliesto:
   - PowerPoint 2016
   - Word 2016
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 # Office program crashes caused by Btmofficea.dll or Btmoffice.dll
 

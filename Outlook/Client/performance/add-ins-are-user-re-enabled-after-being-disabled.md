@@ -1,8 +1,8 @@
 ---
 title: Add-ins are user re-enabled after being disabled
 description: This article discusses a behavior that add-ins are user re-enabled after being disabled by Office programs. Provides steps to disable an add-in that was re-enabled.
-author: helenclu
-ms.author: luche
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
@@ -21,7 +21,7 @@ appliesto:
   - Word 2013
   - PowerPoint 2013
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 # Add-ins are user re-enabled after being disabled by Office programs
 

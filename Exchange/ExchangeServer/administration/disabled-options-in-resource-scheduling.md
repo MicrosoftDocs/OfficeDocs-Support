@@ -1,8 +1,8 @@
 ---
 title: Resource Scheduling options are disabled
 description: This article provides a solution to solve the issue that the options in the Outlook Resource Scheduling dialog box are not available.
-author: simonxjx
-ms.author: v-six
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
@@ -10,7 +10,7 @@ localization_priority: Normal
 ms.custom: 
   - Exchange Server
   - CSSTroubleshoot
-ms.reviewer: abarglo
+ms.reviewer: abarglo, v-six
 appliesto: 
   - Outlook 2010
   - Outlook 2007
@@ -18,7 +18,7 @@ appliesto:
   - Exchange Server 2010
   - Exchange Server 2007
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 # Options in Outlook's Resource Scheduling dialog box are disabled
 

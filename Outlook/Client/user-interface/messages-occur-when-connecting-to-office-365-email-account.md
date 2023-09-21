@@ -1,8 +1,8 @@
 ---
 title: Messages occur if connecting to Microsoft 365 email accounts
 description: Describes an issue in which you unexpectedly receive one or more email messages when connecting to a Microsoft 365 email account.
-author: helenclu
-ms.author: luche
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
@@ -17,7 +17,7 @@ appliesto:
   - Microsoft Office Outlook 2007
   - Exchange Online
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 # Outlook Message Manager (profile_name) (KEY hex_number) email items in an Exchange Online mailbox
 

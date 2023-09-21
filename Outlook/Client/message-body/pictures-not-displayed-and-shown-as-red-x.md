@@ -1,8 +1,8 @@
 ---
 title: Pictures cannot be shown but shown as red X
 description: This article provides a resolution for the issue that pictures are not shown and displayed as red X in Outlook.
-author: helenclu
-ms.author: luche
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
@@ -16,7 +16,7 @@ appliesto:
   - Microsoft Office Outlook 2007
   - Microsoft Office Outlook 2003
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 # Pictures cannot be displayed and are shown as red X in Outlook
 

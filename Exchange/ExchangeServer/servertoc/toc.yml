@@ -199,6 +199,8 @@
           href: ../administration/low-disk-space-on-database-logs-drivers.md
         - name: Mailbox quarantine issue
           href: ../administration/exchange-mailbox-quarantine-issue.md
+        - name: Mailbox UPN and SamAccountName contain a GUID
+          href: ../administration/mailbox-upn-samaccountname-contain-guid.md
         - name: Mailboxes are quarantined and databases fail over
           href: ../administration/mailboxes-quarantined-databases-fail-over.md
         - name: Managed Availability messages are journaled
@@ -421,6 +423,8 @@
           href: ../compliance/mailbox-audit-log-searches-fail-errorinvalidserverversion.md
         - name: Content index state is stuck in crawling
           href: ../compliance/content-index-state-stuck-crawling-exchange-server-2010.md
+        - name: eDiscovery search ignores attached mail items
+          href: ../compliance/ediscovery-search-ignores-attached-mail-items.md
         - name: eDiscovery search ignores some query keywords
           href: ../compliance/ediscovery-search-ignores-query-keywords.md
         - name: Error when doing a multi-mailbox search
@@ -433,6 +437,8 @@
           href: ../compliance/ediscovery-search-missing-items.md
         - name: MRM doesn't process items in the Sync Issues folder
           href: ../compliance/mrm-not-process-sync-issues-folder.md
+        - name: Reinstall Search Foundation
+          href: ../compliance/reinstall-search-foundation.md
         - name: Search doesn't work if NodeRunner.exe stops
           href: ../compliance/noderunnersexe-stops-search-not-work.md
         - name: Search-AdminAuditLog or Search-MailboxAuditLog returns empty result
@@ -443,6 +449,8 @@
       items:
         - name: Develop apps via Exchange Powershell and .NET Framework
           href: ../development/develop-apps-by-using-exchange-powershell.md
+        - name: MAPI applications can't access archive mailboxes
+          href: ../development/mapi-apps-cannot-access-archive-mailboxes.md
         - name: Support limitations for open standards
           href: ../development/public-protocols-support-limitations.md
     - name: Distribution Lists

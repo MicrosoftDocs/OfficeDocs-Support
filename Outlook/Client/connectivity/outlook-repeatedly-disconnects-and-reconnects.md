@@ -1,8 +1,8 @@
 ---
 title: Outlook repeatedly disconnects and reconnects
 description: Discusses that Outlook 2013, Outlook 2010, and Outlook 2007 clients repeatedly disconnect from and reconnect to Exchange Server 2013. Provides a resolution.
-author: helenclu
-ms.author: luche
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
@@ -16,7 +16,7 @@ appliesto:
   - Exchange Server 2013 Service Pack 1
   - Exchange Server 2013 Standard Edition
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 # Outlook clients repeatedly disconnect from and reconnect to Exchange Server 2013
 

@@ -1,8 +1,8 @@
 ---
 title: The direct booking feature is removed
 description: This article details the deprecation of the Direct Booking functionality in Microsoft Outlook 2013.
-author: helenclu
-ms.author: luche
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
@@ -14,7 +14,7 @@ ms.reviewer: gregmans, aruiz
 appliesto: 
   - Outlook 2013
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 # The EnableDirectBooking registry value isn't used by Outlook 2013
 

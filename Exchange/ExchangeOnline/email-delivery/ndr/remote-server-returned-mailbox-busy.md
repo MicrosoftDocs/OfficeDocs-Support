@@ -1,8 +1,8 @@
 ---
 title: NDR error 554 4.3.2 mailbox busy
 description: Fixes an issue in which you can't send mail to a mailbox in Exchange Online if the mailbox has reached the limit of items in a folder.
-author: simonxjx
-ms.author: v-six
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
@@ -11,11 +11,11 @@ ms.custom:
   - Exchange Online
   - CSSTroubleshoot
   - CI 167832
-ms.reviewer: saurkosh, jamesmi, romccart
+ms.reviewer: saurkosh, jamesmi, romccart, v-six
 appliesto: 
   - Exchange Online
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 # "554 4.3.2 mailbox busy" when sending emails to a mailbox in Exchange Online
 

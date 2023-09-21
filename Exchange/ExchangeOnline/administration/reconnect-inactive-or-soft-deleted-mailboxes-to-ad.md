@@ -1,20 +1,21 @@
 ---
 title: Reconnect inactive or soft-deleted mailboxes to AD
 description: Explains how to reconnect an on-premises AD account with an inactive mailbox when the account is brought back into the scope of Azure AD Connect.
-author: simonxjx
-ms.author: v-six
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
 localization_priority: Normal
-ms.custom: 
+ms.custom:
   - Exchange Online
   - CSSTroubleshoot
-ms.reviewer: kellybos, Nino Bilic
+  - has-azure-ad-ps-ref
+ms.reviewer: kellybos, Nino Bilic, v-six
 appliesto: 
   - Exchange Online
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 # Inactive mailbox is not automatically reconnected to an on-premises Active Directory account
 

@@ -1,8 +1,8 @@
 ---
 title: OWA, ECP, or EMS can't connect after removing a self-signed certificate from Exchange Back End website
 description: Fixes an issue that several client protocols such as ECP, OWA, Exchange ActiveSync, and Exchange Management Shell can't connect. Because you removed the Microsoft Exchange Self-Signed certificate from the Exchange Back End website, and cleared the IIS cache.
-author: simonxjx
-ms.author: v-six
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: 
   - Exchange Server
   - CSSTroubleshoot
-ms.reviewer: 
+ms.reviewer: v-six
 appliesto: 
   - Exchange Server 2016 Enterprise Edition
   - Exchange Server 2013 Enterprise
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 # Unable to open OWA, ECP, or EMS after a self-signed certificate is removed from the Exchange Back End website
 

@@ -1,8 +1,8 @@
 ---
 title: Restored deleted public folders from dumpster cause a migration batch failure
 description: Fixes an issue in which you receive the ErrorFoldersRestoredDuringMigrationPermanentException failure when you run a public folder migration batch job.
-author: helenclu
-ms.author: luche
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
@@ -15,7 +15,7 @@ ms.reviewer: haembab
 appliesto: 
   - Exchange Online
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 # "ErrorFoldersRestoredDuringMigrationPermanentException" error in a public folder migration batch
 

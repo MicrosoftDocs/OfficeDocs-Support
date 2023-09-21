@@ -1,8 +1,8 @@
 ---
 title: Errors when opening documents or starting Outlook
 description: Describes an error message that you may receive when you try to open an Office document or to start Outlook.
-author: helenclu
-ms.author: luche
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
@@ -22,7 +22,7 @@ appliesto:
   - Microsoft Office Access 2003
   - Microsoft Office Outlook 2003
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 # An out-of-date antivirus program may cause errors when you try to open an Office document or to start Outlook
 

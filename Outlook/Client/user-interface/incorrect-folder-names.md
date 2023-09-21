@@ -1,14 +1,14 @@
 ---
 title: Folder names or locations are incorrect in Outlook
 description: Fixes an issue in which folder names or locations are displayed incorrectly or folder functionality is incorrect in Outlook.
-author: helenclu
+author: cloud-writer
 manager: dcscontentpm
 localization_priority: Normal
 search.appverid: 
   - MET150
 audience: ITPro
 ms.topic: troubleshooting
-ms.author: luche
+ms.author: meerak
 ms.custom: 
   - Outlook for Windows
   - CSSTroubleshoot
@@ -19,7 +19,7 @@ appliesto:
   - Outlook 2013
   - Outlook 2010
   - Exchange Online
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 
 # Issues with default folders in Outlook

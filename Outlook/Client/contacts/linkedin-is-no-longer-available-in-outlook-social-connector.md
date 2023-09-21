@@ -1,8 +1,8 @@
 ---
 title: LinkedIn not available in Outlook Social Connector
 description: Describes an issue that prevents LinkedIn from being displayed or available in the Social Connector in Outlook.
-author: helenclu
-ms.author: luche
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
@@ -17,7 +17,7 @@ appliesto:
   - Microsoft Outlook 2010
   - Microsoft Office Outlook 2007
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 # LinkedIn is no longer available in the Outlook Social Connector
 

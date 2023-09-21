@@ -1,13 +1,13 @@
 ---
 title: Installing updates for Mailbox-role server fails
 description: Resolves an issue in which you can't install Exchange Server 2013 CU1 or CU2 for a Mailbox-role server.
-author: simonxjx
-ms.author: v-six
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
 localization_priority: Normal
-ms.reviewer: andreig
+ms.reviewer: andreig, v-six
 ms.custom: 
   - Exchange Server
   - CSSTroubleshoot
@@ -16,7 +16,7 @@ search.appverid:
 appliesto: 
   - Exchange Server 2013 Enterprise
   - Exchange Server 2013 Standard Edition
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 # Error when you install Exchange Server 2013 CU1 or CU2: Error occurred while configuring Search Foundation
 

@@ -1,8 +1,8 @@
 ---
 title: Inline image in email shown as attachment
 description: Describes a problem in Outlook 2010 and Outlook 2013 in which an inline image in an e-mail message is displayed as an attachment when you open the message.
-author: helenclu
-ms.author: luche
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
@@ -15,7 +15,7 @@ appliesto:
   - Outlook 2013
   - Microsoft Outlook 2010
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 # Inline image in an email is shown as an attachment when you open the message in Outlook 2013 or 2010
 

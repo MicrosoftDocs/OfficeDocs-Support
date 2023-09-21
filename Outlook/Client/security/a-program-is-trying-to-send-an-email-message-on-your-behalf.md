@@ -1,8 +1,8 @@
 ---
 title: Program is trying to send an e-mail message on your behalf
 description: Discusses an issue in which you receive an error when you send an email message from another program, such as Microsoft Excel. Provides a resolution.
-author: helenclu
-ms.author: luche
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
@@ -19,7 +19,7 @@ appliesto:
   - Outlook 2013
   - Outlook for Microsoft 365
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 # "A program is trying to send an e-mail message on your behalf" warning in Outlook
 

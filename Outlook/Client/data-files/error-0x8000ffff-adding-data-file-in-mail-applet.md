@@ -1,8 +1,8 @@
 ---
 title: Error 0x8000ffff adding data file in Mail applet
 description: Describes an issue when you receive an error when adding a data file in the Mail applet for Outlook 2016.
-author: helenclu
-ms.author: luche
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
@@ -14,7 +14,7 @@ ms.reviewer: tasitae
 appliesto: 
   - Outlook 2016
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 # Error 0x8000ffff adding a data file in the Mail applet in Outlook 2016
   

@@ -8,7 +8,9 @@ audience: ITPro
 ms.topic: troubleshooting
 localization_priority: Normal
 ms.reviewer: willfid
-ms.custom: CSSTroubleshoot
+ms.custom:
+  - CSSTroubleshoot
+  - has-azure-ad-ps-ref
 search.appverid: 
   - MET150
 appliesto: 
@@ -17,7 +19,7 @@ appliesto:
   - Microsoft Intune
   - Azure Backup
   - Microsoft 365
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 
 # "There is a problem with this website's security certificate" error when a federated user signs out of Microsoft 365, Intune, or Azure

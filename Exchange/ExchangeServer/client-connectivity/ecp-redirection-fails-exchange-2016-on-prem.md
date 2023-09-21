@@ -1,8 +1,8 @@
 ---
 title: ECP redirection fails in Exchange 2016 On-prem
 description: Describes an issue that you get error (The length of the query string for this request exceeds the configured maxQueryStringLength value) when accessing ECP from a remote site in Exchange Server 2016.
-author: simonxjx
-ms.author: v-six
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
@@ -10,11 +10,11 @@ localization_priority: Normal
 ms.custom: 
   - Exchange Server
   - CSSTroubleshoot
-ms.reviewer: helmutk
+ms.reviewer: helmutk, v-six
 appliesto: 
   - Exchange Server 2016
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 # Active Directory site redirection fails when accessing ECP from a remote site in Exchange Server 2016
 

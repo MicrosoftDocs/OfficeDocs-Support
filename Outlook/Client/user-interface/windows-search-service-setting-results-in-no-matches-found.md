@@ -1,8 +1,8 @@
 ---
 title: Windows Search service setting results in no matches
 description: This article details problems in Outlook that can result from having the Allow Service to Interact with Desktop option enabled for the Windows Search service. You may see 0 items indexed or No matches found messages when searching in Outlook.
-author: helenclu
-ms.author: luche
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
@@ -19,7 +19,7 @@ appliesto:
   - Microsoft Office Outlook 2007
   - Outlook for Microsoft 365
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 # Windows Search service setting results in no matches found in Outlook
 

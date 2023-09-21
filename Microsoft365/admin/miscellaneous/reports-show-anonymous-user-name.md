@@ -12,7 +12,7 @@ ms.custom: CSSTroubleshoot
 ms.author: luche
 appliesto: 
   - Microsoft 365
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 
 # Microsoft 365 reports show anonymous user names instead of actual user names
@@ -27,7 +27,7 @@ Microsoft 365 reports show anonymous user names instead of the actual user names
 - SharePoint Activity
 - SharePoint Site Usage
 - Microsoft Teams Activity
-- Yammer Activity
+- Viva Engage Activity
 - Active users in Microsoft 365 Services and Apps
 - Groups Activity
 

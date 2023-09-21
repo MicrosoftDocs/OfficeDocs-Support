@@ -2,26 +2,26 @@
 
 
 
-## Week of May 15, 2023
+## Week of September 04, 2023
 
 
 | Published On |Topic title | Change |
 |------|------------|--------|
-| 5/16/2023 | [View emails and web links side-by-side with Outlook and Microsoft Edge](/outlook/troubleshoot/message-body/view-emails-and-web-links-in-browser) | added |
-| 5/18/2023 | [Actionable message doesn't automatically refresh in the Outlook reading pane](/outlook/troubleshoot/message-body/actionable-message-in-reading-pane-not-refreshed) | added |
+| 9/8/2023 | [Issues that can occur when you add multiple Exchange accounts to the same Outlook profile](/outlook/troubleshoot/profiles-and-accounts/issues-that-occur-when-adding-multiple-exchange-accounts) | modified |
 
 
-## Week of May 08, 2023
-
-
-| Published On |Topic title | Change |
-|------|------------|--------|
-| 5/8/2023 | [Scan Outlook by using Microsoft Support and Recovery Assistant](/outlook/troubleshoot/performance/how-to-scan-outlook-by-using-microsoft-support-and-recovery-assistant) | modified |
-
-
-## Week of May 01, 2023
+## Week of August 21, 2023
 
 
 | Published On |Topic title | Change |
 |------|------------|--------|
-| 5/4/2023 | [Scan Outlook by using Microsoft Support and Recovery Assistant](/outlook/troubleshoot/performance/how-to-scan-outlook-by-using-microsoft-support-and-recovery-assistant) | modified |
+| 8/22/2023 | [Web links from Outlook and Teams open in Microsoft Edge in side-by-side view](/outlook/troubleshoot/message-body/view-emails-and-web-links-in-browser) | modified |
+
+
+## Week of August 07, 2023
+
+
+| Published On |Topic title | Change |
+|------|------------|--------|
+| 8/10/2023 | [Issues in Outlook when you try to configure free/busy information or when you try to delegate information](/outlook/troubleshoot/calendaring/errors-when-configure-free-busy-or-delegate-information) | modified |
+| 8/10/2023 | [Inbox rule in Outlook on the web doesn't appear in Outlook for Windows](/outlook/troubleshoot/email-management/inbox-rule-does-not-appear-in-outlook-client) | added |

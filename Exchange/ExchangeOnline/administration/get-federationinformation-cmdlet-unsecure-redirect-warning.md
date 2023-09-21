@@ -1,8 +1,8 @@
 ---
 title: Unsecure redirect warning
 description: Describes an issue that triggers an unsecure redirect warning message when you run the Get-FederationInformation cmdlet. Then, the Hybrid Configuration wizard doesn't finish successfully.
-author: simonxjx
-ms.author: v-six
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
@@ -10,13 +10,13 @@ localization_priority: Normal
 ms.custom: 
   - Exchange Online
   - CSSTroubleshoot
-ms.reviewer: rayfong
+ms.reviewer: rayfong, v-six
 appliesto: 
   - Exchange Online
   - Exchange Server 2013 Enterprise
   - Exchange Server 2013 Standard Edition
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 # Unsecure redirect warning when you run the Get-FederationInformation cmdlet
 

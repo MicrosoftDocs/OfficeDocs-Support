@@ -1,8 +1,8 @@
 ---
 title: Blocked Senders entries are missing in OWA
 description: Describes an issue in which some Blocked Senders entries in your Outlook client aren't listed on your Blocked Senders list in Outlook Web App. This issue concerns the presence of the @ sign in the domain entries for the Blocked Senders list.
-author: helenclu
-ms.author: luche
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
@@ -15,7 +15,7 @@ appliesto:
   - Outlook 2013
   - Microsoft Outlook 2010
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 # Blocked Senders entries in Outlook are missing in Outlook Web App
 

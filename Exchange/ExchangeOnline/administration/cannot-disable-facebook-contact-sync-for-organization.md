@@ -1,8 +1,8 @@
 ---
 title: Cannot disable Facebook contact sync for organization
 description: Describes an issue in which your Facebook contact sync still appears to be enabled after you try to disable it through the Exchange admin center. Or, you receive an error message when you try to disable sync by using the Set-OwaMailboxPolicy cmdlet.
-author: simonxjx
-ms.author: v-six
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
@@ -10,11 +10,11 @@ localization_priority: Normal
 ms.custom: 
   - Exchange Online
   - CSSTroubleshoot
-ms.reviewer: timothyh
+ms.reviewer: timothyh, v-six
 appliesto: 
   - Exchange Online
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 # You can't disable Facebook contact sync for your Microsoft 365 organization
 

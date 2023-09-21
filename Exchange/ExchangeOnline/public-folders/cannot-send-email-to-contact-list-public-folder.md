@@ -1,8 +1,8 @@
 ---
 title: Can't send email to public folder contact list
 description: Describes an issue in which you can't send email to a contact list in a public folder in Outlook on the web.
-author: v-charloz
-ms.author: v-chazhang
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
@@ -11,14 +11,14 @@ ms.custom:
   - CI 153604
   - Exchange Online
   - CSSTroubleshoot
-ms.reviewer: haembab; meerak; batre
+ms.reviewer: haembab, meerak, batre, v-chazhang
 appliesto: 
   - Exchange Online
   - Exchange Server 2013
   - Exchange Server 2016
   - Exchange Server 2019
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 
 # Can't send email to a contact list in a public folder in Outlook on the web

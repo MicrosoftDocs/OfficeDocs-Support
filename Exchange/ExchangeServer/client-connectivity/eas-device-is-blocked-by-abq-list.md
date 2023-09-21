@@ -1,8 +1,8 @@
 ---
 title: EAS device is blocked by ABQ list
 description: Describes an issue in which the Allow/Block/Quarantine list unexpectedly blocks an Exchange ActiveSync client. In this situation, the Exchange ActiveSync device can no longer sync with Exchange Server after you restore or factory reset the device.
-author: simonxjx
-ms.author: v-six
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
@@ -10,7 +10,7 @@ localization_priority: Normal
 ms.custom: 
   - Exchange Server
   - CSSTroubleshoot
-ms.reviewer: 
+ms.reviewer: v-six
 appliesto: 
   - Exchange Server 2016 Enterprise Edition
   - Exchange Server 2016 Standard Edition
@@ -21,7 +21,7 @@ appliesto:
   - Exchange Online via Office 365 E Plans
   - Exchange Online via Office 365 P Plans
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 # Exchange ActiveSync device is blocked unexpectedly by ABQ list
 

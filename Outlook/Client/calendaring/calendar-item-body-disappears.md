@@ -1,8 +1,8 @@
 ---
 title: Calendar item body disappears in Outlook online mode
 description: Fixes an issue in which the body of a Calendar, Contacts, or Notes item disappears. This issue occurs if the item was edited in Outlook Web App, and you use Outlook 2010 or 2013 in online mode to view it.
-author: helenclu
-ms.author: luche
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
@@ -15,7 +15,7 @@ appliesto:
   - Exchange Server 2013 Enterprise
   - Exchange Server 2013 Standard Edition
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 # Calendar item body disappears in Outlook online mode in an Exchange Server 2013 environment
 

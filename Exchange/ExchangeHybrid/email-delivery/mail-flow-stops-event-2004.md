@@ -1,8 +1,8 @@
 ---
 title: Mail flow to EXO stops and event 2004 is logged
 description: Fixes an issue in which mail flow to Exchange Online stops and a Failed to establish appropriate TLS channel UntrustedRoot Access Denied error message is logged in Event Viewer.
-author: simonxjx
-ms.author: v-six
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
@@ -10,11 +10,11 @@ localization_priority: Normal
 ms.custom: 
   - Exchange Hybrid
   - CSSTroubleshoot
-ms.reviewer: 
+ms.reviewer: v-six
 appliesto: 
   - Exchange Online
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 # Mail flow to Exchange Online stops and event ID 2004 is logged on the hybrid transport server
 

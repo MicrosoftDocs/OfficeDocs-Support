@@ -12,10 +12,10 @@ appliesto:
 - Outlook 2013
 - Outlook for Microsoft 365
 search.appverid: MET150
-ms.reviewer: tasitae
-author: simonxjx
-ms.author: v-six
-ms.date: 3/31/2022
+ms.reviewer: tasitae, v-six
+author: cloud-writer
+ms.author: meerak
+ms.date: 03/31/2022
 ---
 # Outlook doesn't connect or web services don't work after migration to Microsoft 365
 

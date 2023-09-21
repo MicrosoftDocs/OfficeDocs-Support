@@ -6,14 +6,16 @@ manager: dcscontentpm
 localization_priority: Normal
 search.appverid: 
   - MET150
-ms.custom: CSSTroubleshoot
+ms.custom:
+  - CSSTroubleshoot
+  - has-azure-ad-ps-ref
 audience: ITPro
 ms.topic: troubleshooting
 ms.author: luche
 appliesto: 
   - Azure Active Directory
   - Microsoft 365
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 
 # Duplicate or invalid attributes prevent directory synchronization in Microsoft 365

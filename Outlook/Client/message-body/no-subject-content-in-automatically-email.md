@@ -1,8 +1,8 @@
 ---
 title: Automatically generated email messages in Outlook don't contain Subject or contents
 description: Describes an issue that prevents Outlook email messages from having a Subject line and a body. This issue concerns the absence of the Mail registry key.
-author: helenclu
-ms.author: luche
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
@@ -19,7 +19,7 @@ appliesto:
   - Internet Explorer 11
 search.appverid: MET150
 ms.reviewer: 
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 # Automatically generated email messages in Outlook don't contain Subject or contents
 

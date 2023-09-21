@@ -1,8 +1,8 @@
 ---
 title: Free/busy lookups fail in hybrid deployment
 description: Describes an issue that you cannot look up the free/busy information from a mailbox in Exchange Online to an on-premises mailbox. Provides a workaround.
-author: simonxjx
-ms.author: v-six
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
@@ -10,11 +10,11 @@ localization_priority: Normal
 ms.custom: 
   - Exchange Server
   - CSSTroubleshoot
-ms.reviewer: benwinz
+ms.reviewer: benwinz, v-six
 appliesto: 
   - Exchange Online
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 # Free/busy lookups fail from Exchange Online to on-premises in a hybrid deployment
 

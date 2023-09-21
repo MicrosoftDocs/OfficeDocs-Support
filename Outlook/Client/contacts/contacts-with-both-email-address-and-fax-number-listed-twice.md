@@ -1,8 +1,8 @@
 ---
 title: Contact is listed twice when selecting email recipient
 description: Describes a behavior where some recipient addresses are listed twice when you select Contacts in the Address Book in Outlook.
-author: helenclu
-ms.author: luche
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
@@ -20,7 +20,7 @@ appliesto:
   - Microsoft Office Outlook 2003
   - Outlook for Microsoft 365
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 # Contacts with both an e-mail address and a fax number are listed twice when you select an e-mail recipient in Outlook
 

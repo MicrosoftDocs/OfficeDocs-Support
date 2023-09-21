@@ -1,8 +1,8 @@
 ---
 title: NDR error 550 5.6.0 APPROVAL.InvalidExpiry
 description: If a retention policy tag with IsDefaultModeratedRecipientsPolicyTag isn't set for a moderated distribution group, you can't send messages to the group.
-author: simonxjx
-ms.author: v-six
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
@@ -11,11 +11,11 @@ ms.custom:
   - Exchange Online
   - CSSTroubleshoot
   - CI 167832
-ms.reviewer: scottlan
+ms.reviewer: scottlan, v-six
 appliesto: 
   - Exchange Online Protection
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 # "550 5.6.0 APPROVAL.InvalidExpiry" when sending messages to a moderated recipient
 

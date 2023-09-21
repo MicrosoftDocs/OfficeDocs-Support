@@ -2,7 +2,7 @@
 title: Multi-factor authentication error in Microsoft Teams
 ms.author: luche
 author: helenclu
-ms.date: 4/9/2020
+ms.date: 04/09/2020
 audience: ITPro
 ms.topic: troubleshooting
 manager: dcscontentpm
@@ -12,9 +12,10 @@ search.appverid:
   - MET150
 appliesto: 
   - Microsoft Teams
-ms.custom: 
+ms.custom:
   - CI 113425
   - CSSTroubleshoot
+  - has-azure-ad-ps-ref
 ms.reviewer: scapero
 description: Resolves a multi-factor authentication error in a Teams form.
 ---

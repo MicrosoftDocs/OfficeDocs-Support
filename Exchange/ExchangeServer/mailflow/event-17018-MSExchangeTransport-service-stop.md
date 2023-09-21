@@ -2,8 +2,8 @@
 title: Event ID 17018 when Microsoft Exchange Transport service stops
 description: Fixes an issue in which the Microsoft Exchange Transport service stops on an Exchange-based server that has a high CPU core count and a high transport load.
 ms.date: 07/13/2022
-author: v-charloz
-ms.author: v-chazhang
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
@@ -12,10 +12,9 @@ ms.custom:
 - CI 158355
 - Exchange Server
 - CSSTroubleshoot
-ms.reviewer: nasira; lusassl; paulkwo; meerak
+ms.reviewer: nasira, lusassl, paulkwo, meerak, v-chazhang
 appliesto:
 - Exchange Server 2019
-- Exchange Server 2016
 search.appverid: MET150
 ---
 # Microsoft Exchange Transport service stops and returns Event ID 17018
@@ -36,6 +35,9 @@ at Microsoft.Exchange.Transport.Storage.DataConnection..ctor(JET_INSTANCE instan
 This issue occurs because a high number of server-to-server connections can exhaust the session limit too quickly.
 
 ## Resolution
+
+> [!NOTE]  
+> This fix applies to only Microsoft Exchange Server 2019. 
 
 To fix this issue, follow these steps:
 

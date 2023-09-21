@@ -9,10 +9,12 @@ search.appverid:
 audience: ITPro
 ms.topic: troubleshooting
 ms.author: luche
-ms.custom: CSSTroubleshoot
+ms.custom:
+  - CSSTroubleshoot
+  - has-azure-ad-ps-ref
 appliesto: 
   - SharePoint Online
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 
 # Error when an external user accepts a SharePoint Online invitation by using another account

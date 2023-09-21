@@ -1,10 +1,10 @@
 ---
 title: Changes in message store and throttling for concurrent connections
 description: Outgoing messages to be stored in the Sent Item folder, contributing to the mailbox size. Also, a limit is added for concurrent connections.
-author: simonxjx
+author: cloud-writer
+ms.author: meerak
 audience: ITPro
 ms.topic: troubleshooting
-ms.author: v-six
 manager: dcscontentpm
 localization_priority: Normal
 ms.custom: 
@@ -14,7 +14,8 @@ search.appverid:
   - MET150
 appliesto: 
   - Exchange Online
-ms.date: 3/31/2022
+ms.date: 03/31/2022
+ms.reviewer: v-six
 ---
 # Changes in message store and throttling for concurrent connections
 

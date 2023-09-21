@@ -1,8 +1,8 @@
 ---
 title: Can't mount databases that are larger than 1024 GB
 description: Fixes an issue that prevents you from remounting a large dismounted database (>1 TB) in Exchange Server 2019 Standard Edition, Exchange Server 2016 Standard Edition and Exchange Server 2013 Standard Edition. This issue concerns the default database size limit.
-author: simonxjx
-ms.author: v-six
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
@@ -11,14 +11,14 @@ ms.custom:
   - Exchange Server
   - CI 119623
   - CSSTroubleshoot
-ms.reviewer: dpaul, honche, jarrettr, genli, christys
+ms.reviewer: dpaul, honche, jarrettr, genli, christys, v-six
 search.appverid: 
   - MET150
 appliesto: 
   - Exchange Server 2019 Standard Edition
   - Exchange Server 2013 Standard Edition
   - Exchange Server 2016 Standard Edition
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 # Exchange Server 2013, 2016 and 2019 Standard Edition can't mount databases that are larger than 1024 GB
 

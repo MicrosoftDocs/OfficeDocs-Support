@@ -1,8 +1,8 @@
 ---
 title: Outlook Support Diagnostic
 description: This Support Diagnostics Platform (SDP) manifest file collects configuration settings, registry keys, client networking configuration information, event logs, and important file details that are used by the following Microsoft Office applications.
-author: helenclu
-ms.author: luche
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
@@ -17,7 +17,7 @@ appliesto:
   - Microsoft Office Outlook 2007
   - Microsoft Office Outlook 2003
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 # [SDP 3][2c425a45-1620-42a4-ae4d-63b453394935] Microsoft Outlook Support Diagnostic
 

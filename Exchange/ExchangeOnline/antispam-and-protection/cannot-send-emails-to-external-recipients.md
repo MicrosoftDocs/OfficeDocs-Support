@@ -1,8 +1,8 @@
 ---
 title: Cannot send emails to an external recipient
 description: Describes an issue in which you're told that the host name does not match the IP address.
-author: simonxjx
-ms.author: v-six
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: 
   - Exchange Online
   - CSSTroubleshoot
-ms.reviewer: 
+ms.reviewer: v-six
 appliesto: 
   - Exchange Online
   - Exchange Online Protection
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 # Recipient rejects mail from Exchange Online or Exchange Online Protection and host name does not match IP address error
 

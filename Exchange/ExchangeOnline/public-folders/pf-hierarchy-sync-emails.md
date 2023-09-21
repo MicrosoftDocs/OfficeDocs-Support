@@ -1,8 +1,8 @@
 ---
 title: Public folder hierarchy synchronization messages
 description: Fixes an issue in which public folder hierarchy synchronization messages are sent incorrectly because of a transport rule.
-author: helenclu
-ms.author: luche
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
@@ -19,7 +19,7 @@ appliesto:
   - Exchange Server 2016
   - Exchange Server 2019
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 # Email messages with the "HierarchySync_" subject in message tracking
 

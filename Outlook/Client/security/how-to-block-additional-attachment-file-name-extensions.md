@@ -1,8 +1,8 @@
 ---
 title: How to block additional attachment file name extensions
 description: Provides a step-by-step guideline about how to customize your security settings to block attachment file name extensions in both an Exchange environment and a non-Exchange environment for different versions of Outlook.
-author: helenclu
-ms.author: luche
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
@@ -16,7 +16,7 @@ appliesto:
   - Microsoft Office Outlook 2007
   - Microsoft Office Outlook 2003
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 # How to configure Outlook to block additional attachment file name extensions
 

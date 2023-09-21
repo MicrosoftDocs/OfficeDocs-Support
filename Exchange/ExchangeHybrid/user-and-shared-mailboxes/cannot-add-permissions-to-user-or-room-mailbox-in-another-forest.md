@@ -1,8 +1,8 @@
 ---
 title: Cannot add permissions to user or room mailbox
 description: Describes an issue that prevents you from adding a security group to a room mailbox cross-forest through Microsoft Outlook in Microsoft 365 hybrid. Provides a workaround.
-author: simonxjx
-ms.author: v-six
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
@@ -10,11 +10,11 @@ localization_priority: Normal
 ms.custom: 
   - Exchange Hybrid
   - CSSTroubleshoot
-ms.reviewer: kellybos
+ms.reviewer: kellybos, v-six
 appliesto: 
   - Exchange Online
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 # Can't add permissions to Outlook user or room mailbox in another forest in Microsoft 365 hybrid environment
 

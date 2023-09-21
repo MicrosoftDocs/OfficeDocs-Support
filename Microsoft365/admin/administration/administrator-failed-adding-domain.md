@@ -7,14 +7,16 @@ localization_priority: Normal
 search.appverid: 
   - MET150
 audience: ITPro
-ms.custom: CSSTroubleshoot
+ms.custom:
+  - CSSTroubleshoot
+  - has-azure-ad-ps-ref
 ms.topic: troubleshooting
 ms.author: luche
 appliesto: 
   - Microsoft 365
   - Cloud Services (Web roles/Worker roles)
   - Microsoft Intune
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 
 # An administrator can't add a domain to Microsoft 365, Azure, or Intune

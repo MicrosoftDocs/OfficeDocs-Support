@@ -1,21 +1,21 @@
 ---
 title: Can't migrate on-premises primary mailbox with cloud-based archive to Exchange Online
 description: Fixes an error that occurs when migrating an on-premises mailbox using New-MigrationBatch or New-MoveRequest cmdlet with PrimaryOnly switch.
-author: v-charloz
 audience: ITPro
 ms.topic: troubleshooting
-ms.author: v-chazhang
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 localization_priority: Normal
 ms.custom: 
   - Exchange Online
   - CSSTroubleshoot
   - CI 158689
-ms.reviewer: haembab; meerak; ninob
+ms.reviewer: haembab, meerak, ninob, v-chazhang
 search.appverid: MET150
 appliesto: 
   - Exchange Online
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 
 # Can't migrate on-premises primary mailbox with cloud-based archive to Exchange Online

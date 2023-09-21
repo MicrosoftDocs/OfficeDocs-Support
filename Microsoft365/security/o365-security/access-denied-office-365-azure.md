@@ -9,9 +9,10 @@ search.appverid:
   - MET150
 audience: ITPro
 ms.topic: troubleshooting
-ms.custom: 
+ms.custom:
   - CSSTroubleshoot
   - CI 109573
+  - has-azure-ad-ps-ref
 ms.author: luche
 appliesto: 
   - Cloud Services (Web roles/Worker roles)
@@ -19,7 +20,7 @@ appliesto:
   - Microsoft Intune
   - Azure Backup
   - Microsoft
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 
 # "Access Denied" error when you use the connect-MSOLService cmdlet to connect to Microsoft 365

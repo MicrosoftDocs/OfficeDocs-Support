@@ -9,10 +9,10 @@ ms.custom: CSSTroubleshoot
 appliesto:
 - Outlook
 search.appverid: MET150
-ms.reviewer: gregmans, dthayer
-author: simonxjx
-ms.author: v-six
-ms.date: 3/31/2022
+ms.reviewer: gregmans, dthayer, v-six
+author: cloud-writer
+ms.author: meerak
+ms.date: 03/31/2022
 ---
 # Outlook crashes when trying to send emails because of a nonexistent delivery location setting in your profile
 

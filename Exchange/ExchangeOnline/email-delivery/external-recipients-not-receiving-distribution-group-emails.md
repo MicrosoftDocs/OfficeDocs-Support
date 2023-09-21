@@ -1,8 +1,8 @@
 ---
 title: External recipients don't get distribution group email
 description: Describes a scenario in which external recipients of email messages that are sent to a distribution group in Exchange Online don't receive the messages. Additionally, senders don't receive a nondelivery report (NDR). Provides a resolution.
-author: simonxjx
-ms.author: v-six
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
@@ -10,11 +10,11 @@ localization_priority: Normal
 ms.custom: 
   - Exchange Online
   - CSSTroubleshoot
-ms.reviewer: takchow, timothyh, jhayes
+ms.reviewer: takchow, timothyh, jhayes, v-six
 appliesto: 
   - Exchange Online
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 # External recipients don't receive email messages that are sent to a distribution group in Exchange Online and senders don't receive nondelivery reports
 

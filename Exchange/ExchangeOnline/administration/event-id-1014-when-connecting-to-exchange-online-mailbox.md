@@ -1,8 +1,8 @@
 ---
 title: Event ID 1014 when connecting to Exchange Online mailbox
 description: Describes an issue that blocks users from connecting to their Exchange Online mailboxes in Outlook or Outlook on the web. Event ID 1014 is logged in this situation. Provides a resolution.
-author: simonxjx
-ms.author: v-six
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
@@ -10,11 +10,11 @@ localization_priority: Normal
 ms.custom: 
   - Exchange Online
   - CSSTroubleshoot
-ms.reviewer: 
+ms.reviewer: v-six
 appliesto: 
   - Exchange Online
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 # Event ID 1014 when users try to connect to their Exchange Online mailbox
 

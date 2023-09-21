@@ -1,8 +1,8 @@
 ---
 title: 550 5.7.64 Relay Access Denied ATTR36
 description: Fixes an issue in which an on-premises environment cannot send messages on behalf of any domain when you run the Hybrid Configuration Wizard.
-author: simonxjx
-ms.author: v-six
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
@@ -10,11 +10,11 @@ localization_priority: Normal
 ms.custom: 
   - Exchange Hybrid
   - CSSTroubleshoot
-ms.reviewer: scottlan
+ms.reviewer: scottlan, v-six
 appliesto: 
   - Exchange Online
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 # You receive a warning about possible NDR of email messages when running Hybrid Configuration Wizard
 

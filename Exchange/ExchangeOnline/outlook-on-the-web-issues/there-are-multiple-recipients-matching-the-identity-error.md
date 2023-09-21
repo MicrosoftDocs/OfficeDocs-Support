@@ -1,8 +1,8 @@
 ---
 title: There are multiple recipients matching the identity error
 description: Discusses that you receive an error when you try to create an inbox rule in Outlook on the web (formerly known as Outlook Web App (OWA)) or by using the Exchange Management Shell.
-author: simonxjx
-ms.author: v-six
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
@@ -10,7 +10,7 @@ localization_priority: Normal
 ms.custom: 
   - Exchange Online
   - CSSTroubleshoot
-ms.reviewer: amyluu
+ms.reviewer: amyluu, v-six
 appliesto: 
   - Exchange Online
   - Exchange Server 2019
@@ -18,7 +18,7 @@ appliesto:
   - Exchange Server 2013
   - Exchange Server 2010
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 # There are multiple recipients matching the identity error when creating inbox rules in OWA or EMS
 

@@ -1,8 +1,8 @@
 ---
 title: Exchange Online Mail Flow Diagnostic
 description: Describes the data that's collected by the Exchange Online Mail Flow Diagnostic tool.
-author: simonxjx
-ms.author: v-six
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
@@ -10,11 +10,11 @@ localization_priority: Normal
 ms.custom: 
   - Exchange Hybrid
   - CSSTroubleshoot
-ms.reviewer: jchapp
+ms.reviewer: jchapp, v-six
 appliesto: 
   - Exchange Online
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 # Microsoft Exchange Online Mail Flow Diagnostic
 

@@ -1,8 +1,8 @@
 ---
 title: Error when you do a multi-mailbox search in Exchange Server 2010
 description: Describes an issue that can occur when there's no value for the HomeMDB attribute on an Exchange Server 2010 mailbox.
-author: simonxjx
-ms.author: v-six
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: 
   - Exchange Server
   - CSSTroubleshoot
-ms.reviewer: charray, exchblt
+ms.reviewer: charray, exchblt, v-six
 appliesto: 
   - Exchange Server 2010 Enterprise
   - Exchange Server 2010 Standard
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 # Error when you perform a multi-mailbox search in Exchange Server 2010: The user does not have an exchange mailbox
 

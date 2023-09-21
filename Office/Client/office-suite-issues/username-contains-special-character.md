@@ -8,15 +8,16 @@ localization_priority: Normal
 audience: ITPro
 ms.topic: troubleshooting
 ms.author: luche
-ms.custom: 
+ms.custom:
   - CI 115151
   - CSSTroubleshoot
+  - has-azure-ad-ps-ref
 ms.reviewer: timball
 search.appverid: 
   - MET150
 appliesto: 
   - Microsoft 365
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 
 # "Invalid user name" when you try to create a user name that contains a special character in Microsoft 365

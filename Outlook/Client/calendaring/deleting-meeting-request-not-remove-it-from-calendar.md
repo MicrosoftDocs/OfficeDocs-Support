@@ -1,8 +1,8 @@
 ---
 title: Deleting meeting request not removes it from Calendar
 description: When you delete a meeting invitation from your Inbox in Outlook 2013, the tentative meeting remains in the Calendar. This also applies to Outlook 2007 and Outlook 2010 if the hotfix packages dated August 28, 2012 are installed. Additionally, Outlook 2013 writes an event 64 into the Windows Application Log.
-author: helenclu
-ms.author: luche
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
@@ -16,7 +16,7 @@ appliesto:
   - Microsoft Outlook 2010
   - Microsoft Office Outlook 2007
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 # Deleting a meeting request does not remove the meeting from the Outlook Calendar
 

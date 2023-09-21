@@ -1,8 +1,8 @@
 ---
 title: 403 Forbidden and you can't see free/busy information at organization level
 description: Discusses 403 Forbidden error when you view organization-wide free/busy information.
-author: simonxjx
-ms.author: v-six
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: 
   - Exchange Server
   - CSSTroubleshoot
-ms.reviewer: jmartin, excontent, message
+ms.reviewer: jmartin, excontent, message, v-six
 appliesto: 
   - Exchange Server 2013 Enterprise
   - Exchange Server 2010 Enterprise
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 # 403: Forbidden error when you try to view organization-wide free/busy information in Exchange
 

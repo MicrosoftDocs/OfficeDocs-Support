@@ -1,8 +1,8 @@
 ---
 title: InvalidShellID error in RPS
 description: Describes an issue that triggers an InvalidShellID error when a script is running long or when you run an administrative cmdlet in Remote PowerShell (RPS) in Microsoft 365. Provides a resolution.
-author: simonxjx
-ms.author: v-six
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
@@ -10,11 +10,11 @@ localization_priority: Normal
 ms.custom: 
   - Exchange Online
   - CSSTroubleshoot
-ms.reviewer: kellybos
+ms.reviewer: kellybos, v-six
 appliesto: 
   - Exchange Online
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 # InvalidShellID error in RPS in Microsoft 365
 

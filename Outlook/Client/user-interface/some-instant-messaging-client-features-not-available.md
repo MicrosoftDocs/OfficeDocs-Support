@@ -1,8 +1,8 @@
 ---
 title: Instant messaging client features not available
 description: Describes a problem in which some instant messaging client features are not available in Outlook. Provides a resolution.
-author: helenclu
-ms.author: luche
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
@@ -19,7 +19,7 @@ appliesto:
   - Microsoft Office Outlook 2007
   - Outlook for Microsoft 365
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 # Some instant messaging client features are not available in Outlook
 

@@ -1636,6 +1636,11 @@
       "redirect_document_id": true
     },
     {
+      "source_path": "Microsoft365/admin/administration/office-crash-with-sendtobluetooth.md",
+      "redirect_url": "/office/troubleshoot/third-party-add-ins/office-crash-with-sendtobluetooth",
+      "redirect_document_id": false
+    },
+    {
       "source_path": "Office/Client/office/ability-to-uninstall-office.md",
       "redirect_url": "/office/troubleshoot/installation/ability-to-uninstall-office",
       "redirect_document_id": true
@@ -4613,6 +4618,16 @@
       "source_path": "SkypeforBusiness/Hub/context/online-context.yml",
       "redirect_url": "/skypeforbusiness/troubleshoot/sfbonline-end-of-support",
       "redirect_document_id": false
-    }    
+    },
+    {
+      "source_path": "Office/Client/office-suite-issues/install-and-use-this-product-error.md",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeServer/server-im-presence/presence-not-show-outlook.md",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement",
+      "redirect_document_id": false
+    }
   ]
 }

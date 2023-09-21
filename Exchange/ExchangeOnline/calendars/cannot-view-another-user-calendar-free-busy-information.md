@@ -1,8 +1,8 @@
 ---
 title: Can't view other user's free/busy information
 description: Describes a problem that prevents you from viewing free/busy information for a specific user in Exchange Online. And if troubleshooting logging is enabled for the user, the Outlook log contains a The result set contains too many calendar entries error.
-author: simonxjx
-ms.author: v-six
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
@@ -10,14 +10,14 @@ localization_priority: Normal
 ms.custom: 
   - Exchange Online
   - CSSTroubleshoot
-ms.reviewer: 
+ms.reviewer: v-six
 appliesto: 
   - Exchange Online
   - Outlook 2016
   - Outlook 2019
   - Microsoft 365 Apps for enterprise
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 # You can't view free/busy information on another user's Calendar in Exchange Online
 

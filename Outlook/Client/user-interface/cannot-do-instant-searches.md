@@ -1,8 +1,8 @@
 ---
 title: Cannot perform an Instant Search
 description: Provides a resolution to make sure you can do an instant search in Microsoft Outlook.
-author: helenclu
-ms.author: luche
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
@@ -15,7 +15,7 @@ appliesto:
   - Outlook 2013
   - Microsoft Outlook 2010
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 # Outlook data not Instant Search indexed with malformed NoOST value
 

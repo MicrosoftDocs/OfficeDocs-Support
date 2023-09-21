@@ -1,8 +1,8 @@
 ---
 title: Sending Mailbox Server isn't running Exchange 2013 or a later version
 description: Provides a workaround for an issue that triggers an error when you run the Hybrid Configuration Wizard to upgrade your hybrid deployment configuration from Exchange 2010 to Exchange 2013.
-author: simonxjx
-ms.author: v-six
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
@@ -10,11 +10,11 @@ localization_priority: Normal
 ms.custom: 
   - Exchange Hybrid
   - CSSTroubleshoot
-ms.reviewer: timothyh
+ms.reviewer: timothyh, v-six
 appliesto: 
   - Exchange Online
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 # Sending Mailbox Server isn't running Exchange 2013 or a later version when you run HCW
 

@@ -1,8 +1,8 @@
 ---
 title: Cannot see free/busy if setting organization relationship
 description: Describes a scenario in which on-premises users can't view calendar availability of cloud users after you set up an organization relationship. Provides a resolution.
-author: simonxjx
-ms.author: v-six
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
@@ -10,13 +10,13 @@ localization_priority: Normal
 ms.custom: 
   - Exchange Online
   - CSSTroubleshoot
-ms.reviewer: timothyh
+ms.reviewer: timothyh, v-six
 appliesto: 
   - Exchange Online
   - Exchange Server 2010 Standard
   - Exchange Server 2010 Enterprise
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 # On-premises users can't view free/busy information of Exchange Online users after you set up an organization relationship
 

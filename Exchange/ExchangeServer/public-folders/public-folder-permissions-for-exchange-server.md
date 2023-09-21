@@ -9,10 +9,10 @@ ms.custom: CSSTroubleshoot
 appliesto: 
 - Exchange Server
 search.appverid: MET150
-ms.reviewer: kellybos
-author: simonxjx
-ms.author: v-six
-ms.date: 3/31/2022
+ms.reviewer: kellybos, v-six
+author: cloud-writer
+ms.author: meerak
+ms.date: 03/31/2022
 ---
 # Public folder permissions for Exchange Server
 

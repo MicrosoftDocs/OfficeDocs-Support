@@ -1,8 +1,8 @@
 ---
 title: Inline UUEncoded attachments from a UNIX-based application are garbled or unreadable
 description: Fixes an issue in which an inline UUEncoded attachment of an email message from a UNIX-based application is garbled or is unreadable.
-author: helenclu
-ms.author: luche
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
@@ -19,7 +19,7 @@ appliesto:
   - Exchange Server 2013
   - Exchange Server 2016
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 # Inline UUEncoded attachments of email messages from a UNIX-based application are garbled or are unreadable
   

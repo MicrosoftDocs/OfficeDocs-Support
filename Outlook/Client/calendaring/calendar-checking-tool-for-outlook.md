@@ -18,10 +18,10 @@ appliesto:
 - Microsoft Exchange Server 2003 Standard Edition 
 - Outlook for Microsoft 365 Outlook 2019
 search.appverid: MET150
-ms.reviewer: aruiz, randyto
-author: simonxjx
-ms.author: v-six
-ms.date: 3/31/2022
+ms.reviewer: aruiz, randyto, v-six
+author: cloud-writer
+ms.author: meerak
+ms.date: 03/31/2022
 ---
 # Information about the Calendar Checking Tool for Outlook (CalCheck)
 
@@ -64,7 +64,7 @@ The Assistant fully automates all the steps required to perform Outlook calendar
 
 ### Method 2: Manual installation
 
-Go to the [latest release](https://github.com/rtopken/CalCheck/releases), download and install the Calendar Checking Tool for Outlook.
+Go to the [latest release](https://www.microsoft.com/download/details.aspx?id=28786), download and install the Calendar Checking Tool for Outlook.
 
 > [!NOTE]
 > The 64-bit version of this tool is for use together with only the 64-bit version of Microsoft Outlook.

@@ -1,8 +1,8 @@
 ---
 title: Description of the AutoArchive feature
 description: Discusses the AutoArchive feature in Outlook. Explains the difference between archiving and exporting items. You're also given the steps to turn on the AutoArchive feature and how to set the AutoArchive properties for a folder.
-author: helenclu
-ms.author: luche
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
@@ -21,7 +21,7 @@ appliesto:
   - Outlook for Microsoft 365
   - Outlook 2010 with Business Contact Manager
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 # Description of the AutoArchive feature in Outlook
 

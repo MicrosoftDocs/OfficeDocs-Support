@@ -1,8 +1,8 @@
 ---
 title: Stability issues in Citrix environment with AppSense
 description: Provides a resolution if you are experiencing one or more of the issues that are described in the Symptoms section of this article in a Citrix environment with AppSense software installed.
-author: helenclu
-ms.author: luche
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
@@ -16,7 +16,7 @@ appliesto:
   - Microsoft Outlook 2010
   - Microsoft Office Outlook 2007
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 # Possible Outlook stability issues in a Citrix environment with specific versions of AppSense software installed
 

@@ -1,11 +1,11 @@
 ---
 title: Time zone settings for shared mailboxes in Outlook on the web
 description: Discusses how to check and set the time zone for shared mailboxes in Outlook on the web.
-author: simonxjx
-ms.reviewer: ldusoli, mhaque
+author: cloud-writer
+ms.author: meerak
+ms.reviewer: ldusoli, mhaque, v-six
 audience: ITPro
 ms.topic: troubleshooting
-ms.author: v-six
 manager: dcscontentpm
 localization_priority: Normal
 ms.custom: 
@@ -15,7 +15,7 @@ search.appverid:
   - MET150
 appliesto: 
   - Exchange Online
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 # Time zone settings for shared mailboxes in Outlook on the web
 

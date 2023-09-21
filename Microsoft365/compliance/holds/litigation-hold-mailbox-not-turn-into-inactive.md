@@ -1,8 +1,6 @@
 ---
 title: Litigation Hold mailbox doesn't turn into an inactive mailbox after license removal
 description: Fixes an issue in which a Litigation Hold enabled mailbox doesn't turn into an inactive mailbox after the license is removed.
-author: v-charloz
-ms.author: v-chazhang
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
@@ -14,7 +12,7 @@ ms.reviewer: kellybos, lindabr, meerak
 appliesto: 
   - Exchange Online
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 
 # A mailbox that's on Litigation Hold or assigned to a retention policy doesn't turn into an inactive mailbox after license removal

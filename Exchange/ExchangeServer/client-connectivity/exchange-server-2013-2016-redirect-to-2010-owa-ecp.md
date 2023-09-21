@@ -1,8 +1,8 @@
 ---
 title: Exchange Server 2013 or 2016 redirects to Exchange 2010 for OWA, Outlook on the web, and ECP
 description: Describes an issue that you're redirected to Exchange Server 2010 OWA or Exchange Control Panel When you connect to Exchange Server 2016 Outlook on the web, Exchange Server 2013 Outlook Web App, or Admin Center page.
-author: simonxjx
-ms.author: v-six
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
@@ -10,7 +10,7 @@ localization_priority: Normal
 ms.custom: 
   - Exchange Server
   - CSSTroubleshoot
-ms.reviewer: jmartin, excontent, message
+ms.reviewer: jmartin, excontent, message, v-six
 appliesto: 
   - Exchange Server 2016 Enterprise Edition
   - Exchange Server 2016 Standard Edition
@@ -19,7 +19,7 @@ appliesto:
   - Exchange Server 2013 Enterprise
   - Exchange Server 2013 Standard Edition
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 # Exchange Server 2013 or Exchange Server 2016 redirects to Exchange 2010 for OWA, Outlook on the web, and ECP
 

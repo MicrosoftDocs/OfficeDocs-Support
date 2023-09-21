@@ -9,14 +9,16 @@ search.appverid:
 audience: ITPro
 ms.topic: troubleshooting
 ms.author: luche
-ms.custom: CSSTroubleshoot
+ms.custom:
+  - CSSTroubleshoot
+  - has-azure-ad-ps-ref
 appliesto: 
   - Cloud Services (Web roles/Worker roles)
   - Azure Active Directory
   - Microsoft Intune
   - Azure Backup
   - Microsoft 365
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 
 # Update or repair the settings of a federated domain in Microsoft 365, Azure, or Intune

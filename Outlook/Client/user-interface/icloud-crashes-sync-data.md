@@ -1,8 +1,8 @@
 ---
 title: iCloud crashes when synchronizing data
 description: Describes an issue where Apple iCloud crashes when synchronizing Contacts, Calendars, and Tasks with Microsoft Outlook 2016.  Provides a workaround.
-author: helenclu
-ms.author: luche
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
@@ -15,7 +15,7 @@ search.appverid:
   - MET150
 appliesto: 
   - Outlook 2016
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 # iCloud crashes when synchronizing data with Outlook 2016
 

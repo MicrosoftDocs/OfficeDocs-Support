@@ -1,8 +1,8 @@
 ---
 title: You are over Junk E-mail list limit
 description: Describes the issue that you are over Junk E-mail list limit, and provides resolutions.
-author: helenclu
-ms.author: luche
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
@@ -21,7 +21,7 @@ appliesto:
   - Outlook 2013
   - Outlook 2010
   - Office Outlook 2007
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 # Outlook error indicates that you are over the Junk E-mail list limit
 

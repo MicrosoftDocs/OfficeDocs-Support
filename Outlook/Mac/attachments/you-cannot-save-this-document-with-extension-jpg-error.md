@@ -1,8 +1,8 @@
 ---
 title: Cannot save a JPEG file attachment
 description: Discusses the issue that when you try to save a .jpg file attachment, a message is displayed about the extension in Outlook for Mac.
-author: helenclu
-ms.author: luche
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
@@ -14,7 +14,7 @@ ms.reviewer: tsimon
 appliesto: 
   - Outlook 2016 for Mac
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 # A message is shown about the file name extension when saving a .jpg file attachment
 

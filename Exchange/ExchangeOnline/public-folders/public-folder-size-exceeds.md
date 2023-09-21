@@ -1,8 +1,8 @@
 ---
 title: PublicFolderSizeExceedsTargetQuotaException in the migration of public folders
 description: Fixes an error that occurs when you migrate public folders from on-premises Exchange Server to Exchange Online.
-author: v-charloz
-ms.author: v-chazhang
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
@@ -11,13 +11,13 @@ ms.custom:
   - CI 156853
   - Exchange Online
   - CSSTroubleshoot
-ms.reviewer: meerak; batre
+ms.reviewer: meerak, batre, v-chazhang
 editor: v-jesits
 appliesto: 
   - Exchange Online via Office 365 E Plans
   - Exchange Online via Office 365 P Plans
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 
 # "PublicFolderSizeExceedsTargetQuotaException" error when migrating public folders to Exchange Online

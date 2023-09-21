@@ -9,10 +9,10 @@ ms.custom: CSSTroubleshoot
 appliesto: 
 - Exchange Online
 search.appverid: MET150
-ms.reviewer: jhayes
-author: simonxjx
-ms.author: v-six
-ms.date: 3/31/2022
+ms.reviewer: jhayes, v-six
+author: cloud-writer
+ms.author: meerak
+ms.date: 03/31/2022
 ---
 
 # How to specify the email message format that's used for external recipients to prevent Winmail.dat attachments

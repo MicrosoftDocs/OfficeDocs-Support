@@ -12,18 +12,18 @@ ms.topic: troubleshooting
 ms.author: luche
 appliesto: 
   - OneDrive
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 
 # 401 error when you use Graph API to access OneDrive data with location-based policy enabled
 
 ## Symptoms
 
-An application calls the [Microsoft Graph API](/graph/use-the-api) to query OneDrive resources. If a location-based policy is enabled, requests to the Graph API return a 401 "Unauthorized" error message. This occurs even if the user is within the trusted boundary.
+An application calls the [Microsoft Graph API](/graph/use-the-api) to query OneDrive resources. If a location-based policy is enabled, requests to the Graph API return a 401 "Unauthorized" error message. This issue occurs even if the user is within the trusted boundary.
 
 ## Cause
 
-The issue occurs because the Graph API doesn't pass the user's IP address to SharePoint. Therefore, SharePoint cannot determine whether the user is within the trusted boundary. The only apps that currently support location-based policies are Yammer and Exchange. This means that all other apps are blocked, even when these apps are hosted within the trusted network boundary.
+The issue occurs because the Graph API doesn't pass the user's IP address to SharePoint. Therefore, SharePoint can't determine whether the user is within the trusted boundary. The only apps that currently support location-based policies are Viva Engage and Exchange. It means that all other apps are blocked, even when these apps are hosted within the trusted network boundary.
 
 For more information about this issue, see [Control access to SharePoint Online and OneDrive data based on defined network locations](https://support.office.com/article/Control-access-to-SharePoint-Online-and-OneDrive-data-based-on-defined-network-locations-b5a5f1f1-1174-4c6b-91d0-9273a6b6971f).
 

@@ -1,8 +1,8 @@
 ---
 title: Large mailbox migrations are slow due to network latency
 description: Describes a scenario where hybrid mailbox migration for one or more large mailboxes is slow because of network latency. Provides a resolution.
-author: simonxjx
-ms.author: v-six
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
@@ -10,7 +10,7 @@ localization_priority: Normal
 ms.custom: 
   - Exchange Hybrid
   - CSSTroubleshoot
-ms.reviewer: benwinz, jmartin
+ms.reviewer: benwinz, jmartin, v-six
 appliesto: 
   - Exchange Online
   - Exchange Server 2016 Enterprise Edition
@@ -19,7 +19,7 @@ appliesto:
   - Exchange Server 2013 Service Pack 1
   - Exchange Server 2013 Standard Edition
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 # Large mailbox migrations are slow because of network latency
 

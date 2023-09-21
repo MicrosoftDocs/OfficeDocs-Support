@@ -1,8 +1,8 @@
 ---
 title: How to suppress Microsoft 365 AutoDiscover redirect warning
 description: Describes an issue in which you receive an error message when Microsoft Outlook 2016 for Mac connects to a Microsoft 365 account. This article contains information about how to suppress Microsoft 365 AutoDiscover redirect warning.
-author: helenclu
-ms.author: luche
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
@@ -15,7 +15,7 @@ appliesto:
   - Outlook 2016 for Mac
   - Exchange Online
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 # How to suppress the Microsoft 365 AutoDiscover redirect warning in Outlook 2016 for Mac
 

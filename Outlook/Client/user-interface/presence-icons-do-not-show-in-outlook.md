@@ -1,8 +1,8 @@
 ---
 title: Presence icons do not show in Outlook
 description: This article provides a resolution for the issue that the presence information or presence icons do not display in Microsoft Outlook.
-author: helenclu
-ms.author: luche
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
@@ -19,7 +19,7 @@ appliesto:
   - Microsoft Outlook 2010
   - Outlook for Microsoft 365
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 # Presence icons do not appear in Outlook
 

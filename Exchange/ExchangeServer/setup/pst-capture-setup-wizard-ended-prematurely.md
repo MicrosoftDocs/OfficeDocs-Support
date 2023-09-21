@@ -1,13 +1,13 @@
 ---
 title: Installing PST Capture tool fails
 description: Describes an error that occurs if the Windows Firewall service is disabled. Provides a resolution.
-author: simonxjx
-ms.author: v-six
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
 localization_priority: Normal
-ms.reviewer: sidd
+ms.reviewer: sidd, v-six
 ms.custom: 
   - Exchange Server
   - CSSTroubleshoot
@@ -18,7 +18,7 @@ appliesto:
   - Windows Server 2008 R2 Foundation
   - Windows Server 2008 R2 Enterprise
   - Windows Server 2008 R2 Datacenter
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 # Error when you install the PST Capture tool in Windows Server 2008 R2: Setup wizard ended prematurely because of an error
 

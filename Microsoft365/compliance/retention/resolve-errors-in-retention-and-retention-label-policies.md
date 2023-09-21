@@ -1,8 +1,6 @@
 ---
 title: Resolve errors in Microsoft 365 retention and retention label policies
 description: Resolves errors in Microsoft 365 retention and retention label policies.
-author: v-trisshores
-ms.author: v-trisshores
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
@@ -92,8 +90,8 @@ To resolve this issue, use either of the following methods.
    Use the [New-AppRetentionComplianceRule](/powershell/module/exchange/new-appretentioncompliancerule) cmdlet for policies that target:
 
    - Teams private channel messages
-   - Microsoft Yammer user messages
-   - Yammer community messages
+   - Microsoft Viva Engage user messages
+   - Viva Engage community messages
 
    For example, to add a rule that specifies an unlimited retention period, run the following command:
 

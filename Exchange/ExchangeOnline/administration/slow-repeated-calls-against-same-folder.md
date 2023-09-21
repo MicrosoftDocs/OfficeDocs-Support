@@ -1,8 +1,8 @@
 ---
 title: Repeated calls against the same folder are slow
 description: Provides a workaround for an issue in which repeated calls are made in Exchange Server 2013 or Exchange Online to IMAPITable::Restrict() in MAPI or Folder.FindItems() in Exchange Web Services, later calls to the same folder by using the same criteria are as slow as the first call.
-author: simonxjx
-ms.author: v-six
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
@@ -10,13 +10,13 @@ localization_priority: Normal
 ms.custom: 
   - Exchange Online
   - CSSTroubleshoot
-ms.reviewer: bilong, dpaul
+ms.reviewer: bilong, dpaul, v-six
 appliesto: 
   - Exchange Online
   - Exchange Server 2013 Enterprise
   - Exchange Server 2013 Standard Edition
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 # Repeated calls against the same folder are slow in Exchange Server 2013 or Exchange Online
 

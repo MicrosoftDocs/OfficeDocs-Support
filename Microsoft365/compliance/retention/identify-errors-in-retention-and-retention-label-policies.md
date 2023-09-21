@@ -1,8 +1,6 @@
 ---
 title: Identify errors in Microsoft 365 retention and retention label policies
 description: How to identify errors in Microsoft 365 retention and retention label policies.
-author: v-trisshores
-ms.author: v-trisshores
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
@@ -76,8 +74,8 @@ Use the following steps to check for errors in policies that target:
 Use the following steps to check for errors in policies that target:
 
 - Teams private channel messages
-- Microsoft Yammer user messages
-- Yammer community messages
+- Microsoft Viva Engage user messages
+- Viva Engage community messages
 
 1. [Connect to Security & Compliance PowerShell](/powershell/exchange/connect-to-scc-powershell).
 

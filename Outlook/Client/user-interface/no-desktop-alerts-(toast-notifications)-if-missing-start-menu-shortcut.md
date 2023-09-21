@@ -1,8 +1,8 @@
 ---
 title: No notifications if missing Start menu shortcut
 description: Describes an issue that blocks new email desktop alerts (toast notifications) in Outlook 2013 and Outlook 2016. A resolution is provided.
-author: helenclu
-ms.author: luche
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
@@ -21,7 +21,7 @@ appliesto:
   - Windows 8
   - Windows 8.1
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 # No desktop alerts (toast notifications) if the Outlook Start menu shortcut is missing
 

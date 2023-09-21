@@ -1,8 +1,8 @@
 ---
 title: MapiExceptionPartialCompletion Unable to copy to target error when moving a mailbox in Exchange Server 2013
 description: "Describes an issue that causes a mailbox move operation to fail at 95% when the -IgnoreRuleLimitErrors:$true switch is used with New-MoveRequest cmdlet in Exchange Server 2013."
-author: simonxjx
-ms.author: v-six
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: 
   - Exchange Server
   - CSSTroubleshoot
-ms.reviewer: nickul, genli
+ms.reviewer: nickul, genli, v-six
 appliesto: 
   - Exchange Server 2013 Enterprise
   - Exchange Server 2013 Standard Edition
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 # Error when you use the IgnoreRuleLimitErrors switch in the New-MoveRequest cmdlet in Exchange Server 2013 - MapiExceptionPartialCompletion: Unable to copy to target
 

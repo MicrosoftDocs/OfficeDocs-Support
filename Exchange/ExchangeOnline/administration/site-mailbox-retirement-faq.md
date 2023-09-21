@@ -1,8 +1,8 @@
 ---
 title: Site mailbox retirement FAQs
 description: Lists frequently asked questions about the retirement of site mailboxes.
-author: helenclu
-ms.author: luche
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
@@ -15,7 +15,7 @@ ms.reviewer: batre
 appliesto: 
   - Exchange Online
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 # Site mailbox retirement - April 2021
 

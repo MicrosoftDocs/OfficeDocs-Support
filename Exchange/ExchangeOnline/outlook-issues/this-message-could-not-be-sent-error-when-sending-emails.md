@@ -1,8 +1,8 @@
 ---
 title: This message could not be sent error
 description: Describes an issue in Microsoft 365 in which users who have Send As permission to a distribution group receive a non-delivery report when they try to send an email message to other users in Outlook.
-author: simonxjx
-ms.author: v-six
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
@@ -10,11 +10,11 @@ localization_priority: Normal
 ms.custom: 
   - Exchange Online
   - CSSTroubleshoot
-ms.reviewer: 
+ms.reviewer: v-six
 appliesto: 
   - Exchange Online
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 # This message could not be sent NDR when an approved user sends mail in Microsoft 365
 

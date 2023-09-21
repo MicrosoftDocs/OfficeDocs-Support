@@ -1,8 +1,8 @@
 ---
 title: Missing the Publish to WebDAV Server option
 description: You cannot find the Publish to WebDAV Server option when sharing a Calendar folder in Exchange Server 2016, 2013 or 2010. Provides a resolution.
-author: simonxjx
-ms.author: v-six
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
@@ -10,7 +10,7 @@ localization_priority: Normal
 ms.custom: 
   - Exchange Server
   - CSSTroubleshoot
-ms.reviewer: gregmans, alinastr
+ms.reviewer: gregmans, alinastr, v-six
 appliesto: 
   - Exchange Server 2016 Enterprise Edition
   - Exchange Server 2013 Enterprise
@@ -19,7 +19,7 @@ appliesto:
   - Outlook 2013
   - Outlook 2010
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 # The Publish to WebDAV Server option is missing from the Calendar folder shortcut menu
 

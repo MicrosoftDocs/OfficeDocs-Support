@@ -13,7 +13,7 @@ ms.author: luche
 ms.reviewer: jgordner, sfrancis, sloanc, andyfel, djess, arykhus, mosesma, ryanwei, tomol
 appliesto: 
   - Office 2010
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 
 # How to prevent Office 2010 from disabling printers
@@ -46,7 +46,7 @@ To prevent Office 2010 from disabling printers, set the DisablePrintFeaturesOnCr
 
 Administrator can deploy the Print ticket safe mode Group Policy setting to prevent Office 2010 from disabling printers. The Print ticket safe mode Group Policy setting is included in Office 2010 Administrative Template file. To obtain Office 2010 Administrative Template file, visit the following Microsoft website:
 
-[Download the Office 2010 Administrative Template file](https://www.microsoft.com/downloads/details.aspx?displaylang=en&familyid=64b837b6-0aa0-4c07-bc34-bec3990a7956)
+[Download the Office 2010 Administrative Template file](https://www.microsoft.com/download/details.aspx?familyid=64b837b6-0aa0-4c07-bc34-bec3990a7956)
 
 For more information about new printing functionalities in Microsoft Office, visit the following Microsoft website:
 

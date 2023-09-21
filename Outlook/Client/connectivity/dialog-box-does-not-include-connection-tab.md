@@ -1,8 +1,8 @@
 ---
 title: Dialog box not including Connection tab
 description: Describes an issue that prevents the Connection tab from being displayed in an Exchange Server dialog box in Outlook 2010. Troubleshooting steps and a workaround are provided.
-author: helenclu
-ms.author: luche
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
@@ -14,7 +14,7 @@ ms.reviewer: abarglo, aruiz
 appliesto: 
   - Outlook 2010
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 # Exchange Server dialog box does not include a Connection tab in Outlook 2010
 

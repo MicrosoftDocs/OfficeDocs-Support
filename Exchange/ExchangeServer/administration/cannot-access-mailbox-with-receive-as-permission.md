@@ -1,8 +1,8 @@
 ---
 title: Can't open a mailbox with Receive-As permission on a mailbox database
 description: Provides solutions for an issue where you can't open another user's mailbox on a database with Receive-As permissions.
-author: simonxjx
-ms.author: v-six
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
@@ -10,14 +10,14 @@ localization_priority: Normal
 ms.custom: 
   - Exchange Server
   - CSSTroubleshoot
-ms.reviewer: yusenko
+ms.reviewer: yusenko, v-six
 appliesto: 
   - Exchange Server 2016 Enterprise Edition
   - Exchange Server 2016 Standard Edition
   - Exchange Server 2013 Enterprise
   - Exchange Server 2013 Standard Edition
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 # Unable to access a mailbox with Receive-As permissions on a mailbox database
 

@@ -1,8 +1,8 @@
 ---
 title: Error 0x8004010F when sending or receiving email
 description: Resolves an issue in which you receive a 0x8004010F error when you try to send or receive email messages.
-author: helenclu
-ms.author: luche
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
@@ -15,7 +15,7 @@ appliesto:
   - Outlook 2013
   - Microsoft Outlook 2010
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 # Error 0x8004010F when you try to send or receive email in Outlook 2010 or Outlook 2013
 

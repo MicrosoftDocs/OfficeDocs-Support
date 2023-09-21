@@ -1,8 +1,8 @@
 ---
 title: Cannot connect to Exchange Online or create new profiles
 description: Resolves Outlook connectivity issues that occur if a user is located in a restricted network environment that blocks port 443 in Microsoft 365.
-author: simonxjx
-ms.author: v-six
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
@@ -10,11 +10,11 @@ localization_priority: Normal
 ms.custom: 
   - Exchange Online
   - CSSTroubleshoot
-ms.reviewer: 
+ms.reviewer: v-six
 appliesto: 
   - Exchange Online
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 # Outlook can't connect to Exchange Online or a user can't create new Outlook profiles in Microsoft 365
 

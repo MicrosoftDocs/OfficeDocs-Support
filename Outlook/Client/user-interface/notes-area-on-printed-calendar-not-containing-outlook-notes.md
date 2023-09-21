@@ -1,8 +1,8 @@
 ---
 title: Printed calendar not contains Outlook notes
 description: This article provides the steps to print the Notes section for a calendar in Microsoft Outlook.
-author: helenclu
-ms.author: luche
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
@@ -17,7 +17,7 @@ appliesto:
   - Microsoft Office Outlook 2007
   - Microsoft Office Outlook 2003
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 # Notes area on a printed calendar does not contain Outlook notes
 

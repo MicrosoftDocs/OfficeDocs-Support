@@ -1,8 +1,8 @@
 ---
 title: Password prompt at every start or cannot create profile
 description: Describes an issue that causes you to be prompted for your password every time that Outlook 2016 or Outlook 2013 starts. Provides a resolution. Or, you are unable to create a profile.
-author: helenclu
-ms.author: luche
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
@@ -17,7 +17,7 @@ appliesto:
   - Outlook 2013
   - Outlook for Microsoft 365
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 # Password prompt at every Outlook start or can't create profile
 

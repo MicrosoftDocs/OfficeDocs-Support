@@ -1,8 +1,8 @@
 ---
 title: How to manage .pst files in Microsoft Outlook
 description: Describes how to back up Outlook data. This includes how to back up, export, import personal folders (.pst) file data. Also describes how to back up Personal Address Books, Outlook Settings Files and data on an Exchange Server.
-author: helenclu
-ms.author: luche
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
@@ -16,7 +16,7 @@ appliesto:
   - Microsoft Office Outlook 2007
   - Microsoft Office Outlook 2003
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 # How to manage .pst files in Microsoft Outlook
 

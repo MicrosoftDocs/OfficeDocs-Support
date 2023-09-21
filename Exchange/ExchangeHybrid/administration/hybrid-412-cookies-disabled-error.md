@@ -1,8 +1,8 @@
 ---
 title: Hybrid pane isn't redirected to Microsoft 365 portal
 description: Fixes a disabled cookies error that's triggered when you click hybrid in the Exchange Admin Center on an on-premises server in an Exchange hybrid deployment.
-author: simonxjx
-ms.author: v-six
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
@@ -10,11 +10,11 @@ localization_priority: Normal
 ms.custom: 
   - Exchange Hybrid
   - CSSTroubleshoot
-ms.reviewer: v-mosha
+ms.reviewer: v-mosha, v-six
 appliesto: 
   - Exchange Online
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 # 412 Cookies Are Disabled when you click hybrid in the Exchange admin center
 

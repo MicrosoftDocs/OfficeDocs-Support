@@ -1,8 +1,8 @@
 ---
 title: Two OneDrive accounts when uploading attachments
 description: Fixes an issue in which users see two OneDrive accounts when they upload attachments from Outlook on the web.
-author: helenclu
-ms.author: luche
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
@@ -18,7 +18,7 @@ appliesto:
   - Exchange Server 2016
   - Exchange Server 2019
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 # Two OneDrive accounts appear when uploading attachments from Outlook on the web
 

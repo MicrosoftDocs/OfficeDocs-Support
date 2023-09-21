@@ -1,8 +1,8 @@
 ---
 title: No default mail client error with wrong MSIComponentID
 description: This article provides a resolution for the No default mail client error that occurs when the MSIComponentID registry value is not correct for Outlook 2013.
-author: helenclu
-ms.author: luche
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
@@ -14,7 +14,7 @@ ms.reviewer: robevans, gregmans
 appliesto: 
   - Outlook 2013
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 # No default mail client error when MSIComponentID registry value is incorrect for Outlook 2013
 

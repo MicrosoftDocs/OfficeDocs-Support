@@ -12,10 +12,10 @@ appliesto:
 - Exchange Server 2013 Enterprise
 - Exchange Server 2013 Standard Edition
 search.appverid: MET150
-ms.reviewer: djball
-author: simonxjx
-ms.author: v-six
-ms.date: 3/31/2022
+ms.reviewer: djball, v-six
+author: cloud-writer
+ms.author: meerak
+ms.date: 03/31/2022
 ---
 
 # "Custom error module does not recognize this error" error when you use an OWA web part URL

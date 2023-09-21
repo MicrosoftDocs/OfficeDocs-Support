@@ -1,8 +1,8 @@
 ---
 title: Cannot undo changes if all messages marked as read
 description: Fixes an issue in which you cannot undo the changes if you inadvertently select all messages in a folder to be marked as read.
-author: helenclu
-ms.author: luche
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
@@ -14,7 +14,7 @@ ms.reviewer: aruiz, sercast
 appliesto: 
   - Outlook
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 # You cannot undo the changes if you mark all messages as read
 

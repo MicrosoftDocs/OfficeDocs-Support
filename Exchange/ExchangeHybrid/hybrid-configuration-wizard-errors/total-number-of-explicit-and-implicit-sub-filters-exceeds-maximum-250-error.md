@@ -1,8 +1,8 @@
 ---
 title: Cannot add more than 250 domains
 description: Discusses an error message that you receive when you run the Hybrid Configuration Wizard to set up an Exchange hybrid deployment. Provides a solution.
-author: simonxjx
-ms.author: v-six
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
@@ -10,11 +10,11 @@ localization_priority: Normal
 ms.custom: 
   - Exchange Hybrid
   - CSSTroubleshoot
-ms.reviewer: rrajan
+ms.reviewer: rrajan, v-six
 appliesto: 
   - Exchange Online
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 # (Total number of explicit and implicit sub filters exceeds maximum allowed number of 250) error in Hybrid Configuration Wizard
 

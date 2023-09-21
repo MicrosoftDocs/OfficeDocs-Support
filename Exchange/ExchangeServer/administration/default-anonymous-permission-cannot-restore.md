@@ -1,13 +1,13 @@
 ---
 title: Removed Default or Anonymous permission can't be restored
 description: Fixes an issue in which you can't use the Add-MailboxFolderPermission cmdlet to add Outlook folder Default or Anonymous permission.
-author: simonxjx
-ms.author: v-six
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
 localization_priority: Normal
-ms.reviewer: borget, heleli
+ms.reviewer: borget, heleli, v-six
 ms.custom: 
   - Exchange Server
   - CSSTroubleshoot
@@ -16,7 +16,7 @@ search.appverid:
 appliesto: 
   - Exchange Server 2013 Enterprise
   - Exchange Server 2013 Standard Edition
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 # Removed Default or Anonymous permission for Outlook folders can't be restored in an Exchange Server 2013 environment
 

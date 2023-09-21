@@ -1,8 +1,8 @@
 ---
 title: 1007 AccessDenied or Unable to federate your domain error
 description: Describes an issue in which you receive an Access Denied or Ensure your system time is correct error message when you run the Hybrid Configuration wizard. Provides a solution.
-author: simonxjx
-ms.author: v-six
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
@@ -11,13 +11,13 @@ ms.custom:
   - Exchange Hybrid
   - CSSTroubleshoot
   - CI 162000
-ms.reviewer: timothyh
+ms.reviewer: timothyh, v-six
 appliesto: 
   - Exchange Online
   - Exchange Server 2013 Enterprise
   - Exchange Server 2013 Standard Edition
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 # "1007 AccessDenied" or "Ensure your system time is correct" error when you run Hybrid Configuration wizard
 

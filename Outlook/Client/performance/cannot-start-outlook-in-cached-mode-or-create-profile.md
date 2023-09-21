@@ -1,8 +1,8 @@
 ---
 title: Cannot start Outlook in cached mode
 description: Describes an issue in which you receive a Cannot start Microsoft Outlook error when trying to start Outlook in cached mode or create a new cached mode profile.
-author: helenclu
-ms.author: luche
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
@@ -17,7 +17,7 @@ appliesto:
   - Outlook 2013
   - Outlook 2010
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 # You cannot start Outlook in cached mode or create a new cached mode profile
 

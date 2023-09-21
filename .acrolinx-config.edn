@@ -16,7 +16,7 @@
              }
    }
  
- :guidance-profile "d2b6c2c8-00ee-47f1-8d10-b280cc3434c1" ;; Profile ID for "M365-specific"
+ :guidance-profile "e02ed7ad-77a3-459d-85d0-02feabf7d596" ;; testing March 2023 updated guidelines – M365
  
  :template-header
  "

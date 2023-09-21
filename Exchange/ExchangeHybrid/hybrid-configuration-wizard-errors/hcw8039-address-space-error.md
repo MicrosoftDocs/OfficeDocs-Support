@@ -1,8 +1,8 @@
 ---
 title: HCW8039 error in the Hybrid Configuration wizard
 description: Fixes an issue that triggers an HCW8039 error when you run the Hybrid Configuration wizard in an Exchange Online or Exchange Server 2013 environment.
-author: simonxjx
-ms.author: v-six
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
@@ -10,13 +10,13 @@ localization_priority: Normal
 ms.custom: 
   - Exchange Hybrid
   - CSSTroubleshoot
-ms.reviewer: timothyh
+ms.reviewer: timothyh, v-six
 appliesto: 
   - Exchange Online
   - Exchange Server 2013 Enterprise
   - Exchange Server 2013 Standard Edition
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 # HCW8039 The hybrid Send connector must only contain the single address space error when you run HCW
 

@@ -1,8 +1,8 @@
 ---
 title: Cmdlet or parameter combinations not working
 description: Some PowerShell cmdlet or parameter combinations do not work as expected. Provides a workaround.
-author: simonxjx
-ms.author: v-six
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
@@ -10,14 +10,14 @@ localization_priority: Normal
 ms.custom: 
   - Exchange Server
   - CSSTroubleshoot
-ms.reviewer: genli, ralfle
+ms.reviewer: genli, ralfle, v-six
 appliesto: 
   - Exchange Server 2016 Enterprise Edition
   - Exchange Server 2016 Enterprise Edition
   - Exchange Server 2013 Enterprise
   - Exchange Server 2013 Standard Edition
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 # Some PowerShell cmdlet or parameter combinations are unsuccessful in Exchange Server
 

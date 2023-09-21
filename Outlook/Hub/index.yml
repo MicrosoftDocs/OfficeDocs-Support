@@ -8,12 +8,12 @@ brand: m365
 metadata:
   title: Microsoft 365 troubleshooting for admins and IT professionals # Required; page title displayed in search results. Include the brand. < 60 chars.
   description: Microsoft 365 provides online services and server products for your business with solutions for small to enterprise scale. This page provides guidance for troubleshooting issues with these products and services. # < 160 chars
-  ms.prod: outlook
   ms.topic: hub-page # Required
   audience: ITPro
-  author: helenclu #Required; your GitHub user alias, with correct capitalization.
-  ms.author: luche #Required; microsoft alias of author; optional team alias.
+  author: cloud-writer #Required; your GitHub user alias, with correct capitalization.
+  ms.author: meerak #Required; microsoft alias of author; optional team alias.
   ms.date: 07/03/2019 #Required; mm/dd/yyyy format.
+  ms.service: outlook
 
 # productDirectory section (optional)
 productDirectory:
@@ -38,12 +38,12 @@ productDirectory:
         - url: /microsoftteams/troubleshoot/teams-welcome
           text: Microsoft Teams
     # Card
-    - title: Microsoft 365 apps
+    - title: Microsoft 365 Apps
       # imageSrc should be square in ratio with no whitespace
       imageSrc: /support/media/hub-landing/logo-m365-app.png
       links:
         - url: /office/troubleshoot/office-client-welcome
-          text: Microsoft 365 apps (Office products)
+          text: Microsoft 365 Apps (Office products)
         - url: /office/troubleshoot/office-experts-welcome
           text: From the Office Experts
     # Card
@@ -101,7 +101,9 @@ productDirectory:
         - url: /viva/troubleshoot/learning/viva-learning-welcome
           text: Microsoft Viva Learning
         - url: /viva/troubleshoot/connections/viva-connections-welcome
-          text: Microsoft Viva Connections       
+          text: Microsoft Viva Connections
+        - url: /viva/troubleshoot/glint/viva-glint-welcome
+          text: Microsoft Viva Glint  
     # Card
     - title: Endpoint management
       imageSrc: /media/logos/logo-ms-social.png

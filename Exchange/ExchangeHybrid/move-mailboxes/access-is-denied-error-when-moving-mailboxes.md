@@ -1,8 +1,8 @@
 ---
 title: Access is denied error when moving mailboxes
 description: Describes an issue that triggers an Access is denied error when trying to move mailboxes to Exchange Online in a hybrid deployment.
-author: simonxjx
-ms.author: v-six
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
@@ -10,11 +10,11 @@ localization_priority: Normal
 ms.custom: 
   - Exchange Hybrid
   - CSSTroubleshoot
-ms.reviewer: hbohl, charw
+ms.reviewer: hbohl, charw, v-six
 appliesto: 
   - Exchange Online
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 # (Access is denied) error when you try to move mailboxes to Exchange Online in a hybrid deployment
 

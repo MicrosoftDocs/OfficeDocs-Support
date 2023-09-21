@@ -2,25 +2,9 @@
 
 
 
-## Week of May 01, 2023
+## Week of September 11, 2023
 
 
 | Published On |Topic title | Change |
 |------|------------|--------|
-| 5/3/2023 | [Another account from your organization is already signed in on this computer](/office/troubleshoot/activation/another-account-already-signed-in) | modified |
-
-
-## Week of April 24, 2023
-
-
-| Published On |Topic title | Change |
-|------|------------|--------|
-| 4/28/2023 | [Another account from your organization is already signed in on this computer](/office/troubleshoot/activation/another-account-already-signed-in) | modified |
-
-
-## Week of April 03, 2023
-
-
-| Published On |Topic title | Change |
-|------|------------|--------|
-| 4/3/2023 | [How to recover unsaved Word documents](/office/troubleshoot/word/recover-lost-unsaved-corrupted-document) | modified |
+| 9/12/2023 | To install and use this product error when you install Office 2010 | removed |
