@@ -4629,5 +4629,10 @@
       "redirect_url": "/previous-versions/troubleshoot/content-retirement",
       "redirect_document_id": false
     }
+    {
+      "source_path": "Microsoft365/admin/miscellaneous/issues-in-cortana.md",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement",
+      "redirect_document_id": false
+    }
   ]
 }
