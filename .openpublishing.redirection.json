@@ -4638,6 +4638,11 @@
       "source_path": "SharePoint/SharePointOnline/security/cannot-force-modern-authentication.md",
       "redirect_url": "/previous-versions/troubleshoot/content-retirement",
       "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointServer/migration-tool/products-preparation-tool-not-progress-past-configuring-application.md",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement",
+      "redirect_document_id": false
     }
   ]
 }
