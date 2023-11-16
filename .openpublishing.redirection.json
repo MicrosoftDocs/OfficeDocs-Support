@@ -4643,6 +4643,126 @@
       "source_path": "SharePoint/SharePointServer/migration-tool/products-preparation-tool-not-progress-past-configuring-application.md",
       "redirect_url": "/previous-versions/troubleshoot/content-retirement",
       "redirect_document_id": false
+    },
+    {
+      "source_path": "Teams/teams-conferencing/no-audio-when-sharing-content-in-meeting.md",
+      "redirect_url": "https://support.microsoft.com/office/dddede9f-e3d0-4330-873a-fa061a0d8e3b",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Teams/teams-administration/public-team-list-doesnt-display-all.md",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Teams/teams-administration/group-mailboxes-will-not-enable-archive.md",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Teams/teams-administration/eaf-in-emet-ids-chrome-optimizations-as-threats.md",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Teams/teams-administration/cannot-access-admin-center.md",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Teams/teams-administration/welcome-email-not-received-in-teams.md",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Teams/teams-administration/activate-guest-user-access-in-teams.md",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Teams/authentication/modern-authentication-failure-teams.md",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Teams/teams-conferencing/teams-room-cant-open-powerpoint-presentations-tls.md",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Teams/teams-conferencing/exchange-users-cant-access-meetings.md",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Teams/teams-conferencing/lenovo-shut-down-during-meeting.md",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Teams/files/download-documents-open-in-protected-view.md",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Teams/mobile/problems-using-teams-on-ios-13-beta.md",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Teams/mobile/teams-users-cant-switch-accounts-intune-mobile.md",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Teams/mobile/chrome-80-users-unable-to-sign-in-on-teams.md",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Teams/provisioning/wrong-teams-user-listed-as-site-creator.md",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Teams/teams-sign-in/sign-in-error-after-password-change.md",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Teams/teams-sign-in/teams-for-surface-hub-wont-start-from-store.md",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Teams/tabs/file-download-failure-teams.md",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Teams/tabs/website-tabs-cause-confusion-teams.md",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Teams/tabs/unable-to-rename-legacy-onenote-tabs.md",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Teams/teams-on-mac/virtual-camera-doesnt-work-macos.md",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Teams/third-party-programs/unable-to-access-gstatic-in-teams.md",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Teams/third-party-programs/safari-intelligent-tracking-prevention-problems.md",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement",
+      "redirect_document_id": false
     }
   ]
 }
