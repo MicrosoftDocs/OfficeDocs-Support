@@ -4763,6 +4763,11 @@
       "source_path": "Teams/third-party-programs/safari-intelligent-tracking-prevention-problems.md",
       "redirect_url": "/previous-versions/troubleshoot/content-retirement",
       "redirect_document_id": false
+    },
+    {
+      "source_path": "Viva/Glint/fix-manager-hierarchy-circular-reporting.md",
+      "redirect_url": "/viva/troubleshoot/glint/data-file-upload/fix-manager-hierarchy-circular-reporting",
+      "redirect_document_id": true
     }
   ]
 }
