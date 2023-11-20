@@ -2136,6 +2136,11 @@
       "redirect_document_id": true
     },
     {
+      "source_path": "Outlook/Client/calendaring/no-event-reminders-for-automapped-additional-mailboxes.md",
+      "redirect_url": "/outlook/troubleshoot/profiles-and-accounts/add-shared-mailbox-as-additional-account",
+      "redirect_document_id": false
+    },
+    {
       "source_path": "Exchange/ExchangeHybrid/calendar-reminders/cannot-dismiss-outlook-calendar-reminders.md",
       "redirect_url": "/exchange/troubleshoot/calendaring/cannot-dismiss-outlook-calendar-reminders",
       "redirect_document_id": true
