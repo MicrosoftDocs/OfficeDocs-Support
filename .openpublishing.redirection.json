@@ -4773,6 +4773,11 @@
       "source_path": "Viva/Glint/fix-manager-hierarchy-circular-reporting.md",
       "redirect_url": "/viva/troubleshoot/glint/data-file-upload/fix-manager-hierarchy-circular-reporting",
       "redirect_document_id": true
+    },
+    {
+      "source_path": "Teams/teams-conferencing/following-application-instance-not-present-error.md",
+      "redirect_url": "/MicrosoftTeams/troubleshoot/teams-administration/following-application-instance-not-present-error",
+      "redirect_document_id": true
     }
   ]
 }
