@@ -3246,6 +3246,11 @@
       "redirect_document_id": true
     },
     {
+      "source_path": "Exchange/ExchangeOnline/move-or-migrate-mailboxes/new-migrationendpoint-returns-error.md",
+      "redirect_url": "/exchange/troubleshoot/public-folders/new-migrationendpoint-returns-error",
+      "redirect_document_id": true
+    },
+    {
       "source_path": "Exchange/ExchangeOnline/mailbox-migration/no-smtp-proxy-matching.md",
       "redirect_url": "/exchange/troubleshoot/move-or-migrate-mailboxes/no-smtp-proxy-matching",
       "redirect_document_id": true
