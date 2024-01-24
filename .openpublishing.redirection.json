@@ -296,6 +296,11 @@
       "redirect_document_id": false
     },
     {
+      "source_path": "Teams/teams-administration/unable-send-message-group-chat.md",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement",
+      "redirect_document_id": false
+    },
+    {
       "source_path": "SharePoint/SharePointOnline/sites/site-collection-uses-enterprise-wiki-template.md",
       "redirect_url": "/sharepoint/support/online",
       "redirect_document_id": false
