@@ -51,6 +51,7 @@ A user whose mailbox is hosted on an on-premises Exchange server turned off the 
 > For users whose mailbox is hosted on-premises, it's expected to have presence delays with a maximum of an hour.
 
 A user is attending an Outlook calendar meeting but the Teams presence status doesn't update to 'In a meeting'.
+Out of office Messages not reflected in MS Teams for on Premises Users.
 
 ## Prerequisites
 
@@ -302,7 +303,27 @@ If you verified that there's no problem with the prerequisites and configuration
 
 These troubleshooting steps apply to only the [Issue 3](#symptoms).
 
-#### Step 1: Verify that the URL for the on-premises Exchange REST API has been published on the public network
+#### Step 1: Verify that Autodiscover returns the REST API on premise URL: 
+
+For On Premises users Out-of-Office information and calendar-based presence status requests use the on-premises REST-endpoint. AutoDiscover V2 uses anonymous access and provides for the REST API access url.
+
+You can use the Invoke-RestMethod to verify if Autodiscover is indeed providing for the REST API url:
+
+Invoke-RestMethod -Uri 'https://outlook.office365.com/autodiscover/autodiscover.json?Email=<On Premises Email address>&Protocol=REST'
+
+Please note, for the <On Premises Email address> you should select a hybrid mailbox that s hosted on Premises, in other words, an Active Directory user object that holds an on Premises Mailbox and is synced to Azure AD from Active Directory. 
+  
+Returned Value should be `https://mail.contoso.com/api`. If it is not, most probably there is a Network device blocking Autodiscover requests. To verify that Exchange on Premises Autodiscover is indeed announcing the REST API url you can use the same Invoke-RestMethod in Powershell from the Exchange Server itself against the Internal Exchange Server FQDN:
+  
+Invoke-RestMethod -Uri 'https://<Internal Exchange Server FQND>/autodiscover/autodiscover.json?Email=<On Premises Email address>&Protocol=REST'
+
+Example:  
+
+Invoke-RestMethod -Uri 'https://ExchangeServer1.contoso.com/autodiscover/autodiscover.json?Email=<On Premises Email address>&Protocol=REST'
+
+The returned Value should also be `https://mail.contoso.com/api`. This should also be the response obtained while requesting the REST API on Premise url while querying Autodiscover Externally.  
+   
+#### Step 2: Verify that the URL for the on-premises Exchange REST API has been published on the public network
 
 Run [Step 2](#common-troubleshooting-steps) in the Common Troubleshooting Steps above against the user's mailbox to locate the on-premises Exchange EWS URL, and change the URL format (replace "/EWS/Exchange.asmx" with "/api") in this manner: `https://mail.contoso.com/EWS/Exchange.asmx` to `https://mail.contoso.com/api`.
 
@@ -310,8 +331,15 @@ Try to access the REST API URL from a browser in the external network. If you ge
 
 > [!NOTE]
 > Teams presence service doesn't support the fallback to the EWS URL if the access to the Exchange REST API fails.
+  
+#### Step 2: Verify from your browser that you can access GraphAPI urls from the Internal Network:
+  
+As descibed in the Document [Office 365 URLs and IP address ranges - Microsoft 365 Enterprise | Microsoft Docs] (https://docs.microsoft.com/en-us/microsoft-365/enterprise/urls-and-ip-address-ranges?view=o365-worldwide), MS Teams rerquires access to the Office365 IP addresses and URL's. For GraphAPI access please confirm in your Browser that your network settings allow access to:
+ 
+- https://graph.microsoft.com
+- https://graph.windows.com
 
-#### Step 2: Verify that the Teams Presence Based on Calendar Events test is successful
+#### Step 3: Verify that the Teams Presence Based on Calendar Events test is successful
 
 1. Ask the user to go to the [Teams Presence Based on Calendar Events](https://testconnectivity.microsoft.com/tests/TeamsCalendarPresence/input) section of **Microsoft Remote Connectivity Analyzer**.
 2. Input the requested information.
