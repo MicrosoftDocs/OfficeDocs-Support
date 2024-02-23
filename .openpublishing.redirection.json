@@ -4823,6 +4823,11 @@
       "source_path": "Teams/tabs/removed-user-appears-as-unknown.md",
       "redirect_url": "/previous-versions/troubleshoot/content-retirement",
       "redirect_document_id": false
-    }    
+    },
+    {
+      "source_path": "Teams/teams-rooms-and-devices/rooms-known-issues.md",
+      "redirect_url": "/MicrosoftTeams/troubleshoot/teams-rooms-and-devices/teams-rooms-known-issues-android",
+      "redirect_document_id": true
+    } 
   ]
 }
