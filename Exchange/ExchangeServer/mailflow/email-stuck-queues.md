@@ -27,7 +27,12 @@ ms.date: 01/24/2024
 
 ## Symptoms
 
-In Microsoft Exchange Server 2019, 2016, or 2013, email messages may be stuck in on-premises message queues for several minutes if the server is configured to send to a single destination, such as Exchange Online. There are few or no deferrals (400-series SMTP response codes) from Exchange Online to account for the number of messages in the queue. Eventually, the messages are sent. However, there are some delays.
+In Microsoft Exchange Server 2019, 2016, or 2013, email messages may be stuck in on-premises message queues for several minutes if the server is configured to send to a single destination, such as Exchange Online. There are few or no deferrals (400-series SMTP response codes) from Exchange Online to account for the number of messages in the queue. This is inclusive of scenarios wherein mailflow from on-premises exceed Exchange Online limits such as [Receiving Limits,Sender-Recipient pair limits](https://docs.microsoft.com/en-us/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits#receiving-limits) and Exchange Online returns NDR status codes 5.2.121, 5.2.122 back to on-premises, followed by 400-series SMTP response codes.
+
+In such scenarios, eventually, the messages are sent. However, there are some delays.
+
+*Note* : *Exchange Online Receiving Limits enforcement was announced via [Exchange Team Blog](https://techcommunity.microsoft.com/t5/exchange-team-blog/upcoming-changes-to-mailbox-receiving-limits-hot-recipients/ba-p/2155862) and MC239262;
+SRP changes were announced via MC272450*  
 
 ## Cause
 
@@ -36,6 +41,8 @@ Exchange Server is designed to create concurrent or parallel connections to send
 ## Resolution
 
 If your Exchange-based servers are primarily used to send to Exchange Online, you can change the following settings to optimize performance and avoid building large queues.
+
+*Note* : *The resolution discussed in this article is intended to increase the throughput of messages to Exchange Online and in-turn help avoid large queue build up scenarios at On-premises end against Exchange Online; it's not intended to completely address the scenarios involving mailflow from On-premises exceeding Exchange Online Receiving Limits and/or SRP limits. That would need addressing On-premises senders in ensuring [Exchange Online limits](https://docs.microsoft.com/en-us/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits#receiving-limits) aren't exceeded*
 
 ### SmtpConnectorQueueMessageCountThresholdForConcurrentConnections
 
@@ -50,7 +57,7 @@ The *SmtpConnectorQueueMessageCountThresholdForConcurrentConnections* parameter 
 
 ### MaxPerDomainOutboundConnections
 
-The *MaxPerDomainOutboundConnections* parameter specifies the maximum number of concurrent connections to any single domain. The default value is **20** connections. To increase the maximum number of connections, run the following cmdlet:
+The *MaxPerDomainOutboundConnections* parameter specifies the maximum number of concurrent connections that the transport service can open to any single domain. The default value is **20** connections. To increase the maximum number of connections, run the following cmdlet:
 
 ```powershell
 Set-TransportService Mailbox01 -MaxPerDomainOutboundConnections 40
@@ -65,3 +72,14 @@ Set-TransportService Mailbox01 -MessageRetryInterval 00:05:00
 ```
 
 For more information, see [Set-TransportService](/powershell/module/exchange/set-transportservice?view=exchange-ps&preserve-view=true).
+
+### SmtpMaxMessagesPerConnection
+
+The *SmtpMaxMessagesPerConnection* parameter is a SendConnector configuration that specifies the maximum number of messages that can be sent over a single connection. You can set this value to **2** for the highest throughput. To do this, run the following cmdlet: 
+
+```powershell
+Set-SendConnector "Outbound to Office 365" -SmtpMaxMessagesPerConnection 2
+```
+*Note: By virtue of Hybrid Configuration Wizard run, the name of the default Hybrid mailflow outbound connector at the on-premises end would be *"Outbound to Office 365"**
+
+For more information, see [Set-SendConnector](/powershell/module/exchange/set-sendconnector?view=exchange-ps&preserve-view=true).
