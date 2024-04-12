@@ -727,7 +727,7 @@
     },
     {
       "source_path": "Microsoft365/admin/administration/unexpected-autodiscover-behavior.md",
-      "redirect_url": "/outlook/troubleshoot/domain-management/unexpected-autodiscover-behavior",
+      "redirect_url": "/previous-versions/troubleshoot/outlook/unexpected-autodiscover-behavior",
       "redirect_document_id": false
     },
     {
@@ -3047,8 +3047,8 @@
     },
     {
       "source_path": "Outlook/Client/domain-management/unexpected-autodiscover-behavior.md",
-      "redirect_url": "/outlook/troubleshoot/profiles-and-accounts/unexpected-autodiscover-behavior",
-      "redirect_document_id": true
+      "redirect_url": "/previous-versions/troubleshoot/outlook/unexpected-autodiscover-behavior",
+      "redirect_document_id": false
     },
     {
       "source_path": "Outlook/Client/folders/focused-inbox-disappears-switch-folder.md",
@@ -4838,6 +4838,826 @@
       "source_path": "SharePoint/SharePointServer/sharepoint-troubleshooting-content-updates.md",
       "redirect_url": "/previous-versions/troubleshoot/content-retirement",
       "redirect_document_id": false
-    }
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/administration/404-error-if-calling-to-makeewsrequestasync.md",
+      "redirect_url": "/previous-versions/troubleshoot/exchange/exchangeserver/404-error-if-calling-to-makeewsrequestasync",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/administration/auto-installation-net-4-6-1-windows-server-2012-r2.md",
+      "redirect_url": "/previous-versions/troubleshoot/exchange/exchangeserver/auto-installation-net-4-6-1-windows-server-2012-r2",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/administration/cannot-create-dlp-policy.md",
+      "redirect_url": "/previous-versions/troubleshoot/exchange/exchangeserver/cannot-create-dlp-policy",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/administration/cannot-manage-virtual-directories-via-emc.md",
+      "redirect_url": "/previous-versions/troubleshoot/exchange/exchangeserver/cannot-manage-virtual-directories-via-emc",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/administration/mailbox-not-open-exchange-server-2010-server.md",
+      "redirect_url": "/previous-versions/troubleshoot/exchange/exchangeserver/mailbox-not-open-exchange-server-2010-server",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/administration/cannot-remove-accepted-domain.md",
+      "redirect_url": "/previous-versions/troubleshoot/exchange/exchangeserver/cannot-remove-accepted-domain",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/administration/error-delete-distribution-list-member-via-outlook.md",
+      "redirect_url": "/previous-versions/troubleshoot/exchange/exchangeserver/error-delete-distribution-list-member-via-outlook",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/administration/cannot-reset-local-replica-age-limit-days-value.md",
+      "redirect_url": "/previous-versions/troubleshoot/exchange/exchangeserver/cannot-reset-local-replica-age-limit-days-value",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/administration/cannot-retrieve-cdrs-via-emc-or-ecp.md",
+      "redirect_url": "/previous-versions/troubleshoot/exchange/exchangeserver/cannot-retrieve-cdrs-via-emc-or-ecp",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/administration/office-365-hybrid-configuration-wizard-fails.md",
+      "redirect_url": "/previous-versions/troubleshoot/exchange/exchangeserver/office-365-hybrid-configuration-wizard-fails",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/administration/creating-items-on-behalf-of-a-delegate-fails.md",
+      "redirect_url": "/previous-versions/troubleshoot/exchange/exchangeserver/creating-items-on-behalf-of-a-delegate-fails",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/administration/cannot-create-system-management-automation-runspaces.md",
+      "redirect_url": "/previous-versions/troubleshoot/exchange/exchangeserver/cannot-create-system-management-automation-runspaces",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/administration/cannot-process-argument-transformation-error.md",
+      "redirect_url": "/previous-versions/troubleshoot/exchange/exchangeserver/cannot-process-argument-transformation-error",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/administration/unexpected-debug-programs-user-right.md",
+      "redirect_url": "/previous-versions/troubleshoot/exchange/exchangeserver/unexpected-debug-programs-user-right",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/administration/exchange-version-build-number-service-pack.md",
+      "redirect_url": "/previous-versions/troubleshoot/exchange/exchangeserver/exchange-version-build-number-service-pack",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/administration/email-from-shared-mailbox-not-saved-sent-items.md",
+      "redirect_url": "/previous-versions/troubleshoot/exchange/exchangeserver/email-from-shared-mailbox-not-saved-sent-items",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/administration/exchange-2010-startdagservermaintenanceps1-script-fail.md",
+      "redirect_url": "/previous-versions/troubleshoot/exchange/exchangeserver/exchange-2010-startdagservermaintenanceps1-script-fail",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/administration/error-run-new-mailboxexportrequest.md",
+      "redirect_url": "/previous-versions/troubleshoot/exchange/exchangeserver/error-run-new-mailboxexportrequest",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/administration/errors-start-ems-connect-to-remote-server.md",
+      "redirect_url": "/previous-versions/troubleshoot/exchange/exchangeserver/errors-start-ems-connect-to-remote-server",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/administration/1009-errors-application-log-lagged-database-copies.md",
+      "redirect_url": "/previous-versions/troubleshoot/exchange/exchangeserver/1009-errors-application-log-lagged-database-copies",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/administration/event-106-start-rpc-client-access.md",
+      "redirect_url": "/previous-versions/troubleshoot/exchange/exchangeserver/event-106-start-rpc-client-access",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/administration/event-id-1325-1026-1000-convert-oab.md",
+      "redirect_url": "/previous-versions/troubleshoot/exchange/exchangeserver/event-id-1325-1026-1000-convert-oab",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/administration/event-id-2142-exchange-services-not-start.md",
+      "redirect_url": "/previous-versions/troubleshoot/exchange/exchangeserver/event-id-2142-exchange-services-not-start",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/administration/event-2160-map-user-certificate.md",
+      "redirect_url": "/previous-versions/troubleshoot/exchange/exchangeserver/event-2160-map-user-certificate",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/administration/event-id-9875.md",
+      "redirect_url": "/previous-versions/troubleshoot/exchange/exchangeserver/event-id-9875",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/administration/ews-notification-return-wrong-value-for-unreadcount.md",
+      "redirect_url": "/previous-versions/troubleshoot/exchange/exchangeserver/ews-notification-return-wrong-value-for-unreadcount",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/administration/exchange-server-2010-datacenter-switchover.md",
+      "redirect_url": "/previous-versions/troubleshoot/exchange/exchangeserver/exchange-server-2010-datacenter-switchover",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/administration/exchange-transaction-logs-grow-rapidly.md",
+      "redirect_url": "/previous-versions/troubleshoot/exchange/exchangeserver/exchange-transaction-logs-grow-rapidly",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/administration/extend-ad-schema-to-use-hab.md",
+      "redirect_url": "/previous-versions/troubleshoot/exchange/exchangeserver/extend-ad-schema-to-use-hab",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/administration/cannot-create-mailbox-database-multiple-domain.md",
+      "redirect_url": "/previous-versions/troubleshoot/exchange/exchangeserver/cannot-create-mailbox-database-multiple-domain",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/administration/cannot-open-additional-mailbox-owa.md",
+      "redirect_url": "/previous-versions/troubleshoot/exchange/exchangeserver/cannot-open-additional-mailbox-owa",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/administration/federation-trust-sharing-errors.md",
+      "redirect_url": "/previous-versions/troubleshoot/exchange/exchangeserver/federation-trust-sharing-errors",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/administration/full-hierarchy-sync-fails-with-error.md",
+      "redirect_url": "/previous-versions/troubleshoot/exchange/exchangeserver/full-hierarchy-sync-fails-with-error",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/administration/have-replies-sent-to-option-not-working.md",
+      "redirect_url": "/previous-versions/troubleshoot/exchange/exchangeserver/have-replies-sent-to-option-not-working",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/administration/exchange-diagnostic-logging-levels.md",
+      "redirect_url": "/previous-versions/troubleshoot/exchange/exchangeserver/exchange-diagnostic-logging-levels",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/administration/collect-info-exchange-2013-managed-availability-diagnostic.md",
+      "redirect_url": "/previous-versions/troubleshoot/exchange/exchangeserver/collect-info-exchange-2013-managed-availability-diagnostic",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/administration/intermittent-500-error-for-ews-requests.md",
+      "redirect_url": "/previous-versions/troubleshoot/exchange/exchangeserver/intermittent-500-error-for-ews-requests",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/administration/load-balancer-marks-client-access-server-as-down.md",
+      "redirect_url": "/previous-versions/troubleshoot/exchange/exchangeserver/load-balancer-marks-client-access-server-as-down",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/administration/exchange-mailbox-quarantine-issue.md",
+      "redirect_url": "/previous-versions/troubleshoot/exchange/exchangeserver/exchange-mailbox-quarantine-issue",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/administration/modern-attachment-not-work-with-web-proxy.md",
+      "redirect_url": "/previous-versions/troubleshoot/exchange/exchangeserver/modern-attachment-not-work-with-web-proxy",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/administration/exchange-mailbox-assistants-crash-event-4999.md",
+      "redirect_url": "/previous-versions/troubleshoot/exchange/exchangeserver/exchange-mailbox-assistants-crash-event-4999",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/administration/event-id-4999-msexchangeservicesapppool-crash.md",
+      "redirect_url": "/previous-versions/troubleshoot/exchange/exchangeserver/event-id-4999-msexchangeservicesapppool-crash",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/administration/new-mailboxsearch-creates-folder-hierarchy.md",
+      "redirect_url": "/previous-versions/troubleshoot/exchange/exchangeserver/new-mailboxsearch-creates-folder-hierarchy",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/administration/publish-to-webdav-server-missing.md",
+      "redirect_url": "/previous-versions/troubleshoot/exchange/exchangeserver/publish-to-webdav-server-missing",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/administration/remote-powershell-cmdlet-fails.md",
+      "redirect_url": "/previous-versions/troubleshoot/exchange/exchangeserver/remote-powershell-cmdlet-fails",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/administration/enable-hierarchical-address-book-exchange-2010.md",
+      "redirect_url": "/previous-versions/troubleshoot/exchange/exchangeserver/enable-hierarchical-address-book-exchange-2010",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/administration/nondefault-attributes-value-not-display-outlook.md",
+      "redirect_url": "/previous-versions/troubleshoot/exchange/exchangeserver/nondefault-attributes-value-not-display-outlook",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/administration/notes-field-in-contacts-is-blank-after-it-is-updated.md",
+      "redirect_url": "/previous-versions/troubleshoot/exchange/exchangeserver/notes-field-in-contacts-is-blank-after-it-is-updated",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/client-connectivity/cannot-connect-to-owa-by-using-http.md",
+      "redirect_url": "/previous-versions/troubleshoot/exchange/exchangeserver/cannot-connect-to-owa-by-using-http",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/client-connectivity/email-message-content-missing-in-owa.md",
+      "redirect_url": "/previous-versions/troubleshoot/exchange/exchangeserver/email-message-content-missing-in-owa",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/client-connectivity/cannot-use-chrome-manage-eac-settings.md",
+      "redirect_url": "/previous-versions/troubleshoot/exchange/exchangeserver/cannot-use-chrome-manage-eac-settings",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/client-connectivity/error-access-shared-mailbox-web-part-url.md",
+      "redirect_url": "/previous-versions/troubleshoot/exchange/exchangeserver/error-access-shared-mailbox-web-part-url",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/client-connectivity/exchange-server-client-connectivity-diagnostic.md",
+      "redirect_url": "/previous-versions/troubleshoot/exchange/exchangeserver/exchange-server-client-connectivity-diagnostic",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/client-connectivity/http-clients-connect-diabled-account.md",
+      "redirect_url": "/previous-versions/troubleshoot/exchange/exchangeserver/http-clients-connect-diabled-account",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/client-connectivity/imap-clients-logon-fail-coexist-exchange.md",
+      "redirect_url": "/previous-versions/troubleshoot/exchange/exchangeserver/imap-clients-logon-fail-coexist-exchange",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/client-connectivity/inconsistent-search-results-owa.md",
+      "redirect_url": "/previous-versions/troubleshoot/exchange/exchangeserver/inconsistent-search-results-owa",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/client-connectivity/400-bad-request.md",
+      "redirect_url": "/previous-versions/troubleshoot/exchange/exchangeserver/400-bad-request",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/client-connectivity/kerberos-authentication-for-mapi-client.md",
+      "redirect_url": "/previous-versions/troubleshoot/exchange/exchangeserver/kerberos-authentication-for-mapi-client",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/client-connectivity/meetings-are-off-by-one-hour-in-certain-time-zones.md",
+      "redirect_url": "/previous-versions/troubleshoot/exchange/exchangeserver/meetings-are-off-by-one-hour-in-certain-time-zones",
+      "redirect_document_id": false
+    },    
+    {
+      "source_path": "Exchange/ExchangeServer/client-connectivity/added-appointments-contacts-not-synchronized-to-owa.md",
+      "redirect_url": "/previous-versions/troubleshoot/exchange/exchangeserver/added-appointments-contacts-not-synchronized-to-owa",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/client-connectivity/exchange-server-2013-2016-redirect-to-2010-owa-ecp.md",
+      "redirect_url": "/previous-versions/troubleshoot/exchange/exchangeserver/exchange-server-2013-2016-redirect-to-2010-owa-ecp",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/client-connectivity/test-owaconnectivity-and-test-ecpconnectivity-fail.md",
+      "redirect_url": "/previous-versions/troubleshoot/exchange/exchangeserver/test-owaconnectivity-and-test-ecpconnectivity-fail",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/client-connectivity/user-culture-cannot-be-set.md",
+      "redirect_url": "/previous-versions/troubleshoot/exchange/exchangeserver/user-culture-cannot-be-set",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/client-connectivity/cannot-select-many-items-in-owa.md",
+      "redirect_url": "/previous-versions/troubleshoot/exchange/exchangeserver/cannot-select-many-items-in-owa",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/migration/issue-msexchmasteraccountsid-on-user-account.md",
+      "redirect_url": "/previous-versions/troubleshoot/exchange/exchangeserver/issue-msexchmasteraccountsid-on-user-account",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/setup/event-106-msexchange-common.md",
+      "redirect_url": "/previous-versions/troubleshoot/exchange/exchangeserver/event-106-msexchange-common",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/authentication/looking-for-credential-tiles-message.md",
+      "redirect_url": "/previous-versions/troubleshoot/outlook/looking-for-credential-tiles-message",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/authentication/o365-credential-prompts-with-authenticationservice.md",
+      "redirect_url": "/previous-versions/troubleshoot/outlook/o365-credential-prompts-with-authenticationservice",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/authentication/prevent-saving-credentials.md",
+      "redirect_url": "/previous-versions/troubleshoot/outlook/prevent-saving-credentials",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/authentication/policy-control-credential-prompts.md",
+      "redirect_url": "/previous-versions/troubleshoot/outlook/policy-control-credential-prompts",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/authentication/you-dont-have-permission-to-create-an-entry-in-this-folder-error.md",
+      "redirect_url": "/previous-versions/troubleshoot/outlook/you-dont-have-permission-to-create-an-entry-in-this-folder-error",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/calendaring/calendar-item-body-disappears.md",
+      "redirect_url": "/previous-versions/troubleshoot/outlook/calendar-item-body-disappears",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/calendaring/mailbox-declined-your-meeting-because-recurring-error.md",
+      "redirect_url": "/previous-versions/troubleshoot/outlook/mailbox-declined-your-meeting-because-recurring-error",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/calendaring/cannot-send-meeting-on-behalf-of-managers.md",
+      "redirect_url": "/previous-versions/troubleshoot/outlook/cannot-send-meeting-on-behalf-of-managers",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/calendaring/create-online-meeting-failed-error.md",
+      "redirect_url": "/previous-versions/troubleshoot/outlook/create-online-meeting-failed-error",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/calendaring/extractorganizedmeetings-registry-value-causes-outlook-issues.md",
+      "redirect_url": "/previous-versions/troubleshoot/outlook/extractorganizedmeetings-registry-value-causes-outlook-issues",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/calendaring/outlook-cannot-set-oof-status-view-busy-free.md",
+      "redirect_url": "/previous-versions/troubleshoot/outlook/outlook-cannot-set-oof-status-view-busy-free",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/calendaring/how-to-copy-calendar-items-to-another-folder.md",
+      "redirect_url": "/previous-versions/troubleshoot/outlook/how-to-copy-calendar-items-to-another-folder",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/calendaring/calendar-items-display-incorrect-time.md",
+      "redirect_url": "/previous-versions/troubleshoot/outlook/calendar-items-display-incorrect-time",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/calendaring/meeting-request-lacks-where-and-when-text.md",
+      "redirect_url": "/previous-versions/troubleshoot/outlook/meeting-request-lacks-where-and-when-text",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/calendaring/outlook-crashes-when-open-meeting-contains-lync-meeting-details.md",
+      "redirect_url": "/previous-versions/troubleshoot/outlook/outlook-crashes-when-open-meeting-contains-lync-meeting-details",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/calendaring/deleting-meeting-request-not-remove-it-from-calendar.md",
+      "redirect_url": "/previous-versions/troubleshoot/outlook/deleting-meeting-request-not-remove-it-from-calendar",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/calendaring/send-update-missing-copy-meeting.md",
+      "redirect_url": "/previous-versions/troubleshoot/outlook/send-update-missing-copy-meeting",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/calendaring/enabledirectbooking-registry-value-not-used.md",
+      "redirect_url": "/previous-versions/troubleshoot/outlook/enabledirectbooking-registry-value-not-used",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/calendaring/publish-to-webdav-server-option-unavailable.md",
+      "redirect_url": "/previous-versions/troubleshoot/outlook/publish-to-webdav-server-option-unavailable",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/calendaring/uselegacyfb-not-working.md",
+      "redirect_url": "/previous-versions/troubleshoot/outlook/uselegacyfb-not-working",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/connectivity/cannot-open-mailbox-using-mapi-over-http.md",
+      "redirect_url": "/previous-versions/troubleshoot/outlook/cannot-open-mailbox-using-mapi-over-http",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/connectivity/dialog-box-does-not-include-connection-tab.md",
+      "redirect_url": "/previous-versions/troubleshoot/outlook/dialog-box-does-not-include-connection-tab",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/connectivity/outlook-2010-connection-delay-failure.md",
+      "redirect_url": "/previous-versions/troubleshoot/outlook/outlook-2010-connection-delay-failure",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/contacts/cannot-manage-distribution-group-exchange-mailbox.md",
+      "redirect_url": "/previous-versions/troubleshoot/outlook/cannot-manage-distribution-group-exchange-mailbox",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/contacts/outlook-displays-incorrect-search-results-gal.md",
+      "redirect_url": "/previous-versions/troubleshoot/outlook/outlook-displays-incorrect-search-results-gal",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/contacts/linkedin-is-no-longer-available-in-outlook-social-connector.md",
+      "redirect_url": "/previous-versions/troubleshoot/outlook/linkedin-is-no-longer-available-in-outlook-social-connector",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/contacts/you-donnot-have-permission-to-create-an-entry-error.md",
+      "redirect_url": "/previous-versions/troubleshoot/outlook/you-donnot-have-permission-to-create-an-entry-error",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/data-files/cannot-start-the-required-translator-error.md",
+      "redirect_url": "/previous-versions/troubleshoot/outlook/cannot-start-the-required-translator-error",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/data-files/outlook-2013-not-find-pst-file.md",
+      "redirect_url": "/previous-versions/troubleshoot/outlook/outlook-2013-not-find-pst-file",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/data-files/file-size-limits-of-pst-and-ost-files-are-larger.md",
+      "redirect_url": "/previous-versions/troubleshoot/outlook/file-size-limits-of-pst-and-ost-files-are-larger",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/data-files/how-to-manage-pst-files.md",
+      "redirect_url": "/previous-versions/troubleshoot/outlook/how-to-manage-pst-files",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/data-files/new-outlook-data-file-is-created-default-adding-pop3-account.md",
+      "redirect_url": "/previous-versions/troubleshoot/outlook/new-outlook-data-file-is-created-default-adding-pop3-account",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/data-files/weird-folder-names-after-pst-migration.md",
+      "redirect_url": "/previous-versions/troubleshoot/outlook/weird-folder-names-after-pst-migration",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/data-files/mailbox-cleanup-wizard-not-start.md",
+      "redirect_url": "/previous-versions/troubleshoot/outlook/mailbox-cleanup-wizard-not-start",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/development/0x80040109-outlook-object-model-used-with-imap-account.md",
+      "redirect_url": "/previous-versions/troubleshoot/outlook/0x80040109-outlook-object-model-used-with-imap-account",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/development/advise-mapi-function-returns-0x8007000e.md",
+      "redirect_url": "/previous-versions/troubleshoot/outlook/advise-mapi-function-returns-0x8007000e",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/development/how-to-list-messages-in-inbox-with-mapi.md",
+      "redirect_url": "/previous-versions/troubleshoot/outlook/how-to-list-messages-in-inbox-with-mapi",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/development/how-to-use-outlook-object-library-to-get-message-from-inbox.md",
+      "redirect_url": "/previous-versions/troubleshoot/outlook/how-to-use-outlook-object-library-to-get-message-from-inbox",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/email-management/some-commands-not-available-when-using-quick-reply.md",
+      "redirect_url": "/previous-versions/troubleshoot/outlook/some-commands-not-available-when-using-quick-reply",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/email-management/empty-folder-command-deletes-only-a-subset-of-mailbox-items.md",
+      "redirect_url": "/previous-versions/troubleshoot/outlook/empty-folder-command-deletes-only-a-subset-of-mailbox-items",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/installation/error-send-file-from-application-through-email.md",
+      "redirect_url": "/previous-versions/troubleshoot/outlook/error-send-file-from-application-through-email",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/installation/outlook-2010-crashes-unexpectedly-at-startup.md",
+      "redirect_url": "/previous-versions/troubleshoot/outlook/outlook-2010-crashes-unexpectedly-at-startup",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/installation/no-default-mail-client-error-when-msicomponentid-is-wrong.md",
+      "redirect_url": "/previous-versions/troubleshoot/outlook/no-default-mail-client-error-when-msicomponentid-is-wrong",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/junk-email/blocked-senders-entries--are-missing-in-owa.md",
+      "redirect_url": "/previous-versions/troubleshoot/outlook/blocked-senders-entries--are-missing-in-owa",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/junk-email/junk-email-setting-not-synchronized.md",
+      "redirect_url": "/previous-versions/troubleshoot/outlook/junk-email-setting-not-synchronized",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/junk-email/outlook-moves-messages-to-the-junk-mail-folder-unexpectedly.md",
+      "redirect_url": "/previous-versions/troubleshoot/outlook/outlook-moves-messages-to-the-junk-mail-folder-unexpectedly",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/message-body/attachments-issues-outlook.md",
+      "redirect_url": "/previous-versions/troubleshoot/outlook/attachments-issues-outlook",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/message-body/outside-messages-not-include-email-signature.md",
+      "redirect_url": "/previous-versions/troubleshoot/outlook/outside-messages-not-include-email-signature",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/message-body/pictures-not-displayed-and-shown-as-red-x.md",
+      "redirect_url": "/previous-versions/troubleshoot/outlook/pictures-not-displayed-and-shown-as-red-x",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/message-body/image-in-html-formatted-email-not-displayed.md",
+      "redirect_url": "/previous-versions/troubleshoot/outlook/image-in-html-formatted-email-not-displayed",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/message-body/yu-gothic-font-characters-displayed-incorrectly.md",
+      "redirect_url": "/previous-versions/troubleshoot/outlook/yu-gothic-font-characters-displayed-incorrectly",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/performance/wait-while-windows-configures-office-outlook.md",
+      "redirect_url": "/previous-versions/troubleshoot/outlook/wait-while-windows-configures-office-outlook",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/performance/autodiscover-fails-with-error-0x80004005-0x8004010F.md",
+      "redirect_url": "/previous-versions/troubleshoot/outlook/autodiscover-fails-with-error-0x80004005-0x8004010F",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/performance/cannot-open-this-item-error.md",
+      "redirect_url": "/previous-versions/troubleshoot/outlook/cannot-open-this-item-error",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/performance/errors-when-opening-documents-or-starting-outlook.md",
+      "redirect_url": "/previous-versions/troubleshoot/outlook/errors-when-opening-documents-or-starting-outlook",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/performance/event-id-27-calendar-folder-property-is-missing.md",
+      "redirect_url": "/previous-versions/troubleshoot/outlook/event-id-27-calendar-folder-property-is-missing",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/performance/event-9646-opening-mapi-sessions.md",
+      "redirect_url": "/previous-versions/troubleshoot/outlook/event-9646-opening-mapi-sessions",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/performance/insufficient-memory-errors-when-expanding-mailbox-or-public-folder.md",
+      "redirect_url": "/previous-versions/troubleshoot/outlook/insufficient-memory-errors-when-expanding-mailbox-or-public-folder",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/performance/office-program-crashes-caused-by-add-in.md",
+      "redirect_url": "/previous-versions/troubleshoot/outlook/office-program-crashes-caused-by-add-in",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/performance/office-program-errors-when-disablethemes-configured.md",
+      "redirect_url": "/previous-versions/troubleshoot/outlook/office-program-errors-when-disablethemes-configured",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/performance/outlook-can-not-be-started-error.md",
+      "redirect_url": "/previous-versions/troubleshoot/outlook/outlook-can-not-be-started-error",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/performance/outlook-2013-crashes-in-kernelbase-dll.md",
+      "redirect_url": "/previous-versions/troubleshoot/outlook/outlook-2013-crashes-in-kernelbase-dll",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/performance/performance-issues-in-cached-mode-on-citrix-virtual-desktop.md",
+      "redirect_url": "/previous-versions/troubleshoot/outlook/performance-issues-in-cached-mode-on-citrix-virtual-desktop",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/performance/outlook-stops-at-the-loading-profile-screen.md",
+      "redirect_url": "/previous-versions/troubleshoot/outlook/outlook-stops-at-the-loading-profile-screen",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/performance/unsupported-folder-class-error-when-outlook-starts.md",
+      "redirect_url": "/previous-versions/troubleshoot/outlook/unsupported-folder-class-error-when-outlook-starts",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/profiles-and-accounts/access-is-denied-when-accessing-outlook-public-folder.md",
+      "redirect_url": "/previous-versions/troubleshoot/outlook/access-is-denied-when-accessing-outlook-public-folder",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/profiles-and-accounts/error-copy-appointment-to-outlook-com-folder.md",
+      "redirect_url": "/previous-versions/troubleshoot/outlook/error-copy-appointment-to-outlook-com-folder",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/profiles-and-accounts/contact-and-calendar-items-lost.md",
+      "redirect_url": "/previous-versions/troubleshoot/outlook/contact-and-calendar-items-lost",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/profiles-and-accounts/contents-of-public-folder-favorites-folder-not-removed.md",
+      "redirect_url": "/previous-versions/troubleshoot/outlook/contents-of-public-folder-favorites-folder-not-removed",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/profiles-and-accounts/eas-not-synchronizing-some-outlook-contact-information.md",
+      "redirect_url": "/previous-versions/troubleshoot/outlook/eas-not-synchronizing-some-outlook-contact-information",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/profiles-and-accounts/outlook-exchange-dialog-not-include-connection-tab.md",
+      "redirect_url": "/previous-versions/troubleshoot/outlook/outlook-exchange-dialog-not-include-connection-tab",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/profiles-and-accounts/starting-outlook-displays-error.md",
+      "redirect_url": "/previous-versions/troubleshoot/outlook/starting-outlook-displays-error",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/profiles-and-accounts/refresh-your-pc-without-affecting-your-file-deletes-profile.md",
+      "redirect_url": "/previous-versions/troubleshoot/outlook/refresh-your-pc-without-affecting-your-file-deletes-profile",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/security/programmatic-security-settings-for-simple-mapi-cannot-be-set.md",
+      "redirect_url": "/previous-versions/troubleshoot/outlook/programmatic-security-settings-for-simple-mapi-cannot-be-set",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/security/office-document-attachments-open-in-protected-view.md",
+      "redirect_url": "/previous-versions/troubleshoot/outlook/office-document-attachments-open-in-protected-view",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/security/how-to-turn-off-email-matching-for-certificates.md",
+      "redirect_url": "/previous-versions/troubleshoot/outlook/how-to-turn-off-email-matching-for-certificates",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/security/no-buttons-to-sign-or-encrypt-emails.md",
+      "redirect_url": "/previous-versions/troubleshoot/outlook/no-buttons-to-sign-or-encrypt-emails",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/user-interface/addins-are-registered-under-wow6432node.md",
+      "redirect_url": "/previous-versions/troubleshoot/outlook/addins-are-registered-under-wow6432node",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/user-interface/apps-for-outlook-2013-do-not-activate-as-expected.md",
+      "redirect_url": "/previous-versions/troubleshoot/outlook/apps-for-outlook-2013-do-not-activate-as-expected",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/user-interface/attendee-presence-not-updated-in-scheduling-assistant.md",
+      "redirect_url": "/previous-versions/troubleshoot/outlook/attendee-presence-not-updated-in-scheduling-assistant",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/user-interface/empty-email-body-esetnod32-4x-installed.md",
+      "redirect_url": "/previous-versions/troubleshoot/outlook/empty-email-body-esetnod32-4x-installed",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/user-interface/cannot-map-custom-fields.md",
+      "redirect_url": "/previous-versions/troubleshoot/outlook/cannot-map-custom-fields",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/user-interface/cannot-open-outlook-items-from-windows-search-results.md",
+      "redirect_url": "/previous-versions/troubleshoot/outlook/cannot-open-outlook-items-from-windows-search-results",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/user-interface/cannot-do-instant-searches.md",
+      "redirect_url": "/previous-versions/troubleshoot/outlook/cannot-do-instant-searches",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/user-interface/attachment-file-name-unreadable.md",
+      "redirect_url": "/previous-versions/troubleshoot/outlook/attachment-file-name-unreadable",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/user-interface/email-desktop-alerts-not-displayed.md",
+      "redirect_url": "/previous-versions/troubleshoot/outlook/email-desktop-alerts-not-displayed",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/user-interface/cannot-preview-word-documents-in-outlook-2013.md",
+      "redirect_url": "/previous-versions/troubleshoot/outlook/cannot-preview-word-documents-in-outlook-2013",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/user-interface/applications-incompatible-c2r-outlook.md",
+      "redirect_url": "/previous-versions/troubleshoot/outlook/applications-incompatible-c2r-outlook",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/user-interface/how-to-determine-outlook-version-information.md",
+      "redirect_url": "/previous-versions/troubleshoot/outlook/how-to-determine-outlook-version-information",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/user-interface/how-to-enable-add-in-for-business-contact-manager.md",
+      "redirect_url": "/previous-versions/troubleshoot/outlook/how-to-enable-add-in-for-business-contact-manager",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/user-interface/icloud-crashes-sync-data.md",
+      "redirect_url": "/previous-versions/troubleshoot/outlook/icloud-crashes-sync-data",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/user-interface/images-and-tables-are-missing-in-meeting-requests.md",
+      "redirect_url": "/previous-versions/troubleshoot/outlook/images-and-tables-are-missing-in-meeting-requests",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/user-interface/inline-image-in-email-displayed-as-attachment.md",
+      "redirect_url": "/previous-versions/troubleshoot/outlook/inline-image-in-email-displayed-as-attachment",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/user-interface/known-issues-using-object-model.md",
+      "redirect_url": "/previous-versions/troubleshoot/outlook/known-issues-using-object-model",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/user-interface/lync-meeting-control-not-displayed.md",
+      "redirect_url": "/previous-versions/troubleshoot/outlook/lync-meeting-control-not-displayed",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/user-interface/mapi-apps-cannot-access-archive-mailboxes.md",
+      "redirect_url": "/previous-versions/troubleshoot/outlook/mapi-apps-cannot-access-archive-mailboxes",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/user-interface/custom-mapi-solutions-not-working.md",
+      "redirect_url": "/previous-versions/troubleshoot/outlook/custom-mapi-solutions-not-working",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/profiles-and-accounts/unexpected-autodiscover-behavior.md",
+      "redirect_url": "/previous-versions/troubleshoot/outlook/unexpected-autodiscover-behavior",
+      "redirect_document_id": false
+    },
   ]
 }
