@@ -5659,5 +5659,10 @@
       "redirect_url": "/previous-versions/troubleshoot/outlook/unexpected-autodiscover-behavior",
       "redirect_document_id": false
     },
+    {
+      "source_path": "Viva/Glint/tenant-provisioning-and-licensing/tenant-provisioning-licensing-errors.md",
+      "redirect_url": "/Viva/troubleshoot/provisioning-and-licensing/tenant-provisioning-licensing-errors",
+      "redirect_document_id": false
+    }    
   ]
 }
