@@ -5663,6 +5663,11 @@
       "source_path": "Viva/Glint/tenant-provisioning-and-licensing/tenant-provisioning-licensing-errors.md",
       "redirect_url": "/Viva/troubleshoot/provisioning-and-licensing/tenant-provisioning-licensing-errors",
       "redirect_document_id": false
-    }    
+    },
+    {
+      "source_path": "Teams/teams-conferencing/no-dial-pad.md",
+      "redirect_url": "/microsoftteams/dial-pad-configuration",
+      "redirect_document_id": false
+    }
   ]
 }
