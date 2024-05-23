@@ -5677,7 +5677,7 @@
     {
       "source_path": "Microsoft365/security/antispam/sender-rewriting-scheme.md",
       "redirect_url": "/exchange/reference/sender-rewriting-scheme",
-      "redirect_document_id": true
+      "redirect_document_id": false
     }
   ]
 }
