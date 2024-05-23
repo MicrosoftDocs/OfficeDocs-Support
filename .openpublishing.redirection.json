@@ -5668,6 +5668,11 @@
       "source_path": "Teams/teams-conferencing/no-dial-pad.md",
       "redirect_url": "/microsoftteams/dial-pad-configuration",
       "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/contacts/contacts-with-both-email-address-and-fax-number-listed-twice.md",
+      "redirect_url": "https://support.office.com/article/75ab94eb-709e-47ee-a0c1-6caaf0c6872d",
+      "redirect_document_id": false
     }
   ]
 }
