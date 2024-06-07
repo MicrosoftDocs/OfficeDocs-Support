@@ -5688,6 +5688,26 @@
       "source_path": "Exchange/ExchangeOnline/email-delivery/inbox-rule-to-forward-messages-not-work.md",
       "redirect_url": "/previous-versions/troubleshoot/content-retirement",
       "redirect_document_id": false
+    },
+    {
+      "source_path": "Viva/Connections/cant-find-app-in-teams-mobile.md",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Viva/Connections/cant-update-app-details.md",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Viva/Connections/cant-upload-package.md",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Viva/Connections/error-accessing-app-from-teams-desktop.md",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement",
+      "redirect_document_id": false
     }
   ]
 }
