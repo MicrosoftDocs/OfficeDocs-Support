@@ -3760,6 +3760,11 @@
       "redirect_document_id": true
     },
     {
+      "source_path": "Teams/teams-sign-in/resolve-new-teams-launch-issues.md",
+      "redirect_url": "/microsoftteams/troubleshoot/teams-administration/resolve-new-teams-launch-issues",
+      "redirect_document_id": true
+    },    
+    {
       "source_path": "Teams/known-issues/removed-user-appears-as-unknown.md",
       "redirect_url": "/previous-versions/troubleshoot/content-retirement",
       "redirect_document_id": false
@@ -5677,6 +5682,36 @@
     {
       "source_path": "Microsoft365/security/antispam/sender-rewriting-scheme.md",
       "redirect_url": "/exchange/reference/sender-rewriting-scheme",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/email-delivery/inbox-redirect-rule-not-working.md",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/email-delivery/inbox-rule-to-forward-messages-not-work.md",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Viva/Connections/cant-find-app-in-teams-mobile.md",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Viva/Connections/cant-update-app-details.md",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Viva/Connections/cant-upload-package.md",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Viva/Connections/error-accessing-app-from-teams-desktop.md",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement",
       "redirect_document_id": false
     }
   ]
