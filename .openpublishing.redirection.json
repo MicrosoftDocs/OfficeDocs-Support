@@ -1458,7 +1458,7 @@
     {
       "source_path": "Office/Client/error-messages/cannot-be-opened-error-when-start.md",
       "redirect_url": "/office/troubleshoot/office-suite-issues/cannot-be-opened-error-when-start",
-      "redirect_document_id": true
+      "redirect_document_id": false
     },
     {
       "source_path": "Office/Client/error-messages/cannot-locate-server-when-click-hyperlink.md",
@@ -1588,7 +1588,7 @@
     {
       "source_path": "Office/Client/error-messages/single-byte-font-replace-error.md",
       "redirect_url": "/office/troubleshoot/office-suite-issues/single-byte-font-replace-error",
-      "redirect_document_id": true
+      "redirect_document_id": false
     },
     {
       "source_path": "Office/Client/error-messages/this-file-cant-be-previewed.md",
@@ -1803,7 +1803,7 @@
     {
       "source_path": "Office/Client/office/rms-protected-files-crash.md",
       "redirect_url": "/office/troubleshoot/office-suite-issues/rms-protected-files-crash",
-      "redirect_document_id": true
+      "redirect_document_id": false
     },
     {
       "source_path": "Office/Client/office/saving-file-to-network-server-slow.md",
@@ -5926,6 +5926,66 @@
     },
     {
       "source_path": "Office/Client/office-suite-issues/prevent-office-from-disabling-printers.md",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/excel/legacy-uml-features-missing.md",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/excel/com-add-ins-not-displayed.md",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/office-suite-issues/single-byte-font-replace-error.md",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/access/access-2010-crashes.md",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/access/error-80004005-connecting-access-database.md",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/office-suite-issues/cannot-be-opened-error-when-start.md",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/excel/f4-keyboard-shortcut-not-work.md",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/excel/use-startup-folders.md",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/excel/not-recognize-data-as-date-type-data.md",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/excel/arrays-limitations.md",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/office-suite-issues/rms-protected-files-crash.md",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/access/register-activex-controls.md",
       "redirect_url": "/previous-versions/troubleshoot/content-retirement",
       "redirect_document_id": false
     }
