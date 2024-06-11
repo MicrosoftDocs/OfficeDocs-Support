@@ -1458,7 +1458,7 @@
     {
       "source_path": "Office/Client/error-messages/cannot-be-opened-error-when-start.md",
       "redirect_url": "/office/troubleshoot/office-suite-issues/cannot-be-opened-error-when-start",
-      "redirect_document_id": true
+      "redirect_document_id": false
     },
     {
       "source_path": "Office/Client/error-messages/cannot-locate-server-when-click-hyperlink.md",
@@ -1588,7 +1588,7 @@
     {
       "source_path": "Office/Client/error-messages/single-byte-font-replace-error.md",
       "redirect_url": "/office/troubleshoot/office-suite-issues/single-byte-font-replace-error",
-      "redirect_document_id": true
+      "redirect_document_id": false
     },
     {
       "source_path": "Office/Client/error-messages/this-file-cant-be-previewed.md",
@@ -1803,7 +1803,7 @@
     {
       "source_path": "Office/Client/office/rms-protected-files-crash.md",
       "redirect_url": "/office/troubleshoot/office-suite-issues/rms-protected-files-crash",
-      "redirect_document_id": true
+      "redirect_document_id": false
     },
     {
       "source_path": "Office/Client/office/saving-file-to-network-server-slow.md",
@@ -5711,6 +5711,281 @@
     },
     {
       "source_path": "Viva/Connections/error-accessing-app-from-teams-desktop.md",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/excel/workbooks-not-open.md",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/activation/something-configured-fails-activating-office.md",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/access/incorrect-firstday-property-value.md",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/office-suite-issues/incorrect-function-saving-office-file.md",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/excel/workbook-not-activated.md",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/office-suite-issues/win32api_ptrsafe-with-64-bit-support.md",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/excel/statistical-functions-intercept.md",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/excel/connection-to-odbc-driver-fails.md",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/excel/autorecover-functions-in-excel.md",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/office-suite-issues/cant-install-office-on-windows-8.md",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/excel/team-explorer-export-fails.md",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/office-suite-issues/connect-to-network-document-lost.md",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/office-suite-issues/generic-trust-failure-(0x800b010b)-error.md",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/excel/data-collected-by-excel-support-diagnostic.md",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/excel/cannot-create-pivottable.md",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/visio/cannot-search-shapes-feature.md",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/office-suite-issues/faq-about-office-activation-wizard.md",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/excel/excel-has-stopped-working-error.md",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/access/export-fields-data-type.md",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/excel/statistical-functions-logest.md",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/activation/office-2010-product-key-change-error.md",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/OfficeExperts/excel/excel-online-pivottable-operation-failed.md",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/office-suite-issues/determine-retail-volume-license.md",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/office-suite-issues/fails-running-office-customization-tool.md",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/excel/excel-takes-long-time-to-insert-delete-rows.md",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/excel/file-updated-without-user-interaction.md",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/installation/office-installation-failure.md",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/excel/excel-2016-for-mac-crashes.md",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/excel/connection-failed-to-refresh.md",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/access/error-run-query-in-access.md",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/office-suite-issues/office-click-to-run-installation.md",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/office-suite-issues/office-2013-installation-error.md",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/excel/hide-formula-error.md",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/office-suite-issues/change-number-of-recent-places.md",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/office-suite-issues/office-click-to-run-faq.md",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/office-suite-issues/error-25090-starting-office-program.md",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/excel/output-misleading-labels.md",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/office-suite-issues/convert-bibliography-to-static-text.md",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/excel/class-not-registered-error-pivotpoint.md",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/activation/cant-activate-on-new-computer.md",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/excel/query-update-data.md",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/excel/inquire-com-add-in-not-respond.md",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/office-suite-issues/prevent-office-from-disabling-printers.md",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/excel/legacy-uml-features-missing.md",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/excel/com-add-ins-not-displayed.md",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/office-suite-issues/single-byte-font-replace-error.md",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/access/access-2010-crashes.md",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/access/error-80004005-connecting-access-database.md",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/office-suite-issues/cannot-be-opened-error-when-start.md",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/excel/f4-keyboard-shortcut-not-work.md",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/excel/use-startup-folders.md",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/excel/not-recognize-data-as-date-type-data.md",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/excel/arrays-limitations.md",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/office-suite-issues/rms-protected-files-crash.md",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/access/register-activex-controls.md",
       "redirect_url": "/previous-versions/troubleshoot/content-retirement",
       "redirect_document_id": false
     }
