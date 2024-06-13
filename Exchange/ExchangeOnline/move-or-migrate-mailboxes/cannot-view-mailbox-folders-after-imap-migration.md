@@ -39,7 +39,7 @@ You can't view one or more folders in a user's mailbox on a Microsoft Exchange A
 This issue occurs if the folders in the Exchange mailbox were created by using an unrecognized class of type `IPF.Imap`. An analysis of the folder properties shows the following results:
 
 ```console
-<property tag = "0x3613001E" type = "PT_STRING8">
+<property tag = "0x3613001F" type = "PT_STRING8">
 <ExactNames>PR_CONTAINER_CLASS, PR_CONTAINER_CLASS_A, ptagContainerClass</ExactNames>
 <PartialNames>PR_CONTAINER_CLASS_W, PidTagContainerClass</PartialNames>
 <Value><![CDATA[IPF.Imap]]></Value>
@@ -62,7 +62,7 @@ Use Microsoft Exchange Server MAPI Editor (MFCMAPI) to change the `PR_CONTAINER_
 6. Double-click the mailbox to open it.
 7. Expand the **Root** container, expand **Top of Information Store**, and then locate the missing folder.
 8. Select the folder that's missing from the Exchange ActiveSync client to view the properties.
-9. Double-click the property that contains the tag value **0x3613001E**.
+9. Double-click the property that contains the tag value **0x3613001F**.
 10. Change the value from **IPF.Imap** to the appropriate class. (For example, change the value to **IPF.Note** for an email folder.)
 11. Exit MFCMAPI.
 12. Create a profile on the Exchange ActiveSync client.
