@@ -4795,6 +4795,11 @@
       "redirect_document_id": true
     },
     {
+      "source_path": "Viva/Glint/data-file-upload/file-upload-errors-warnings.md",
+      "redirect_url": "/viva/troubleshoot/glint/data-file-upload/fix-upload-invalid-unexpected-values-errors",
+      "redirect_document_id": true
+    },
+    {
       "source_path": "Teams/teams-conferencing/following-application-instance-not-present-error.md",
       "redirect_url": "/MicrosoftTeams/troubleshoot/teams-administration/following-application-instance-not-present-error",
       "redirect_document_id": true
