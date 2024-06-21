@@ -4787,7 +4787,7 @@
     {
       "source_path": "Viva/Glint/fix-manager-hierarchy-circular-reporting.md",
       "redirect_url": "/viva/troubleshoot/glint/data-file-upload/fix-upload-derivation-errors",
-      "redirect_document_id": true
+      "redirect_document_id": false
     },
     {
       "source_path": "Viva/Glint/data-file-upload/fix-manager-hierarchy-circular-reporting.md",
@@ -5672,7 +5672,7 @@
     {
       "source_path": "Viva/Glint/tenant-provisioning-and-licensing/tenant-provisioning-licensing-errors.md",
       "redirect_url": "/Viva/troubleshoot/provisioning-and-licensing/tenant-provisioning-licensing-errors",
-      "redirect_document_id": true
+      "redirect_document_id": false
     },
     {
       "source_path": "Teams/teams-conferencing/no-dial-pad.md",
