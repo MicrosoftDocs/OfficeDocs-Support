@@ -4795,6 +4795,11 @@
       "redirect_document_id": true
     },
     {
+      "source_path": "Viva/Glint/data-file-upload/file-upload-errors-warnings.md",
+      "redirect_url": "/viva/troubleshoot/glint/data-file-upload/fix-upload-invalid-unexpected-values-warnings",
+      "redirect_document_id": true
+    },
+    {
       "source_path": "Teams/teams-conferencing/following-application-instance-not-present-error.md",
       "redirect_url": "/MicrosoftTeams/troubleshoot/teams-administration/following-application-instance-not-present-error",
       "redirect_document_id": true
@@ -6091,6 +6096,51 @@
     },
     {
       "source_path": "Office/Client/installation/windows-installer-service-not-be-accessed.md",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Microsoft365/compliance/archive-mailboxes/cannot-view-items.md",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Microsoft365/compliance/data-loss-prevention/data-loss-prevention-tips.md",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Microsoft365/compliance/data-loss-prevention/dlp-tips-not-work.md",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Microsoft365/compliance/ediscovery/cannot-search-inactive-mailboxes.md",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Microsoft365/compliance/ediscovery/cannot-start-ediscovery-pst-export.md",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Microsoft365/compliance/ediscovery/ediscovery-results-export-fails.md",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Microsoft365/compliance/ediscovery/ediscovery-searches-are-queued-indefinitely.md",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Microsoft365/compliance/ediscovery/in-place-ediscovery-preview-not-available.md",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Microsoft365/compliance/holds/change-to-search-logic-for-title-property.md",
       "redirect_url": "/previous-versions/troubleshoot/content-retirement",
       "redirect_document_id": false
     }
