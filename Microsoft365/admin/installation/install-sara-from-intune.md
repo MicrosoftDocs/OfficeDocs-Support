@@ -77,7 +77,7 @@ For complete information about app deployment by using Microsoft Intune, see the
     
         Use the following program values for SaRA:
         - **Install command:** sarasetup.exe /q
-        - **Uninstall command:** rundll32.exe dfshim.dll,ShArpMaintain Microsoft.Sara.application, Culture=neutral, PublicKeyToken=1f16bd4ec4c2bb19, processorArchitecture=msil
+        - **Uninstall command:** rundll32.exe dfshim.dll,ShArpMaintain Microsoft.Sara.application, Culture=neutral, PublicKeyToken=58ba7f1f99ea0333, processorArchitecture=msil
         - **Install behavior:** User
  
         :::image type="content" source="media/install-sara-from-intune/program-setting.png" alt-text="Screenshot shows steps to use the program values in the Program settings.":::
@@ -101,13 +101,13 @@ For complete information about app deployment by using Microsoft Intune, see the
         1. For **Rule type**, select **Registry**.
  
             :::image type="content" source="media/install-sara-from-intune/rule-type-registry.png" alt-text="Screenshot to select the Registry option for Rule type.":::
+        
         1. Use the following values for the **Detection rule** settings:
             - **Rule type**: Registry
-            - **Key path**: Computer\HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Uninstall\339020b868450372
-            - **Value name**: SaraInstalled
-            - **Detection method**: Integer comparison
+            - **Key path**: Computer\HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Uninstall\85d933e50fd6cac2
+            - **Value name**: <blank>
+            - **Detection method**: Key Exist
             - **Operator**: Equals
-            - **Value**: 1
  
             :::image type="content" source="media/install-sara-from-intune/detection-rule-setting.png" alt-text="Screenshot to enter the values for the Detection rule settings.":::
     10.	For **Dependencies**, select **Next** without adding any dependencies.
