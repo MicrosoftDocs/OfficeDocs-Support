@@ -6143,6 +6143,11 @@
       "source_path": "Microsoft365/compliance/holds/change-to-search-logic-for-title-property.md",
       "redirect_url": "/previous-versions/troubleshoot/content-retirement",
       "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/profiles-and-accounts/troubleshoot-exchange-online-archive-mailbox-not-shown.md",
+      "redirect_url": "/exchange/troubleshoot/outlook-on-the-web-issues/archive-mailbox-not-visible",
+      "redirect_document_id": false
     }
   ]
 }
