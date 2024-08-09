@@ -39,6 +39,8 @@ In this scenario, when you open the meeting that you scheduled from the Calendar
 
 Additionally, if you enabled the **Update tracking information, and then delete responses** option in Outlook, the meeting responses are not deleted as expected.
 
+Another scenario is in classic Outlook when an attendee responds with **Send the Response Now**. The workaround is to have the attendee look at the Tracking tab in their own Outlook client.
+
 ## Cause
 
 The meeting responses are being processed by another client, device, or third-party application. These may include, but are not limited to, the following.
