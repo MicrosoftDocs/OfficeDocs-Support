@@ -6148,6 +6148,11 @@
       "source_path": "Outlook/Client/profiles-and-accounts/troubleshoot-exchange-online-archive-mailbox-not-shown.md",
       "redirect_url": "/exchange/troubleshoot/outlook-on-the-web-issues/archive-mailbox-not-visible",
       "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/project/error-accessing-project-web-app.md",
+      "redirect_url": "/office/troubleshoot/project/error-when-access-pwa",
+      "redirect_document_id": true
     }
   ]
 }
