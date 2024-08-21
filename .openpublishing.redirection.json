@@ -6153,6 +6153,11 @@
       "source_path": "Office/Client/project/error-accessing-project-web-app.md",
       "redirect_url": "/office/troubleshoot/project/error-when-access-pwa",
       "redirect_document_id": true
+    },
+    {
+      "source_path": "Outlook/Client/profiles-and-accounts/cannot-set-up-office-365-account-outlook.md",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement",
+      "redirect_document_id": false
     }
   ]
 }
