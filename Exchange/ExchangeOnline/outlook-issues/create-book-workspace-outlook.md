@@ -51,10 +51,17 @@ Creating a workspace is similar to configuring a room. The difference is that yo
 
     **Note**:  
     In hybrid environments, this cmdlet doesn't work on the following properties of synchronized room mailboxes: **City**, **CountryOrRegion**, **GeoCoordinates**, **Phone**, **PostalCode**, **State**, and **Street**. To modify these properties, use the `Set-User` or `Set-Mailbox` cmdlet in Exchange Server (on-premises).
-3. To show a workspace in a particular building, add the workspace to an appropriate room list (distribution group):
+
+3. To show a workspace in a specific building, create a room list (distribution group):
 
     ```powershell
-    Add-DistributionGroupMember -Identity "Building 32" -Member <wkspace3223@contoso.com>  
+    New-DistributionGroup -Name "Building 32" -Members wkspace3223@contoso.com, wkpsace3224@contoso.com -RoomList
+    ```
+
+    Alternatetly, add the workspace to an existing room list (distribution group):
+
+    ```powershell
+    Add-DistributionGroupMember -Identity "Building 32" -Member wkspace3223@contoso.com  
     ```
 
 4. Enforce the workspace capacity, and specify a minimum reservation duration for workspace booking.
