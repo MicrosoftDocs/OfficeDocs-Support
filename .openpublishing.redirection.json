@@ -6158,6 +6158,11 @@
       "source_path": "Outlook/Client/profiles-and-accounts/cannot-set-up-office-365-account-outlook.md",
       "redirect_url": "/previous-versions/troubleshoot/content-retirement",
       "redirect_document_id": false
+    },
+    {
+      "source_path": "Microsoft365/admin/diagnostic-logs/run-fiddler-trace.md",
+      "redirect_url": "https://support.microsoft.com/topic/52569f20-5e04-4da3-9ef0-c8d07bb54b04",
+      "redirect_document_id": false
     }
   ]
 }
