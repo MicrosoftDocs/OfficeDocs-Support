@@ -561,7 +561,7 @@
       "redirect_document_id": true
     },
     {
-      "source_path": "/Microsoft365/admin/sign-in/determine-account-is-compromised.md",
+      "source_path": "Microsoft365/admin/sign-in/determine-account-is-compromised.md",
       "redirect_url": "/defender-office-365/responding-to-a-compromised-email-account",
       "redirect_document_id": false
     },
