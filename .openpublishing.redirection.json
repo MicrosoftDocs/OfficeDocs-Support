@@ -6168,6 +6168,21 @@
       "source_path": "Microsoft365/admin/diagnostic-logs/run-fiddler-trace.md",
       "redirect_url": "https://support.microsoft.com/topic/52569f20-5e04-4da3-9ef0-c8d07bb54b04",
       "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/email-delivery/ndr/fix-error-code-5-1-8-in-exchange-online.md",
+      "redirect_url": "https://support.microsoft.com/topic/e323f21d-4460-4be1-999c-c9c0cc6be4b4",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/email-delivery/ndr/fix-error-code-550-5-4-1-in-exchange-online.md",
+      "redirect_url": "https://support.microsoft.com/topic/c0e98a8e-81db-49c2-9bf1-32a1734d3e77",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/email-delivery/ndr/fix-error-code-5-7-700-through-5-7-750.md",
+      "redirect_url": "https://support.microsoft.com/topic/f5675801-1846-4d1c-9599-5b4e26a9175d",
+      "redirect_document_id": false
     }
   ]
 }
