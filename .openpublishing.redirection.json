@@ -6183,6 +6183,16 @@
       "source_path": "Exchange/ExchangeOnline/email-delivery/ndr/fix-error-code-5-7-700-through-5-7-750.md",
       "redirect_url": "https://support.microsoft.com/topic/f5675801-1846-4d1c-9599-5b4e26a9175d",
       "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/calendars/get-calendar-diagnostic-logs.md",
+      "redirect_url": "/exchange/troubleshoot/calendars/cdl/get-calendar-diagnostic-logs",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/calendars/analyze-calendar-diagnostic-logs.md",
+      "redirect_url": "/exchange/troubleshoot/calendars/cdl/analyze-calendar-diagnostic-logs",
+      "redirect_document_id": true
     }
   ]
 }
